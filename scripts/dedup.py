@@ -223,6 +223,9 @@ def report(records: list[Record], focus: set[str]) -> str:
     by_record: dict[str, list[Flag]] = defaultdict(list)
     for flag in found:
         by_record[flag.record.path].append(flag)
+        # Two changed records near each other are each the other's neighbour.
+        if flag.neighbour.path in focus:
+            by_record[flag.neighbour.path].append(Flag(flag.neighbour, flag.record, flag.metres, flag.rule, flag.note))
     lines = ["## Possible duplicates", ""]
     checked = sorted(path for path in focus if any(record.path == path for record in records))
     if not checked:

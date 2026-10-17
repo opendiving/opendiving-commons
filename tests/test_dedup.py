@@ -145,3 +145,13 @@ class TestTheReport:
 
         assert "Too many changed records" in text
         assert "###" not in text
+
+
+def test_two_changed_records_near_each_other_each_list_the_other():
+    a = _site("Blue Hole", path="sites/opendivingcommons/a.geojson")
+    b = _site("Blue Hole", 100, path="sites/opendivingcommons/b.geojson")
+
+    text = dedup.report([a, b], {a.path, b.path})
+
+    assert "2 with a neighbour" in text
+    assert "No existing record nearby" not in text
