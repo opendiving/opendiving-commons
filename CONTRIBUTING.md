@@ -81,7 +81,8 @@ description.
   possible-duplicates report from `scripts/dedup.py` into the job summary: the existing records near
   each changed one, with distances and a map link. That report never fails the job.
 - **`tests`** runs the `pytest` suite when the pull request touches `scripts/`, `tests/`,
-  `requirements.txt` or the workflow. It is not required, so a contribution never waits on it.
+  `requirements.txt`, the workflow, or a seed under `sites/openstreetmap/` or `sites/wikidata/`. It
+  is not required, and a contribution never triggers it.
 
 `.github/workflows/pr-title.yml` checks the title. A pull request that changes only files under
 `sites/` passes with whatever title its author wrote. Every other pull request needs a semantic
@@ -106,6 +107,10 @@ it runs the fork's own copy of the workflow and the scripts, so:
 its registry entries to the survivor's `external_ids`, together with
 `{"registry": "opendivingcommons", "identifier": "<the absorbed uuid>"}`, so that a diver holding
 the absorbed record still finds the survivor.
+
+**Deleting a seed** — the absorbed half of a merge, or a takedown — lowers `SEED_RECORDS` in
+`tests/test_sites.py` in the same pull request. The suite pins the seed count, and the `tests` job
+runs on any change to a seed so that a stale pin fails there, not in somebody else's pull request.
 
 **Coarsening a position** for a sensitive site means rounding its coordinates in place. A later
 refresh of the seed leaves an edited record alone.
