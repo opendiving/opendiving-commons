@@ -1,0 +1,2 @@
+divejson==0.29.0
+pytest==9.1.1
