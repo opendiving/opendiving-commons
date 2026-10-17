@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.537598,
+      28.572083
+    ]
+  },
+  "properties": {
+    "uuid": "83881013-ea5c-5826-b6b4-f48b38197d8e",
+    "name": "Saddle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5061967231"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

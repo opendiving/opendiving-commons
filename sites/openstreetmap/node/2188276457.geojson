@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.658976,
+      9.257311
+    ]
+  },
+  "properties": {
+    "uuid": "1b09358e-2117-59df-a540-456c55ad4053",
+    "name": "White Island Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2188276457"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

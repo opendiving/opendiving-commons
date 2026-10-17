@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.821733,
+      -34.290517
+    ]
+  },
+  "properties": {
+    "uuid": "08477052-f2df-5e3e-bc47-a533c3375be3",
+    "name": "Kruis",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213786"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.7333,
+      24.45
+    ]
+  },
+  "properties": {
+    "uuid": "e84280df-873b-58c1-b7bc-fc1c6fc9a890",
+    "name": "USNS General Hoyt S. Vandenberg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869444"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

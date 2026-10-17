@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.28828,
+      47.11466
+    ]
+  },
+  "properties": {
+    "uuid": "84b3df66-9dcf-5a59-b6d3-e86dd6e4a583",
+    "name": "Bommerstein Hafen Ost",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870410"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

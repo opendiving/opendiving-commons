@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.159117,
+      38.644004
+    ]
+  },
+  "properties": {
+    "uuid": "57520919-11f9-5dbd-969b-7141a42e3c3c",
+    "name": "Nautilus-SUB",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13723222423"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

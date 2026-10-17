@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.129263,
+      53.700037
+    ]
+  },
+  "properties": {
+    "uuid": "317e7cd9-df03-5dad-b7b7-fca337d17cb6",
+    "name": "Plattform 4,5m",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577336"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

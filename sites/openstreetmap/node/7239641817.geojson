@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.608034,
+      3.99994
+    ]
+  },
+  "properties": {
+    "uuid": "96125949-290d-530a-90da-82e253b48d7c",
+    "name": "La Pared del Águila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239641817"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.659109,
+      -0.565852
+    ]
+  },
+  "properties": {
+    "uuid": "6627950d-9dcf-56d9-a1bb-4813418a61ea",
+    "name": "Ransiwor",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167303501"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

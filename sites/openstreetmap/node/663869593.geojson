@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.013889,
+      50.7425
+    ]
+  },
+  "properties": {
+    "uuid": "a911ce95-ad0a-5240-a988-f1586e66ac90",
+    "name": "City of Brisbane",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869593"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

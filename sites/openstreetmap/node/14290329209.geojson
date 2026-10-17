@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.464827,
+      -6.442972
+    ]
+  },
+  "properties": {
+    "uuid": "6866a3cb-10ca-5b51-bb70-8afe07bb32bf",
+    "name": "Dive Horizons",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14290329209"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

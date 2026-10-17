@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.409715,
+      50.642831
+    ]
+  },
+  "properties": {
+    "uuid": "86820c27-d59c-584d-bc78-1fb2f8970c63",
+    "name": "Bank 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12050342728"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

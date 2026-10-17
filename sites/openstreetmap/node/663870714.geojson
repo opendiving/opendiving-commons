@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.341758,
+      46.705801
+    ]
+  },
+  "properties": {
+    "uuid": "6273f1eb-629b-5eb8-9516-f59aab84fe2d",
+    "name": "Weißensee - Große Steinwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870714"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

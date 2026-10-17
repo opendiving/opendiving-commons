@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.210824,
+      35.50832
+    ]
+  },
+  "properties": {
+    "uuid": "9766f54a-4a96-5304-91f4-8c61be32f1aa",
+    "name": "Karpathos Diving Center",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12219396665"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

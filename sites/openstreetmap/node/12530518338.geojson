@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.138166,
+      53.697935
+    ]
+  },
+  "properties": {
+    "uuid": "99019d8d-a592-55a7-a42e-81eebf7cb475",
+    "name": "Förderbandgestelle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518338"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

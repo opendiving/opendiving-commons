@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.484583,
+      -34.239583
+    ]
+  },
+  "properties": {
+    "uuid": "d8c3552a-9382-5e0f-a2b6-a53f877ce791",
+    "name": "North Pie Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42328905"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

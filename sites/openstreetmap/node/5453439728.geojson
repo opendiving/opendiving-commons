@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.290696,
+      -2.160643
+    ]
+  },
+  "properties": {
+    "uuid": "11e73871-290d-57ec-9b46-62a675bd2b6b",
+    "name": "Toblerone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439728"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

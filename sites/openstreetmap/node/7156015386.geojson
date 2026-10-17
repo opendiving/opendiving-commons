@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.721035,
+      3.881432
+    ]
+  },
+  "properties": {
+    "uuid": "debe26dc-c6a6-5855-8968-4e0f0b1ed794",
+    "name": "Moofushi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7156015386"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

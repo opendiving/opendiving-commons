@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.294924,
+      46.819533
+    ]
+  },
+  "properties": {
+    "uuid": "f7a1ca96-e5be-54db-8f16-8c19d45abfd2",
+    "name": "Lag la Cauma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870260"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

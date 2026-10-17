@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.97162,
+      29.418063
+    ]
+  },
+  "properties": {
+    "uuid": "2ebec558-c3f2-583d-a917-825569e80c2c",
+    "name": "Plane wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5522700738"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

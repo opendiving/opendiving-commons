@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.749833,
+      47.690516
+    ]
+  },
+  "properties": {
+    "uuid": "e6516238-63e9-550e-95fa-15902ce8d404",
+    "name": "Hafen-Kloster",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870362"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

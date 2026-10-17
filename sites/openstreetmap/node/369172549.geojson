@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.798666,
+      33.545025
+    ]
+  },
+  "properties": {
+    "uuid": "c833b0a8-a618-580c-84bf-8647927bd86d",
+    "name": "Shaws Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/369172549"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

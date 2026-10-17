@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.448238,
+      47.57178
+    ]
+  },
+  "properties": {
+    "uuid": "5526bcad-742a-5d80-8789-bf50f6185731",
+    "name": "Glenlyon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2171849465"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.818878,
+      16.95053
+    ]
+  },
+  "properties": {
+    "uuid": "32fa1034-3713-5e70-9cf1-53cf559a0c7b",
+    "name": "Flamingo Beach: Side Entry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/306100677"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.479933,
+      -34.26705
+    ]
+  },
+  "properties": {
+    "uuid": "ee44923b-0aad-5459-b789-20131058d722",
+    "name": "MFV Orotava",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213797"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

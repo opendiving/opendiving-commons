@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.72392,
+      47.72284
+    ]
+  },
+  "properties": {
+    "uuid": "f50c289b-678e-5c1b-a904-ae7f5d0f44e5",
+    "name": "Tegernsee - Bad Wiessee Yachtclub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870701"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

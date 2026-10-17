@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.223567,
+      43.197967
+    ]
+  },
+  "properties": {
+    "uuid": "202c425d-518b-53a1-b0d8-e05a6eeb2f28",
+    "name": "Arche du plannier",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549677986"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

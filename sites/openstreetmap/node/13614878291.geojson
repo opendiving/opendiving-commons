@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.452029,
+      35.819165
+    ]
+  },
+  "properties": {
+    "uuid": "d527216e-b0aa-5ee0-881e-9c5709be38a3",
+    "name": "Sikka Xellugija Żurrieq",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614878291"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Żurrieq - Left Reef"
+      }
+    }
+  }
+}

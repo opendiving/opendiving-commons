@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.664896,
+      46.532702
+    ]
+  },
+  "properties": {
+    "uuid": "435fa98c-ce79-5770-9160-6905e250405a",
+    "name": "Blausee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870011"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

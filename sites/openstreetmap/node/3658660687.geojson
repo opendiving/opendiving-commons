@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.532901,
+      43.213581
+    ]
+  },
+  "properties": {
+    "uuid": "0123b573-59df-5507-a2ac-15f220ca2427",
+    "name": "Émergence du Bestouan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3658660687"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.729904,
+      46.70382
+    ]
+  },
+  "properties": {
+    "uuid": "e361250e-1db5-5c6d-b8f9-706c21c49a1b",
+    "name": "Bäregg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845655443"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

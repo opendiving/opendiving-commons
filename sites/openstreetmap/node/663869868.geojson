@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.516587,
+      28.486668
+    ]
+  },
+  "properties": {
+    "uuid": "0aaa7470-7fa4-5739-a71a-92e105f29b01",
+    "name": "سنسبلاش هاوس ريف",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869868"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Sunsplash Housereef"
+      }
+    }
+  }
+}

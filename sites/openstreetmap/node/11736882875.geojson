@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.122969,
+      42.52163
+    ]
+  },
+  "properties": {
+    "uuid": "a6fe82c6-e88c-5e4f-aefa-166c4e41a63c",
+    "name": "Pythéas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11736882875"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

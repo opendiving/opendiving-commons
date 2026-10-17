@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.571902,
+      51.230142
+    ]
+  },
+  "properties": {
+    "uuid": "e59e5636-9710-5b0f-95ce-abf56f0cbc1c",
+    "name": "Ausbildungsplattform mit 1 Bojen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2510620355"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

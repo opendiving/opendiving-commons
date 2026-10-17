@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.497789,
+      20.634816
+    ]
+  },
+  "properties": {
+    "uuid": "0f2c0c6c-da6c-543d-b2c4-5b09e0cf8bec",
+    "name": "Reef's End",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3480273165"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

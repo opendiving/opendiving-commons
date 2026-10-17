@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.042969,
+      -8.346277
+    ]
+  },
+  "properties": {
+    "uuid": "e1e12a36-e41c-523b-975c-9969bec87f31",
+    "name": "Turtle snorkeling spot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5315497721"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

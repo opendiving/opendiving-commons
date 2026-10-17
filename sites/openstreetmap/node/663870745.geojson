@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5281,
+      47.797294
+    ]
+  },
+  "properties": {
+    "uuid": "d073091a-ff00-5040-818f-c2f9d6e08f26",
+    "name": "Attersee - Weißenbacheinlauf (Leitplanke)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870745"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

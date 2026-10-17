@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.415515,
+      4.590774
+    ]
+  },
+  "properties": {
+    "uuid": "146a8216-7fa5-5614-adf8-14a1fc34e536",
+    "name": "Entrence 128",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/786623671"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

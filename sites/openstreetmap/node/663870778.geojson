@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.165805,
+      47.791406
+    ]
+  },
+  "properties": {
+    "uuid": "2e3d6f03-f461-5bfe-aa79-e384d9b1c4bd",
+    "name": "Klauser See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870778"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

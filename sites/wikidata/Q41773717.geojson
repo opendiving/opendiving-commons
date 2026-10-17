@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.307,
+      -34.029333
+    ]
+  },
+  "properties": {
+    "uuid": "ea4fb3c5-84cd-5614-ace4-025b591f9c97",
+    "name": "Sven's Caves",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41773717"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

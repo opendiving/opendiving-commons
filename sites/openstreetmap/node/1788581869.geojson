@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.201856,
+      42.081032
+    ]
+  },
+  "properties": {
+    "uuid": "ddebc7c2-e60e-515a-8235-f0e93264b6fc",
+    "name": "el Reggio",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1788581869"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

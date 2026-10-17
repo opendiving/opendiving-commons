@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.583918,
+      47.308657
+    ]
+  },
+  "properties": {
+    "uuid": "a13eb02a-254c-5724-8a4a-ecd49bccd139",
+    "name": "Pflegeheim am See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870333"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.5192,
+      47.09394
+    ]
+  },
+  "properties": {
+    "uuid": "781e5476-092a-5bb0-9e70-dfecfb255ad4",
+    "name": "Rossblatten",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870227"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

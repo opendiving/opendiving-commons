@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.250237,
+      51.296123
+    ]
+  },
+  "properties": {
+    "uuid": "a98c8427-1161-5afe-9913-72e08025168d",
+    "name": "Taucheinstieg Göhrenz - Tauchbasis E1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4676363871"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

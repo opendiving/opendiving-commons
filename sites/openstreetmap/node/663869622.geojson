@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.151956,
+      58.87055
+    ]
+  },
+  "properties": {
+    "uuid": "ac822392-0142-52dd-a7d8-393925b07af9",
+    "name": "SMS König",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869622"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

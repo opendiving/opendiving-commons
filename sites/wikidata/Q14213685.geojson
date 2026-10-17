@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.812667,
+      -34.304167
+    ]
+  },
+  "properties": {
+    "uuid": "c19c8fcd-0623-53c0-a5ae-f929dafb90f3",
+    "name": "Andre se Gat",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213685"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

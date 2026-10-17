@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.957,
+      -34.193
+    ]
+  },
+  "properties": {
+    "uuid": "77fc146c-a8c6-5e28-951a-e793603a4047",
+    "name": "Diving the south coast of South Africa/Dalgleish Bank",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q110835163"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

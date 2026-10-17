@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.581631,
+      -16.622375
+    ]
+  },
+  "properties": {
+    "uuid": "ab6d084c-da5f-5131-a145-3d069abd0d64",
+    "name": "Tao-tao",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869262"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

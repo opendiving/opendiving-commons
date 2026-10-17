@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.862559,
+      26.300794
+    ]
+  },
+  "properties": {
+    "uuid": "f9d67974-c961-5818-92f6-4634698e9518",
+    "name": "موقع الغوص - جزيرة الأخ الصغير",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5610583021"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Little Brother Dive Site"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.038333,
+      26.562778
+    ]
+  },
+  "properties": {
+    "uuid": "f5258ca1-28ee-5f6e-ac26-df1a042bf664",
+    "name": "Lofthus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12601944496"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.319341,
+      36.01199
+    ]
+  },
+  "properties": {
+    "uuid": "74ffa044-f791-5d02-a7c3-e1042785e21b",
+    "name": "Cominotto Arch (Dive Site)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831396"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

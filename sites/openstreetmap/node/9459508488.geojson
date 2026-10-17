@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.303468,
+      7.457303
+    ]
+  },
+  "properties": {
+    "uuid": "7b12b5a0-a3cb-54fb-bde5-b7dc77ebecd7",
+    "name": "South Tip",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9459508488"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

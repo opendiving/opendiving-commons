@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.848503,
+      -0.351292
+    ]
+  },
+  "properties": {
+    "uuid": "c2ef0a47-21d7-5447-99be-5b745d502136",
+    "name": "Bajo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270677608"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

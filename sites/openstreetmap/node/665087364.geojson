@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.469575,
+      47.493597
+    ]
+  },
+  "properties": {
+    "uuid": "03aef8ed-1f24-514d-a9b0-db2236e86b7c",
+    "name": "Uhlandbucht Horn Einstieg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087364"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

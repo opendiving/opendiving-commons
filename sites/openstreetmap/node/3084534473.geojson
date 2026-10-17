@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.683587,
+      45.072514
+    ]
+  },
+  "properties": {
+    "uuid": "124f962b-c6d5-5f76-a68f-9f9ab604679c",
+    "name": "Silent Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3084534473"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.113703,
+      52.576521
+    ]
+  },
+  "properties": {
+    "uuid": "3247021f-d94f-57cb-930b-e0442df0d678",
+    "name": "Heidesee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/60094162"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

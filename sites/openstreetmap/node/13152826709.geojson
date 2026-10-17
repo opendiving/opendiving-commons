@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.640896,
+      -0.554004
+    ]
+  },
+  "properties": {
+    "uuid": "0c5a940a-d126-5f3c-af66-7f2ad7e8b164",
+    "name": "Batu Bila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13152826709"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

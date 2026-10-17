@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.613837,
+      3.997145
+    ]
+  },
+  "properties": {
+    "uuid": "b599936d-52d2-5237-a82d-7aa9d67c1167",
+    "name": "Salomon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239637040"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

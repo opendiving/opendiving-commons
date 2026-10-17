@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.938067,
+      52.366983
+    ]
+  },
+  "properties": {
+    "uuid": "8ef84e8b-1ff2-5dfd-856a-b3a809a1b49c",
+    "name": "Kiesloch Zerben",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870929"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

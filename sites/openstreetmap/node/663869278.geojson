@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.268763,
+      48.455882
+    ]
+  },
+  "properties": {
+    "uuid": "0be8919d-f6e3-56a9-ba14-496b5772bef1",
+    "name": "Spring Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869278"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.46875,
+      -34.199333
+    ]
+  },
+  "properties": {
+    "uuid": "43d917d8-4676-5f11-bbd9-e3cec172bf76",
+    "name": "Lace Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42052136"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

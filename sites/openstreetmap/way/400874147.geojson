@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.975966,
+      29.488674
+    ]
+  },
+  "properties": {
+    "uuid": "56ac7910-8852-5d3e-a544-8950cae58280",
+    "name": "Catfish Hotel Sink",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/400874147"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

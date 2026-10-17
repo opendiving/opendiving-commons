@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.115896,
+      11.350191
+    ]
+  },
+  "properties": {
+    "uuid": "76c12136-e59b-50d4-a7b1-643b2b4b0105",
+    "name": "Secret Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4941391020"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

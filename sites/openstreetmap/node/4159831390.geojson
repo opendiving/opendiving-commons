@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.323686,
+      36.009265
+    ]
+  },
+  "properties": {
+    "uuid": "90a2cd0c-dc0f-5ea2-bc76-9ad7c51c3253",
+    "name": "P31 - Patrol Boat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831390"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

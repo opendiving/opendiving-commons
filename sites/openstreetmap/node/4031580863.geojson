@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.257362,
+      11.894461
+    ]
+  },
+  "properties": {
+    "uuid": "660bf8e8-2990-52ce-bf6f-2bd8a053caea",
+    "name": "HTMS Chang (Wreck) - Scuba Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031580863"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

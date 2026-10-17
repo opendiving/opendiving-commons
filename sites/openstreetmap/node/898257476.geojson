@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.981841,
+      40.138656
+    ]
+  },
+  "properties": {
+    "uuid": "00797852-74e6-5f58-aff3-0297a7e317e1",
+    "name": "Santa Caterina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/898257476"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

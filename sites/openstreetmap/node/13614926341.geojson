@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.327871,
+      35.990869
+    ]
+  },
+  "properties": {
+    "uuid": "c21d3e1b-becd-5166-bdb8-5123fd9d4ca2",
+    "name": "Iċ-Ċirkewwa - Sikka ta' Barra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614926341"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ċirkewwa - Outer Reef"
+      }
+    }
+  }
+}

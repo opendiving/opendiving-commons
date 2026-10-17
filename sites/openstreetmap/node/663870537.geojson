@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.460592,
+      49.363049
+    ]
+  },
+  "properties": {
+    "uuid": "5e518812-2a7c-57d5-81a0-e3b24e9988ec",
+    "name": "Gänsedrecksee (Taucheinstieg Nord)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870537"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

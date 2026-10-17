@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.010252,
+      39.813225
+    ]
+  },
+  "properties": {
+    "uuid": "64c57e5d-118d-5486-80f8-f87bf0da866f",
+    "name": "Plazhi i Manastirit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/235474845"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Manastir Beach"
+      }
+    }
+  }
+}

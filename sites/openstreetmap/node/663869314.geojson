@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.276747,
+      48.670918
+    ]
+  },
+  "properties": {
+    "uuid": "912b73e2-fd78-5795-a6d1-5caf485b4530",
+    "name": "Cooper Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869314"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

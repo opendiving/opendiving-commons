@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.760651,
+      9.541567
+    ]
+  },
+  "properties": {
+    "uuid": "660bacb7-c4f6-5f62-92b8-3c0f14ce26b0",
+    "name": "Kalipayan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4047415088"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.278161,
+      11.143992
+    ]
+  },
+  "properties": {
+    "uuid": "98f6c26d-33c1-52ca-af7d-806844b81a62",
+    "name": "Bikanayos Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9865495623"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.573955,
+      44.779052
+    ]
+  },
+  "properties": {
+    "uuid": "661a02e9-ff6d-5632-9bea-bd0d02bc91e8",
+    "name": "Club Narval",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13964212158"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.685,
+      24.155283
+    ]
+  },
+  "properties": {
+    "uuid": "0fac227a-4dfe-51ba-b752-73dcfe65d7ba",
+    "name": "Shaab Sataya Amphoren",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869767"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

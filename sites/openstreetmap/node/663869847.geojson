@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.449171,
+      28.056389
+    ]
+  },
+  "properties": {
+    "uuid": "abf6e01f-9681-5ae2-a645-4e2da7287d44",
+    "name": "Million Hope",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869847"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

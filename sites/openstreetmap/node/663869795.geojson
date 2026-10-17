@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.978787,
+      27.185632
+    ]
+  },
+  "properties": {
+    "uuid": "6ba3967d-881d-5cc7-a6e9-867c7535947a",
+    "name": "Giftun Soraya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869795"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

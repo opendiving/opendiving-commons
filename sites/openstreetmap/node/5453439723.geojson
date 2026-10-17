@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.564185,
+      -2.219096
+    ]
+  },
+  "properties": {
+    "uuid": "011a5bbc-fa6c-506d-8ad1-85691e9900bf",
+    "name": "Nudi Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439723"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

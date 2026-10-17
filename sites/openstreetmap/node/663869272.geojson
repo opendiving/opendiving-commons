@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.418333,
+      48.423333
+    ]
+  },
+  "properties": {
+    "uuid": "7c0b4dfc-6d30-549b-938f-2086e3b638dc",
+    "name": "Saxe Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869272"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

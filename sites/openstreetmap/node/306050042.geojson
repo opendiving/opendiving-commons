@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.707109,
+      16.96789
+    ]
+  },
+  "properties": {
+    "uuid": "3f2ca9c9-7bed-5b85-a5f8-669ce93b5895",
+    "name": "China Wreck (direction 150deg)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/306050042"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

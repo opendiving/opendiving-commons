@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.235433,
+      30.183733
+    ]
+  },
+  "properties": {
+    "uuid": "c61bd93f-f85a-5448-88dc-9dd1332907be",
+    "name": "P. C. Barge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869453"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

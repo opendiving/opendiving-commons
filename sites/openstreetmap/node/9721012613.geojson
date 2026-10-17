@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.729658,
+      19.441989
+    ]
+  },
+  "properties": {
+    "uuid": "574b942b-3835-5e8e-88a3-09749388288d",
+    "name": "Shaab Jimna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721012613"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

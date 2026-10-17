@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.814639,
+      3.608861
+    ]
+  },
+  "properties": {
+    "uuid": "41120c0e-29bb-578a-b9da-cf5037481f85",
+    "name": "? thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9557518245"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

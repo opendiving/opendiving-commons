@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.946151,
+      51.621141
+    ]
+  },
+  "properties": {
+    "uuid": "4d319006-06dd-529f-9376-6e87f54ce3d9",
+    "name": "Noordbout",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074191"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.854683,
+      53.19285
+    ]
+  },
+  "properties": {
+    "uuid": "99c4e8f9-c334-55da-b603-812e12f6df2f",
+    "name": "Giesenschläge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870996"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

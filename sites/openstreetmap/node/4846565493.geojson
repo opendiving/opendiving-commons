@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.209525,
+      44.120763
+    ]
+  },
+  "properties": {
+    "uuid": "0fdec225-5ed6-5bf2-9826-a9737f9ab93c",
+    "name": "Source de l'Esperelle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4846565493"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

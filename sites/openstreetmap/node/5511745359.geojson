@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.862599,
+      -1.592758
+    ]
+  },
+  "properties": {
+    "uuid": "7e74d0aa-1c2a-5aa1-bf01-6ddb888f27b4",
+    "name": "Parcela Marina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5511745359"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

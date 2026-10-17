@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.69067,
+      24.05403
+    ]
+  },
+  "properties": {
+    "uuid": "92537735-f46c-5707-a6b0-7410d36da254",
+    "name": "Abu Diab",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701364661"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

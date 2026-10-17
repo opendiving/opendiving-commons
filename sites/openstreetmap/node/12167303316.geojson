@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.674383,
+      -0.513683
+    ]
+  },
+  "properties": {
+    "uuid": "1874b10e-0369-52b4-a798-b019234847b1",
+    "name": "Mike's Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167303316"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

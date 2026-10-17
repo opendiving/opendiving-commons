@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.35428,
+      47.573357
+    ]
+  },
+  "properties": {
+    "uuid": "f2735180-dcc6-50cd-8af3-63aff083e4b6",
+    "name": "Walchensee - Steinbruch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870675"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

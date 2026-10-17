@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.469941,
+      15.590791
+    ]
+  },
+  "properties": {
+    "uuid": "a7ad92b9-1888-5bbb-a55d-1a2abf752f05",
+    "name": "5-Finger Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4758373192"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

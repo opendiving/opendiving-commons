@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.188334,
+      58.889724
+    ]
+  },
+  "properties": {
+    "uuid": "d85b0e43-0e22-52fd-a4c3-b5281ffca6e4",
+    "name": "SMS Karlsruhe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869619"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

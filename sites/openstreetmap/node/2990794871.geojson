@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.394341,
+      43.173056
+    ]
+  },
+  "properties": {
+    "uuid": "723e6fb5-8f94-5477-9dbe-1ebb92a857be",
+    "name": "Tombant de David",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2990794871"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

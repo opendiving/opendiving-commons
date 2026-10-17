@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.380292,
+      9.87068
+    ]
+  },
+  "properties": {
+    "uuid": "0021be2b-020e-5d72-9f2b-d12bc7cc9571",
+    "name": "Doug's Ridge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5686427510"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

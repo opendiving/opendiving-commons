@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.22998,
+      47.25861
+    ]
+  },
+  "properties": {
+    "uuid": "8957cc06-ada1-55ad-a142-d48765d97fd1",
+    "name": "Landungssteg Aesch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870114"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

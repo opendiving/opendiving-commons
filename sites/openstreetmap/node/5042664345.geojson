@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.222555,
+      7.137202
+    ]
+  },
+  "properties": {
+    "uuid": "0c20c7bc-59b4-5ce4-9f57-29f9c5e65571",
+    "name": "Blue Holes",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5042664345"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

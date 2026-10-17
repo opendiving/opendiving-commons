@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.811438,
+      44.616868
+    ]
+  },
+  "properties": {
+    "uuid": "fbe03800-de18-57a3-9aec-77bbc1280f1e",
+    "name": "Lac Sainte-Anne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/70386352"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

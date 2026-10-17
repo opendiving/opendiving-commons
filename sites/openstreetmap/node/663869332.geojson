@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.032318,
+      20.307925
+    ]
+  },
+  "properties": {
+    "uuid": "2c755d17-ae90-5b1c-a9e4-014a39eb0c94",
+    "name": "Punta Dalila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869332"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

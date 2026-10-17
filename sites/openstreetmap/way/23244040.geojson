@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.084833,
+      51.483425
+    ]
+  },
+  "properties": {
+    "uuid": "f12d468f-f35d-5cd8-92c7-e810cb78167f",
+    "name": "Alter Steinbruch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/23244040"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

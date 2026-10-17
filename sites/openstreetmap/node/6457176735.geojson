@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.367083,
+      7.115911
+    ]
+  },
+  "properties": {
+    "uuid": "0dd3a2e1-8eb6-55ed-b266-1a0499935aa1",
+    "name": "Ngerechong North Coral Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6457176735"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

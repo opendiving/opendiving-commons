@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.59663,
+      47.60566
+    ]
+  },
+  "properties": {
+    "uuid": "575b3fba-540b-57f1-a350-50592084fea3",
+    "name": "Ellikon am Rhein - Rüdlingen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870355"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

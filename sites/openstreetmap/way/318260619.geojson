@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.323878,
+      26.022142
+    ]
+  },
+  "properties": {
+    "uuid": "e5d2e89a-c15e-5a84-a035-877548e6aafa",
+    "name": "Sharm El Lole Camp",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/318260619"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

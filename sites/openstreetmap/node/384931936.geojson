@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.258579,
+      36.075111
+    ]
+  },
+  "properties": {
+    "uuid": "1f7366ae-2bee-55b1-8d44-8c83fe3280f5",
+    "name": "Santa Marija Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/384931936"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

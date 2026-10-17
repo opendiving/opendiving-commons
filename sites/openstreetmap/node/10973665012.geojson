@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.432564,
+      36.987059
+    ]
+  },
+  "properties": {
+    "uuid": "53846764-4a87-5fc2-99b2-2f3ab94ede96",
+    "name": "Uçak Batığı",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10973665012"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

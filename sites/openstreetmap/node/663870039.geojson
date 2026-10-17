@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.18454,
+      46.88086
+    ]
+  },
+  "properties": {
+    "uuid": "9d49597c-c5df-5d30-a614-f6e533d00016",
+    "name": "Kleingurmels",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870039"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

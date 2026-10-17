@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.424343,
+      49.757374
+    ]
+  },
+  "properties": {
+    "uuid": "02244ce9-8c0a-5c6f-8c5b-aba66c15a1fd",
+    "name": "Slapy Stará Živohošť",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232708"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

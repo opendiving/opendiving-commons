@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.34058,
+      35.959873
+    ]
+  },
+  "properties": {
+    "uuid": "8a59c2c8-5c1b-5153-9303-f357ad7598ea",
+    "name": "Il-Prajjet",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614926338"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Anchor Bay"
+      }
+    }
+  }
+}

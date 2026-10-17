@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.554669,
+      50.431698
+    ]
+  },
+  "properties": {
+    "uuid": "f7491560-61f9-5034-9635-3f129ebf9b7c",
+    "name": "Fairy Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/889067426"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

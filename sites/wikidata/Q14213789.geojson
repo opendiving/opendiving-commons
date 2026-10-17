@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4595,
+      -34.17675
+    ]
+  },
+  "properties": {
+    "uuid": "a97cc2cb-f178-5449-bc6b-c78a7dff2623",
+    "name": "Livingstone Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213789"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

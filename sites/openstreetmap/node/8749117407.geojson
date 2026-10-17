@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.200289,
+      49.353421
+    ]
+  },
+  "properties": {
+    "uuid": "56bb83cd-e39e-510d-b50c-e3d7ff9d8f34",
+    "name": "Murner See - Einstieg Turm",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8749117407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

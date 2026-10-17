@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.135,
+      54.6183
+    ]
+  },
+  "properties": {
+    "uuid": "b2fe7c6f-e571-5a71-93b6-05ce81f1be26",
+    "name": "Svendborgsund",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/125572964"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

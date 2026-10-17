@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.856044,
+      27.412891
+    ]
+  },
+  "properties": {
+    "uuid": "202e4c28-3463-5535-83f9-de469d815ff0",
+    "name": "Sha'ab El Erg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11238324660"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

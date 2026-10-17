@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.465933,
+      53.301017
+    ]
+  },
+  "properties": {
+    "uuid": "3890ba49-7649-5a5c-8dc7-5778ddded260",
+    "name": "Carwitzer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871071"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

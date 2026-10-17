@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.142567,
+      -0.567326
+    ]
+  },
+  "properties": {
+    "uuid": "d593334f-3c7c-542e-ad4f-e03916706da5",
+    "name": "Gordon Rocks",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13123255819"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

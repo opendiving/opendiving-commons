@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.290638,
+      19.636713
+    ]
+  },
+  "properties": {
+    "uuid": "57243076-46c6-541a-ab58-8dbf3f7c5f06",
+    "name": "SS Umbria, Wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721478944"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

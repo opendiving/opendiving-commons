@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.586138,
+      -8.531646
+    ]
+  },
+  "properties": {
+    "uuid": "daf00b6f-87c9-5bed-bbbe-2d96a31b5f57",
+    "name": "Gili Tepekong South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4723444232"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

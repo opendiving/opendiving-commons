@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.240965,
+      1.444774
+    ]
+  },
+  "properties": {
+    "uuid": "2fd7669d-1cd8-55cf-82df-98a32e335b3b",
+    "name": "NAD Lembeh",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2138645003"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

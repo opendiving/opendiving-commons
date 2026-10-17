@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.027215,
+      47.396346
+    ]
+  },
+  "properties": {
+    "uuid": "0335d5d6-ccaa-5814-a247-1e3ec0d4ad46",
+    "name": "Creugenat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870003"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

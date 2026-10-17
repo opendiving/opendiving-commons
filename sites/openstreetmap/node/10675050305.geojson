@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.222302,
+      9.606677
+    ]
+  },
+  "properties": {
+    "uuid": "4b3a2db8-1d77-57bf-85a4-520229bda326",
+    "name": "Mamaan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10675050305"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

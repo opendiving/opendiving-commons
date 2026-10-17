@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.305533,
+      -0.708643
+    ]
+  },
+  "properties": {
+    "uuid": "71c938d6-5d6a-5155-9c66-33ae63617859",
+    "name": "Swarm",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045645666"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

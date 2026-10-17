@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.314055,
+      12.204958
+    ]
+  },
+  "properties": {
+    "uuid": "9ee09830-0566-59d9-b8b3-8f3591df7265",
+    "name": "Jeff Davis Memorial",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/636400684"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.619444,
+      50.718055
+    ]
+  },
+  "properties": {
+    "uuid": "21fc54d3-2908-5218-9423-a23a011d70c4",
+    "name": "HMS Pine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869581"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

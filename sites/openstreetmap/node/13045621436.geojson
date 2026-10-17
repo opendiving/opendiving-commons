@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.204311,
+      -0.399707
+    ]
+  },
+  "properties": {
+    "uuid": "52baf4c6-0af0-5e1f-aeaf-fc8ab24998ae",
+    "name": "Imbekwan Bommies",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045621436"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

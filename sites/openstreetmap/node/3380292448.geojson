@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.241195,
+      9.342521
+    ]
+  },
+  "properties": {
+    "uuid": "85b8c7a5-55f8-5c84-ad85-4b3e7edbf809",
+    "name": "Bocas Diving Pirates",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3380292448"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

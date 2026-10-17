@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.868146,
+      24.934828
+    ]
+  },
+  "properties": {
+    "uuid": "017f42f8-0203-59f5-accb-79f6fcb94217",
+    "name": "جيرة ديدلاس",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/374758292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Daedalus Reef"
+      }
+    }
+  }
+}

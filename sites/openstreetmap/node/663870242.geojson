@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.91461,
+      47.06766
+    ]
+  },
+  "properties": {
+    "uuid": "0652da41-1b10-5fd3-9846-502299eae94a",
+    "name": "Wägitalersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870242"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

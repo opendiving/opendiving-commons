@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.697998,
+      -0.552975
+    ]
+  },
+  "properties": {
+    "uuid": "0568c359-cff7-5b09-9810-97e2055b0449",
+    "name": "Koh",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167277224"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

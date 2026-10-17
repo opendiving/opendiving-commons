@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.093308,
+      36.265507
+    ]
+  },
+  "properties": {
+    "uuid": "3a8e2e10-626e-5c62-8d7a-8af47fd90ee2",
+    "name": "Nordland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/20315768"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

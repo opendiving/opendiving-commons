@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.726803,
+      46.420506
+    ]
+  },
+  "properties": {
+    "uuid": "d1ec86ec-7e97-5006-aabf-65ca3dca249d",
+    "name": "Hotel Cristallina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870250"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

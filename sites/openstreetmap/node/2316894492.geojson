@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.004689,
+      41.090692
+    ]
+  },
+  "properties": {
+    "uuid": "e5212ad5-4d94-562d-9a2b-ff2556f3837c",
+    "name": "Turuncu Dalış Merkezi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2316894492"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

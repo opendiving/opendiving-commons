@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4402,
+      -34.156967
+    ]
+  },
+  "properties": {
+    "uuid": "95d031e4-93fc-53b8-9554-e145e4e3ff77",
+    "name": "Glencairn Fan Garden",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14913567"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

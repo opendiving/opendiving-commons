@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.684811,
+      31.701412
+    ]
+  },
+  "properties": {
+    "uuid": "fac22f7d-b0b0-51a5-a7f2-387f6de31f67",
+    "name": "Kennedy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4781661645"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

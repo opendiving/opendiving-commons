@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.790913,
+      16.169243
+    ]
+  },
+  "properties": {
+    "uuid": "50c3a5b9-b1eb-5a6c-aed1-5e0e13c37285",
+    "name": "Source chaude",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11564342981"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

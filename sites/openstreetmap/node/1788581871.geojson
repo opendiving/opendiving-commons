@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.197144,
+      42.084448
+    ]
+  },
+  "properties": {
+    "uuid": "4d4a0d84-cf9c-5abe-a575-3e5e409261e7",
+    "name": "la Ferriola",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1788581871"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

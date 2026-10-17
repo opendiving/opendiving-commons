@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.289716,
+      51.035834
+    ]
+  },
+  "properties": {
+    "uuid": "825a1d36-11ba-5bca-9431-c03ee0b6df79",
+    "name": "Hainbergsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/205396214"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

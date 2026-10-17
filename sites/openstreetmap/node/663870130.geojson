@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.88666,
+      45.96411
+    ]
+  },
+  "properties": {
+    "uuid": "f52e3b83-cdad-5afe-912a-beee73c391e0",
+    "name": "Lago di Lugano-Parete di Caslano",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870130"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

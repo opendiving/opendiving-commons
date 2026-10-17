@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.226661,
+      44.023523
+    ]
+  },
+  "properties": {
+    "uuid": "737f0fe9-40bf-5b78-83cd-71601a5f7b14",
+    "name": "Cristo redentore",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7836539553"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

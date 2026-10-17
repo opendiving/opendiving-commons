@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.527428,
+      47.797287
+    ]
+  },
+  "properties": {
+    "uuid": "f2a66d61-8218-5218-a4f0-4d7d38ad65b0",
+    "name": "Weissenbacheinlauf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/19750125"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

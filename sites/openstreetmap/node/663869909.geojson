@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.361518,
+      3.877287
+    ]
+  },
+  "properties": {
+    "uuid": "7f9107c6-89e7-5059-aca6-81cda6b0f835",
+    "name": "Fihalhohi Paradies",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869909"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

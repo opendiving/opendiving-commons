@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.504223,
+      3.599641
+    ]
+  },
+  "properties": {
+    "uuid": "2c001169-ec29-54a7-92ae-0622916d7b59",
+    "name": "Miyaru Kandu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7151743385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

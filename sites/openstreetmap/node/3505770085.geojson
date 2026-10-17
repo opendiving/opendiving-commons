@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.32818,
+      46.957816
+    ]
+  },
+  "properties": {
+    "uuid": "268a6b81-4759-52af-9a8c-3bab4c1474f2",
+    "name": "Giglio",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3505770085"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.868833,
+      50.830333
+    ]
+  },
+  "properties": {
+    "uuid": "f2b2f21d-30e8-5caa-a24d-0bc3924a07c4",
+    "name": "Heider Bergsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870544"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.766436,
+      1.628354
+    ]
+  },
+  "properties": {
+    "uuid": "3bea2496-1f64-507c-858b-1f9cc2a0cc3e",
+    "name": "Tanjung Parigi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293838994"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

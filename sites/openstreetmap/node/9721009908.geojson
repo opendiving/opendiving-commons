@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.41868,
+      20.844637
+    ]
+  },
+  "properties": {
+    "uuid": "98e3b4da-954a-5f04-aa5e-33b003225b32",
+    "name": "Merlo Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721009908"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

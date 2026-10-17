@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.932061,
+      46.717957
+    ]
+  },
+  "properties": {
+    "uuid": "f88ac89f-0955-5ab8-9702-7c9ce8cae771",
+    "name": "Schulhaus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870041"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

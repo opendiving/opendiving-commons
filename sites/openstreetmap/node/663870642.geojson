@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.841338,
+      54.465836
+    ]
+  },
+  "properties": {
+    "uuid": "6e94ddb8-da23-5afa-b0a5-afe8ad58def5",
+    "name": "Eckernförde - Hauptstrand: DLRG Station",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870642"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

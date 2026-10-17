@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.222468,
+      38.274717
+    ]
+  },
+  "properties": {
+    "uuid": "4754a4d7-abda-51ca-b671-4c3d4862ab85",
+    "name": "Secca di Ponente",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11865262164"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

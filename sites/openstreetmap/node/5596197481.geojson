@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.21186,
+      41.974158
+    ]
+  },
+  "properties": {
+    "uuid": "2b08e485-8f5d-5739-add7-64b995fe2392",
+    "name": "Cala de sa Riera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5596197481"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

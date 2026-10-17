@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -14.364101,
+      28.048505
+    ]
+  },
+  "properties": {
+    "uuid": "9d5101a9-d311-54d1-87fd-38b75b433d6d",
+    "name": "Hafenmauer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6372064741"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

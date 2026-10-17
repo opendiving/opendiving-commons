@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.7589,
+      -34.2066
+    ]
+  },
+  "properties": {
+    "uuid": "48ae9198-d29f-5b25-8dc6-5f0b53c7dec2",
+    "name": "Steenbras Deep Ridge",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213911"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

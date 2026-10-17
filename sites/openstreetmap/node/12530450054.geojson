@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.136704,
+      53.696592
+    ]
+  },
+  "properties": {
+    "uuid": "da2535ba-51c7-53db-9e36-4f66491a317d",
+    "name": "Wohnwagen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450054"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

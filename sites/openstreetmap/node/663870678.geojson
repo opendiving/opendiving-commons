@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.307517,
+      47.585133
+    ]
+  },
+  "properties": {
+    "uuid": "bca589eb-c12e-570c-a3f2-afae5d77de0a",
+    "name": "Walchensee - Walchenseebucht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870678"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

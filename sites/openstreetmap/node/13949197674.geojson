@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.487698,
+      50.393332
+    ]
+  },
+  "properties": {
+    "uuid": "0d6ce824-2431-5868-810d-0865dffbca72",
+    "name": "Mew Stone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949197674"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

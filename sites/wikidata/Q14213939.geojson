@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3097,
+      -34.066117
+    ]
+  },
+  "properties": {
+    "uuid": "a41b48a8-e823-536d-8f65-6d2a51625e17",
+    "name": "Vulcan Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213939"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

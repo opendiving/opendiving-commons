@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.714125,
+      47.467747
+    ]
+  },
+  "properties": {
+    "uuid": "185c70dc-a328-5cb8-a766-7637faee84a4",
+    "name": "Schwarzenau Süd",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3732089347"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

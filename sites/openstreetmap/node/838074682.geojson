@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.072006,
+      52.274367
+    ]
+  },
+  "properties": {
+    "uuid": "c2a8859d-c540-5285-9869-c53af39dc026",
+    "name": "Weesperstrandje",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074682"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

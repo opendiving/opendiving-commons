@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.283333,
+      50.796667
+    ]
+  },
+  "properties": {
+    "uuid": "97755ece-45e5-5453-9a6f-9697e6a3461a",
+    "name": "Immelborner Kiesgrube",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870590"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

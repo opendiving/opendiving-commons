@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.777561,
+      25.346402
+    ]
+  },
+  "properties": {
+    "uuid": "31be4ab5-ebed-5d54-b384-41346d91601e",
+    "name": "Abu Dabbab Thalata",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/307508338"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

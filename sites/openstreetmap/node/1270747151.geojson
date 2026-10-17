@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.918166,
+      46.662481
+    ]
+  },
+  "properties": {
+    "uuid": "8cb6b872-d109-548a-916a-99e08d50442b",
+    "name": "Ossiacher See - Strandbad Sattendorf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1270747151"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

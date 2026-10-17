@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.108851,
+      11.343134
+    ]
+  },
+  "properties": {
+    "uuid": "33dc89ee-1dda-5f63-afa8-be6d10e84a55",
+    "name": "Los Bamboos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4941394886"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

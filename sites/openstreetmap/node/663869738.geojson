@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.545,
+      44.97685
+    ]
+  },
+  "properties": {
+    "uuid": "46577549-6026-50dc-956b-706c51dd621b",
+    "name": "Mali Plavnik",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869738"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

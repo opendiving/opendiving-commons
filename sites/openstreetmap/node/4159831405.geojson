@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.286689,
+      36.017731
+    ]
+  },
+  "properties": {
+    "uuid": "72fea9a0-2a0a-5fd5-b1d8-948217fd79f8",
+    "name": "Sikka tax-Xatt l-Aħmar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831405"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Xatt l-Aħmar Reed"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.123273,
+      11.340268
+    ]
+  },
+  "properties": {
+    "uuid": "f6406240-d5bb-5a80-b6f4-e1b898f56da2",
+    "name": "Coral Garden Marine Protected Area",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/126419898"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

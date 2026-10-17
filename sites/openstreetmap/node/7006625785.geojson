@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.860629,
+      25.307362
+    ]
+  },
+  "properties": {
+    "uuid": "853f48d4-21d3-5074-865b-f3c040f39826",
+    "name": "Elphinstone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7006625785"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Elphinstone reef"
+      }
+    }
+  }
+}

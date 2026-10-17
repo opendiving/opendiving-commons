@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.574667,
+      51.787233
+    ]
+  },
+  "properties": {
+    "uuid": "ad0bfff5-fb6a-5b59-b1ee-70c7ed474a47",
+    "name": "Bergwitzsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.254874,
+      53.53785
+    ]
+  },
+  "properties": {
+    "uuid": "22980872-9fc7-5534-9f8a-b294b33e8e1b",
+    "name": "Tauchspot Wassersportzentrum An der Mole",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1302881736"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.615927,
+      47.277758
+    ]
+  },
+  "properties": {
+    "uuid": "17a1c8bc-9e85-596e-b6e7-8b5bfc43cd0e",
+    "name": "Halbinsel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452056"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

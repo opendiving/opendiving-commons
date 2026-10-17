@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1988,
+      47.6475
+    ]
+  },
+  "properties": {
+    "uuid": "d1f92d72-263c-50bc-8195-000653b37909",
+    "name": "Seegarten",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870425"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

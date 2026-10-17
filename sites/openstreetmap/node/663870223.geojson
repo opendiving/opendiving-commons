@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.468238,
+      47.021435
+    ]
+  },
+  "properties": {
+    "uuid": "963ea64f-8095-581a-9379-ee0b031147d3",
+    "name": "Elefäntli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870223"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

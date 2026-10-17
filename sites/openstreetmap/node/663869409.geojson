@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.284795,
+      12.098388
+    ]
+  },
+  "properties": {
+    "uuid": "9f99e9e4-d9d2-5c74-8e03-748fd7af476c",
+    "name": "Aquarius",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869409"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

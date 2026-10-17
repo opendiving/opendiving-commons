@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.369075,
+      3.867608
+    ]
+  },
+  "properties": {
+    "uuid": "64eaf085-266e-562d-af35-b28107adaf30",
+    "name": "Ali Tila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869907"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

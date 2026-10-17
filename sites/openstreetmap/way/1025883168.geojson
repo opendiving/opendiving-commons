@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.391266,
+      43.013295
+    ]
+  },
+  "properties": {
+    "uuid": "3dbe4e6f-7c49-51cc-950d-ceb52add9d73",
+    "name": "Sentier sous-marin de la Palud",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1025883168"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

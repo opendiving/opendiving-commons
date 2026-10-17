@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.72189,
+      46.49496
+    ]
+  },
+  "properties": {
+    "uuid": "ad42abc0-5f39-5864-b43a-afdb383f1af6",
+    "name": "Öschinensee-Ost",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870014"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

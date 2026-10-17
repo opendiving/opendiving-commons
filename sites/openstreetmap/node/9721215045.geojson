@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.025021,
+      21.966417
+    ]
+  },
+  "properties": {
+    "uuid": "7045d13b-372c-5c61-abb7-0f9a7cf6d7db",
+    "name": "Elba Reef, South Plateau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721215045"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

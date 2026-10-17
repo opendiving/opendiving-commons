@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.71098,
+      1.652869
+    ]
+  },
+  "properties": {
+    "uuid": "a0edcea6-dd4f-5c62-bc36-7f23544052c8",
+    "name": "Pangulingan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293798869"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

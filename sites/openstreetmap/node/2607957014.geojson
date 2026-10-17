@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.455415,
+      11.805333
+    ]
+  },
+  "properties": {
+    "uuid": "47fb95c5-1c21-5845-b948-27df25ae87ff",
+    "name": "The Elephants",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2607957014"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

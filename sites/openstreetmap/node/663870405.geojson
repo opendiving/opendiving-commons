@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.20817,
+      47.11306
+    ]
+  },
+  "properties": {
+    "uuid": "57268505-aec6-583b-b5cb-37174c376c36",
+    "name": "Hafen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870405"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

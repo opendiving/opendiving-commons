@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.650183,
+      58.202633
+    ]
+  },
+  "properties": {
+    "uuid": "a4f45e04-b278-5653-92d6-aa5d71a7bab5",
+    "name": "Katterauva",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/457550391"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

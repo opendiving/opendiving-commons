@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.212626,
+      42.068088
+    ]
+  },
+  "properties": {
+    "uuid": "fba0aa3a-7e92-52c0-8c63-d1474c34b8c3",
+    "name": "el Rossinyol",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1788581870"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

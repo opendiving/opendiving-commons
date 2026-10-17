@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.161524,
+      53.98244
+    ]
+  },
+  "properties": {
+    "uuid": "f1026b8c-f59d-5c28-ad02-4c647c9e475e",
+    "name": "Jezioro Widrynskie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871163"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

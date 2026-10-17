@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.781729,
+      47.67696
+    ]
+  },
+  "properties": {
+    "uuid": "4f2a04e9-3db3-58a3-b03f-bf6f31a82b5c",
+    "name": "Camping-Strandbad",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870359"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

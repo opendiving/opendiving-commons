@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.826032,
+      53.058408
+    ]
+  },
+  "properties": {
+    "uuid": "83c5a898-744a-51e5-b9d5-e518e26daa40",
+    "name": "Werdersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870603"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

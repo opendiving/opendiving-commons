@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.520509,
+      -8.100424
+    ]
+  },
+  "properties": {
+    "uuid": "cc546142-83db-522d-8787-4d0f2a19a24d",
+    "name": "Blue Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4454995856"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

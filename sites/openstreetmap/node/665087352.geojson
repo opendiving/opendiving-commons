@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.672247,
+      47.380574
+    ]
+  },
+  "properties": {
+    "uuid": "6a7c4d4b-0b72-5aef-a5d9-ea49e9ddedb4",
+    "name": "Diepoldsau Strandbad Einstieg 2 Winter",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087352"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

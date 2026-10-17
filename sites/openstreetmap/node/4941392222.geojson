@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.126014,
+      11.329117
+    ]
+  },
+  "properties": {
+    "uuid": "74b889ab-ecf9-547e-b039-564440a55429",
+    "name": "Exotic House Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4941392222"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

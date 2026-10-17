@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.953869,
+      10.121047
+    ]
+  },
+  "properties": {
+    "uuid": "0d45f3bd-41e9-5ba8-bb2d-2e05241e1947",
+    "name": "Three Sisters",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/602929142"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

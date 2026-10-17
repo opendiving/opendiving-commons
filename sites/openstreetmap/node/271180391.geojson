@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.71085,
+      24.156436
+    ]
+  },
+  "properties": {
+    "uuid": "1e7e47ec-2864-52ed-97dd-c1cbfaabb30d",
+    "name": "Sataya South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271180391"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.846422,
+      26.504075
+    ]
+  },
+  "properties": {
+    "uuid": "7a2be5a7-034c-5eb0-8614-a49bee7fe364",
+    "name": "Toilet Bowl",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13895180172"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

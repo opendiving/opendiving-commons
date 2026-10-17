@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.574217,
+      52.2124
+    ]
+  },
+  "properties": {
+    "uuid": "f401cfd6-c7bd-5784-9203-cab9e9efb543",
+    "name": "Motzener See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870976"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

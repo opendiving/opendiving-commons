@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3055,
+      -34.032
+    ]
+  },
+  "properties": {
+    "uuid": "89133205-6a10-5d35-a073-9367b606cd7b",
+    "name": "Twin Towers",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41777420"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

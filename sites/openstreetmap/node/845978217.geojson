@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.732673,
+      46.664863
+    ]
+  },
+  "properties": {
+    "uuid": "50360dba-f57c-5fb2-ab29-63868fc8030f",
+    "name": "Reefballs",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845978217"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

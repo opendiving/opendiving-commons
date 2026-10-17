@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.413563,
+      12.264666
+    ]
+  },
+  "properties": {
+    "uuid": "c981f355-4a1b-5dba-bfec-e6fd200e43e7",
+    "name": "Boka Slagbaai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869419"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.97,
+      50.489444
+    ]
+  },
+  "properties": {
+    "uuid": "451d2c5e-ac39-5acf-8e50-00b7ce836e7f",
+    "name": "UB-81",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869549"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

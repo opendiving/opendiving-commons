@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.110556,
+      50.675
+    ]
+  },
+  "properties": {
+    "uuid": "21ddf0b3-27b3-5e21-b973-19d2498b5930",
+    "name": "City of Waterford",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869589"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

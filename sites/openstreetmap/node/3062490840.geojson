@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.415771,
+      53.662382
+    ]
+  },
+  "properties": {
+    "uuid": "2123c5cb-3a95-51e4-96f4-a271476e1db9",
+    "name": "Alter Kahn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3062490840"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

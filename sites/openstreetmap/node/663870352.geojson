@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13011,
+      47.13844
+    ]
+  },
+  "properties": {
+    "uuid": "b9cf9401-4623-5499-82f3-8595ffc8d0da",
+    "name": "Tunnel 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870352"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

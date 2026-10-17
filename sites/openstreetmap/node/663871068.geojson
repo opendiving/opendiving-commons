@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.463833,
+      53.3305
+    ]
+  },
+  "properties": {
+    "uuid": "f62ee3ad-dbbc-528e-9748-407c946fb18b",
+    "name": "Scharteisen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871068"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

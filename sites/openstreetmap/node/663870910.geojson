@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.495622,
+      51.167187
+    ]
+  },
+  "properties": {
+    "uuid": "37f032b3-2a69-59fd-b5c0-7e08a826f6ca",
+    "name": "Steinbruch Riesenstein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870910"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

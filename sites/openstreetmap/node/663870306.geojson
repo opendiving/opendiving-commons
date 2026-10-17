@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.65572,
+      47.263973
+    ]
+  },
+  "properties": {
+    "uuid": "00d3bc04-0ab5-56c6-bcc7-fb5baf857316",
+    "name": "Landungssteg Obermeilen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870306"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

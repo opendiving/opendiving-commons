@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.031974,
+      20.296977
+    ]
+  },
+  "properties": {
+    "uuid": "38ec4d3f-ddd3-52ca-824f-f625c98331fa",
+    "name": "Palancar Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869323"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

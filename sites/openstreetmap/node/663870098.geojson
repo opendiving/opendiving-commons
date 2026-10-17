@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.196172,
+      47.113853
+    ]
+  },
+  "properties": {
+    "uuid": "98cdcb13-ca0c-5c87-8f6a-ea16a4eed300",
+    "name": "Tüscherz Bahnhof",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870098"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

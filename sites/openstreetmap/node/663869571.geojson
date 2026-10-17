@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.706667,
+      50.743611
+    ]
+  },
+  "properties": {
+    "uuid": "44895113-dbd1-5f27-bbb8-8dda69c5b6b5",
+    "name": "Cuckoo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869571"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

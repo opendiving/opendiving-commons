@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.417159,
+      3.683135
+    ]
+  },
+  "properties": {
+    "uuid": "a1fd0474-c158-519c-b5d8-260269c16ce6",
+    "name": "Fulhidoo Caves",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869894"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

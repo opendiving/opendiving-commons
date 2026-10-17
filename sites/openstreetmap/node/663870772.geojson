@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2457,
+      45.193017
+    ]
+  },
+  "properties": {
+    "uuid": "77ba5e6b-e3b5-53be-9cbc-32159b1af6c6",
+    "name": "Gorgonien",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870772"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

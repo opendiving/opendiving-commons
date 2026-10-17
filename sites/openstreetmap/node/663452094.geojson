@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.69072,
+      47.34252
+    ]
+  },
+  "properties": {
+    "uuid": "adb90dd6-db42-5867-94ce-86338a5dad12",
+    "name": "Strandbad Niederuster",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452094"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

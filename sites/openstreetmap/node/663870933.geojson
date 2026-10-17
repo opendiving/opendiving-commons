@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.244662,
+      52.395966
+    ]
+  },
+  "properties": {
+    "uuid": "8d70fa52-ad71-5cc4-8080-d8892186e918",
+    "name": "See Kade-Belick",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870933"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.408883,
+      -33.887217
+    ]
+  },
+  "properties": {
+    "uuid": "12c7e22b-79ca-5ec6-a5ff-6d625a90dc26",
+    "name": "SS Cape Matapan",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213876"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

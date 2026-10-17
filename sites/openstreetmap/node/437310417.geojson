@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.562898,
+      47.864395
+    ]
+  },
+  "properties": {
+    "uuid": "14ae7487-dbfc-5f83-a18f-0dfcf52dbd62",
+    "name": "Attersee - Wrack Dixie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310417"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

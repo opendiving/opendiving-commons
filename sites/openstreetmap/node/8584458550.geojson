@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.952307,
+      4.042284
+    ]
+  },
+  "properties": {
+    "uuid": "2cbfbc33-3ea8-56d8-8e2d-592b40fda0d4",
+    "name": "Bidu Thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584458550"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

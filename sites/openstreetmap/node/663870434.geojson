@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.1626,
+      47.7642
+    ]
+  },
+  "properties": {
+    "uuid": "9e1a6651-2402-5e64-96cc-517a4a435be2",
+    "name": "Überlingen Parkplatz Post",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870434"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

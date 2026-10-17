@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.649377,
+      15.91982
+    ]
+  },
+  "properties": {
+    "uuid": "a23018a0-377b-5ca1-b588-a3240c6c3f81",
+    "name": "Sec Pâté",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13312737063"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

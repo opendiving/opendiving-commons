@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.243883,
+      30.178267
+    ]
+  },
+  "properties": {
+    "uuid": "f9f4d800-57f5-5ca1-a9ee-3c63779be2f1",
+    "name": "Soule Barge-Gulf Power Towers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869455"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

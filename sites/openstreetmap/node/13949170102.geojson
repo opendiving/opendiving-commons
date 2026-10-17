@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.507949,
+      50.402876
+    ]
+  },
+  "properties": {
+    "uuid": "f944c9be-9901-51f1-be6a-0298823f0975",
+    "name": "Ladybird Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949170102"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

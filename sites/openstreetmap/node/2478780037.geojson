@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.842425,
+      45.797891
+    ]
+  },
+  "properties": {
+    "uuid": "48a911b9-e7e8-5c44-863e-bd683d9ad748",
+    "name": "Tombant de Chindrieu/Châtillon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2478780037"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

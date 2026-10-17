@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3065,
+      47.5718
+    ]
+  },
+  "properties": {
+    "uuid": "c2fea092-2000-5d20-905b-65273b8ce4e6",
+    "name": "Walchensee - Einsiedlbucht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870682"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

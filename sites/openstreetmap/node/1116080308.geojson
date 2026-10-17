@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.563471,
+      59.685285
+    ]
+  },
+  "properties": {
+    "uuid": "f2fb3a87-0af4-5af4-8d38-dfd0ba92c166",
+    "name": "Møkkalassa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1116080308"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

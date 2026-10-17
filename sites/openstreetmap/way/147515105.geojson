@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.31965,
+      42.734369
+    ]
+  },
+  "properties": {
+    "uuid": "73d6bd26-af97-5a1d-bf8b-aeb244310c39",
+    "name": "Isola Corbella",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/147515105"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

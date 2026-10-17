@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.851067,
+      53.1604
+    ]
+  },
+  "properties": {
+    "uuid": "653ebd6b-4621-545a-8c72-412a542b9e8d",
+    "name": "Zootzensee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870989"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

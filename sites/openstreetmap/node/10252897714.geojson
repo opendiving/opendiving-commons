@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.590597,
+      -8.533544
+    ]
+  },
+  "properties": {
+    "uuid": "2f164e08-7a52-5497-83fb-4a8686cfd5dc",
+    "name": "Makassar Reef (Manta Point)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10252897714"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

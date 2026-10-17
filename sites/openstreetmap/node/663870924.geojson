@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.784374,
+      51.429092
+    ]
+  },
+  "properties": {
+    "uuid": "caa4d714-fb34-5e14-a0dd-f3b9446fe708",
+    "name": "Haasenbruch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870924"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.351202,
+      3.923944
+    ]
+  },
+  "properties": {
+    "uuid": "345295e0-a5a6-5fe6-9c88-0a87dd5d9e65",
+    "name": "Vaageli Outside",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869927"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

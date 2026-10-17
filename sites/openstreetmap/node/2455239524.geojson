@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.618889,
+      -0.495278
+    ]
+  },
+  "properties": {
+    "uuid": "f14b1980-4247-561a-b3ee-93b8d337d015",
+    "name": "Katrin reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2455239524"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

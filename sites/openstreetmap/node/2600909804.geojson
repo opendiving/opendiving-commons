@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.441315,
+      53.325865
+    ]
+  },
+  "properties": {
+    "uuid": "62fc2b21-e9b6-5ec4-aaff-dbb8198e5991",
+    "name": "Tauchspot Luzinhalle Schmaler Luzin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2600909804"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.254776,
+      -33.839464
+    ]
+  },
+  "properties": {
+    "uuid": "58aa8be8-9a40-5125-bdf4-c7c22a6818cc",
+    "name": "Chowder Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2806033751"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

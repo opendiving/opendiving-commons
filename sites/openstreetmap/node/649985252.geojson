@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      92.96417,
+      12.049892
+    ]
+  },
+  "properties": {
+    "uuid": "fd04694b-510e-5d56-9a23-ab33f242575e",
+    "name": "Lighthouse",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/649985252"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

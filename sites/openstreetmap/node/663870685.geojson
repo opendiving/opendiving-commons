@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.315197,
+      47.588419
+    ]
+  },
+  "properties": {
+    "uuid": "6b5c4d58-c8b7-5b6d-bcca-6d2a08704c05",
+    "name": "Walchensee - Post",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870685"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

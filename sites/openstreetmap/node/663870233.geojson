@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.453868,
+      47.023921
+    ]
+  },
+  "properties": {
+    "uuid": "b1770e39-6c65-5968-9060-f506c0d9da16",
+    "name": "Riedsort",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870233"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.61204,
+      4.003538
+    ]
+  },
+  "properties": {
+    "uuid": "30c38338-e5aa-546a-a4f1-4440bef6a4aa",
+    "name": "El Mirador",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651051"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

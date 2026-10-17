@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.788286,
+      16.167147
+    ]
+  },
+  "properties": {
+    "uuid": "2c86a0a2-54b4-595f-9875-4908e17c7d1f",
+    "name": "Le Jardin de Corail",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4056316468"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

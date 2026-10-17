@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.057858,
+      53.27712
+    ]
+  },
+  "properties": {
+    "uuid": "ff61f2af-74be-5621-ae61-97f5575a0739",
+    "name": "University of Galway Sub-Aqua Club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11355823933"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

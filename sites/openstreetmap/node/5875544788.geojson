@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.563372,
+      -8.46091
+    ]
+  },
+  "properties": {
+    "uuid": "4b46f8cd-dcde-5279-b9d6-d5ff2b31e7fb",
+    "name": "The Cauldron Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5875544788"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

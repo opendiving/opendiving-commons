@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.083983,
+      9.913768
+    ]
+  },
+  "properties": {
+    "uuid": "4fbfd971-87a6-5c84-87ec-aa2e90f62175",
+    "name": "Bujong Shoal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4692529169"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

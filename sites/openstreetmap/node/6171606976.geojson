@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -15.695133,
+      28.151251
+    ]
+  },
+  "properties": {
+    "uuid": "5b04de3e-425f-5736-894e-f119436012b9",
+    "name": "Buceo Norte",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6171606976"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

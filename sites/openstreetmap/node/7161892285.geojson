@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.726819,
+      -0.497365
+    ]
+  },
+  "properties": {
+    "uuid": "0fceb887-5cba-54ba-84b2-cc4cf3872333",
+    "name": "Myoskon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7161892285"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.483333,
+      -34.2345
+    ]
+  },
+  "properties": {
+    "uuid": "6fb243c7-1b6e-5579-866e-0396e5970d65",
+    "name": "Boat Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213709"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

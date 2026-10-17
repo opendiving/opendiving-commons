@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.87654,
+      -0.35316
+    ]
+  },
+  "properties": {
+    "uuid": "5886f0da-cab5-5b9d-a453-29ef0549bbf3",
+    "name": "Channel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270684189"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

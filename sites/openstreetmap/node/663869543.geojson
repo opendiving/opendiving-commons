@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.557031,
+      45.31515
+    ]
+  },
+  "properties": {
+    "uuid": "e7117ee0-41bd-5dd7-9e33-36d52ce552fc",
+    "name": "Forest City (Wreck)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869543"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

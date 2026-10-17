@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.932363,
+      53.845157
+    ]
+  },
+  "properties": {
+    "uuid": "e60ea0ff-d34d-515c-9f63-f042ab808398",
+    "name": "Guildford Castle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870637"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.396724,
+      51.283386
+    ]
+  },
+  "properties": {
+    "uuid": "08f2b752-aa62-563d-b05a-b6fe7be0bfb6",
+    "name": "Put van Ekeren",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4323234"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

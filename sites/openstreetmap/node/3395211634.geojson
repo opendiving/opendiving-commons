@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.807745,
+      27.321339
+    ]
+  },
+  "properties": {
+    "uuid": "206b397a-6536-5293-a97a-55be4cdf4f53",
+    "name": "Shaab Samir",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3395211634"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.462933,
+      -34.185317
+    ]
+  },
+  "properties": {
+    "uuid": "5bd2c599-b9db-5d82-bf5c-83d15f6a16b1",
+    "name": "Dome Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q18347285"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

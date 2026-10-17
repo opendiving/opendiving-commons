@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.798433,
+      53.024217
+    ]
+  },
+  "properties": {
+    "uuid": "13ab0df8-fc33-5672-a0b1-5a5baad9988a",
+    "name": "Tornowsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870986"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

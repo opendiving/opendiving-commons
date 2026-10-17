@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.521206,
+      28.554359
+    ]
+  },
+  "properties": {
+    "uuid": "18a913fb-25cb-52a8-a8e4-248e45112f7d",
+    "name": "Canyon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869872"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

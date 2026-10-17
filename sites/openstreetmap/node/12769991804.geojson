@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.769084,
+      -0.752365
+    ]
+  },
+  "properties": {
+    "uuid": "13aded25-a8ee-5265-8b68-d5adcf109b4f",
+    "name": "Nurek",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12769991804"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

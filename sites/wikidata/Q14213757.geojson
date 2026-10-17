@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4637,
+      -34.179633
+    ]
+  },
+  "properties": {
+    "uuid": "bd854c1a-89b2-52e3-9ee6-f5c3a514fc7c",
+    "name": "Friskies Pinnacle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213757"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.864584,
+      23.431041
+    ]
+  },
+  "properties": {
+    "uuid": "5e3c1e9e-b56b-5470-9a69-8ac52026e16a",
+    "name": "St John's Um Arouk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/16660674"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

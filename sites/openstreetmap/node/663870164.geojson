@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.750617,
+      46.186201
+    ]
+  },
+  "properties": {
+    "uuid": "95a90ccc-803f-5749-b079-1bbda7af85f7",
+    "name": "Gola di Ponte Brolla",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870164"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

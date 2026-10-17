@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.5465,
+      12.686222
+    ]
+  },
+  "properties": {
+    "uuid": "3eabbcd9-e663-5891-a363-bdeccf7f0dd5",
+    "name": "Galeon Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038378"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

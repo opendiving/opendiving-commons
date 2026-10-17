@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.115684,
+      5.172076
+    ]
+  },
+  "properties": {
+    "uuid": "08d93f42-240f-539c-a36e-507d0dce36c3",
+    "name": "Dhonfanu thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9180047748"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

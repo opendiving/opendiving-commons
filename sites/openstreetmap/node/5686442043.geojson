@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.383039,
+      9.880246
+    ]
+  },
+  "properties": {
+    "uuid": "581e35f7-58ce-53fe-9aba-f21514e0aba1",
+    "name": "Wilson's Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5686442043"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

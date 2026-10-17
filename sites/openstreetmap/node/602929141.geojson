@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.9944,
+      10.090652
+    ]
+  },
+  "properties": {
+    "uuid": "34dbb50a-f33e-5882-8af1-c74329e2ba4b",
+    "name": "South Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/602929141"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

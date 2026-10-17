@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.360051,
+      3.870622
+    ]
+  },
+  "properties": {
+    "uuid": "272c9b98-adf9-503b-a2d4-7440436e6e54",
+    "name": "Lhohi Faru Tila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869906"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

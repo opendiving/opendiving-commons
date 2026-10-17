@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.031631,
+      20.317584
+    ]
+  },
+  "properties": {
+    "uuid": "ce86d8b0-59aa-559a-805f-ef8c15d6e11a",
+    "name": "La Francesa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869331"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

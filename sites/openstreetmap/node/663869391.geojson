@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.098515,
+      12.235303
+    ]
+  },
+  "properties": {
+    "uuid": "b7fd87ec-d32f-5e3c-8c92-f8d8d93af0d1",
+    "name": "Playa Largu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869391"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

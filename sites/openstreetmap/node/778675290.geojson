@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.883722,
+      19.694508
+    ]
+  },
+  "properties": {
+    "uuid": "467f800f-25a5-5b09-baf1-ca915ff23fe7",
+    "name": "Capt. K. Tibbets",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/778675290"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

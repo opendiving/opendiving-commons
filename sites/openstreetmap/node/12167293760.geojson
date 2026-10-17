@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.718396,
+      -0.503896
+    ]
+  },
+  "properties": {
+    "uuid": "47f4f49e-518e-5a0e-bdf6-127462f517fa",
+    "name": "Lao lao",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167293760"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

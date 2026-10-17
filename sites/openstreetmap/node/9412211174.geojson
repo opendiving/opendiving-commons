@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.374438,
+      7.60018
+    ]
+  },
+  "properties": {
+    "uuid": "f933024f-89fb-531f-9372-0cfe6701cdf1",
+    "name": "Ao Kon Ka Re",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9412211174"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.745928,
+      12.512486
+    ]
+  },
+  "properties": {
+    "uuid": "0b67da4a-d4d2-5f08-a004-78c5542104f2",
+    "name": "Cantil de la Piscinita",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748293"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

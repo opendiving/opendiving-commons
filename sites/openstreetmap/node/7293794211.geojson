@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.743144,
+      1.635147
+    ]
+  },
+  "properties": {
+    "uuid": "4af6ce8b-8d6a-5d15-9c5a-f44a08b54e93",
+    "name": "Mike's",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293794211"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

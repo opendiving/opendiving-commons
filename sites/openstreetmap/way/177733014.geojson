@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.874058,
+      51.179781
+    ]
+  },
+  "properties": {
+    "uuid": "eaef30f4-a999-5083-9bf4-407db9f339f3",
+    "name": "Santa Maria",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/177733014"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

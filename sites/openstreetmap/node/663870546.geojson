@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.923139,
+      51.022559
+    ]
+  },
+  "properties": {
+    "uuid": "7c590592-d8f4-52a6-a678-74d4e0a530ad",
+    "name": "Fühlinger See 5: Sporttauchen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870546"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

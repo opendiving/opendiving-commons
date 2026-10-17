@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.078406,
+      26.757536
+    ]
+  },
+  "properties": {
+    "uuid": "249b36cd-10e0-59c5-93f6-34f4be945bd1",
+    "name": "panorama Reef North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6585137658"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

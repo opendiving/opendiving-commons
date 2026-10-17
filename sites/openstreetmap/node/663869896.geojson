@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.396748,
+      3.843378
+    ]
+  },
+  "properties": {
+    "uuid": "b0435a70-d9cf-56e6-ae6f-2a60cf9190f1",
+    "name": "Olhuveli Kuda Giri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869896"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

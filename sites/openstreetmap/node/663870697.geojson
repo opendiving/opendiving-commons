@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.7495,
+      47.697167
+    ]
+  },
+  "properties": {
+    "uuid": "cca0b5bb-00f9-5bbd-8d05-834890b48d02",
+    "name": "Tegernsee - Schweinebucht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870697"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

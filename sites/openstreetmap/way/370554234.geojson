@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.252924,
+      5.879212
+    ]
+  },
+  "properties": {
+    "uuid": "5cf2d20c-1d71-512f-915a-5486895ec2c0",
+    "name": "Coral Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/370554234"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

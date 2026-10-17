@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.317203,
+      -34.078934
+    ]
+  },
+  "properties": {
+    "uuid": "70fa1aa7-d6e2-5ee9-971a-999551ecf312",
+    "name": "Tafelberg Deep",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213924"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

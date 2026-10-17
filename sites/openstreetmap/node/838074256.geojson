@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.0061,
+      51.5958
+    ]
+  },
+  "properties": {
+    "uuid": "656c865a-2576-5f0c-a7ec-2717019aabd1",
+    "name": "Invalidenvissteiger",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074256"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

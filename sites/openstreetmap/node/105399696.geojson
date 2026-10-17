@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.393111,
+      54.573254
+    ]
+  },
+  "properties": {
+    "uuid": "1c9280d4-6bde-568b-b661-1cf92d776d8f",
+    "name": "Sten Trans",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/105399696"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.033863,
+      20.314525
+    ]
+  },
+  "properties": {
+    "uuid": "af741713-cba5-553f-a693-e482fb3eec3b",
+    "name": "Paso El Cedral Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869330"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

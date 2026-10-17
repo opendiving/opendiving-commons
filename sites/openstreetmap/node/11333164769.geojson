@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.289969,
+      26.224414
+    ]
+  },
+  "properties": {
+    "uuid": "f2e39423-5d3e-5589-941f-4eecf8a060a1",
+    "name": "阿真ビーチ前・あまびーちまえ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333164769"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ama Beach Mae"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.690238,
+      46.362645
+    ]
+  },
+  "properties": {
+    "uuid": "90dd5bc8-0f66-5f4d-9045-24fe5150d778",
+    "name": "Lago di Tomé",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870166"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

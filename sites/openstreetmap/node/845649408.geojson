@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.707263,
+      46.711742
+    ]
+  },
+  "properties": {
+    "uuid": "7b966fd6-5265-5ea0-ba13-1a93975a8fda",
+    "name": "Gunten Bad",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845649408"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

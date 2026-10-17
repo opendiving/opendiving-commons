@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.037734,
+      -8.338126
+    ]
+  },
+  "properties": {
+    "uuid": "7dbe9144-7c25-5387-8ba9-2549fdaee917",
+    "name": "Snorkeling",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6750980990"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

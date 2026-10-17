@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.363524,
+      25.492601
+    ]
+  },
+  "properties": {
+    "uuid": "8376304a-bf8a-58b3-857d-6d1d2424cc28",
+    "name": "Snoopy Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9865811800"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

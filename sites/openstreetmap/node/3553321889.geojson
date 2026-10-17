@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.340601,
+      61.470554
+    ]
+  },
+  "properties": {
+    "uuid": "ca0f9810-a268-5e96-9026-21ae868ff463",
+    "name": "Стенка Мустасаари",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3553321889"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

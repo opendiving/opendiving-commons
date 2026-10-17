@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.175263,
+      44.313304
+    ]
+  },
+  "properties": {
+    "uuid": "c67749cd-f47c-5c08-945f-324e1418e901",
+    "name": "Cristo degli abissi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1930214216"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Christ of the Abyss"
+      }
+    }
+  }
+}

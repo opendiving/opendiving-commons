@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.452383,
+      -34.191617
+    ]
+  },
+  "properties": {
+    "uuid": "3fadfe57-c4fe-5ca6-bbcb-813fcdeca97e",
+    "name": "Parana wreck",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41966765"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.62987,
+      47.2818
+    ]
+  },
+  "properties": {
+    "uuid": "38ca0564-b8c5-54de-88f6-0f776c647918",
+    "name": "Épave Laos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595466"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

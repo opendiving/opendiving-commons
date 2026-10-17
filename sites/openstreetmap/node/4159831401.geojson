@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.279398,
+      36.015626
+    ]
+  },
+  "properties": {
+    "uuid": "35f6736d-228f-51e8-bf09-eef79c16a881",
+    "name": "Ras il-Ħobż",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831401"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

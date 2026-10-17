@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.02345,
+      51.469067
+    ]
+  },
+  "properties": {
+    "uuid": "c0bd7be5-b3f2-5305-b268-ed876842a436",
+    "name": "Hufeisensee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870891"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

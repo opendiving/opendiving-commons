@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.422077,
+      25.870171
+    ]
+  },
+  "properties": {
+    "uuid": "25c04e14-f12b-5d22-9616-bea487cb61cc",
+    "name": "Sham Fugami",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1493059692"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

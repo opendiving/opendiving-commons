@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.847717,
+      44.187917
+    ]
+  },
+  "properties": {
+    "uuid": "35633d0a-e547-56a6-a8d9-962070cffe82",
+    "name": "Golac",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869719"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

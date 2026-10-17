@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.290208,
+      -0.59515
+    ]
+  },
+  "properties": {
+    "uuid": "75eb3f12-3b0d-55a1-bb85-cc6d0dd3d362",
+    "name": "Rainbow Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453434625"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

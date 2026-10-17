@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.59701,
+      -8.139342
+    ]
+  },
+  "properties": {
+    "uuid": "21a8b176-25a6-5d8c-b893-088dff56998d",
+    "name": "Sari Dive & Cottage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14001664701"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

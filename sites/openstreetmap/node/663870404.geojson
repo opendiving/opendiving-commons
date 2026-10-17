@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.29303,
+      47.116738
+    ]
+  },
+  "properties": {
+    "uuid": "1fa47c12-6615-5209-8e83-4330e60c9552",
+    "name": "Lediwracks",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870404"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

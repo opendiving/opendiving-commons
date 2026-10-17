@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.951024,
+      27.167161
+    ]
+  },
+  "properties": {
+    "uuid": "f9604f02-2d7c-5577-93e2-f8fa4f909a3f",
+    "name": "Sha`ab Quais",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869803"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

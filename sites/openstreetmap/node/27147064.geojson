@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.609139,
+      36.190898
+    ]
+  },
+  "properties": {
+    "uuid": "9e7fdbf2-2407-54ed-be80-ff9cdbb6dc1d",
+    "name": "Shark Sculpture",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/27147064"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

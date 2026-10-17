@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.968215,
+      4.259491
+    ]
+  },
+  "properties": {
+    "uuid": "23a94076-3ed2-5907-8acb-f8c753aa3f78",
+    "name": "Kuramathi house reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584208530"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

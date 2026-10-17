@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.955874,
+      3.633352
+    ]
+  },
+  "properties": {
+    "uuid": "420cee1e-db55-55bb-bc25-013055a97595",
+    "name": "Exit 5 + 6",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/519024128"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

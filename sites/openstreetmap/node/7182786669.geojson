@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.605752,
+      -8.680416
+    ]
+  },
+  "properties": {
+    "uuid": "1d5487a5-a807-57f4-a6e0-23337bb6729a",
+    "name": "Payong",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182786669"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

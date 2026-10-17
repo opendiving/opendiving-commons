@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.949754,
+      4.070581
+    ]
+  },
+  "properties": {
+    "uuid": "cb5c7e26-0115-5972-a78b-45c3d2ffa173",
+    "name": "Bathalaamaagaa Kanthila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584458552"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

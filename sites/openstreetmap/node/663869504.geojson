@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.602014,
+      44.018711
+    ]
+  },
+  "properties": {
+    "uuid": "5d2e9cb8-c7f7-5597-ac90-2949fe26d657",
+    "name": "Frontenac (Wrack)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869504"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

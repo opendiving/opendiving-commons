@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.990414,
+      -16.427016
+    ]
+  },
+  "properties": {
+    "uuid": "77a9c217-1253-518d-a919-c1332c0cc69f",
+    "name": "Plate Top",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/286279301"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

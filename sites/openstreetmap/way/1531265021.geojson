@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.132871,
+      53.697771
+    ]
+  },
+  "properties": {
+    "uuid": "38670b6c-8a4b-5a06-8a0f-1072034fe61d",
+    "name": "Einstieg E3",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1531265021"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

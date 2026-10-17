@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.885197,
+      52.451009
+    ]
+  },
+  "properties": {
+    "uuid": "c7470021-4ecf-51e8-a9a2-a29e3ae91226",
+    "name": "IBC's",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810586465"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

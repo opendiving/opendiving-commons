@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.67424,
+      47.23116
+    ]
+  },
+  "properties": {
+    "uuid": "0a7bbd2e-326c-5a81-85a9-9326c250de50",
+    "name": "Alte Badanstalt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

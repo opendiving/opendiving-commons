@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.175416,
+      44.312166
+    ]
+  },
+  "properties": {
+    "uuid": "c4a8f18f-6eb8-5b05-be8d-9a8f660d149e",
+    "name": "Dragone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504259272"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

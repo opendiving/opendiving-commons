@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.692889,
+      54.174763
+    ]
+  },
+  "properties": {
+    "uuid": "4d4593aa-4c18-5616-a591-21e9ed9e8532",
+    "name": "Jezioro Mamry – Campingplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871166"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

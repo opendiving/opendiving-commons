@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.787833,
+      54.589667
+    ]
+  },
+  "properties": {
+    "uuid": "b2243a01-8cb1-5145-a5c2-ed191661e32b",
+    "name": "Abille",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871146"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

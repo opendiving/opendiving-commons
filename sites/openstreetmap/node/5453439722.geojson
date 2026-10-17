@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.61107,
+      -2.22171
+    ]
+  },
+  "properties": {
+    "uuid": "2d98063f-2be5-52e6-bee9-14e7170751ed",
+    "name": "Boo Window",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439722"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

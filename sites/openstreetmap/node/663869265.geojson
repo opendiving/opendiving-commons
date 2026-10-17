@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.532759,
+      48.299283
+    ]
+  },
+  "properties": {
+    "uuid": "9bf62cbf-6e74-506a-affd-6073a08d64df",
+    "name": "Race Rocks - Great Race",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869265"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

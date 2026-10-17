@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -34.807811,
+      -7.117644
+    ]
+  },
+  "properties": {
+    "uuid": "75a3fa95-2521-5386-b972-2fc9ea69a7df",
+    "name": "Picãozinho",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/488558959"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

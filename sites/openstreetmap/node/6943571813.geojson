@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.062758,
+      -13.368328
+    ]
+  },
+  "properties": {
+    "uuid": "4b5a9c27-831d-5bbc-a1bd-408e8b38ea50",
+    "name": "Manta divesite",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6943571813"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

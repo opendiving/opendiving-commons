@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.714754,
+      12.594913
+    ]
+  },
+  "properties": {
+    "uuid": "9f6091cf-d5a1-57c5-80b8-41303f4a9e07",
+    "name": "La Roca",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762605"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.607118,
+      3.999115
+    ]
+  },
+  "properties": {
+    "uuid": "b08cf70d-c96d-53e8-a60f-8cd21b882ea7",
+    "name": "Los Gemelos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239641818"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

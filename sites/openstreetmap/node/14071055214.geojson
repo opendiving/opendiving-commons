@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.336514,
+      43.674601
+    ]
+  },
+  "properties": {
+    "uuid": "2d0f5111-fac8-59d9-8412-39e9fbcdd152",
+    "name": "Le Cap Ferrat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14071055214"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

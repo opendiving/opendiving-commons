@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.281952,
+      12.083594
+    ]
+  },
+  "properties": {
+    "uuid": "08bb52a1-7f52-5c69-aaaa-0f51bc45f6c0",
+    "name": "Salt Pier",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869401"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

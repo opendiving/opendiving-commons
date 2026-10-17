@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.473667,
+      51.435
+    ]
+  },
+  "properties": {
+    "uuid": "440b2b9c-3d4e-5a4a-bed3-09fcf42f0435",
+    "name": "S.S. Illyrian",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869561"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

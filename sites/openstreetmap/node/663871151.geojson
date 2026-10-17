@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.666667,
+      54.833333
+    ]
+  },
+  "properties": {
+    "uuid": "76333c41-e7c4-5e90-8478-573086a189f0",
+    "name": "Swanhild",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871151"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

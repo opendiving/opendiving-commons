@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.341922,
+      -33.985353
+    ]
+  },
+  "properties": {
+    "uuid": "94dddafe-25f9-57d6-a380-f1b89057895e",
+    "name": "Coral Gardens Offshore Pinnacle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41770358"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

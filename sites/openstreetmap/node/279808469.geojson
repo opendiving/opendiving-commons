@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.346712,
+      27.908104
+    ]
+  },
+  "properties": {
+    "uuid": "169c9712-34f6-5f27-a49b-f5626e99f364",
+    "name": "Near Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/279808469"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

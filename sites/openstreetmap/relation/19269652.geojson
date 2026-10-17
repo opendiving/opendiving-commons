@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.822059,
+      23.628492
+    ]
+  },
+  "properties": {
+    "uuid": "53900866-11d3-50b6-bbde-bd54dc8efd6c",
+    "name": "Paradise Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/19269652"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

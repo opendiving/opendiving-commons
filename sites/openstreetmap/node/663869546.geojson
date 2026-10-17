@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.697211,
+      45.268878
+    ]
+  },
+  "properties": {
+    "uuid": "c25e7df2-b3a5-5d08-abe4-c90fc018f8d6",
+    "name": "Philo Scoville (Wreck)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869546"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.132037,
+      53.702174
+    ]
+  },
+  "properties": {
+    "uuid": "92da0792-1185-50bc-93c1-6d5a2db5ccb0",
+    "name": "Trümmerfeld",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518345"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

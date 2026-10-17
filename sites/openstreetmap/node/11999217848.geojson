@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.268141,
+      50.854409
+    ]
+  },
+  "properties": {
+    "uuid": "a286ab59-dfff-587d-9e1a-99972125d3bb",
+    "name": "Plattform 9m",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11999217848"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

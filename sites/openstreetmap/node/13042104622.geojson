@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.454714,
+      -0.50945
+    ]
+  },
+  "properties": {
+    "uuid": "5b9dc73b-86a2-5109-9bf0-105c56d2c7ca",
+    "name": "Gam Ridge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042104622"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

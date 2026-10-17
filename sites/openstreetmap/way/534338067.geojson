@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -47.848205,
+      -23.054127
+    ]
+  },
+  "properties": {
+    "uuid": "097de0e7-f204-5c6c-9aef-d4385e0deac1",
+    "name": "Lago Esmeralda",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/534338067"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

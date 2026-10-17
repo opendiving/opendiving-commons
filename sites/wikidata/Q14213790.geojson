@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.342167,
+      -34.004167
+    ]
+  },
+  "properties": {
+    "uuid": "c06944fd-2001-573f-acfa-d4d56c5b7e08",
+    "name": "Logies Bay",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213790"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

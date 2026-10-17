@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.56045,
+      24.20885
+    ]
+  },
+  "properties": {
+    "uuid": "d27baa37-53dd-5652-b4c2-017f37018219",
+    "name": "Adantia K.",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869768"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

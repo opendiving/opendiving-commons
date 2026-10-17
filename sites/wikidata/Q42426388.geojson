@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.490553,
+      -34.389652
+    ]
+  },
+  "properties": {
+    "uuid": "5da281af-2d96-5f49-baf1-44e88973f8c1",
+    "name": "Bellows Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42426388"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

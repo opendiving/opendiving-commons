@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.489642,
+      -24.883343
+    ]
+  },
+  "properties": {
+    "uuid": "34601948-dd14-59d7-8b2b-c9f094b5e1a8",
+    "name": "Barolin Point Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1984208164"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

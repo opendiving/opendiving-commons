@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.985375,
+      46.001086
+    ]
+  },
+  "properties": {
+    "uuid": "c7a85118-6718-5281-a999-30bbf4af2918",
+    "name": "Sentiero di Gandria",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870150"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

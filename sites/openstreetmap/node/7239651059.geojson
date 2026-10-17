@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.60652,
+      4.012632
+    ]
+  },
+  "properties": {
+    "uuid": "834fd4ff-2d8d-5b72-ad5e-50c25a2c2f0d",
+    "name": "D'Artagnan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651059"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

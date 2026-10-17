@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.286854,
+      26.214944
+    ]
+  },
+  "properties": {
+    "uuid": "fb0479ec-76b0-59b8-8eb8-192be98da061",
+    "name": "イボイボサンゴ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333126062"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ibo-ibo Sango"
+      }
+    }
+  }
+}

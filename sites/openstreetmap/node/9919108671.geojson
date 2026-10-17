@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.417483,
+      43.730166
+    ]
+  },
+  "properties": {
+    "uuid": "511a3325-3d25-5842-9a87-0f2423dc379b",
+    "name": "CESMM",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9919108671"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.551583,
+      -0.432152
+    ]
+  },
+  "properties": {
+    "uuid": "f00772fa-1286-539c-8402-4f70c3e40237",
+    "name": "Selat Kabui",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167285438"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.869794,
+      9.860521
+    ]
+  },
+  "properties": {
+    "uuid": "98648d89-8100-5b0b-8b56-bb5ba9fb0395",
+    "name": "Western Rocky Pinnacle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/602929122"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

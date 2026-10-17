@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.866623,
+      24.646585
+    ]
+  },
+  "properties": {
+    "uuid": "d5a04ddf-7c82-5828-94b7-8892d2bd992e",
+    "name": "Dry Tortugas National Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/4437721"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

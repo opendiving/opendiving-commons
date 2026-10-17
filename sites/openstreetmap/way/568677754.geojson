@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.296831,
+      -0.591724
+    ]
+  },
+  "properties": {
+    "uuid": "78e9e532-1922-503e-b4c6-b58e9d81c0b2",
+    "name": "Fam Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/568677754"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

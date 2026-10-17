@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.552117,
+      -5.619649
+    ]
+  },
+  "properties": {
+    "uuid": "33251c55-19f5-58e5-a5d8-dd83bc57775a",
+    "name": "Jetski Lagoon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041430"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

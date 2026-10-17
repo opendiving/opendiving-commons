@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.819074,
+      4.192881
+    ]
+  },
+  "properties": {
+    "uuid": "65fb76cf-4c25-5d77-9181-9b4bca4cabef",
+    "name": "Velidhu Hausriff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869885"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.675502,
+      -14.929769
+    ]
+  },
+  "properties": {
+    "uuid": "b9435518-4af0-545f-a4c0-26b19677e697",
+    "name": "Pixie Pinnacle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802347"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.21778,
+      27.786602
+    ]
+  },
+  "properties": {
+    "uuid": "e3167e03-7ef6-505e-b7bc-cf8cdbcd5bc5",
+    "name": "Marsa Bareika",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8559506181"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

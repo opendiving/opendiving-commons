@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.527169,
+      44.699669
+    ]
+  },
+  "properties": {
+    "uuid": "56a239ca-8277-597e-87c1-cbffabb251ff",
+    "name": "Rothesay (Shipwreck)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869510"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

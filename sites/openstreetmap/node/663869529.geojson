@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.690009,
+      37.632583
+    ]
+  },
+  "properties": {
+    "uuid": "f0016f80-1a42-55a7-bf26-e4602174ee98",
+    "name": "Cala Roja- Cabo de Palos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869529"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

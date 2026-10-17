@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.768436,
+      44.966607
+    ]
+  },
+  "properties": {
+    "uuid": "5e758f67-1f5b-5ec6-b9f1-481bc8e6e7f9",
+    "name": "Kricin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869748"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

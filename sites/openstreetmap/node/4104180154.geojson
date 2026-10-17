@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.555791,
+      -5.620301
+    ]
+  },
+  "properties": {
+    "uuid": "cedb6c8a-d5d3-513e-ae56-3f2394f2f503",
+    "name": "The Cleavage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104180154"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

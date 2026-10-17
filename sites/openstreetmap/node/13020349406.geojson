@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.815494,
+      54.263969
+    ]
+  },
+  "properties": {
+    "uuid": "9f24bbdc-b75b-5ee8-9c05-9d49b4a06723",
+    "name": "Sign 60",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13020349406"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

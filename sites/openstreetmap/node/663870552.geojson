@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.440556,
+      50.804444
+    ]
+  },
+  "properties": {
+    "uuid": "338409d8-7c8a-56e1-9161-b44e27b6ed89",
+    "name": "Dürener Badesee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870552"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

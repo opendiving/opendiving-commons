@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.798409,
+      -8.389677
+    ]
+  },
+  "properties": {
+    "uuid": "c5348410-75a9-59f8-ab38-4534a4bb479b",
+    "name": "Sabolon kecil dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8022562468"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

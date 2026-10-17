@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.088052,
+      46.370399
+    ]
+  },
+  "properties": {
+    "uuid": "ef884dbb-054d-500b-a24b-4bda6a36b66b",
+    "name": "Pri Čolnarni, Velenjsko jezero",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2495038636"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

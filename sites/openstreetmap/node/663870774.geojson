@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.228883,
+      45.153583
+    ]
+  },
+  "properties": {
+    "uuid": "5219e5e9-656c-504f-845a-aaa122b1b8b8",
+    "name": "Säulenbucht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870774"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

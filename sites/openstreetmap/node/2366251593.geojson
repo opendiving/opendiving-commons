@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.149522,
+      45.897655
+    ]
+  },
+  "properties": {
+    "uuid": "e9f5e3bd-fb49-5e3d-b2fc-fc0f48e2566f",
+    "name": "Le France",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2366251593"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.98359,
+      47.86095
+    ]
+  },
+  "properties": {
+    "uuid": "1abebb2a-5dda-57a5-8800-d139720307a7",
+    "name": "Site de Plongée - cale de BEG MEIL",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587817"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

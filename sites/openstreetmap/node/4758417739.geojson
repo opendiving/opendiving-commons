@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.482718,
+      15.536265
+    ]
+  },
+  "properties": {
+    "uuid": "b30c268a-5309-5c5a-b504-27159e73b6c4",
+    "name": "plume plateau deep",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4758417739"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

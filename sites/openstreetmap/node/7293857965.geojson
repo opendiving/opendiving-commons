@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.774021,
+      1.631244
+    ]
+  },
+  "properties": {
+    "uuid": "294cd5da-1e7f-5c11-8cb6-30348c44c7d8",
+    "name": "Sachiko's",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293857965"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

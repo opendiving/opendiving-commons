@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.129784,
+      53.699274
+    ]
+  },
+  "properties": {
+    "uuid": "4722de26-9a0c-559d-81e8-934a5d84f6e9",
+    "name": "Chinesisches Tor",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450041"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

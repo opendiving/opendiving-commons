@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.07955,
+      11.9742
+    ]
+  },
+  "properties": {
+    "uuid": "11b889fd-cc3d-504c-aa72-f8ab2fcb776e",
+    "name": "Teru Kaze",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871191"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

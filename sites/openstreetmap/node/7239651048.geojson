@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.615104,
+      3.99892
+    ]
+  },
+  "properties": {
+    "uuid": "6fa6122c-ba6b-56df-8d6e-26d6b6a74307",
+    "name": "El Sahara",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651048"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

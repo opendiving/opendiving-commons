@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.963622,
+      47.601342
+    ]
+  },
+  "properties": {
+    "uuid": "03b506cd-946a-55ef-82f6-c88431a4d01c",
+    "name": "SS Rose Castle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6292677130"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

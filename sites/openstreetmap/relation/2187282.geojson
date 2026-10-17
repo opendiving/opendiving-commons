@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.724757,
+      30.185937
+    ]
+  },
+  "properties": {
+    "uuid": "1d6339b0-69e5-505c-a2d0-e6c83bdf2331",
+    "name": "Saint Andrew's Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/2187282"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

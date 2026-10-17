@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.738449,
+      12.554153
+    ]
+  },
+  "properties": {
+    "uuid": "782af1b9-f74f-5d02-9e42-a913f0e0ab2d",
+    "name": "Las Esponjas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748279"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

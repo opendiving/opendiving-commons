@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.213117,
+      24.438333
+    ]
+  },
+  "properties": {
+    "uuid": "8dcbe185-f48c-5f71-8d50-a008f2e33c66",
+    "name": "Hamada",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869769"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

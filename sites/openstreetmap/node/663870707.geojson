@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.57733,
+      46.795071
+    ]
+  },
+  "properties": {
+    "uuid": "64caac5e-57d4-5770-8152-310252d8adf7",
+    "name": "Millstätter See - Bucht von Döbriach;Millstätter See - Junfernsprung;Millstätter See - Liafelsen;Millstätter See - Ostufer;Millstätter See - Wrack `Möve`",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870707"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

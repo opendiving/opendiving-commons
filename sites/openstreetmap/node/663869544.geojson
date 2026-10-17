@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.674058,
+      45.311878
+    ]
+  },
+  "properties": {
+    "uuid": "d58b238d-c36b-5c1a-a94d-cab80e9e4fcf",
+    "name": "Arabia (Wreck)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869544"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

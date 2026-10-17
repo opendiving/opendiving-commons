@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.831604,
+      51.47628
+    ]
+  },
+  "properties": {
+    "uuid": "2e1b77e4-78fb-5353-9cc1-b847b6182eb8",
+    "name": "Taucheinstieg 5",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2377183916"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

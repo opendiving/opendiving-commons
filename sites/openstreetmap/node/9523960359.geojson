@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.402527,
+      12.299736
+    ]
+  },
+  "properties": {
+    "uuid": "9ebe5de2-772e-5d67-a474-3f1cf9a78321",
+    "name": "Boka Katuna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9523960359"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

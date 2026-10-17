@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.279159,
+      11.13582
+    ]
+  },
+  "properties": {
+    "uuid": "b11f218b-3407-5fea-bde0-114dc6f3bc08",
+    "name": "Banayan Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/236058151"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

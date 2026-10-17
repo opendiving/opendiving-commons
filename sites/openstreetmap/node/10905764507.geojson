@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.361881,
+      -27.296815
+    ]
+  },
+  "properties": {
+    "uuid": "8c0e0f5d-712e-58bf-9a79-d929c80a3ca0",
+    "name": "Ilha do Arvoredo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10905764507"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

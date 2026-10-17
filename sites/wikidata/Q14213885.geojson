@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.36425,
+      -34.271583
+    ]
+  },
+  "properties": {
+    "uuid": "60f00524-ce0b-59fc-8d34-bbcd50f2e5df",
+    "name": "SS Star of Africa",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213885"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

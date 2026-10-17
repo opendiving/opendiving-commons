@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8505,
+      47.365867
+    ]
+  },
+  "properties": {
+    "uuid": "5d675ee2-adfa-53eb-9ad5-83e86397b0e5",
+    "name": "Blindsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870467"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

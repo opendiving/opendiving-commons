@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61711,
+      47.27721
+    ]
+  },
+  "properties": {
+    "uuid": "c70ac1cb-93f7-5bec-8575-7eba1f9aa30e",
+    "name": "Haus am See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452057"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

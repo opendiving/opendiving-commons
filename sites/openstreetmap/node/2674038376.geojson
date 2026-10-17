@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.410528,
+      12.666333
+    ]
+  },
+  "properties": {
+    "uuid": "ee05e18d-46f8-5575-a069-32e977d20157",
+    "name": "Ego Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038376"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

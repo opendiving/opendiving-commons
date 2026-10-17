@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.567217,
+      47.87295
+    ]
+  },
+  "properties": {
+    "uuid": "8409ce6a-43d3-59a4-a797-23437e89e381",
+    "name": "Attersee - Alexenau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870828"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

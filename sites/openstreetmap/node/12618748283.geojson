@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.678203,
+      12.527005
+    ]
+  },
+  "properties": {
+    "uuid": "6bccb0e6-53c0-55cd-a769-e0f2455c041b",
+    "name": "Los Cables",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748283"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

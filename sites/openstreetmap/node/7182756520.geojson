@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.567594,
+      -8.694626
+    ]
+  },
+  "properties": {
+    "uuid": "a2b77f6e-5ae7-5e72-b48d-01b4b2f713ae",
+    "name": "Pillarsteen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182756520"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

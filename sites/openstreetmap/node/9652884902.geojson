@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.875127,
+      51.179216
+    ]
+  },
+  "properties": {
+    "uuid": "06ad0133-5234-5082-bf49-4f0255ad631e",
+    "name": "bootje",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9652884902"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.412333,
+      54.413167
+    ]
+  },
+  "properties": {
+    "uuid": "a5bdc52b-f0af-55bf-8f8b-9c28d3a048c6",
+    "name": "Saugbagger Sandtrans",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871119"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

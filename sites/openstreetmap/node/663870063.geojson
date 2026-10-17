@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.30683,
+      46.77527
+    ]
+  },
+  "properties": {
+    "uuid": "a7a45e85-66d8-58db-a7d2-ea40dce1a6c2",
+    "name": "Seemitte",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870063"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

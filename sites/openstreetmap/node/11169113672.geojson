@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.655037,
+      5.961004
+    ]
+  },
+  "properties": {
+    "uuid": "770a2dd4-f76f-5d87-a491-a8c611b943bf",
+    "name": "Temple of the Sea",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11169113672"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

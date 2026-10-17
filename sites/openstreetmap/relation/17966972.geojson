@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.219269,
+      41.925394
+    ]
+  },
+  "properties": {
+    "uuid": "b494f374-e9d6-560e-9919-a8de9683b379",
+    "name": "Illa de Sa Gavina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/17966972"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

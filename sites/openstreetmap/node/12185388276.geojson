@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.504759,
+      -0.793062
+    ]
+  },
+  "properties": {
+    "uuid": "f05b34ea-9e5b-50a3-bbf3-45c733a74861",
+    "name": "Irvin's Mantas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12185388276"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

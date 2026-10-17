@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.914349,
+      13.794793
+    ]
+  },
+  "properties": {
+    "uuid": "a1569ee8-1732-5e30-bbf0-e6d6092ae774",
+    "name": "Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1271232216"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

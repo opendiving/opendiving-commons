@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.227087,
+      41.944533
+    ]
+  },
+  "properties": {
+    "uuid": "3b09c860-2927-5a03-a0f1-0f69c376b2d9",
+    "name": "Illa Negra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/17966971"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.18273,
+      -0.367603
+    ]
+  },
+  "properties": {
+    "uuid": "93be0293-e7f5-5df2-bb60-40498c48f348",
+    "name": "Pulau Memyai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045303478"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

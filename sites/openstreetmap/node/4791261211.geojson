@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.813631,
+      -1.56004
+    ]
+  },
+  "properties": {
+    "uuid": "23e6e87b-b2e7-5bd9-8a0b-2a919f9a0024",
+    "name": "Mares Dive Center",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4791261211"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.908705,
+      13.830295
+    ]
+  },
+  "properties": {
+    "uuid": "c9f57612-c2a4-5060-b067-54f0c83baff7",
+    "name": "Rockport Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1271234012"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

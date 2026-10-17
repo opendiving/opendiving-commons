@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13604,
+      53.695633
+    ]
+  },
+  "properties": {
+    "uuid": "022576eb-1abb-54f1-b800-a89645b5aeb0",
+    "name": "Autowrack Ford Mondeo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518336"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

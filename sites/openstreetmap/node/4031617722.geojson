@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.855683,
+      7.382708
+    ]
+  },
+  "properties": {
+    "uuid": "275b0760-f4d9-5835-babd-9fa76af8ff43",
+    "name": "Haian Maru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031617722"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

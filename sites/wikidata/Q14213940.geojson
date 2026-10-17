@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.380967,
+      -33.8352
+    ]
+  },
+  "properties": {
+    "uuid": "d778689c-e84e-558c-90ef-73daf45ae535",
+    "name": "Whale Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213940"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.812668,
+      46.661346
+    ]
+  },
+  "properties": {
+    "uuid": "d76c30a3-1c41-5b74-a040-0c0ef5d54c71",
+    "name": "Därligen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845666079"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

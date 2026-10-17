@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.79488,
+      25.34062
+    ]
+  },
+  "properties": {
+    "uuid": "c2f92d6f-8db1-54af-b0ec-ad24a2a2bb5f",
+    "name": "Abu Dabab 4",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701364670"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

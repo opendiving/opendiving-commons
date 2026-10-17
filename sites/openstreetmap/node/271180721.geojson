@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.145789,
+      24.674982
+    ]
+  },
+  "properties": {
+    "uuid": "7c44edcf-932a-5754-8572-3fd6c03afd87",
+    "name": "Torfi, Wadi Gamal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271180721"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

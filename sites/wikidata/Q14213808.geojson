@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.349033,
+      -34.065167
+    ]
+  },
+  "properties": {
+    "uuid": "da9c6132-b91c-5d81-9d0d-b625b53b7d9a",
+    "name": "MV Katsu Maru",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213808"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

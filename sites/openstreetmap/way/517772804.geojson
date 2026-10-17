@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.945569,
+      51.193061
+    ]
+  },
+  "properties": {
+    "uuid": "cf3286b6-b324-5520-8dab-e331f735b3d1",
+    "name": "Oolderhuuske",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/517772804"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

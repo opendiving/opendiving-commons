@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.450658,
+      -8.735345
+    ]
+  },
+  "properties": {
+    "uuid": "b4541643-e9b7-50f6-8df3-b618e2157229",
+    "name": "Manta Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4471094391"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

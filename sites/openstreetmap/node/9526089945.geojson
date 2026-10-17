@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.44126,
+      -0.306573
+    ]
+  },
+  "properties": {
+    "uuid": "308a3b3b-d52f-5113-b28a-f429a5d6af72",
+    "name": "Tiger sharks feeding point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9526089945"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

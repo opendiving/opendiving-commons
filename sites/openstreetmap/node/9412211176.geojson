@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.325071,
+      7.498387
+    ]
+  },
+  "properties": {
+    "uuid": "3b3954bf-33f7-5844-ba41-80dfa4ad028e",
+    "name": "Banana Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9412211176"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

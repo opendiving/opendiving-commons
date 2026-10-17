@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16589,
+      44.312117
+    ]
+  },
+  "properties": {
+    "uuid": "79cb45ec-8fc6-59a0-89e5-426de96cd672",
+    "name": "Punta della Torretta",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504258024"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

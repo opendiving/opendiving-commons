@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.043853,
+      -8.347966
+    ]
+  },
+  "properties": {
+    "uuid": "d65b3339-cfe1-5ff2-92ee-6a548224be6d",
+    "name": "Bale Sampan Biorock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4813305043"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

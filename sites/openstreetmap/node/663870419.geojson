@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.40456,
+      47.54317
+    ]
+  },
+  "properties": {
+    "uuid": "aff62fd9-dd91-5150-8a50-6a9fc18745e6",
+    "name": "Lädine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870419"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

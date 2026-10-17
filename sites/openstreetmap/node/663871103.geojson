@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.495074,
+      52.910017
+    ]
+  },
+  "properties": {
+    "uuid": "75099a73-375c-5c6d-af49-85e7b7417c5b",
+    "name": "Jezioro Jelenin - Badeanstalt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871103"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

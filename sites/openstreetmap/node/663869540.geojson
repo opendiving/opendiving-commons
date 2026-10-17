@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.709328,
+      45.265574
+    ]
+  },
+  "properties": {
+    "uuid": "c85fa9bc-e29b-579e-bb4e-9756a73c528e",
+    "name": "W. L. Wetmore (Wreck)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869540"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

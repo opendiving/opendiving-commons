@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.240667,
+      44.478667
+    ]
+  },
+  "properties": {
+    "uuid": "e8169301-f0be-5185-bedd-9383bc199602",
+    "name": "O.J. Walker",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869521"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

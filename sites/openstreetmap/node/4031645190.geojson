@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.352673,
+      7.080505
+    ]
+  },
+  "properties": {
+    "uuid": "d80a1284-a55a-5b9d-a2f0-9bee8386fc21",
+    "name": "West Coral Pass",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031645190"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

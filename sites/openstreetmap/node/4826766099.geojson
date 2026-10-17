@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.260845,
+      6.540405
+    ]
+  },
+  "properties": {
+    "uuid": "f7609c83-52c7-5d03-aafa-f9c2a5061e04",
+    "name": "เกาะยางใต้",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4826766099"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Koh Yang South"
+      }
+    }
+  }
+}

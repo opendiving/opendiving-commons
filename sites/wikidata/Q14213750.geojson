@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.486567,
+      -34.250083
+    ]
+  },
+  "properties": {
+    "uuid": "d0bf03b2-9df0-5989-8089-75637510bee3",
+    "name": "Finlay's Deep",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213750"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

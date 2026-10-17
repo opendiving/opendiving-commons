@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.808667,
+      23.829212
+    ]
+  },
+  "properties": {
+    "uuid": "9483be84-443d-5b60-b0ac-3a43af8eb0cc",
+    "name": "Sirnaka Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1068558027"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

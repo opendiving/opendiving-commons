@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.79789,
+      9.54887
+    ]
+  },
+  "properties": {
+    "uuid": "d26c8b6e-509f-588c-a305-ae532455aa6e",
+    "name": "Tawala Sanctuary",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13903552136"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

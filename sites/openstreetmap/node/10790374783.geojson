@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.292656,
+      -5.730153
+    ]
+  },
+  "properties": {
+    "uuid": "9d454ebe-44ef-5644-9904-2fb33b52ed46",
+    "name": "THGI Nungwi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10790374783"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

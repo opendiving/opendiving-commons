@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.885341,
+      8.712022
+    ]
+  },
+  "properties": {
+    "uuid": "e071353f-4499-5535-9e89-07bc94ffb2fd",
+    "name": "El Andia - Jureles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1552609341"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

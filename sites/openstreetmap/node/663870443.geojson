@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.85076,
+      46.82241
+    ]
+  },
+  "properties": {
+    "uuid": "0566fa09-f3bd-5bb6-b59a-13f39d9b0b05",
+    "name": "Bootshaus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870443"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.313915,
+      6.492845
+    ]
+  },
+  "properties": {
+    "uuid": "bd6f80e9-d8bc-54b4-8ec1-d7b369473bd3",
+    "name": "Koh Kra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4826766094"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

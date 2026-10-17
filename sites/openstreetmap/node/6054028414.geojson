@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.496409,
+      47.119047
+    ]
+  },
+  "properties": {
+    "uuid": "ffe121fe-b2af-558a-9c95-bbc0a91712c2",
+    "name": "Einbaum",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6054028414"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.472091,
+      -8.743208
+    ]
+  },
+  "properties": {
+    "uuid": "fa38fc56-b8e8-5e36-b623-39c0f34f824c",
+    "name": "Tanjung Loh Sera dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182774875"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

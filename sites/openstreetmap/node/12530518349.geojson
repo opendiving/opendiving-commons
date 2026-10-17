@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130267,
+      53.701374
+    ]
+  },
+  "properties": {
+    "uuid": "b8e84740-8c20-5f9a-a186-acc966157df1",
+    "name": "Förderband",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518349"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

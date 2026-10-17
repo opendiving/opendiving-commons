@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.090812,
+      54.175147
+    ]
+  },
+  "properties": {
+    "uuid": "dbb6a305-ac2f-5aed-9f17-5fa6354222de",
+    "name": "Tauchsportclub Warnemünde e.V.",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4252231594"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

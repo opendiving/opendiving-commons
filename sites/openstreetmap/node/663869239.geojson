@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.619415,
+      -17.542242
+    ]
+  },
+  "properties": {
+    "uuid": "de1c3977-637a-59e4-8dbd-904c866ad5bc",
+    "name": "Vallée des requins",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869239"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.805735,
+      54.258818
+    ]
+  },
+  "properties": {
+    "uuid": "4e297f43-8494-597a-a80f-ddb88b531d23",
+    "name": "Buoy guideline to the bell",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13033803780"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

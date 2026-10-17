@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.5963,
+      43.166283
+    ]
+  },
+  "properties": {
+    "uuid": "2ab66470-eb79-58ca-8d23-a04a3f23de39",
+    "name": "Calanque de Figuerolles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4356710559"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

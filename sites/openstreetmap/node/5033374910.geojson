@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      164.982804,
+      -20.687138
+    ]
+  },
+  "properties": {
+    "uuid": "097838f9-be32-5b07-a90f-c8b3f2276b94",
+    "name": "Centre de plongée de Babou",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5033374910"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

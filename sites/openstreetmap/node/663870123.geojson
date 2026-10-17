@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.37294,
+      47.31805
+    ]
+  },
+  "properties": {
+    "uuid": "99ed6549-28e2-539e-ab5e-69ccc4dc8323",
+    "name": "Wird",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870123"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

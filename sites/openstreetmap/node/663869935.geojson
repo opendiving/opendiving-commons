@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.448786,
+      3.906479
+    ]
+  },
+  "properties": {
+    "uuid": "427aa063-5531-56e5-9ed2-e62513b103ad",
+    "name": "Biyadoo Kuda Giri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869935"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

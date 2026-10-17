@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.894587,
+      27.150095
+    ]
+  },
+  "properties": {
+    "uuid": "737f4fdc-bf34-5e2e-b980-c01c9d16232d",
+    "name": "Shaab Tiffany",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6661183328"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.45698,
+      -8.735506
+    ]
+  },
+  "properties": {
+    "uuid": "d7abc96a-b38b-5ebf-bbb3-bbf560e9fd84",
+    "name": "Loh Sera dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182771890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

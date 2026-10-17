@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.993349,
+      54.181733
+    ]
+  },
+  "properties": {
+    "uuid": "9a1136a6-1cd0-58a6-9bab-25ea612dc0c3",
+    "name": "Bohrhammer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2001262807"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

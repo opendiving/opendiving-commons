@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.91756,
+      46.652098
+    ]
+  },
+  "properties": {
+    "uuid": "0cf6e51b-630b-59fd-aad5-79a11d7a3d3a",
+    "name": "Ossiacher See - Gemeindebad St. Andrä",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870705"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

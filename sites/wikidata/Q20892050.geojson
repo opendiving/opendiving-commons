@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4831,
+      -34.2326
+    ]
+  },
+  "properties": {
+    "uuid": "fe0bdcb0-fc0a-5dba-bd6d-07df0f948c9b",
+    "name": "Murphy's",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q20892050"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

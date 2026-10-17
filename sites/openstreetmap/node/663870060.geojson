@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.350195,
+      46.773882
+    ]
+  },
+  "properties": {
+    "uuid": "94e2b744-3842-5652-8ef8-6876e7ddeee9",
+    "name": "Bootsplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870060"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

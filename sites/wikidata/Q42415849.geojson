@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.560367,
+      -34.246083
+    ]
+  },
+  "properties": {
+    "uuid": "6a8d2048-8975-5742-8e9c-529586d4f757",
+    "name": "Whittle Rock North-west Pinnacle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42415849"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

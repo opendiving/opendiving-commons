@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5825,
+      -34.1375
+    ]
+  },
+  "properties": {
+    "uuid": "e63ba541-7795-5049-bec4-4db881f05461",
+    "name": "Seal Island",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213893"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

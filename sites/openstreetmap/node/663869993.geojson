@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.821055,
+      46.962588
+    ]
+  },
+  "properties": {
+    "uuid": "e95dbe61-c5a5-564f-ac2e-fab4fa1c0778",
+    "name": "Gorges de l'Areuse",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869993"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

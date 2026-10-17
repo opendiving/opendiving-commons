@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      162.925674,
+      5.26916
+    ]
+  },
+  "properties": {
+    "uuid": "c6445bff-3ed6-5482-a3de-8a491a07b90b",
+    "name": "Old Clam Farm",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031637103"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

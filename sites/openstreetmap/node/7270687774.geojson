@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.93462,
+      -0.46681
+    ]
+  },
+  "properties": {
+    "uuid": "126ca4e5-4dc0-5c25-8919-b14c978f4b5f",
+    "name": "Donut Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270687774"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

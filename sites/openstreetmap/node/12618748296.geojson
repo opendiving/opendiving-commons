@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.734479,
+      12.521591
+    ]
+  },
+  "properties": {
+    "uuid": "fdad93ca-1eff-5d59-aca0-5dd887be0bf7",
+    "name": "las Cuevas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748296"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

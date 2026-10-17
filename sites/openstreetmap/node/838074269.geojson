@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.172691,
+      51.516682
+    ]
+  },
+  "properties": {
+    "uuid": "c74a91b7-fc04-5209-8e3d-079be1e9f543",
+    "name": "Bergse Diepsluis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074269"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

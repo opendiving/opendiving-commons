@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.283969,
+      42.732895
+    ]
+  },
+  "properties": {
+    "uuid": "e8dc4af4-5fcc-5215-a84c-2ed9f346d46d",
+    "name": "Secca di Fonza",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1401609824"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

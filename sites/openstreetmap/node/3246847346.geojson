@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.476433,
+      29.407493
+    ]
+  },
+  "properties": {
+    "uuid": "6b1e41de-71df-539b-9a65-82882c5ea920",
+    "name": "Devil's Den",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3246847346"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

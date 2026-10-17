@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.660683,
+      46.733494
+    ]
+  },
+  "properties": {
+    "uuid": "25f7a665-0b00-5278-b495-08ccfae99fbc",
+    "name": "Hotel Bellevue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845633679"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

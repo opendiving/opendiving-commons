@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.581567,
+      52.233633
+    ]
+  },
+  "properties": {
+    "uuid": "c562455b-6dbd-53c4-bf8f-3e166762047b",
+    "name": "Jersleber See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870939"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

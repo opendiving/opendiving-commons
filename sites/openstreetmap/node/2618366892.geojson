@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.497253,
+      47.531768
+    ]
+  },
+  "properties": {
+    "uuid": "102dc69b-8e36-54da-87b7-bfa44f145f53",
+    "name": "Klacklboden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2618366892"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

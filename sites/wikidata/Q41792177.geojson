@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.305,
+      -34.045833
+    ]
+  },
+  "properties": {
+    "uuid": "d15f7c96-04a0-55a1-886d-c1603be45c97",
+    "name": "Stonehenge Central",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41792177"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

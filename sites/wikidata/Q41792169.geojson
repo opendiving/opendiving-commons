@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.305,
+      -34.043708
+    ]
+  },
+  "properties": {
+    "uuid": "43809f97-50b9-53dd-8066-2ab481c84524",
+    "name": "Stonehenge North",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41792169"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

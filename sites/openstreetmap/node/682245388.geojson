@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.513947,
+      4.082831
+    ]
+  },
+  "properties": {
+    "uuid": "3ef337ef-e1c4-53db-9fcf-70d98a15bb8f",
+    "name": "Bungalow 78 exit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/682245388"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

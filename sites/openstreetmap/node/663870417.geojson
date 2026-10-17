@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.40042,
+      47.53833
+    ]
+  },
+  "properties": {
+    "uuid": "ba353229-dd80-5041-a438-795d3835972a",
+    "name": "Wiedenhorn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870417"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

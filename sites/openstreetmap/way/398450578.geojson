@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.078947,
+      13.866573
+    ]
+  },
+  "properties": {
+    "uuid": "c345658b-939f-5e21-be5b-4927ba722caa",
+    "name": "Turtle Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/398450578"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

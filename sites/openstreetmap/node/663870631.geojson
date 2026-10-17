@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.438573,
+      53.975875
+    ]
+  },
+  "properties": {
+    "uuid": "2752b965-ed29-5d87-a70e-54bfcd891e2c",
+    "name": "Birck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870631"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

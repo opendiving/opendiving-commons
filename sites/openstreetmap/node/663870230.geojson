@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.526009,
+      47.076403
+    ]
+  },
+  "properties": {
+    "uuid": "7eced35f-9b1b-51af-a5d1-4d2ab7486ea6",
+    "name": "Egg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870230"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

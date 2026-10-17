@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.656665,
+      43.168153
+    ]
+  },
+  "properties": {
+    "uuid": "5156fc2d-fd54-54ba-87ca-44046d8dca8e",
+    "name": "Les Brisés",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6691289299"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

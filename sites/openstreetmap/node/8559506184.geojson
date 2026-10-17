@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.472557,
+      28.005967
+    ]
+  },
+  "properties": {
+    "uuid": "1067aaee-6792-5952-809a-1d07778555a3",
+    "name": "Jackson reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8559506184"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

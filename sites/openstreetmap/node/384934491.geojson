@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.235361,
+      36.081252
+    ]
+  },
+  "properties": {
+    "uuid": "a51fa4d3-60d4-5659-9480-e4e8f0b1dc7e",
+    "name": "Għar Ħanżira",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/384934491"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Billinghurst Cave"
+      }
+    }
+  }
+}

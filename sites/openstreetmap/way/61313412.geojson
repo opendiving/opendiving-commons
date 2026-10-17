@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.017586,
+      48.349562
+    ]
+  },
+  "properties": {
+    "uuid": "c14a0e0f-30a3-5643-b56b-7455b99c8a22",
+    "name": "Gurrensee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/61313412"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

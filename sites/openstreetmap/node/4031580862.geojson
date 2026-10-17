@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.315263,
+      11.906451
+    ]
+  },
+  "properties": {
+    "uuid": "a9d85130-7c38-5f98-9348-50853d97ac2e",
+    "name": "Blueberry Hill",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031580862"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

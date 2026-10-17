@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.591667,
+      -34.4155
+    ]
+  },
+  "properties": {
+    "uuid": "a2e1015a-42ef-58db-8995-2398e332c369",
+    "name": "Rocky Bank",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213858"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

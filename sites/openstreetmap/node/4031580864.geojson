@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.284167,
+      11.946257
+    ]
+  },
+  "properties": {
+    "uuid": "e91940d3-d16d-5c41-b762-03f238d2b1d1",
+    "name": "Hin Luk Bath",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031580864"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

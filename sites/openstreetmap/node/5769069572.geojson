@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.436345,
+      45.318342
+    ]
+  },
+  "properties": {
+    "uuid": "357cfba6-ec30-5f61-a5fa-c33ace0fab69",
+    "name": "El Hawi Star Wrack",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5769069572"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

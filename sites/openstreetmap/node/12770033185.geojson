@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.766766,
+      -0.736304
+    ]
+  },
+  "properties": {
+    "uuid": "984bc591-108d-5519-bc4c-66af8d8a805a",
+    "name": "SpaceX",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12770033185"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

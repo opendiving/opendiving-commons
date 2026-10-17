@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.061928,
+      11.971446
+    ]
+  },
+  "properties": {
+    "uuid": "6b3cff54-c28c-5fae-962e-ca0450ef5de7",
+    "name": "TANGAT (morozan maru)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2586271482"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.818017,
+      48.405065
+    ]
+  },
+  "properties": {
+    "uuid": "712da136-e059-5204-b666-6a29b3edf44c",
+    "name": "Matschelsee 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3724238266"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

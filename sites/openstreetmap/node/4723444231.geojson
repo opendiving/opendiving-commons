@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.585827,
+      -8.531196
+    ]
+  },
+  "properties": {
+    "uuid": "30155a83-3402-5e21-926f-08258eeb421f",
+    "name": "Gili Tepekong North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4723444231"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

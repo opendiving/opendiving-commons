@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.474051,
+      22.654946
+    ]
+  },
+  "properties": {
+    "uuid": "2d3c4d8c-fe21-5a3b-91b8-67a5b062fcfb",
+    "name": "石朗潛水區",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4295593671"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

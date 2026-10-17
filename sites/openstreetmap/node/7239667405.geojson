@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.604414,
+      3.999682
+    ]
+  },
+  "properties": {
+    "uuid": "5d3df819-a9cd-58fe-932d-34dcb87b7399",
+    "name": "La Torta",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239667405"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

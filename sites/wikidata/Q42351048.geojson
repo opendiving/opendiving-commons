@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.48195,
+      -34.248383
+    ]
+  },
+  "properties": {
+    "uuid": "6c2d5a73-d75e-57ca-b252-5725d6db49da",
+    "name": "Graeme's Spot",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42351048"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

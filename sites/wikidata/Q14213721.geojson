@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.46042,
+      -34.17917
+    ]
+  },
+  "properties": {
+    "uuid": "f15de0e3-6324-59c8-9942-5e8b8fa2999b",
+    "name": "Castor Rock reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213721"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

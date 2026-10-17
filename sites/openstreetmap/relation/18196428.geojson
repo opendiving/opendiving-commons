@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.709783,
+      5.910144
+    ]
+  },
+  "properties": {
+    "uuid": "02a811ff-ebba-5160-ac4e-4f1223240ab1",
+    "name": "Sea Bell",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/18196428"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

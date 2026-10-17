@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.170159,
+      51.240433
+    ]
+  },
+  "properties": {
+    "uuid": "814b6db1-775b-505a-bc9c-a1c587e0bae4",
+    "name": "Steinbruch Miltitz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/37282929"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.467275,
+      15.611961
+    ]
+  },
+  "properties": {
+    "uuid": "06a661ec-a10e-54df-a2eb-919faa957a98",
+    "name": "Toucari North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4758372668"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

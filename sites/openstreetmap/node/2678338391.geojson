@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.04942,
+      -8.499284
+    ]
+  },
+  "properties": {
+    "uuid": "8176d5e5-8855-56d4-b5fb-f903d601bdec",
+    "name": "Dream Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2678338391"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

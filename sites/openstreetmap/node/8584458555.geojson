@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.861972,
+      4.091363
+    ]
+  },
+  "properties": {
+    "uuid": "7e80bd90-f8e8-5216-a549-3e44550fff7b",
+    "name": "Maaya Thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584458555"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

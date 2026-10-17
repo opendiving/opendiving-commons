@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.730262,
+      8.812651
+    ]
+  },
+  "properties": {
+    "uuid": "a3a41872-ff70-5704-bdd2-d91939bf360e",
+    "name": "North Loi Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1486351743"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.459902,
+      7.289866
+    ]
+  },
+  "properties": {
+    "uuid": "a1c7c4e3-f56f-58b5-9177-f065e26b4de8",
+    "name": "Lighthouse Channel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031041875"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

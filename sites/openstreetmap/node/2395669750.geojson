@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.038308,
+      -8.336235
+    ]
+  },
+  "properties": {
+    "uuid": "aba885fd-764a-5060-9b84-961e2bacd3cb",
+    "name": "Halik",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669750"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

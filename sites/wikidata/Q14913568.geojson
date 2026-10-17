@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.357883,
+      -33.9808
+    ]
+  },
+  "properties": {
+    "uuid": "48612cc8-7018-572c-8540-e186af34b807",
+    "name": "Justins Caves",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14913568"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

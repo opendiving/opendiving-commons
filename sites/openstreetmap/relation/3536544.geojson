@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.459484,
+      46.219307
+    ]
+  },
+  "properties": {
+    "uuid": "03767e0a-deb6-58d4-bc29-d7405becd67e",
+    "name": "Cavité de Fontaine Noire de Cize",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/3536544"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.913056,
+      53.038055
+    ]
+  },
+  "properties": {
+    "uuid": "f4721c35-5e5e-5f0e-bd97-600f596606ea",
+    "name": "Rottkuhle Arbergen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870604"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

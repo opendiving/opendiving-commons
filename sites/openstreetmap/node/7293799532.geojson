@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.767961,
+      1.596089
+    ]
+  },
+  "properties": {
+    "uuid": "780323fb-3305-53a8-8abd-caac15abfd03",
+    "name": "Likuan 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293799532"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

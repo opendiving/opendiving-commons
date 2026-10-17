@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.464992,
+      28.001223
+    ]
+  },
+  "properties": {
+    "uuid": "95a0a38c-9929-5728-ba20-fa1f7c5baa72",
+    "name": "شعب وودهاوس",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/23185891"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Woodhouse Reef"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -41.875881,
+      -22.741684
+    ]
+  },
+  "properties": {
+    "uuid": "b5549c7b-0ebd-5997-8b28-d4cc86a82b0d",
+    "name": "Praia João Fernandes",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/161820597"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

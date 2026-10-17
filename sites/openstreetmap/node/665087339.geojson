@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.873999,
+      46.963317
+    ]
+  },
+  "properties": {
+    "uuid": "a30c50a4-58ba-52be-9b51-77a48f5507db",
+    "name": "Robinson",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087339"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

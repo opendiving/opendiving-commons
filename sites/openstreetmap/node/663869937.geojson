@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.456299,
+      3.895817
+    ]
+  },
+  "properties": {
+    "uuid": "ede5bbae-dca4-5b40-9e72-7b3a54140afd",
+    "name": "Emmadi Giri (Manta Point)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869937"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

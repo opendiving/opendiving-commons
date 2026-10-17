@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.469434,
+      -5.415586
+    ]
+  },
+  "properties": {
+    "uuid": "e5b215d9-d3d1-5174-a3ea-025b938d489f",
+    "name": "Fananas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104113955"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

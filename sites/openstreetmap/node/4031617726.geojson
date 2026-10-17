@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.86861,
+      7.295224
+    ]
+  },
+  "properties": {
+    "uuid": "9bcc384b-bb1e-597d-97d3-e0ae2143c9e1",
+    "name": "Sankisan Maru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031617726"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

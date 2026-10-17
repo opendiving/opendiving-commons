@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.228128,
+      42.763081
+    ]
+  },
+  "properties": {
+    "uuid": "ad5b1de8-5913-541b-b70e-40d4acbb66d1",
+    "name": "Cecil J. (Wrack)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869483"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

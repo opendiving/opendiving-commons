@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.545951,
+      47.840122
+    ]
+  },
+  "properties": {
+    "uuid": "428a4bf2-8ce6-5c83-90a4-3f776e4a30ad",
+    "name": "Attersee - Föttinger",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870808"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

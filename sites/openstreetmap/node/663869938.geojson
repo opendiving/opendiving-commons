@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.467558,
+      3.879147
+    ]
+  },
+  "properties": {
+    "uuid": "3c60daad-9ccb-5f32-b284-5e0f98579e89",
+    "name": "Guradoo South Outside",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869938"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

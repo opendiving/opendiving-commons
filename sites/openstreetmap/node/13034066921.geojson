@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.520331,
+      54.572847
+    ]
+  },
+  "properties": {
+    "uuid": "23673c81-2f71-5c87-b02d-a865ad3e57e2",
+    "name": "Pilaitė",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13034066921"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

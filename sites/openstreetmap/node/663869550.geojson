@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.511389,
+      50.571667
+    ]
+  },
+  "properties": {
+    "uuid": "6bb9f4f6-1e22-5e8f-aa8f-3f8a10ed36f0",
+    "name": "Candia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869550"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

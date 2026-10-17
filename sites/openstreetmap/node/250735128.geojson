@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.520695,
+      28.498431
+    ]
+  },
+  "properties": {
+    "uuid": "88083728-ae83-5d41-bbda-ab0fcf3f4a37",
+    "name": "Light House",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/250735128"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

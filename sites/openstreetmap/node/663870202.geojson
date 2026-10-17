@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.68292,
+      46.54232
+    ]
+  },
+  "properties": {
+    "uuid": "06aa16d8-e157-5ac7-97b7-2c06fcf785d5",
+    "name": "Lago Ritom",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870202"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

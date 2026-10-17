@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.886296,
+      52.450956
+    ]
+  },
+  "properties": {
+    "uuid": "39a90927-1622-511a-b22f-5c4a8a466778",
+    "name": "Zeecontainers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810586461"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

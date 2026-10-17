@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.48067,
+      -34.27589
+    ]
+  },
+  "properties": {
+    "uuid": "0b623830-bada-50cb-9a84-8fa1b4f365a0",
+    "name": "Batsata Blinder",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42372508"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.685785,
+      -4.289915
+    ]
+  },
+  "properties": {
+    "uuid": "386435d9-a961-5457-bfe9-db12cc058fbf",
+    "name": "Roche Grand Maman",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/299835883"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

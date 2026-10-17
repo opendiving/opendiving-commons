@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.678091,
+      8.817713
+    ]
+  },
+  "properties": {
+    "uuid": "66c936c1-1a50-5f27-bf0f-801afef77140",
+    "name": "Twin Peaks Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042425115"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.412634,
+      42.710015
+    ]
+  },
+  "properties": {
+    "uuid": "4c6df2e9-d3ca-5cf8-b920-4bfaeed50738",
+    "name": "Scoglio di Remaiolo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7886825707"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

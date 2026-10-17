@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.2867,
+      43.274683
+    ]
+  },
+  "properties": {
+    "uuid": "28b7831c-5eb7-5a58-bbf6-65635c8d98f8",
+    "name": "Junker 88",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678021"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

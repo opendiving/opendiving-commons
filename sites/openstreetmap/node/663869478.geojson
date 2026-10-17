@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.084764,
+      42.510333
+    ]
+  },
+  "properties": {
+    "uuid": "4e57ea98-7d38-58e3-82d5-9fc1ab0f9bbb",
+    "name": "Atlantic (Wrack)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869478"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

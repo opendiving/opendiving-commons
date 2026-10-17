@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.798294,
+      16.940237
+    ]
+  },
+  "properties": {
+    "uuid": "ee13ef7d-f27f-52a6-ba1e-a73276e8f2c6",
+    "name": "Eagle Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/306112631"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.896468,
+      9.454939
+    ]
+  },
+  "properties": {
+    "uuid": "436212c8-5ba6-5485-b0de-be3192f4a4b5",
+    "name": "Jaak (Chak) Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5424905223"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

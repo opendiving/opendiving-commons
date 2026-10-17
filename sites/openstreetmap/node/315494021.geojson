@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.798398,
+      25.324803
+    ]
+  },
+  "properties": {
+    "uuid": "b505895f-6913-55fe-936c-c416d32a72cb",
+    "name": "Abu Dabab 6",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/315494021"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

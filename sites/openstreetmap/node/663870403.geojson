@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.18839,
+      47.11614
+    ]
+  },
+  "properties": {
+    "uuid": "e1ff2973-5617-5e66-b65b-fad720dc7cd2",
+    "name": "Teufwinkel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870403"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

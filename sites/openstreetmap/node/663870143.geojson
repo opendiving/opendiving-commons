@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.97039,
+      45.92197
+    ]
+  },
+  "properties": {
+    "uuid": "964afc06-e045-5c43-bdaf-46daac17f825",
+    "name": "Lago di Lugano-Parete di Riva",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870143"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

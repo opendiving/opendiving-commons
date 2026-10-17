@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.462692,
+      28.438564
+    ]
+  },
+  "properties": {
+    "uuid": "c375d734-e4c2-5cbf-a4fb-8cffd2bf0fb4",
+    "name": "Golden Blocks",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869860"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

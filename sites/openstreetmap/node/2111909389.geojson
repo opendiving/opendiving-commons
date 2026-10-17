@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.562384,
+      -3.088708
+    ]
+  },
+  "properties": {
+    "uuid": "d3d71a4d-c7b2-5781-8314-c72973d5e9b2",
+    "name": "Ahe Dive Resort",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2111909389"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

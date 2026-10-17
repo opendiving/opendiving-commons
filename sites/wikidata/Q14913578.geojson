@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.474583,
+      -34.214783
+    ]
+  },
+  "properties": {
+    "uuid": "93c05aba-9dd4-5c02-a8eb-02ea3f1ed44b",
+    "name": "Omega Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14913578"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

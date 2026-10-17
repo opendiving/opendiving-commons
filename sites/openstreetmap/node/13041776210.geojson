@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.903506,
+      -0.303633
+    ]
+  },
+  "properties": {
+    "uuid": "303e693b-0318-5c0b-846c-0a3cba005e35",
+    "name": "Telma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041776210"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

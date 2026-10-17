@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.109791,
+      46.998874
+    ]
+  },
+  "properties": {
+    "uuid": "3db98119-4bfa-5970-b65d-f60d8d1f88e2",
+    "name": "Edmund Fitzgerald",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869533"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

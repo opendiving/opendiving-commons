@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.428106,
+      -0.291211
+    ]
+  },
+  "properties": {
+    "uuid": "28daedc7-da75-59f5-b7c7-a0d0385f03d2",
+    "name": "Rasgefanno",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9526089944"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

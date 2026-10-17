@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.51095,
+      47.06536
+    ]
+  },
+  "properties": {
+    "uuid": "6419fdf8-04ea-5c6d-b2d9-679df22d594c",
+    "name": "Tresorfabrik",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452008"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

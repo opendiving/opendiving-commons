@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.882149,
+      46.415115
+    ]
+  },
+  "properties": {
+    "uuid": "105e3ca2-dd65-5bd7-9ce0-1148ddc7369b",
+    "name": "Épave bacchi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595468"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

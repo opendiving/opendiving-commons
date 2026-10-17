@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.812003,
+      10.115929
+    ]
+  },
+  "properties": {
+    "uuid": "7a4bef40-90ed-560a-9838-70fc51653794",
+    "name": "Twins",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/859428938"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Twin Rocks"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.68106,
+      12.545296
+    ]
+  },
+  "properties": {
+    "uuid": "1a1727dc-fd59-549c-b8fe-14136b26020e",
+    "name": "La Parguera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748281"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

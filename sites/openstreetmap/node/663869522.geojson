@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.228333,
+      44.4705
+    ]
+  },
+  "properties": {
+    "uuid": "71dc69c0-0687-51b5-94d8-f9a913b500c0",
+    "name": "General Butler",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869522"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.462567,
+      -34.192733
+    ]
+  },
+  "properties": {
+    "uuid": "34f1aa66-535f-5880-8b05-bb323aaa07df",
+    "name": "Ammo Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42049589"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.7522,
+      46.7696
+    ]
+  },
+  "properties": {
+    "uuid": "e0baffc1-5a38-5b88-b262-9d2cedd8795e",
+    "name": "Brennsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870711"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

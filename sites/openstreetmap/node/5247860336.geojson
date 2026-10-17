@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.337511,
+      47.850494
+    ]
+  },
+  "properties": {
+    "uuid": "51bbbabd-493f-5356-9951-908d979686ca",
+    "name": "Ambach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5247860336"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

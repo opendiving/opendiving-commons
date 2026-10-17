@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.724501,
+      12.594749
+    ]
+  },
+  "properties": {
+    "uuid": "018bd3ff-8da6-5b3b-b12d-6d4797aefd83",
+    "name": "Bajo Bonito",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762604"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

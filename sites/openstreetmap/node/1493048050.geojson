@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.549773,
+      25.723635
+    ]
+  },
+  "properties": {
+    "uuid": "cbc86961-bc28-5ffb-a74e-db4d7e31f816",
+    "name": "El Sheig Malik",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1493048050"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

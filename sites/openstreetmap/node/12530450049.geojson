@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.139204,
+      53.694628
+    ]
+  },
+  "properties": {
+    "uuid": "38bc3b7e-ecf4-58bc-bd98-b88f52087886",
+    "name": "Kabelrolle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450049"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

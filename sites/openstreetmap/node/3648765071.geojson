@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.670114,
+      44.521439
+    ]
+  },
+  "properties": {
+    "uuid": "af7a2cb4-2f96-5441-a5b6-98f8acc1757f",
+    "name": "Émergence de la Pescalerie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3648765071"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

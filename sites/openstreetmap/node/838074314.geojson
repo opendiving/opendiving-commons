@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.067604,
+      51.630036
+    ]
+  },
+  "properties": {
+    "uuid": "5efd48fd-d847-52ee-ab66-0db24735190d",
+    "name": "Zonneschijn Zuiveringsinstallatie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074314"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

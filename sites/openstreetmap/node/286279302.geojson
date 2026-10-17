@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.996504,
+      -16.419228
+    ]
+  },
+  "properties": {
+    "uuid": "d0dc9230-8f04-5824-9197-b7c7979aa6a9",
+    "name": "Troppo's",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/286279302"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

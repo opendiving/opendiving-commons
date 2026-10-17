@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.503014,
+      47.109016
+    ]
+  },
+  "properties": {
+    "uuid": "296689a9-5266-535f-8d6d-cf3d4b25420a",
+    "name": "Grafstatt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5377272892"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

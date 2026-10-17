@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.804417,
+      9.553524
+    ]
+  },
+  "properties": {
+    "uuid": "44432173-52bb-579b-a5ee-9e09666d5306",
+    "name": "Hayahay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13903581054"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

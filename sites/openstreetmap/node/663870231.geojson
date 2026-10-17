@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.522875,
+      47.086333
+    ]
+  },
+  "properties": {
+    "uuid": "f715c237-d66e-5c1b-978f-cdd0167f7a34",
+    "name": "Chlausenegg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870231"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.554305,
+      12.670777
+    ]
+  },
+  "properties": {
+    "uuid": "f8650fbe-874f-58bc-8a1e-56db1c94d192",
+    "name": "Shark Encounter",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038383"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.923045,
+      3.558801
+    ]
+  },
+  "properties": {
+    "uuid": "f5b15627-ed23-56fb-8e4d-188fa14070d9",
+    "name": "Kuda Rah thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584302416"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

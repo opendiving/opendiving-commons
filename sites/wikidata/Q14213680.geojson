@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.370167,
+      -34.27545
+    ]
+  },
+  "properties": {
+    "uuid": "063fe5eb-78f8-5aac-9208-a7ce08ed9c58",
+    "name": "Albatross Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213680"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

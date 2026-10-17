@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.533887,
+      4.0874
+    ]
+  },
+  "properties": {
+    "uuid": "f4f8496e-4613-5df8-b92d-245724ca667f",
+    "name": "Embudu Channel / Embudu Express",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869950"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

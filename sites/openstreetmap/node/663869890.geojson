@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.363679,
+      3.856683
+    ]
+  },
+  "properties": {
+    "uuid": "4a5552e8-6942-5ff0-a7aa-a33d4882660a",
+    "name": "Lhohi Kandu Tila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

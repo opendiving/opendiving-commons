@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.946426,
+      26.766665
+    ]
+  },
+  "properties": {
+    "uuid": "22b2623b-d1c4-508b-b99b-8a85a933d295",
+    "name": "Aluminium",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/947967822"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

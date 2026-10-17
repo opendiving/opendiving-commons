@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.251518,
+      12.02607
+    ]
+  },
+  "properties": {
+    "uuid": "0b09d942-a54f-5c6c-becc-a5d19955e46d",
+    "name": "Red Slave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869397"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

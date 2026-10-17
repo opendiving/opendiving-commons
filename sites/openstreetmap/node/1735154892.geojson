@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.043676,
+      5.780188
+    ]
+  },
+  "properties": {
+    "uuid": "ef602946-0047-5049-8267-2a83eef9aff6",
+    "name": "Redang - Paku Besar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735154892"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

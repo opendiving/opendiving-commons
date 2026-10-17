@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.176614,
+      54.400769
+    ]
+  },
+  "properties": {
+    "uuid": "65e0be60-6d06-584d-b642-cba64c28e30d",
+    "name": "Wulfener Hals (Hausriff Tauchschule Calypso)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870663"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.345515,
+      46.69802
+    ]
+  },
+  "properties": {
+    "uuid": "333ca225-8757-561a-b3f3-088438e66a86",
+    "name": "Grotte de Vallorbe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869976"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

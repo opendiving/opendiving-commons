@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.299073,
+      52.156565
+    ]
+  },
+  "properties": {
+    "uuid": "1e3c5090-613f-500d-9c84-67976f7b8818",
+    "name": "Kleines Bootswrack",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4424290675"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Little Boat Wreck"
+      }
+    }
+  }
+}

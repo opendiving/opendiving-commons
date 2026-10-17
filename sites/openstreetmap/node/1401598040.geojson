@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.436179,
+      42.720591
+    ]
+  },
+  "properties": {
+    "uuid": "d22e6e01-49fd-5695-84aa-30b1c1960d9d",
+    "name": "Grosse Geröllhalde",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1401598040"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

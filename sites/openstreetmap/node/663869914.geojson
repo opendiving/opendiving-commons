@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.373553,
+      3.907911
+    ]
+  },
+  "properties": {
+    "uuid": "506e139d-f3b2-5894-a709-c46b34f725b6",
+    "name": "Lang Giri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869914"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

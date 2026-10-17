@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.249652,
+      7.101426
+    ]
+  },
+  "properties": {
+    "uuid": "9ecf50c9-6b5b-51cc-a268-0cbe60e2901d",
+    "name": "The Big Drop Off",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6179832517"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13433,
+      47.13816
+    ]
+  },
+  "properties": {
+    "uuid": "6ad165d6-ba55-51b4-bb2f-f9d95e847521",
+    "name": "Kraftwerk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870353"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

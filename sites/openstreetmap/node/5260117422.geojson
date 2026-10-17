@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.483939,
+      -8.217384
+    ]
+  },
+  "properties": {
+    "uuid": "fb4367e1-40a1-51a2-9b2c-460c6d1504b0",
+    "name": "DJL Diving Moyo @ Maleo Moyo seaside resort",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5260117422"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

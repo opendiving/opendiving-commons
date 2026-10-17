@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.42364,
+      51.246217
+    ]
+  },
+  "properties": {
+    "uuid": "1b6db6f1-ffcb-5653-87fd-e50613b86d21",
+    "name": "Vobster Quay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/24921022"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

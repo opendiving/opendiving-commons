@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.700182,
+      43.424628
+    ]
+  },
+  "properties": {
+    "uuid": "0e8f2be7-2b7e-5e74-ae05-bf64ac237aef",
+    "name": "Le ponton de la bordelaise",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9948901369"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

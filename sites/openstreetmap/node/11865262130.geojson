@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.233917,
+      38.251361
+    ]
+  },
+  "properties": {
+    "uuid": "f2e303d5-6f1c-5ccf-a404-479b19b2d912",
+    "name": "Grotta del Cristo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11865262130"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

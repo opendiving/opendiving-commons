@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.351627,
+      36.119263
+    ]
+  },
+  "properties": {
+    "uuid": "61d8b344-cd80-5b71-8e1a-69e86a1c89e7",
+    "name": "Camp Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2629930892"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.09892,
+      46.95755
+    ]
+  },
+  "properties": {
+    "uuid": "ebc360dc-61fb-572b-9845-c67dbb25d894",
+    "name": "Mettmenalp",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870239"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

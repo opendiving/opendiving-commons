@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.544241,
+      43.173812
+    ]
+  },
+  "properties": {
+    "uuid": "8f5870de-b963-56ee-92e0-c7af0b6aa83c",
+    "name": "Ramon Membru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6694619324"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

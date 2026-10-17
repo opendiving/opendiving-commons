@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.109793,
+      46.998844
+    ]
+  },
+  "properties": {
+    "uuid": "6f7584cd-9eec-5a72-82bd-8d70bd13e931",
+    "name": "Midship",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/847727580"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

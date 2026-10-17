@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.050096,
+      -8.351782
+    ]
+  },
+  "properties": {
+    "uuid": "d81fdcc4-13dc-5115-9f3b-db37ae331bc7",
+    "name": "Meno Slope",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669755"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

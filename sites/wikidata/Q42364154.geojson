@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4784,
+      -34.2563
+    ]
+  },
+  "properties": {
+    "uuid": "93d3b4a9-f88f-5b33-8bc6-ead477934357",
+    "name": "Dave's Caves",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42364154"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

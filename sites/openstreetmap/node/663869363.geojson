@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.912326,
+      20.568028
+    ]
+  },
+  "properties": {
+    "uuid": "2a20c486-39de-5a4b-a632-13fa498e1f67",
+    "name": "Barracuda Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869363"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

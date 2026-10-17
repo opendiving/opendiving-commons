@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8372,
+      46.92576
+    ]
+  },
+  "properties": {
+    "uuid": "ac6b3e55-35e7-5485-8b83-59335b038286",
+    "name": "Pointe du Grain",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869996"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.778539,
+      54.61356
+    ]
+  },
+  "properties": {
+    "uuid": "ddbbe133-affe-52cf-bd3f-d0c65cc690d4",
+    "name": "ORP Wicher II",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/284658684"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

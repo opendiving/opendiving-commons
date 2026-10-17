@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.345547,
+      50.661906
+    ]
+  },
+  "properties": {
+    "uuid": "403c0789-7ebf-573a-8564-216bbeb22cd9",
+    "name": "Jesenny",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871079"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

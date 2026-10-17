@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.515725,
+      40.101882
+    ]
+  },
+  "properties": {
+    "uuid": "fd8ce301-c5f7-5c8d-ad24-9afc09373e00",
+    "name": "Aquario Nord",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/877286862"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

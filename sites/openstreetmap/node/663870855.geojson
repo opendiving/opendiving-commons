@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.799367,
+      48.015143
+    ]
+  },
+  "properties": {
+    "uuid": "f09fc8a7-6bba-5d2c-9927-9d02d431e2c1",
+    "name": "Traunfälle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870855"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

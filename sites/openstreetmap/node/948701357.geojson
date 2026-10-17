@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.185057,
+      43.998356
+    ]
+  },
+  "properties": {
+    "uuid": "247402ed-d001-50cf-8c77-87f8cd992405",
+    "name": "Затопленные обломки",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/948701357"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.418259,
+      -5.801505
+    ]
+  },
+  "properties": {
+    "uuid": "2d1e2374-605e-5396-ba9c-bdb78c5c92da",
+    "name": "Big Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10209140310"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

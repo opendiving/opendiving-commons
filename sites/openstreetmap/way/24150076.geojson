@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.17206,
+      51.223471
+    ]
+  },
+  "properties": {
+    "uuid": "f4b2e971-f3f2-59e5-81e9-2563e0e475f4",
+    "name": "Zilvermeer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/24150076"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

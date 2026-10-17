@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.215934,
+      -2.182377
+    ]
+  },
+  "properties": {
+    "uuid": "e3d76399-316b-5ea1-96f6-d5e4c36e3e19",
+    "name": "Kaleidascope Ridge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439726"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

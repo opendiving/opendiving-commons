@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.779517,
+      51.44865
+    ]
+  },
+  "properties": {
+    "uuid": "d3fbdc18-7ad3-5deb-b1d9-3cda655a5574",
+    "name": "Krausebruch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870923"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

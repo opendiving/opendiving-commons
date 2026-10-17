@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.547532,
+      51.460732
+    ]
+  },
+  "properties": {
+    "uuid": "cace25d0-a446-5338-9948-083c166f63c5",
+    "name": "Wraysbury",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/147980769"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

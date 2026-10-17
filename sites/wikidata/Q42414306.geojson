@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.7583,
+      -34.2107
+    ]
+  },
+  "properties": {
+    "uuid": "7535c970-720a-595b-9b2d-d86c6ee50d9f",
+    "name": "Steenbras Deep South Pinnacle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42414306"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

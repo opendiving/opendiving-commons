@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.20249,
+      47.6508
+    ]
+  },
+  "properties": {
+    "uuid": "e0d7a01a-fc14-5f3c-8378-fe55beb1ceda",
+    "name": "Ansaugkörbe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870427"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

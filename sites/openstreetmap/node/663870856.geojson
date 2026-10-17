@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.01114,
+      48.784188
+    ]
+  },
+  "properties": {
+    "uuid": "50f1aff1-87c0-55a5-8399-290feaebd2d2",
+    "name": "Luberweiher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870856"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

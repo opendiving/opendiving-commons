@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.664305,
+      4.842114
+    ]
+  },
+  "properties": {
+    "uuid": "3d155370-41f6-51f8-a46d-a8cdaf7d0838",
+    "name": "Amazing Grace",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3033956556"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

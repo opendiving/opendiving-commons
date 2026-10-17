@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.728333,
+      50.631667
+    ]
+  },
+  "properties": {
+    "uuid": "973ca10a-a26b-5c26-b753-81a7b5994c3a",
+    "name": "Dresden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869570"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

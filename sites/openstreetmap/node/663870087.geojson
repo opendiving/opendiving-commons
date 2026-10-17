@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4476,
+      47.18925
+    ]
+  },
+  "properties": {
+    "uuid": "b4518ab1-8766-56a6-bb10-ce44e6103adc",
+    "name": "Rest. Grüner Aff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870087"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

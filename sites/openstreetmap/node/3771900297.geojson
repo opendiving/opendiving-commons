@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.754216,
+      44.450785
+    ]
+  },
+  "properties": {
+    "uuid": "afdbe9a4-f2db-58b3-90fa-a4b30b1e0968",
+    "name": "Trou Madame",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3771900297"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

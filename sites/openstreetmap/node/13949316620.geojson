@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.366652,
+      50.483307
+    ]
+  },
+  "properties": {
+    "uuid": "7aa85c5e-010d-584e-819d-087181717ec6",
+    "name": "SS Bretagne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949316620"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

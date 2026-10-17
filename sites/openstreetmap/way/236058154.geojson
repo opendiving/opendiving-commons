@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.277906,
+      11.15389
+    ]
+  },
+  "properties": {
+    "uuid": "9abcda8f-390f-50fa-95ac-25c1e6774e55",
+    "name": "Cave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/236058154"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

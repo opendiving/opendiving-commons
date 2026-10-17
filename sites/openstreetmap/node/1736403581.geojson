@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.625715,
+      28.728914
+    ]
+  },
+  "properties": {
+    "uuid": "012f46da-91fd-5fb8-9272-2abcb3688181",
+    "name": "Ras Malah",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1736403581"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

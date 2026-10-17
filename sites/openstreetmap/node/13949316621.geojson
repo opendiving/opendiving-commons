@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.366625,
+      50.466613
+    ]
+  },
+  "properties": {
+    "uuid": "7e92c6fe-6516-5c4c-9052-c017b47fdcaf",
+    "name": "Peronne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949316621"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

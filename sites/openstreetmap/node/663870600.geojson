@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.789785,
+      53.124113
+    ]
+  },
+  "properties": {
+    "uuid": "e38b6d5d-def3-59f3-a8ed-4443b471580b",
+    "name": "Waller Feldmarksee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870600"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.333836,
+      6.489225
+    ]
+  },
+  "properties": {
+    "uuid": "2fac85b5-8c0f-552a-839a-98d88bd89120",
+    "name": "Koh Talak North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4826766092"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

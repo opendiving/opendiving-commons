@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.819238,
+      16.950056
+    ]
+  },
+  "properties": {
+    "uuid": "c195b1ca-913d-524e-b624-1297a074d570",
+    "name": "Flamingo Beach: New Entry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/306100678"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.778307,
+      10.171926
+    ]
+  },
+  "properties": {
+    "uuid": "9a00a6fa-e1e6-599f-9de4-5117f27a8c34",
+    "name": "Chumphon Pinnacle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/865081862"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

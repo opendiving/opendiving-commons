@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.254914,
+      56.150767
+    ]
+  },
+  "properties": {
+    "uuid": "8f5f9fba-8ec1-5723-9d6f-036d6bdcddcf",
+    "name": "Østmolen Dykkeplatform",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13150846811"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.94838,
+      30.77067
+    ]
+  },
+  "properties": {
+    "uuid": "f68a0759-a0d0-576d-84b3-b0ff3a28a66a",
+    "name": "Vortex Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3154391263"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

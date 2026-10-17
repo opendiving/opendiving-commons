@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.494587,
+      47.529575
+    ]
+  },
+  "properties": {
+    "uuid": "add62f1a-7f51-552d-89a9-edc1514354ff",
+    "name": "Blake Island Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5002157910"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.133105,
+      53.698333
+    ]
+  },
+  "properties": {
+    "uuid": "325d3784-da3a-5f1d-b360-3f72014da2d0",
+    "name": "Meisterbude und Gänge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577340"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

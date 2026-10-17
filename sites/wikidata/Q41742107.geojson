@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.363467,
+      -33.92995
+    ]
+  },
+  "properties": {
+    "uuid": "0a7aa6e4-ca8a-540f-b119-801844ae406b",
+    "name": "Monty's Pinnacles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41742107"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

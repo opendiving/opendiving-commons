@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.630899,
+      -0.540346
+    ]
+  },
+  "properties": {
+    "uuid": "c6a1dbe1-0639-51d0-a1b3-89ada9a000f1",
+    "name": "Otdima Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041188231"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

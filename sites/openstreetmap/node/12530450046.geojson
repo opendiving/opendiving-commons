@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130942,
+      53.699032
+    ]
+  },
+  "properties": {
+    "uuid": "651abd98-9399-528f-9a6b-db13cf6f59cf",
+    "name": "Steilhang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450046"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.483783,
+      -34.25125
+    ]
+  },
+  "properties": {
+    "uuid": "4bf637ea-9635-5e83-ad29-ce41839f4307",
+    "name": "Atlantis Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213689"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

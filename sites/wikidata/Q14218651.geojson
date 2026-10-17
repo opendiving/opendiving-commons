@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.25915,
+      27.790339
+    ]
+  },
+  "properties": {
+    "uuid": "39fe580c-1b43-552c-a2a8-d45a7abe5a61",
+    "name": "Ras el-Ghazlani, Ras Ghozlani",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14218651"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

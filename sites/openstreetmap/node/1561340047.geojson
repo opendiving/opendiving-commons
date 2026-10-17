@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.003849,
+      18.370832
+    ]
+  },
+  "properties": {
+    "uuid": "9088b5b0-1bbd-5f73-a615-69b5cb3a22bb",
+    "name": "The Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1561340047"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.669465,
+      28.919018
+    ]
+  },
+  "properties": {
+    "uuid": "a08573b7-caf9-5c24-96d4-a152c56e19cb",
+    "name": "Diver entry point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5478169950"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

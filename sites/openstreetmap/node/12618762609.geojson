@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.675094,
+      12.583268
+    ]
+  },
+  "properties": {
+    "uuid": "15f4cea2-d16d-5372-a602-51f0627d598e",
+    "name": "Trilogia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762609"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.612426,
+      40.999156
+    ]
+  },
+  "properties": {
+    "uuid": "a5bfd799-4ab7-581b-acb8-cca0bbeb5684",
+    "name": "MuMart (museo sommerso)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4840240367"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.773962,
+      5.900299
+    ]
+  },
+  "properties": {
+    "uuid": "382dbccb-fd6f-5dab-8876-00d5df4e591f",
+    "name": "T3",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11233931008"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

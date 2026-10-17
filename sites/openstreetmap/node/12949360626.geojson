@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.714178,
+      47.456686
+    ]
+  },
+  "properties": {
+    "uuid": "7e2a7a31-09c3-547f-84bc-569a4e80a199",
+    "name": "Hechenberg Süd",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12949360626"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

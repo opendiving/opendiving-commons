@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.601441,
+      -5.481517
+    ]
+  },
+  "properties": {
+    "uuid": "241eefc4-d4fc-5516-9bf2-0a548705e6fa",
+    "name": "Uranus Pinnacle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4097280130"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.289258,
+      12.171356
+    ]
+  },
+  "properties": {
+    "uuid": "12f8cf42-52eb-5e7f-8d77-6ffc4a3caf98",
+    "name": "Reef Scientifico",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869438"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.183013,
+      38.694967
+    ]
+  },
+  "properties": {
+    "uuid": "32ff48c8-c777-57bb-9248-71ab5920ad94",
+    "name": "Grotta dei Gamberi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2137062026"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

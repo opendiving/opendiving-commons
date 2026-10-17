@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.255404,
+      -0.205502
+    ]
+  },
+  "properties": {
+    "uuid": "eb034015-4aa8-5d73-90e9-313b344cb14b",
+    "name": "White Arrow",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045309934"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.89045,
+      51.6419
+    ]
+  },
+  "properties": {
+    "uuid": "9da2db7d-b0b3-5ec7-b14a-59bd3d80a56f",
+    "name": "Levensstrijd",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074212"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

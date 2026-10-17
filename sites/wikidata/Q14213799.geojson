@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.480266,
+      -34.267667
+    ]
+  },
+  "properties": {
+    "uuid": "d042e35f-8d64-51d3-b2d7-661da8e9c24c",
+    "name": "MFV Princess Elizabeth",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213799"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

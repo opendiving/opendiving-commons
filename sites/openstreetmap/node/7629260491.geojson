@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.646647,
+      50.636606
+    ]
+  },
+  "properties": {
+    "uuid": "25f10148-21de-5a1e-9316-5cebbc13215b",
+    "name": "Carrière des trois fontaines",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7629260491"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

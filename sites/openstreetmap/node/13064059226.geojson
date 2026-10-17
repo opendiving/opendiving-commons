@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.045237,
+      21.987762
+    ]
+  },
+  "properties": {
+    "uuid": "2e8081ac-fba0-5c52-9710-412ce4da2230",
+    "name": "Levanzo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13064059226"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

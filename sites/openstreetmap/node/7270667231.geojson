@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.571309,
+      -0.206882
+    ]
+  },
+  "properties": {
+    "uuid": "2a7187dd-7eca-50c8-9d77-8471c07e7060",
+    "name": "Apollo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270667231"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.635647,
+      -0.450907
+    ]
+  },
+  "properties": {
+    "uuid": "09bb97e8-b185-58e0-bbb9-317bf9667afe",
+    "name": "Bomba atoll",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2455239522"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

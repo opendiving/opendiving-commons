@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.88751,
+      27.267748
+    ]
+  },
+  "properties": {
+    "uuid": "57932d69-f3d4-5f5e-a520-8de76e8767cd",
+    "name": "Fanous East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700934174"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

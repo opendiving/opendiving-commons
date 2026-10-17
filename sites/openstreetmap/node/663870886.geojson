@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.567226,
+      51.323203
+    ]
+  },
+  "properties": {
+    "uuid": "857b8c7a-439b-51ba-910c-d1ce3d75744b",
+    "name": "Kirchbruch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870886"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

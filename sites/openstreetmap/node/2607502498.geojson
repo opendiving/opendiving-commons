@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.446597,
+      53.305892
+    ]
+  },
+  "properties": {
+    "uuid": "4c13df0f-514a-5b1a-b92c-da0b9eb0579a",
+    "name": "Tauchspot Carwitzer See beim Fischer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2607502498"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

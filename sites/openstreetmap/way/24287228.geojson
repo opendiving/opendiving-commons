@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.324085,
+      48.964731
+    ]
+  },
+  "properties": {
+    "uuid": "2068f7ab-ce5a-5009-9520-198cd15a5576",
+    "name": "Epplesee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/24287228"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

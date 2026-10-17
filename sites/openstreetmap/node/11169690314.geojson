@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.786276,
+      51.686758
+    ]
+  },
+  "properties": {
+    "uuid": "4343b67d-38b4-5054-865d-533cc1754cfc",
+    "name": "Dijkval",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11169690314"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

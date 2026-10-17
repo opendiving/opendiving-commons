@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.65365,
+      -8.334195
+    ]
+  },
+  "properties": {
+    "uuid": "2981ad08-eb50-5479-836d-b07891844896",
+    "name": "Pyramids",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5149607925"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

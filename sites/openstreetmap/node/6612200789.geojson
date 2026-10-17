@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.634589,
+      57.621226
+    ]
+  },
+  "properties": {
+    "uuid": "47dbb4fa-633c-5a84-81cc-0dbd67358f5c",
+    "name": "Marina af Hönö",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6612200789"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

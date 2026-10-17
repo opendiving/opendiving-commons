@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.919167,
+      54.835
+    ]
+  },
+  "properties": {
+    "uuid": "b02102b7-8547-5170-aa63-b80f76bc701e",
+    "name": "Sophie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870657"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

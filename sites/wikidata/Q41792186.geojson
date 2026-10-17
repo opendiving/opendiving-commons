@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.305583,
+      -34.048083
+    ]
+  },
+  "properties": {
+    "uuid": "e46f4caf-6fdb-5505-b809-61d3f31caa3d",
+    "name": "Stonehenge Wreck",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41792186"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

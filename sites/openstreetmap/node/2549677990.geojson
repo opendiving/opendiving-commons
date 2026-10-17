@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.347583,
+      43.23825
+    ]
+  },
+  "properties": {
+    "uuid": "b3dc033b-fa49-51e9-b80c-347e8d5256d9",
+    "name": "Boué Bora",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549677990"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

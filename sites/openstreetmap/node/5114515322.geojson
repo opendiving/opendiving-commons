@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.680827,
+      -8.576954
+    ]
+  },
+  "properties": {
+    "uuid": "3183025f-474d-560a-b7a7-0575d6db7d7f",
+    "name": "Pengah Kecil",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5114515322"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

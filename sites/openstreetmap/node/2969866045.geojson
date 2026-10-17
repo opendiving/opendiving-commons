@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.661071,
+      -8.337621
+    ]
+  },
+  "properties": {
+    "uuid": "6dfcab99-bb24-524f-a9e8-b8d613abd5e7",
+    "name": "Underwater Shrine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2969866045"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

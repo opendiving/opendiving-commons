@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.661435,
+      -1.275924
+    ]
+  },
+  "properties": {
+    "uuid": "d329ce4d-3951-5167-a040-458f6f6998df",
+    "name": "Swallope",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041145029"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

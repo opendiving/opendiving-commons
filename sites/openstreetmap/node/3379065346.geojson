@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.241259,
+      9.335408
+    ]
+  },
+  "properties": {
+    "uuid": "e0eebb41-dd9a-5146-9739-98c577e5ca7d",
+    "name": "Bocas Dive Center",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3379065346"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

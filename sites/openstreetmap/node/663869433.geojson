@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.290178,
+      12.174364
+    ]
+  },
+  "properties": {
+    "uuid": "3b68bd69-1708-5b64-9812-b0608b2b95ce",
+    "name": "Cliff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869433"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

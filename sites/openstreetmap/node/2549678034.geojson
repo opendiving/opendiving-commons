@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.23065,
+      43.19975
+    ]
+  },
+  "properties": {
+    "uuid": "44d4698b-c6ba-5458-8a5c-4e36d9b73b40",
+    "name": "Le Dalton",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678034"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

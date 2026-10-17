@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.720233,
+      8.730657
+    ]
+  },
+  "properties": {
+    "uuid": "aef7f9c2-a273-5cfd-b687-d2669ae0b379",
+    "name": "GBR Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1475405897"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

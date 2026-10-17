@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.333333,
+      48.66
+    ]
+  },
+  "properties": {
+    "uuid": "3769b2c7-796a-57a6-9307-02f4f0a71c04",
+    "name": "Forest Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869313"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

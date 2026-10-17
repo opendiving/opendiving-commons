@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.042622,
+      26.823959
+    ]
+  },
+  "properties": {
+    "uuid": "bba25454-41b4-5e70-b0d5-ee2f7b768d0f",
+    "name": "John D MacArthur Beach State Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/166553890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

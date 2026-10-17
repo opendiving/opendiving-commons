@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130151,
+      53.699207
+    ]
+  },
+  "properties": {
+    "uuid": "4ec859e9-e405-5e47-b5c4-b4e78f37dab8",
+    "name": "Plattform 3m",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450043"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

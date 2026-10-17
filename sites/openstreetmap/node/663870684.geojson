@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.315523,
+      47.570117
+    ]
+  },
+  "properties": {
+    "uuid": "1a21caa0-cbdc-5541-a1c1-c6703de4efb3",
+    "name": "Walchensee - Katzeninsel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870684"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

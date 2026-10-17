@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.43788,
+      29.102696
+    ]
+  },
+  "properties": {
+    "uuid": "966cbe16-fc1c-53c0-ba25-fa22b81e549b",
+    "name": "Rainbow Spring North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3174032473"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

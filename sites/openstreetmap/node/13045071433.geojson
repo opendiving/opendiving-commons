@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.559346,
+      22.626611
+    ]
+  },
+  "properties": {
+    "uuid": "79dea05d-f1c5-57b5-b12e-9d40ccc7afea",
+    "name": "Sha'ab Ohroob / Wreck of Sabri Baba 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045071433"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.4285,
+      34.721466
+    ]
+  },
+  "properties": {
+    "uuid": "95882ece-8f80-5b7b-be1b-9ed9a426101d",
+    "name": "Vera K",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9461360669"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

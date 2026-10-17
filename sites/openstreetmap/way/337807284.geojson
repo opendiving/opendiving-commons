@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.057715,
+      12.602079
+    ]
+  },
+  "properties": {
+    "uuid": "eee06dd0-e2bb-5c0b-8816-d6b8996dc25d",
+    "name": "SS Antilla",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/337807284"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

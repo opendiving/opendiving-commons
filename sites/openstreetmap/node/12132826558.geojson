@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.233831,
+      41.95027
+    ]
+  },
+  "properties": {
+    "uuid": "d0599dae-b3e4-5ef8-8179-699c0abf7d4e",
+    "name": "Cap de Begur (Buceig)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826558"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

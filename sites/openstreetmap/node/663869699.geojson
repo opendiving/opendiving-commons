@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.278333,
+      42.994117
+    ]
+  },
+  "properties": {
+    "uuid": "1c9f6015-5b5a-5db4-8e7f-8049b10205c3",
+    "name": "Wrack 'Prosper Schiaffino' (Alias Donator)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869699"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

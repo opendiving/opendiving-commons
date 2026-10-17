@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.328333,
+      48.676667
+    ]
+  },
+  "properties": {
+    "uuid": "e4f2675f-4792-5386-be8a-5f60350cfad5",
+    "name": "Reay Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869310"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.20901,
+      53.578499
+    ]
+  },
+  "properties": {
+    "uuid": "529f72ee-c77b-5f29-8f89-56ec4782ae5c",
+    "name": "Jezioro Drawsko - Zodiak",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871140"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.43595,
+      -34.1565
+    ]
+  },
+  "properties": {
+    "uuid": "2b453565-0800-58b5-af1d-9863470e0ef9",
+    "name": "Quarry",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213852"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

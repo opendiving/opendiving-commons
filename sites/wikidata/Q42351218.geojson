@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.482,
+      -34.24975
+    ]
+  },
+  "properties": {
+    "uuid": "06c43556-7b9c-59b3-9602-797abadb34ce",
+    "name": "Carnaby Street",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42351218"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

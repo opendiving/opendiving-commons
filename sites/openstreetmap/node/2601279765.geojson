@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.267673,
+      53.259195
+    ]
+  },
+  "properties": {
+    "uuid": "60150747-c23a-51d0-aa33-ff64132c59ec",
+    "name": "Tauchspot Linowsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2601279765"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

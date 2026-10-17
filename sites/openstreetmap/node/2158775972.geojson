@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.267503,
+      9.082864
+    ]
+  },
+  "properties": {
+    "uuid": "deaafc01-d52b-55fb-8600-69a84eabe302",
+    "name": "Largahan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775972"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

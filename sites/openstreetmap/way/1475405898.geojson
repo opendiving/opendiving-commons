@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.723232,
+      8.728711
+    ]
+  },
+  "properties": {
+    "uuid": "13c34294-2f23-5cd5-ae8f-ee638d1046c8",
+    "name": "MAR Fill Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1475405898"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

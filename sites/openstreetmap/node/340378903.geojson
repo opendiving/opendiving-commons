@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.642907,
+      7.801344
+    ]
+  },
+  "properties": {
+    "uuid": "1ba5c929-29ff-5806-a824-6f8963052b7f",
+    "name": "MS King Cruiser",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/340378903"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

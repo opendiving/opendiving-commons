@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.866385,
+      50.839322
+    ]
+  },
+  "properties": {
+    "uuid": "3ccc65e9-8fc2-5060-98d4-79e7bf135412",
+    "name": "Tauchpunkt VilleTaucher e.V.",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1644308523"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

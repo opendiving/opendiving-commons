@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.346475,
+      42.232578
+    ]
+  },
+  "properties": {
+    "uuid": "5da85fe3-e0e3-505a-89b7-9f5ea9f9da9c",
+    "name": "Merida (Wrack)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869481"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

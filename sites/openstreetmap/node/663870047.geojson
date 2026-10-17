@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.799878,
+      46.683507
+    ]
+  },
+  "properties": {
+    "uuid": "0fe4c2d2-9210-5f55-a610-361541601425",
+    "name": "Bätterichhöhle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870047"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

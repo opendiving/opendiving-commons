@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.421537,
+      43.526955
+    ]
+  },
+  "properties": {
+    "uuid": "8bb27dec-9c3a-5f50-b363-cc32f3f921cf",
+    "name": "dfh",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2641130374"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

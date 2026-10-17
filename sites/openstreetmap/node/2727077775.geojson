@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.543394,
+      45.794138
+    ]
+  },
+  "properties": {
+    "uuid": "05b88f09-83d1-5d0c-937c-69bba901ec4b",
+    "name": "Exsurgence du Perthuis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2727077775"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

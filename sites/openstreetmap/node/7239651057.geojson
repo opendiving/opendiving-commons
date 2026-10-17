@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.608911,
+      4.013174
+    ]
+  },
+  "properties": {
+    "uuid": "37084241-a41f-5fb3-b9ec-08881ac1fb2e",
+    "name": "El Acuario",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651057"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

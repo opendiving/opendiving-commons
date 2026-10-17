@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.727247,
+      50.16546
+    ]
+  },
+  "properties": {
+    "uuid": "522d8f9b-0495-5245-8c65-bef65ed15c62",
+    "name": "Carrière de Vodelée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/87238482"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

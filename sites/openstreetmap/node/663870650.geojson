@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.931679,
+      54.462082
+    ]
+  },
+  "properties": {
+    "uuid": "80dd7b3d-1cea-5af8-9f92-796d6cafd440",
+    "name": "Aschau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870650"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

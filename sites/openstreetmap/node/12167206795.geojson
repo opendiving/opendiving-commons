@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.496442,
+      -0.545758
+    ]
+  },
+  "properties": {
+    "uuid": "71738697-11f1-54a7-9688-8d348a489a26",
+    "name": "Lalosi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167206795"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

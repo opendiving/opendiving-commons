@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.73706,
+      20.603222
+    ]
+  },
+  "properties": {
+    "uuid": "a01007be-7068-5486-98f7-5d6f6afd59bd",
+    "name": "Bajo de Molas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869369"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

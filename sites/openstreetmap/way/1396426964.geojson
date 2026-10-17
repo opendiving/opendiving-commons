@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.049624,
+      26.643482
+    ]
+  },
+  "properties": {
+    "uuid": "6d4727de-f262-58f8-8ca8-a6adefedb4f3",
+    "name": "Shaab Sheer Soraya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1396426964"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.417381,
+      44.225731
+    ]
+  },
+  "properties": {
+    "uuid": "c544a23b-919c-50eb-b52f-0ebcccb2bdab",
+    "name": "Wolfe Islander II (Wrack)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869500"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.28563,
+      -0.566095
+    ]
+  },
+  "properties": {
+    "uuid": "6c823ac8-5577-572f-b730-80e232abeeaf",
+    "name": "The Lagoon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045224672"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

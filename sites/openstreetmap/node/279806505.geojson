@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.256989,
+      27.744153
+    ]
+  },
+  "properties": {
+    "uuid": "fde6cf81-d322-54f7-b291-2ae6c7a2c7fc",
+    "name": "Jackfish Alley",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/279806505"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

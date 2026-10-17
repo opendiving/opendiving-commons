@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.571608,
+      -5.666709
+    ]
+  },
+  "properties": {
+    "uuid": "9055e375-39ab-5b94-aef2-5afac1d3dc00",
+    "name": "Jevry's Drop",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104180144"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.51929,
+      53.436775
+    ]
+  },
+  "properties": {
+    "uuid": "6a46f743-be09-541f-afc3-6e80bec5c116",
+    "name": "Jezioro Insko - Damm nord",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871099"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

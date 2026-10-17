@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.517539,
+      19.769037
+    ]
+  },
+  "properties": {
+    "uuid": "86457375-5cb4-58ff-a513-114edf9db5fb",
+    "name": "Laramar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270997626"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

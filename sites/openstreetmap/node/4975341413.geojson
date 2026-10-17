@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.339025,
+      63.44817
+    ]
+  },
+  "properties": {
+    "uuid": "a0f19f1c-081e-5f20-a5b9-9afcd1db2d89",
+    "name": "Plaugen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4975341413"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

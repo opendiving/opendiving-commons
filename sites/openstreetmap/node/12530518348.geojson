@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.129911,
+      53.701087
+    ]
+  },
+  "properties": {
+    "uuid": "0b3d45f0-0ebd-535c-a11c-c330572ee0ac",
+    "name": "Überreste Steilhang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518348"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

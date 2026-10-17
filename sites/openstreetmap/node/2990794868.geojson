@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.392925,
+      43.172887
+    ]
+  },
+  "properties": {
+    "uuid": "a87e49f1-fa1d-589c-a2ac-171f27f262f3",
+    "name": "Impérial de Terre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2990794868"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

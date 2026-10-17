@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.284401,
+      -0.565902
+    ]
+  },
+  "properties": {
+    "uuid": "d6f8ce9a-ce00-5cd6-b511-9b0b92a28255",
+    "name": "Batu Rufas Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439732"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -46.162429,
+      -24.329881
+    ]
+  },
+  "properties": {
+    "uuid": "da636833-7eb6-56f5-965e-7b14a42ebb9a",
+    "name": "Rochedos dos Calhaus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/160499413"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

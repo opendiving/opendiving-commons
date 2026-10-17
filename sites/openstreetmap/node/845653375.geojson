@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.720677,
+      46.708205
+    ]
+  },
+  "properties": {
+    "uuid": "2b0dbd43-61bd-5200-8b5c-a1f7a23dafbe",
+    "name": "Stampach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845653375"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

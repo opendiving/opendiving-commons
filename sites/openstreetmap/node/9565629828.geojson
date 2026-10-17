@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.513096,
+      46.992936
+    ]
+  },
+  "properties": {
+    "uuid": "f46218b6-12de-5968-a561-f9830cc51e64",
+    "name": "Cholplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9565629828"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

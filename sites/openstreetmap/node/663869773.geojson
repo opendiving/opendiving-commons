@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.538783,
+      24.292233
+    ]
+  },
+  "properties": {
+    "uuid": "b15f23d3-12aa-5acf-8cc2-c519488f155f",
+    "name": "Shaab Bohar Soraya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869773"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.741474,
+      12.568772
+    ]
+  },
+  "properties": {
+    "uuid": "c26f357e-24a1-5e81-85b9-6af753f2b598",
+    "name": "Reggae",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748278"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

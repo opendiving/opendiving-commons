@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.302517,
+      -34.02385
+    ]
+  },
+  "properties": {
+    "uuid": "0128a6fb-761c-5b8e-b464-9f0cd38b9907",
+    "name": "Rachel's Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41771752"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

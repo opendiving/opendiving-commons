@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.81855,
+      -34.193083
+    ]
+  },
+  "properties": {
+    "uuid": "60e8cb70-2758-5d75-9961-1a23fc8c670f",
+    "name": "Rocky Bay",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213859"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

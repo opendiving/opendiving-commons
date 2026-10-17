@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.47935,
+      -34.26675
+    ]
+  },
+  "properties": {
+    "uuid": "1ea14545-7723-5bae-8997-c4b890453696",
+    "name": "SAS Transvaal",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213871"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.468183,
+      -34.185767
+    ]
+  },
+  "properties": {
+    "uuid": "18510a7f-8481-5a1b-801a-1516039da51a",
+    "name": "Hotlips Pinnacle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41951755"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

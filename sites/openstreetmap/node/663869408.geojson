@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.281204,
+      12.057557
+    ]
+  },
+  "properties": {
+    "uuid": "19777d4d-0cf8-5111-b197-1de918b50f6b",
+    "name": "White Slave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869408"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.505137,
+      50.611379
+    ]
+  },
+  "properties": {
+    "uuid": "3788a0b6-f32d-5fc9-9eb2-e6418f2e8bdb",
+    "name": "Hohenwarte-Stausee - Eichenwäldchen (Wrack)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870862"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

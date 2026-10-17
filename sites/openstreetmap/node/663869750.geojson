@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.203767,
+      23.618633
+    ]
+  },
+  "properties": {
+    "uuid": "9805af6f-c934-59fe-9791-d57840378096",
+    "name": "Neptuna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869750"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.456524,
+      28.416811
+    ]
+  },
+  "properties": {
+    "uuid": "9f68c1f9-ea1e-5b12-990f-15c7d2d47544",
+    "name": "The Caves",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869862"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

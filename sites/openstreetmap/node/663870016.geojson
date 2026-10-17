@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.67064,
+      46.72755
+    ]
+  },
+  "properties": {
+    "uuid": "b78aa294-06c2-5cf3-9824-abe586560853",
+    "name": "Churchillplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870016"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

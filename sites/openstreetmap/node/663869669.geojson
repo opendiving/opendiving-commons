@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.2122,
+      -16.859583
+    ]
+  },
+  "properties": {
+    "uuid": "71906557-59dc-5e73-bb56-ecbb92119569",
+    "name": "Moore Reef - 5 Ways",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869669"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

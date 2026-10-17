@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.512912,
+      43.205175
+    ]
+  },
+  "properties": {
+    "uuid": "e661677e-1afb-5b6b-9eda-162c1160e385",
+    "name": "Exsurgence de Port-Miou",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2479149211"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

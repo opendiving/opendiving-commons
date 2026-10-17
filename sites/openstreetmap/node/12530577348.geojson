@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.132307,
+      53.701186
+    ]
+  },
+  "properties": {
+    "uuid": "054c4b7c-aa18-5de8-9277-e8016fc42cae",
+    "name": "Boot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577348"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

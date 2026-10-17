@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.580324,
+      38.562334
+    ]
+  },
+  "properties": {
+    "uuid": "81c07921-bc63-563f-aef8-89c491e51963",
+    "name": "Apogon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4254709532"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

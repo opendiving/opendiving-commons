@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.842515,
+      51.741158
+    ]
+  },
+  "properties": {
+    "uuid": "6d1ea2e0-4112-5c56-bd77-fa185ff3d8a7",
+    "name": "Le Serpent, stern",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12097800025"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

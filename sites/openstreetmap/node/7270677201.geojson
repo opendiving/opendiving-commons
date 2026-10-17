@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.636022,
+      -0.216004
+    ]
+  },
+  "properties": {
+    "uuid": "fcaf0a5c-551b-5a28-b99c-f76804335e38",
+    "name": "Pinnacle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270677201"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

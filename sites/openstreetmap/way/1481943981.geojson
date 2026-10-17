@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.560624,
+      3.451371
+    ]
+  },
+  "properties": {
+    "uuid": "b54b3a1a-4928-5094-b059-01f2d1374cc3",
+    "name": "Keyodhoo Shipwreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1481943981"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

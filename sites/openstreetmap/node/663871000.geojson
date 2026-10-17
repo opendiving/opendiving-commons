@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.83805,
+      53.196667
+    ]
+  },
+  "properties": {
+    "uuid": "0bba87d8-4998-561e-8814-4198e632e9f4",
+    "name": "Rochowsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871000"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

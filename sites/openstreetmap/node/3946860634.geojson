@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.540963,
+      -0.580943
+    ]
+  },
+  "properties": {
+    "uuid": "24ea5818-ed22-5a60-b1f4-0b2371c43f9c",
+    "name": "Manta Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3946860634"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.274071,
+      9.076145
+    ]
+  },
+  "properties": {
+    "uuid": "393b4a8e-c3f3-510d-aba0-2ef7aec3bf20",
+    "name": "Kan Uran",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775970"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

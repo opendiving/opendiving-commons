@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.843238,
+      26.31381
+    ]
+  },
+  "properties": {
+    "uuid": "b35331a5-d3bc-512d-931e-75d7aa3ee784",
+    "name": "عايدة",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869780"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Aida"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.51413,
+      47.166338
+    ]
+  },
+  "properties": {
+    "uuid": "1b0db9a5-ca5b-52c1-8070-16c8df386b9d",
+    "name": "Altstadt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870271"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

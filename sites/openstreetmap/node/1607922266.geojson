@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.48768,
+      47.790154
+    ]
+  },
+  "properties": {
+    "uuid": "d5e2e426-122c-53b6-8804-4eb650296fca",
+    "name": "Attersee Wandl",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1607922266"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

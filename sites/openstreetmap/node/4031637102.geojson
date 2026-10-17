@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      162.974704,
+      5.267946
+    ]
+  },
+  "properties": {
+    "uuid": "c79212d4-274c-57ae-a00e-455c8222ebf1",
+    "name": "Hiroshi West End",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031637102"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.60938,
+      47.77265
+    ]
+  },
+  "properties": {
+    "uuid": "500abb71-e224-50cc-9b9d-3ed3268f23a0",
+    "name": "Kemperle Activités Subaquatiques",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587814"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

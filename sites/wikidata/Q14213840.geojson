@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.82295,
+      -34.289167
+    ]
+  },
+  "properties": {
+    "uuid": "3c5c0f6a-6f63-5d7a-8508-ddbb8d735bfe",
+    "name": "Percy's Hole",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213840"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

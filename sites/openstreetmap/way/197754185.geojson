@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.100144,
+      26.707004
+    ]
+  },
+  "properties": {
+    "uuid": "1b6d3581-93bb-5e0d-b780-6bc9a5696ac4",
+    "name": "الإسم العربي ؟",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/197754185"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Middle Reef"
+      }
+    }
+  }
+}

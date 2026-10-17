@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.619059,
+      44.889471
+    ]
+  },
+  "properties": {
+    "uuid": "23d27e13-de8f-5e36-ad80-2bb700cffb22",
+    "name": "Fontaine Saint-Georges",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3024194905"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

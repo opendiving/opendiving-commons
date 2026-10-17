@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.443806,
+      34.716728
+    ]
+  },
+  "properties": {
+    "uuid": "e3ce4947-a523-5598-b375-f65c65512c90",
+    "name": "Laboe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9415919510"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

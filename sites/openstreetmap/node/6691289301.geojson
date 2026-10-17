@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.633221,
+      43.155097
+    ]
+  },
+  "properties": {
+    "uuid": "887b78ca-4d39-52a7-9847-851a49355ab7",
+    "name": "Les Quairolles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6691289301"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

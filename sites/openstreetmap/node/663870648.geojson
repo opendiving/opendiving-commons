@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.192548,
+      54.404727
+    ]
+  },
+  "properties": {
+    "uuid": "a12ed279-b84f-5916-b9b4-c5ce2597a94c",
+    "name": "Falkenstein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870648"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

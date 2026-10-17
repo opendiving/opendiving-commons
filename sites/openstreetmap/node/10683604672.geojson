@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.108059,
+      25.47413
+    ]
+  },
+  "properties": {
+    "uuid": "125bce72-ff89-5c51-ba95-9c00086ad9e5",
+    "name": "Triumph Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10683604672"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

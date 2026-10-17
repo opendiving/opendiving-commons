@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.469733,
+      -34.21645
+    ]
+  },
+  "properties": {
+    "uuid": "fed9d1cb-2719-54ee-89fa-d556a30f3b59",
+    "name": "Alpha Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213683"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

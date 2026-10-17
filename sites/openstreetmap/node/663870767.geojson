@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.32655,
+      45.1757
+    ]
+  },
+  "properties": {
+    "uuid": "97cc7a29-39fa-57b5-89e5-4d459a7e77de",
+    "name": "Kap Jablanac",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870767"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

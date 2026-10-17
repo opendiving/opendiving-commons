@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.478883,
+      -34.222533
+    ]
+  },
+  "properties": {
+    "uuid": "74b64b09-302c-56a9-818d-8e1c4189e00d",
+    "name": "North Caravan",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42200246"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

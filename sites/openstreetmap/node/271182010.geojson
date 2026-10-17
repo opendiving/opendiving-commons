@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.259035,
+      27.725708
+    ]
+  },
+  "properties": {
+    "uuid": "516eab1a-7f0a-5d98-a6ff-ba9f8bfa5881",
+    "name": "Shark Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271182010"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

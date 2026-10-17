@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.941174,
+      53.030587
+    ]
+  },
+  "properties": {
+    "uuid": "7527a6aa-7291-5506-9342-1d36e573c0d3",
+    "name": "Mahndorfer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870605"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

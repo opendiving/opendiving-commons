@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.681013,
+      9.518036
+    ]
+  },
+  "properties": {
+    "uuid": "c0fddd5d-1615-5bac-9a73-abbc99e0fb36",
+    "name": "Fish Sanctuary",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871183"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

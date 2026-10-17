@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.53927,
+      28.573453
+    ]
+  },
+  "properties": {
+    "uuid": "b6266c67-b8c5-5add-90bb-61523232f112",
+    "name": "The Bells",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271181711"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

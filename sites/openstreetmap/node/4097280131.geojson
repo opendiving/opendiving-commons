@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.464469,
+      -5.427035
+    ]
+  },
+  "properties": {
+    "uuid": "87b3445d-956e-5c8e-908c-259054b0c752",
+    "name": "Jevry's Shaft",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4097280131"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

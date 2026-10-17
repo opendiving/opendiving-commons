@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.322082,
+      36.027946
+    ]
+  },
+  "properties": {
+    "uuid": "4aeed787-7ac4-52c0-aee5-bf00b02e62cc",
+    "name": "Ħondoq ir-Rummien",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/23738627"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

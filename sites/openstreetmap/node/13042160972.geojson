@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.537349,
+      -0.561702
+    ]
+  },
+  "properties": {
+    "uuid": "3bfd9f3c-b2a9-5a33-9ad0-f7a1fe154dba",
+    "name": "Manta Ridge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042160972"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

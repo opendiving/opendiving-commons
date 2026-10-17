@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.269159,
+      50.854783
+    ]
+  },
+  "properties": {
+    "uuid": "39e0adaf-89b7-54cd-8eb2-f5b842a39719",
+    "name": "Plattform 21m",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11999217846"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.980894,
+      34.978448
+    ]
+  },
+  "properties": {
+    "uuid": "b22c5cb7-55e4-557a-8911-1aaddf1ff55c",
+    "name": "Kerynia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9415919382"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

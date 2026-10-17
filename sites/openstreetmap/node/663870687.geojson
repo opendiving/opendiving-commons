@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.31755,
+      47.5886
+    ]
+  },
+  "properties": {
+    "uuid": "7419f03d-3765-50c4-9620-09a2de001d9e",
+    "name": "Walchensee - Herzogstand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870687"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

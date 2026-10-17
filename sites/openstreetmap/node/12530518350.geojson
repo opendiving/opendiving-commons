@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.129576,
+      53.70073
+    ]
+  },
+  "properties": {
+    "uuid": "a050f9c1-cda6-53d4-b64e-ec81359e197a",
+    "name": "Schweiß- und Arbeitstisch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518350"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

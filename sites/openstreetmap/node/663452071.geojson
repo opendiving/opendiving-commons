@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.55847,
+      47.3095
+    ]
+  },
+  "properties": {
+    "uuid": "57f9d589-889b-5065-b6f6-76cfad5d7a91",
+    "name": "Landungssteg Rüschlikon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452071"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

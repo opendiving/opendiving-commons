@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.287321,
+      12.125559
+    ]
+  },
+  "properties": {
+    "uuid": "e7ea63ea-55f4-5bb6-bd6c-d219ee8274bf",
+    "name": "Bachelor's Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869413"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

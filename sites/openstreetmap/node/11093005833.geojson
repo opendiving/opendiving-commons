@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.83123,
+      27.299403
+    ]
+  },
+  "properties": {
+    "uuid": "7a039575-65cc-5c8c-8cf7-5428299d2473",
+    "name": "El Fanadir West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11093005833"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

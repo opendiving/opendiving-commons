@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.441003,
+      44.252102
+    ]
+  },
+  "properties": {
+    "uuid": "a95534ab-8adf-5b7c-b799-34af909638f2",
+    "name": "Source de Marnade",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4543573870"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

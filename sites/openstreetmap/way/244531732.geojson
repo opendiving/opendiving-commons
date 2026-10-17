@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.105622,
+      11.347289
+    ]
+  },
+  "properties": {
+    "uuid": "6d171bca-69bd-5c52-96e1-6eb9f4130d0a",
+    "name": "Marine Protected Area",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/244531732"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

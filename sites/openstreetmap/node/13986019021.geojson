@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.007238,
+      12.036133
+    ]
+  },
+  "properties": {
+    "uuid": "1e0bd196-171e-51a6-a529-0ae43df2aa2e",
+    "name": "Tribe Gate",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13986019021"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

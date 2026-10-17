@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      108.53915,
+      15.91176
+    ]
+  },
+  "properties": {
+    "uuid": "06661992-c711-580c-9982-0ab22531701e",
+    "name": "Snorkeling spot Hon Tai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6873081191"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

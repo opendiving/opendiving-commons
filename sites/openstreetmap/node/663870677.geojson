@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.30765,
+      47.582533
+    ]
+  },
+  "properties": {
+    "uuid": "53fee963-1c3c-5108-8b9f-e506196890a2",
+    "name": "Walchensee - Lobesau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870677"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

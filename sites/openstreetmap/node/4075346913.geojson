@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.871192,
+      45.75865
+    ]
+  },
+  "properties": {
+    "uuid": "d1b19391-368b-5bdc-a0ce-25ab8b8b8a9a",
+    "name": "Pierre à Bise",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4075346913"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.27575,
+      36.015427
+    ]
+  },
+  "properties": {
+    "uuid": "c2b9280e-5d23-5506-84fe-fcfcf8400ce8",
+    "name": "Fessej Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831400"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

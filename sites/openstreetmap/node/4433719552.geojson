@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.854,
+      22.392167
+    ]
+  },
+  "properties": {
+    "uuid": "802c5b7b-e82b-5e21-a15c-a6199227b2bd",
+    "name": "Cement Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4433719552"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

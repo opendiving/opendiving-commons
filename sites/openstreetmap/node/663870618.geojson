@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.308587,
+      53.833842
+    ]
+  },
+  "properties": {
+    "uuid": "b83cadda-b275-5bb8-84b2-ae0f4673c1a2",
+    "name": "Bergum",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870618"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

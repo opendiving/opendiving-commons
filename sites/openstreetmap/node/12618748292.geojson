@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.734584,
+      12.511994
+    ]
+  },
+  "properties": {
+    "uuid": "a9bdfdfd-7d7e-52f3-b791-42af948a865c",
+    "name": "Villa Erika",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

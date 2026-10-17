@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.413908,
+      12.269612
+    ]
+  },
+  "properties": {
+    "uuid": "589643ef-5d25-5723-a73f-51cd6c5aede5",
+    "name": "Wayaka 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4437663289"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

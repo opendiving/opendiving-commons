@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.874807,
+      51.179232
+    ]
+  },
+  "properties": {
+    "uuid": "2cfae222-b3b7-5b5e-bb9e-230e1161bc6d",
+    "name": "vliegtuig",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9652892225"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

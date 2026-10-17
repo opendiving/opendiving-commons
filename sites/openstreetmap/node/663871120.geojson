@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.274795,
+      54.457413
+    ]
+  },
+  "properties": {
+    "uuid": "11405028-91f5-5f03-b13d-187deaff18d5",
+    "name": "Klausdorf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871120"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

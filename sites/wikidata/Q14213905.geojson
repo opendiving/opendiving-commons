@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.467167,
+      -34.217167
+    ]
+  },
+  "properties": {
+    "uuid": "68e6f654-a0fb-5e24-8a7e-2fe75ed12daf",
+    "name": "Spaniard Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213905"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

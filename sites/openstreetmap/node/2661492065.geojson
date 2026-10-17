@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.793832,
+      54.606407
+    ]
+  },
+  "properties": {
+    "uuid": "76100829-c08e-5955-9e87-15b621a4f66e",
+    "name": "ORP Bryza K-18 (wrak)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2661492065"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

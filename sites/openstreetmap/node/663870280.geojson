@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.601256,
+      47.260544
+    ]
+  },
+  "properties": {
+    "uuid": "9cde9733-b40d-504d-b1aa-17c379b63dc4",
+    "name": "Sust",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870280"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

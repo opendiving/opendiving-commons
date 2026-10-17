@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.54579,
+      -13.801399
+    ]
+  },
+  "properties": {
+    "uuid": "a53662c5-5d24-5c60-b263-011c33293a96",
+    "name": "North Horn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802352"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

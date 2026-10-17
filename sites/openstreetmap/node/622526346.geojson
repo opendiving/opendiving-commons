@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.675631,
+      -4.922388
+    ]
+  },
+  "properties": {
+    "uuid": "2e0f57a2-6d79-5187-a5d5-d5d890d92511",
+    "name": "Swahil Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/622526346"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

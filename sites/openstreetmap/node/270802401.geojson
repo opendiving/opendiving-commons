@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.689982,
+      -14.875091
+    ]
+  },
+  "properties": {
+    "uuid": "686bdb75-e28e-5688-b8af-25b64b0eb5dc",
+    "name": "Lighthouse Bommie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802401"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

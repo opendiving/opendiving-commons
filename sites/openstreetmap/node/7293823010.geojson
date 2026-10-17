@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.782883,
+      1.603184
+    ]
+  },
+  "properties": {
+    "uuid": "d62e4163-3108-5d18-8967-11b7c13aea2a",
+    "name": "Pangalisan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293823010"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

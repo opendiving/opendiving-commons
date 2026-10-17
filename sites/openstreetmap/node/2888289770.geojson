@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.528976,
+      -8.093384
+    ]
+  },
+  "properties": {
+    "uuid": "5bab2900-394b-55fc-beca-c77a8eb1f245",
+    "name": "Bat Cave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2888289770"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

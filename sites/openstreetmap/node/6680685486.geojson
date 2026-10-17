@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.514449,
+      37.144833
+    ]
+  },
+  "properties": {
+    "uuid": "c4ff30f4-9280-5e02-a698-d02da90f25c5",
+    "name": "Serifos Scuba Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6680685486"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

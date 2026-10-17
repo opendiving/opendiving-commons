@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.869859,
+      8.715564
+    ]
+  },
+  "properties": {
+    "uuid": "9b4d8a10-59b3-5ce6-9ab0-2b2270c72717",
+    "name": "La esquina del jardin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1552616246"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

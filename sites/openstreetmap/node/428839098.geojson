@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.945933,
+      51.083534
+    ]
+  },
+  "properties": {
+    "uuid": "94c81d32-8552-5f56-8b1d-e01bd9280767",
+    "name": "See Widdauen 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/428839098"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

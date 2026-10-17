@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.475,
+      47.488333
+    ]
+  },
+  "properties": {
+    "uuid": "7a0d60ca-60c9-5812-b02b-b385fabf426e",
+    "name": "Badi Goldach Einstieg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087367"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

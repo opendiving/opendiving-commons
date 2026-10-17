@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.036136,
+      5.759867
+    ]
+  },
+  "properties": {
+    "uuid": "bcc826d5-c572-507d-a9e5-d2945b96bff7",
+    "name": "Redang - Che Isa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735154889"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

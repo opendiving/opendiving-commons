@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.145563,
+      48.871984
+    ]
+  },
+  "properties": {
+    "uuid": "5cd11f80-6bcf-518d-9cc0-e4773626bc2e",
+    "name": "Deglersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/27788613"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

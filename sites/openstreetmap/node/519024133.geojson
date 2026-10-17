@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.958096,
+      3.632942
+    ]
+  },
+  "properties": {
+    "uuid": "de88887f-7c52-5827-aaae-94887a93fbe7",
+    "name": "Exit 4",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/519024133"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.633569,
+      -0.45014
+    ]
+  },
+  "properties": {
+    "uuid": "ccd775b9-0c79-5e57-a1a6-36d9b47945ef",
+    "name": "Nimpi Dinding",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270681410"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

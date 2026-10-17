@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.435976,
+      -16.741345
+    ]
+  },
+  "properties": {
+    "uuid": "f2a26d07-4d10-5480-b578-3a946a177658",
+    "name": "Le Nordby",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869256"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

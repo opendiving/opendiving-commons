@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.956013,
+      3.634399
+    ]
+  },
+  "properties": {
+    "uuid": "0b76e718-9341-5e32-810a-a03344ee3bf6",
+    "name": "Exit 7",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/519024107"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

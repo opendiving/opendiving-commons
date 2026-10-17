@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.07655,
+      -0.213792
+    ]
+  },
+  "properties": {
+    "uuid": "9a883653-acde-5884-8ea9-b4ab218c3a6b",
+    "name": "Reef 5",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270685929"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.235127,
+      36.083099
+    ]
+  },
+  "properties": {
+    "uuid": "3c317d17-ea14-5a0a-8d6a-72f2906c3275",
+    "name": "Bottleneck Cave (Dive Site)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614875986"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

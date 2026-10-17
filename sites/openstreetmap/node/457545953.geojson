@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.562245,
+      58.246067
+    ]
+  },
+  "properties": {
+    "uuid": "ecf2a38d-77c7-5717-823f-36d95c2c771a",
+    "name": "Katedrale",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/457545953"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

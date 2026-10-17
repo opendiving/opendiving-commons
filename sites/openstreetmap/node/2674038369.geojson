@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.443944,
+      12.633805
+    ]
+  },
+  "properties": {
+    "uuid": "c372e698-2738-5ab6-a94f-3931cb18c874",
+    "name": "Apo 29",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038369"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

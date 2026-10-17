@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.316778,
+      26.20662
+    ]
+  },
+  "properties": {
+    "uuid": "3bb0092d-2c0f-5032-b0cc-a6f887ba8158",
+    "name": "ウフタマ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333126067"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ufutama"
+      }
+    }
+  }
+}

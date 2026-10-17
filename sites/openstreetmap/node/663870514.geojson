@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.237738,
+      48.478436
+    ]
+  },
+  "properties": {
+    "uuid": "96c5667e-3cfc-5c5f-83bc-79bda0259bb6",
+    "name": "Neuer Erholungssee / Mooswaldsee West - östlicher Teil",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870514"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

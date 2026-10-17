@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.399155,
+      -16.762057
+    ]
+  },
+  "properties": {
+    "uuid": "da2c0412-c8b1-5115-b04c-0d6773952edb",
+    "name": "Les rairas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869254"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

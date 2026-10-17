@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.3773,
+      -2.207931
+    ]
+  },
+  "properties": {
+    "uuid": "9464ee00-4ab1-5aba-a39a-811af87ef3a3",
+    "name": "Four Kings",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439729"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

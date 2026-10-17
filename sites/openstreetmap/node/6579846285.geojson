@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.678907,
+      -27.54089
+    ]
+  },
+  "properties": {
+    "uuid": "b56abfac-c446-5ea1-995e-f08e11499439",
+    "name": "Amoray",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6579846285"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

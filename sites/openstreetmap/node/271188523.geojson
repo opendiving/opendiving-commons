@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.884649,
+      27.773151
+    ]
+  },
+  "properties": {
+    "uuid": "28a4c161-a125-5166-89c9-c8fc07dc2c4c",
+    "name": "Shag Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271188523"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

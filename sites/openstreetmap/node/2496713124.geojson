@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.102005,
+      45.737148
+    ]
+  },
+  "properties": {
+    "uuid": "e3db98d3-70ca-5622-a200-6a3a150cd6d9",
+    "name": "Grotte de Bange (Entrée S)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2496713124"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.837167,
+      54.3685
+    ]
+  },
+  "properties": {
+    "uuid": "cd2b699d-7e13-5740-adb4-f9cc9bffd468",
+    "name": "Anne Mildred Brövig",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870617"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

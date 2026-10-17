@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.92424,
+      27.016663
+    ]
+  },
+  "properties": {
+    "uuid": "210382d5-7cb6-555d-b563-aa80e08d1d34",
+    "name": "Abu Hashish Drift",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999355"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

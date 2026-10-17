@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.483617,
+      -34.275283
+    ]
+  },
+  "properties": {
+    "uuid": "cc2ba5a0-da30-542c-a523-d3a5c585a682",
+    "name": "Batsata Maze",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42369541"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

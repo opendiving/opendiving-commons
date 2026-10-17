@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.202744,
+      -17.880247
+    ]
+  },
+  "properties": {
+    "uuid": "04a5ed0f-d0a1-5ff2-9828-479a8e86d1d8",
+    "name": "Le fer à cheval",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869231"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

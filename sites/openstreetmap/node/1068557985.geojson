@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.985132,
+      24.942555
+    ]
+  },
+  "properties": {
+    "uuid": "18cbc0ca-4153-5adb-a996-ee9309467af2",
+    "name": "Shaab Nakari",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1068557985"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

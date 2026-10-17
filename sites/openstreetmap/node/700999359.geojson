@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.98245,
+      27.16058
+    ]
+  },
+  "properties": {
+    "uuid": "5534e22b-c698-507e-b813-344a584b0283",
+    "name": "Abu Ramada Cave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999359"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

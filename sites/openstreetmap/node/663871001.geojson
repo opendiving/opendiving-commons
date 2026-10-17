@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.358611,
+      53.340278
+    ]
+  },
+  "properties": {
+    "uuid": "41ba1554-ecb0-521b-a271-3a2ad60623c8",
+    "name": "Tauchspot Dolgener See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871001"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

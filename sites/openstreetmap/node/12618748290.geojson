@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.736013,
+      12.505513
+    ]
+  },
+  "properties": {
+    "uuid": "a7216185-eedc-5afb-996b-851597f80bf8",
+    "name": "Nirvana",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748290"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

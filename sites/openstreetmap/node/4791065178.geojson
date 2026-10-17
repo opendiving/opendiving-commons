@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.813368,
+      10.106635
+    ]
+  },
+  "properties": {
+    "uuid": "180fb8b8-c003-55db-8c1a-737a71bc24f0",
+    "name": "Hin Pee Wee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4791065178"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.084956,
+      51.641681
+    ]
+  },
+  "properties": {
+    "uuid": "342f987c-e141-554e-a3bd-135298390311",
+    "name": "Zuidweg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074324"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

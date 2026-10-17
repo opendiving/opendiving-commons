@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.443015,
+      -0.510162
+    ]
+  },
+  "properties": {
+    "uuid": "f04d8ebf-1bd3-52f4-beec-ddb6139ab56d",
+    "name": "Batu Dalam",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453434626"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

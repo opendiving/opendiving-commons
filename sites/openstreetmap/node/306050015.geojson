@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.804523,
+      16.94622
+    ]
+  },
+  "properties": {
+    "uuid": "b6021c98-e466-5693-8465-e8b6693f552a",
+    "name": "Aquarium",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/306050015"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

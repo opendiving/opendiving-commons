@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.473897,
+      -34.230483
+    ]
+  },
+  "properties": {
+    "uuid": "77d0e1f9-b3bb-5df0-a017-aae21ce2d396",
+    "name": "Miller's Point slipway",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42208911"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

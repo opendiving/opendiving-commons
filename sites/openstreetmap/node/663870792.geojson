@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.705424,
+      48.358362
+    ]
+  },
+  "properties": {
+    "uuid": "b307f4ca-a43b-5f54-bfcc-646f0ec9a4eb",
+    "name": "Pullinger Weiher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870792"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

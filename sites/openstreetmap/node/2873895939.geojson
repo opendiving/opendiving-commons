@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.197619,
+      52.50779
+    ]
+  },
+  "properties": {
+    "uuid": "a1a5bb6e-d6aa-5640-ab73-cbefa684f5a6",
+    "name": "Tauchturm Berlin, Bundeslehr- und Forschungsstätte (BLFS)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2873895939"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

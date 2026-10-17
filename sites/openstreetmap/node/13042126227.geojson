@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.461896,
+      -0.515442
+    ]
+  },
+  "properties": {
+    "uuid": "76922d50-7a49-58e7-8872-11b711d70560",
+    "name": "Mangrove and Slope",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042126227"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

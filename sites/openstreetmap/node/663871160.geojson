@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.163623,
+      53.784741
+    ]
+  },
+  "properties": {
+    "uuid": "d7039cf1-c1d9-5a18-8c8a-d7cdf3376c30",
+    "name": "Jezioro Pilakno",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871160"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

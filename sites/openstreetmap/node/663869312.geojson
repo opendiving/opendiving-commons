@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.366667,
+      48.671667
+    ]
+  },
+  "properties": {
+    "uuid": "5fb328bc-469d-50af-a1c4-e1d241ec8a58",
+    "name": "Little Group Islands",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869312"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

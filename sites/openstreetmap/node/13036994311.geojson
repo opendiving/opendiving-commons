@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.42926,
+      56.381812
+    ]
+  },
+  "properties": {
+    "uuid": "7e981b59-2127-5c66-9c10-f917863be3e4",
+    "name": "Perth Sub Aqua Club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13036994311"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

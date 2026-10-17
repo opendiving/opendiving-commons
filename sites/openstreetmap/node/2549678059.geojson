@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.398274,
+      43.173712
+    ]
+  },
+  "properties": {
+    "uuid": "c8180245-90d7-5c07-9a5f-610e711d0448",
+    "name": "Cala maussana",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678059"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

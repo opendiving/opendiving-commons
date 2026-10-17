@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.65216,
+      8.77198
+    ]
+  },
+  "properties": {
+    "uuid": "276f7810-93d7-564e-b677-1de39ee94ab8",
+    "name": "Vertical Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042425101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

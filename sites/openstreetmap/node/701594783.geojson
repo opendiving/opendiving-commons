@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.870191,
+      24.930776
+    ]
+  },
+  "properties": {
+    "uuid": "8f44d4a1-3141-5145-9f65-6dcdcf59ecf4",
+    "name": "Daedalus Reef South Plateau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701594783"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

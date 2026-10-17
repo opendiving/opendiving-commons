@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.719749,
+      -8.610857
+    ]
+  },
+  "properties": {
+    "uuid": "4b81f628-d129-51a2-bf0a-bd5d4cdf0f04",
+    "name": "Gindang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182785203"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

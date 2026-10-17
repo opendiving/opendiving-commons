@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.84715,
+      51.67675
+    ]
+  },
+  "properties": {
+    "uuid": "2c2fc9bb-55aa-58a3-8a20-41b753071ca2",
+    "name": "Flauwers West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074067"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

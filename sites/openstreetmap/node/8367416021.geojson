@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.630957,
+      39.543542
+    ]
+  },
+  "properties": {
+    "uuid": "fe178395-ea49-508f-b2cd-4d5010e4957b",
+    "name": "Palma Wracks",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8367416021"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

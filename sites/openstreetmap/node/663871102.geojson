@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.515969,
+      53.435302
+    ]
+  },
+  "properties": {
+    "uuid": "33296b0e-e783-5037-bd10-6f0b5d860e5e",
+    "name": "Jezioro Insko - Damm süd",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871102"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.151239,
+      -32.714147
+    ]
+  },
+  "properties": {
+    "uuid": "cb798951-16b8-56da-89ff-361780858407",
+    "name": "Fly Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/773663314"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

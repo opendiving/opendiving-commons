@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.998899,
+      20.446712
+    ]
+  },
+  "properties": {
+    "uuid": "f3bd89f3-319f-5b68-b5ef-feca3ad21f56",
+    "name": "Wreck C-53",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869368"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

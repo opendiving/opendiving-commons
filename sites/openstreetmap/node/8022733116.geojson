@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.862514,
+      -8.418121
+    ]
+  },
+  "properties": {
+    "uuid": "7151b93e-0735-597f-900a-69d9604721bd",
+    "name": "Seraya kecil dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8022733116"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

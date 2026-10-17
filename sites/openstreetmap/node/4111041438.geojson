@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.536745,
+      -5.68771
+    ]
+  },
+  "properties": {
+    "uuid": "95486338-3f42-5b10-ad85-2f4bc41d1f35",
+    "name": "Spongebob",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041438"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

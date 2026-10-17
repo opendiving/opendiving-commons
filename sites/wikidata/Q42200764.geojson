@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.476067,
+      -34.22185
+    ]
+  },
+  "properties": {
+    "uuid": "5777f6dc-785f-5717-9de1-1e47f0ab2203",
+    "name": "PMB Pinnacles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42200764"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

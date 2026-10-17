@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.244363,
+      30.480436
+    ]
+  },
+  "properties": {
+    "uuid": "05eae5ce-d81d-52de-978d-b35324d89a04",
+    "name": "Madison Blue Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3170772458"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.663461,
+      47.546867
+    ]
+  },
+  "properties": {
+    "uuid": "4e5cddec-2fe4-51ff-962a-4d47f6154f3a",
+    "name": "Hallstätter See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232700"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

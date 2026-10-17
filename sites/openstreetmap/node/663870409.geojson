@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.27524,
+      47.129279
+    ]
+  },
+  "properties": {
+    "uuid": "5dc523cb-adfb-5eea-9270-bdf85060ef48",
+    "name": "Äuli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870409"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

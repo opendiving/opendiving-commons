@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.41823,
+      46.72754
+    ]
+  },
+  "properties": {
+    "uuid": "12b458f2-e42d-53c6-a1b7-ea0c83d78c67",
+    "name": "SS Anglo-Patagonian",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595459"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.936575,
+      51.327658
+    ]
+  },
+  "properties": {
+    "uuid": "63a742c0-70c5-5885-a3be-45b58328fb0f",
+    "name": "Sorpesee Sommertauchplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/679301139"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

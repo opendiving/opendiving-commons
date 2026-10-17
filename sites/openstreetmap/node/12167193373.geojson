@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.698547,
+      -0.471326
+    ]
+  },
+  "properties": {
+    "uuid": "b2e9b476-f65d-5a81-b3e8-52ad7a63151f",
+    "name": "Friwen Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167193373"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

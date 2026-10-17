@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8453,
+      46.38839
+    ]
+  },
+  "properties": {
+    "uuid": "590b668a-2041-5a55-8da1-4d282654b46f",
+    "name": "Ecole de Mission",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869956"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

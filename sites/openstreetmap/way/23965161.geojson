@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.664285,
+      51.386066
+    ]
+  },
+  "properties": {
+    "uuid": "0bd2c848-98c9-5e3e-9da4-3fa666306624",
+    "name": "See im Berg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/23965161"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

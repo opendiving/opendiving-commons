@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.104118,
+      36.76276
+    ]
+  },
+  "properties": {
+    "uuid": "cc891ef7-ec14-508b-a2d1-4d992c4c51ee",
+    "name": "CB Alphasub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/307196217"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

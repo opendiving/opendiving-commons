@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.92694,
+      51.5446
+    ]
+  },
+  "properties": {
+    "uuid": "eb5e5754-a8eb-5334-9c3d-0629490eb94e",
+    "name": "Puttis Place",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074190"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

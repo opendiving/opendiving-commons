@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.231389,
+      50.643611
+    ]
+  },
+  "properties": {
+    "uuid": "8ffcad9e-0f30-5523-841f-eeff6a2332df",
+    "name": "HMS Minion",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869591"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

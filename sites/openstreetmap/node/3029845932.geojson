@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.794483,
+      38.301644
+    ]
+  },
+  "properties": {
+    "uuid": "4954ca6f-eda3-5f3b-a253-4bb74f40d9d7",
+    "name": "Nek Tec Rec Diving - Νεκτάριος Κατριβέσης",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3029845932"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

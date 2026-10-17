@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.106448,
+      49.294895
+    ]
+  },
+  "properties": {
+    "uuid": "b0baa5d4-8c10-5098-9db8-3dd9c8b329c7",
+    "name": "Klausensee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870858"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

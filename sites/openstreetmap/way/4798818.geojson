@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.792747,
+      51.386514
+    ]
+  },
+  "properties": {
+    "uuid": "ff7b5322-b2be-5a0b-b54b-97580fcd4447",
+    "name": "Wambachsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4798818"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

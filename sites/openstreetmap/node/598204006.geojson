@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.558876,
+      52.284799
+    ]
+  },
+  "properties": {
+    "uuid": "0b244e90-48da-5979-8381-39884d5867e6",
+    "name": "Torfmoorsee Westufer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/598204006"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

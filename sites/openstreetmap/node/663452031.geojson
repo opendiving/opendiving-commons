@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61014,
+      47.25703
+    ]
+  },
+  "properties": {
+    "uuid": "9deddc1c-cefa-5107-b3d1-dc19d648e38a",
+    "name": "Seewasser-Pumpwerk Horgen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452031"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

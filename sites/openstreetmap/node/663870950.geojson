@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.230694,
+      52.447848
+    ]
+  },
+  "properties": {
+    "uuid": "71d87b28-7f08-5f43-aa16-4b5d1640e564",
+    "name": "Krumme Lanke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870950"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

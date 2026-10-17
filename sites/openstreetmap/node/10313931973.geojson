@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.411756,
+      55.482341
+    ]
+  },
+  "properties": {
+    "uuid": "37a59ed8-e25f-5561-80e8-7a57731256a9",
+    "name": "Dykkerklubben Nemo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10313931973"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

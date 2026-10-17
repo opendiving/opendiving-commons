@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.1441,
+      43.011467
+    ]
+  },
+  "properties": {
+    "uuid": "8d403b34-619f-51e8-8352-69f2f37fb64e",
+    "name": "Michel C",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/686704396"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

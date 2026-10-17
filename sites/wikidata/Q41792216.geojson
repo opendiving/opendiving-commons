@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3069,
+      -34.064583
+    ]
+  },
+  "properties": {
+    "uuid": "a992bafd-e325-5001-8d32-3e6c447612c3",
+    "name": "Di's Cracks Pinnacle 1",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41792216"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

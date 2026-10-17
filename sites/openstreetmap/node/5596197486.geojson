@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.231632,
+      41.961053
+    ]
+  },
+  "properties": {
+    "uuid": "cf1f20b6-247e-56cb-ac94-d359d072dc03",
+    "name": "sa Tuna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5596197486"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

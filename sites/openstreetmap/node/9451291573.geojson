@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.084571,
+      34.68016
+    ]
+  },
+  "properties": {
+    "uuid": "537786b5-9395-537d-8860-c7150f24023b",
+    "name": "Constandis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9451291573"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

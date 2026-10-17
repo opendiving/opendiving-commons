@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.813583,
+      -34.308767
+    ]
+  },
+  "properties": {
+    "uuid": "25d962a6-7c2e-54d2-9873-837ffabaab64",
+    "name": "Ankers",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213686"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.453501,
+      27.98956
+    ]
+  },
+  "properties": {
+    "uuid": "57ab7807-8a6b-5727-b52b-58b8bd2aea04",
+    "name": "Louilla",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/280296847"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

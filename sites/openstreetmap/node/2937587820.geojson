@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.61416,
+      43.48337
+    ]
+  },
+  "properties": {
+    "uuid": "3b02cef5-040c-5c26-bddf-7e92ba9ce87a",
+    "name": "Sites de plongée de la Basse des Esclaves",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587820"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

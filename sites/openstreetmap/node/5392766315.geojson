@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.761212,
+      15.545212
+    ]
+  },
+  "properties": {
+    "uuid": "593c0176-f7b3-5b95-888f-d619181382f0",
+    "name": "Atlantis watersport",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5392766315"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

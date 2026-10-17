@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.353367,
+      3.950007
+    ]
+  },
+  "properties": {
+    "uuid": "a865a831-bf9a-593d-bb61-2046c0156c6f",
+    "name": "Vaageli Faru Nord",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869918"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

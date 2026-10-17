@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.773427,
+      -0.73775
+    ]
+  },
+  "properties": {
+    "uuid": "4ededeb3-017e-5e8a-95f0-963bdca6359d",
+    "name": "Bima Sakti 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12770023353"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

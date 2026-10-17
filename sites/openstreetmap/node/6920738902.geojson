@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.36628,
+      24.374775
+    ]
+  },
+  "properties": {
+    "uuid": "622fb145-543d-548a-808f-2c3a6d30471c",
+    "name": "Shaab Sakara",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6920738902"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

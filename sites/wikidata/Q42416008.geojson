@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.559833,
+      -34.245583
+    ]
+  },
+  "properties": {
+    "uuid": "e4641d93-a245-5d99-8a11-41e17fb97b81",
+    "name": "Riaan and Sven's anchor",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42416008"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

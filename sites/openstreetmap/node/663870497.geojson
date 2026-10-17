@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.499151,
+      48.559106
+    ]
+  },
+  "properties": {
+    "uuid": "a9596135-5e42-5010-93ad-c18c53f2fce1",
+    "name": "Nagoldtalsperre / Erzgrube",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870497"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

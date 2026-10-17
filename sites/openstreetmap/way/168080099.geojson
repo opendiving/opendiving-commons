@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.561544,
+      45.014893
+    ]
+  },
+  "properties": {
+    "uuid": "cd0704a7-0682-5386-83aa-9d43bd1df7e3",
+    "name": "Lac des Graves",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/168080099"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

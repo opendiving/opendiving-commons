@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.581217,
+      47.923617
+    ]
+  },
+  "properties": {
+    "uuid": "14e25f60-8fbb-5d1c-adf5-619ca4309b04",
+    "name": "Attersee - Unterwasserwald Kammer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870842"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

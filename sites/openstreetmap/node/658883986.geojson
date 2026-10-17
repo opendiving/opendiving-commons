@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.631597,
+      51.381637
+    ]
+  },
+  "properties": {
+    "uuid": "3aa0ed70-a5e2-5d70-8c4f-69bb1a472489",
+    "name": "Taucherbucht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/658883986"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

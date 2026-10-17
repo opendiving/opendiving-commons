@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.271349,
+      5.852358
+    ]
+  },
+  "properties": {
+    "uuid": "11eb0571-15a5-51c4-8053-f6f6604bf1a7",
+    "name": "Bubble Addict Dive Center",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5011026921"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

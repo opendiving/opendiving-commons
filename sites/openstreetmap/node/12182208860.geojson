@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.712672,
+      -0.702187
+    ]
+  },
+  "properties": {
+    "uuid": "4ffc013c-c36f-50da-b132-bb78852e6e4f",
+    "name": "Wai FPW",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12182208860"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.161245,
+      10.454277
+    ]
+  },
+  "properties": {
+    "uuid": "569e4749-8351-57ea-b569-e7407deb2efc",
+    "name": "Fantastic Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1354585330"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.121948,
+      5.161224
+    ]
+  },
+  "properties": {
+    "uuid": "dd54f863-4532-5daa-a805-bae212e87d6a",
+    "name": "Dharavandhoo thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9180047752"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

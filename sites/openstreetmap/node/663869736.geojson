@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.443267,
+      44.984017
+    ]
+  },
+  "properties": {
+    "uuid": "55a2dfac-91d4-5799-b566-4c678f1f9e29",
+    "name": "Fels Merag",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869736"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

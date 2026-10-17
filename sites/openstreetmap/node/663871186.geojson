@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.7691,
+      9.8926
+    ]
+  },
+  "properties": {
+    "uuid": "d1367f1d-4c07-5392-ba30-06049d89bc53",
+    "name": "Fallen Tree",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871186"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

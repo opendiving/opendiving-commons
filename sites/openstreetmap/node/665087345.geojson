@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.40025,
+      47.269472
+    ]
+  },
+  "properties": {
+    "uuid": "f1c16b5a-7016-5beb-b55d-cf95188ea235",
+    "name": "Seealpsee Einstieg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087345"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

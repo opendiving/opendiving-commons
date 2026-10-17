@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.379167,
+      -33.835167
+    ]
+  },
+  "properties": {
+    "uuid": "644e6f79-528f-5732-9000-e8e4e2d69567",
+    "name": "SS Hypatia",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213881"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

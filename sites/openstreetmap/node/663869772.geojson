@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.660738,
+      24.197052
+    ]
+  },
+  "properties": {
+    "uuid": "fed22c1e-e42e-5526-9d13-e16170635dcd",
+    "name": "Shaab Malahi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869772"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

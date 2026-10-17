@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.64096,
+      25.546444
+    ]
+  },
+  "properties": {
+    "uuid": "f99ace61-0e7b-5aba-afd8-24f6f6bfe9fb",
+    "name": "El Casra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5610579023"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

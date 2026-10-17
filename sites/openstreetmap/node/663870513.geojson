@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.38408,
+      48.45702
+    ]
+  },
+  "properties": {
+    "uuid": "cf6f228b-85ab-56f8-adf0-207483d2697f",
+    "name": "Silbersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870513"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

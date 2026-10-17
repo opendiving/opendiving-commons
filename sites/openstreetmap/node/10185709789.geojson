@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.785736,
+      3.999581
+    ]
+  },
+  "properties": {
+    "uuid": "b3b65e44-4eb9-5251-955b-5bf58314c725",
+    "name": "Fesdhoo thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10185709789"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.093291,
+      26.186995
+    ]
+  },
+  "properties": {
+    "uuid": "d183385e-552e-5725-b5a1-85beca595191",
+    "name": "Anglin’s Pier Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1464171000"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

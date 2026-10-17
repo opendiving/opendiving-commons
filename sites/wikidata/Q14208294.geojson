@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.257011,
+      27.738211
+    ]
+  },
+  "properties": {
+    "uuid": "8fcb8750-15ee-5f9d-b0dd-c8c6a1a18455",
+    "name": "Eel Garden",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14208294"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.175113,
+      44.895297
+    ]
+  },
+  "properties": {
+    "uuid": "d1297c0e-9be1-5202-a9d9-fad4cead10de",
+    "name": "Lock 23",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/719484360"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

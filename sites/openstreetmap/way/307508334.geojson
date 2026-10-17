@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.776654,
+      25.348193
+    ]
+  },
+  "properties": {
+    "uuid": "0a6f9384-ac21-5494-88d8-47de5a2627fc",
+    "name": "Abu Dabbab Ithnain",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/307508334"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

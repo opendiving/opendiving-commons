@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.683486,
+      47.835458
+    ]
+  },
+  "properties": {
+    "uuid": "5d2b0708-247a-5b5f-a7a9-07d18f9dbd73",
+    "name": "vorderer Langbathsee - Nordufer / Murenabgang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870832"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

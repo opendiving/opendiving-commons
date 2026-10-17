@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.491564,
+      50.470509
+    ]
+  },
+  "properties": {
+    "uuid": "1dea5c3b-47e0-5300-af9a-077ae4636a08",
+    "name": "Black Head Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949347575"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

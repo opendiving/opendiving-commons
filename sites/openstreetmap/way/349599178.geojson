@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.062095,
+      44.597883
+    ]
+  },
+  "properties": {
+    "uuid": "ef027523-c9cc-5dcc-8125-198b1121ba18",
+    "name": "Fox Point Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/349599178"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

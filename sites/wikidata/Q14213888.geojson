@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.374783,
+      -34.273917
+    ]
+  },
+  "properties": {
+    "uuid": "84e4586e-c439-5866-9da4-b9a8632c0ae4",
+    "name": "SS Umhlali",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213888"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

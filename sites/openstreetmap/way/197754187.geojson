@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.107649,
+      26.655651
+    ]
+  },
+  "properties": {
+    "uuid": "760b76f0-4c02-5986-b6b8-56d658a121f5",
+    "name": "Abu Kafan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/197754187"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

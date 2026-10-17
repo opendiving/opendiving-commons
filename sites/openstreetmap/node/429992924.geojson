@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.278542,
+      54.443469
+    ]
+  },
+  "properties": {
+    "uuid": "61387383-45a9-5208-bec7-178960069d18",
+    "name": "Tauchbasis Katharinenhof",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/429992924"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

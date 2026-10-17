@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.789637,
+      16.16715
+    ]
+  },
+  "properties": {
+    "uuid": "3e6b13ad-295e-5098-9a52-f8141bbd0600",
+    "name": "La Piscine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4056316466"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.341756,
+      46.705844
+    ]
+  },
+  "properties": {
+    "uuid": "bfe90194-6353-561c-91cf-dd476f1364ec",
+    "name": "Weißensee - Basis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870718"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

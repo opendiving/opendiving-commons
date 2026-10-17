@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.794625,
+      44.509568
+    ]
+  },
+  "properties": {
+    "uuid": "a6eda97c-ca06-5162-8b92-fa605873f6ef",
+    "name": "Source du Tirondel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4146806933"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.8725,
+      41.5225
+    ]
+  },
+  "properties": {
+    "uuid": "c39cad5f-1beb-59af-aef1-a9e1be4f9f20",
+    "name": "Vickers Viking",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869691"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

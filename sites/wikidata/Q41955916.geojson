@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.452883,
+      -34.192417
+    ]
+  },
+  "properties": {
+    "uuid": "ae3b00e0-1c00-53ec-b5b3-d9d2cf7e6daa",
+    "name": "Boiler wreck #1",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41955916"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

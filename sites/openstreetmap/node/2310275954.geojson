@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.878964,
+      19.698483
+    ]
+  },
+  "properties": {
+    "uuid": "2aef7433-087b-54b0-8a20-1a596114b388",
+    "name": "Cemetery Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2310275954"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

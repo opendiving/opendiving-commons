@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.966667,
+      26.9
+    ]
+  },
+  "properties": {
+    "uuid": "0fdbc896-c007-541d-a0f3-766c91d67f96",
+    "name": "شرم الناقة",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/767991726"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Sharm al Naqa"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.166446,
+      50.64971
+    ]
+  },
+  "properties": {
+    "uuid": "2d92da4c-97a0-527c-afcb-eafbb803c3f3",
+    "name": "SS Braunton",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13961574108"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.846124,
+      41.685267
+    ]
+  },
+  "properties": {
+    "uuid": "2510303f-b8e2-5cc3-97b2-abde740b5872",
+    "name": "Amigos do Mar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3563429593"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

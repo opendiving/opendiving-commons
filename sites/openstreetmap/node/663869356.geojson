@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.011375,
+      20.262841
+    ]
+  },
+  "properties": {
+    "uuid": "f30cc7e3-856b-5fa7-8094-3857837d7046",
+    "name": "Maracaibo Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869356"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

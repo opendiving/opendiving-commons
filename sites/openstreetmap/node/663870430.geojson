@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.150128,
+      47.747169
+    ]
+  },
+  "properties": {
+    "uuid": "7e834bd0-5af8-52d3-96bc-0e794a83d1a7",
+    "name": "Dingelsdorf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870430"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

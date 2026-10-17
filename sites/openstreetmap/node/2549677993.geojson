@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.385708,
+      43.173898
+    ]
+  },
+  "properties": {
+    "uuid": "4d38eb23-131b-58e7-992c-65d1f280940c",
+    "name": "Calanque des Contrebandiers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549677993"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

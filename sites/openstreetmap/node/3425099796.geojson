@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.051588,
+      26.546735
+    ]
+  },
+  "properties": {
+    "uuid": "77484821-4fe7-5743-bc0a-9aacbb4860fb",
+    "name": "Dive Abaco",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3425099796"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.964361,
+      49.39165
+    ]
+  },
+  "properties": {
+    "uuid": "bdc8e160-526a-59ab-805c-4305a7780641",
+    "name": "Lomeček",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870874"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.688667,
+      43.281133
+    ]
+  },
+  "properties": {
+    "uuid": "c6e8c270-b549-549b-b98c-45c808e48b38",
+    "name": "Roche Michel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6690818918"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

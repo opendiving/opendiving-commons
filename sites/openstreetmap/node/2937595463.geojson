@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.6982,
+      47.32614
+    ]
+  },
+  "properties": {
+    "uuid": "3c6293de-57b6-58a5-b277-0016a17debf4",
+    "name": "Épave Gai Littoral",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595463"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

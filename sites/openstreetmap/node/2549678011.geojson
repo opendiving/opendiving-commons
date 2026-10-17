@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.365933,
+      43.195367
+    ]
+  },
+  "properties": {
+    "uuid": "e287b72d-a461-5e9e-bdd4-41c64973dc22",
+    "name": "Grotte Mystérieuse",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678011"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

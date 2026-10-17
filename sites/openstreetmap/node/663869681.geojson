@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.290526,
+      19.636703
+    ]
+  },
+  "properties": {
+    "uuid": "c5079c8a-e926-5425-9456-d1af95273bb7",
+    "name": "Umbria",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869681"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

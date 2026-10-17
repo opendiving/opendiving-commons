@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.834808,
+      46.3447
+    ]
+  },
+  "properties": {
+    "uuid": "30223e7e-ec55-5686-a7f3-b5a303c81bc4",
+    "name": "Lac de Taney",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869958"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

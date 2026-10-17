@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.353433,
+      3.947749
+    ]
+  },
+  "properties": {
+    "uuid": "0f6281f2-48b6-549d-a6d2-fc4fce798428",
+    "name": "Vaageli Faru Süd",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869919"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

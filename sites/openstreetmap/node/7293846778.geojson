@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.779776,
+      1.692911
+    ]
+  },
+  "properties": {
+    "uuid": "66606c7f-2533-5eaf-b2f6-f2986f14eba7",
+    "name": "Bango",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293846778"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

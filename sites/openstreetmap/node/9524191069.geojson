@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.4205,
+      -0.300083
+    ]
+  },
+  "properties": {
+    "uuid": "b7fde6ef-4aea-5fe6-aa07-5b78cff038cb",
+    "name": "Maa Neyru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9524191069"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

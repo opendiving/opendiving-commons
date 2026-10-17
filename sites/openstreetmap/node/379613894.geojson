@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.704367,
+      50.745191
+    ]
+  },
+  "properties": {
+    "uuid": "018c6733-df92-54e2-8460-f036e111b1b4",
+    "name": "Outer Mulberry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/379613894"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

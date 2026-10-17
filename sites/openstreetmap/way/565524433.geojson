@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.658461,
+      -0.569893
+    ]
+  },
+  "properties": {
+    "uuid": "5ab09e6d-91db-5d40-90ae-1bc156e1b8f5",
+    "name": "Cape Mansuar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/565524433"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

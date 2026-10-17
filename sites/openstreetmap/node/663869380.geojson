@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.997272,
+      12.139498
+    ]
+  },
+  "properties": {
+    "uuid": "5fe60515-eab9-5163-bf50-224530116baf",
+    "name": "Boka Sami",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869380"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

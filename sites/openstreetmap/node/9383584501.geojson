@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.646976,
+      15.861474
+    ]
+  },
+  "properties": {
+    "uuid": "1e16a383-35f7-504f-a5e1-c08b327c717c",
+    "name": "Pointe du Gouvernail",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9383584501"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

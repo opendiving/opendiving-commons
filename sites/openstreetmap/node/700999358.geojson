@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.95541,
+      27.16942
+    ]
+  },
+  "properties": {
+    "uuid": "cceffbec-8bca-59f7-abcd-15a056cbcf42",
+    "name": "El Aruk Gigi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999358"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

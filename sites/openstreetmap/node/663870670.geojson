@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.582316,
+      45.217782
+    ]
+  },
+  "properties": {
+    "uuid": "72f431e3-3c1b-5105-a6c2-8767630ad7a8",
+    "name": "Riff Pal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870670"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

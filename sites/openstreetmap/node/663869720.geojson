@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.230333,
+      44.636233
+    ]
+  },
+  "properties": {
+    "uuid": "38672311-4a8a-5b43-a55e-1df471729bd7",
+    "name": "Wreck Tihany",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869720"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

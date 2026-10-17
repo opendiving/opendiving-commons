@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.00042,
+      22.004408
+    ]
+  },
+  "properties": {
+    "uuid": "ef659640-cbd6-593b-8100-1c895d19926d",
+    "name": "Elba Reef West (Fingers)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045036764"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

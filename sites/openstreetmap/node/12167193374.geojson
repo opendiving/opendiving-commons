@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.661841,
+      -0.571814
+    ]
+  },
+  "properties": {
+    "uuid": "96a3c3ed-e00e-50b8-9ea2-28bee7526055",
+    "name": "Yembuba Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167193374"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

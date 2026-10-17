@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.991683,
+      52.926633
+    ]
+  },
+  "properties": {
+    "uuid": "8a76d8e3-4a89-5633-b821-c65b650b2ae9",
+    "name": "Parsteiner See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871055"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

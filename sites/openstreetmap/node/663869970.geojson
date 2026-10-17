@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.128056,
+      46.387512
+    ]
+  },
+  "properties": {
+    "uuid": "6ef2eeff-5b40-5414-88d4-ae362c29dcce",
+    "name": "Lac Lioson",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869970"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

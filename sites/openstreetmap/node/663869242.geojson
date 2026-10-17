@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.577362,
+      -17.528658
+    ]
+  },
+  "properties": {
+    "uuid": "ac03df6b-1abb-5e7c-8d8f-de7c3ff5ddfc",
+    "name": "La zelée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869242"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

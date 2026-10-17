@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.861921,
+      46.447989
+    ]
+  },
+  "properties": {
+    "uuid": "13893d48-42e9-5cbc-87c9-b62d50cb72c5",
+    "name": "Lac Léman - Hirondelle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869978"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

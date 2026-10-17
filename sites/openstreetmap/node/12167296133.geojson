@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.546678,
+      -0.60873
+    ]
+  },
+  "properties": {
+    "uuid": "71b4ec0d-cf54-5a50-975b-c1ce0c8998ef",
+    "name": "West Mensuar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167296133"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

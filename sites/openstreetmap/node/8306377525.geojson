@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.501357,
+      47.112346
+    ]
+  },
+  "properties": {
+    "uuid": "46f788f9-79eb-58e4-8c04-6d7c702d8a9f",
+    "name": "Grafenmatt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8306377525"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

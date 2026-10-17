@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.651767,
+      -0.20131
+    ]
+  },
+  "properties": {
+    "uuid": "3b4329ab-2953-56a3-b887-810115df1424",
+    "name": "Candi City",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270685595"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.446825,
+      36.446599
+    ]
+  },
+  "properties": {
+    "uuid": "8de2441c-6d6b-550d-96b9-9c132fa21272",
+    "name": "point of interest? rock?",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2350952544"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

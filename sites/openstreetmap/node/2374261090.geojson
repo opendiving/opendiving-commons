@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.97325,
+      29.429928
+    ]
+  },
+  "properties": {
+    "uuid": "4617a8a3-1aae-53a8-907b-0158db294d5a",
+    "name": "Japanese Gardens Coral Reefs",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2374261090"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

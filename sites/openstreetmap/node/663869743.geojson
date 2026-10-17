@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.817313,
+      44.850514
+    ]
+  },
+  "properties": {
+    "uuid": "3fca9bcc-dc2d-5133-9265-38eafb3fd9f8",
+    "name": "Fels Macinj",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869743"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

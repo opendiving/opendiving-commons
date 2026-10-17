@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.404753,
+      49.21772
+    ]
+  },
+  "properties": {
+    "uuid": "9ddbe45c-f74c-5eef-bc15-6feacda75113",
+    "name": "Brechtsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/291209539"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

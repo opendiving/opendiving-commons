@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.989883,
+      51.4816
+    ]
+  },
+  "properties": {
+    "uuid": "7d504f1f-1dee-5599-96f1-021de976ca13",
+    "name": "Senftenberger See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870922"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

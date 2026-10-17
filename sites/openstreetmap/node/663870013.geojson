@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.71539,
+      46.49769
+    ]
+  },
+  "properties": {
+    "uuid": "a45b0191-265c-504a-8fc2-607d37fc7567",
+    "name": "Öschinensee-West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870013"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.634011,
+      24.006573
+    ]
+  },
+  "properties": {
+    "uuid": "0053d575-7bc0-5a3c-8e11-9ecf231492a0",
+    "name": "Turbo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1068557838"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

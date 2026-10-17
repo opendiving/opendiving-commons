@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.961364,
+      3.633395
+    ]
+  },
+  "properties": {
+    "uuid": "62de9ff2-1ddd-5908-ba87-cda66bffc92f",
+    "name": "Exit 1 and 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/519024092"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

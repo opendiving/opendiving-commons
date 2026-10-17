@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.675713,
+      53.934023
+    ]
+  },
+  "properties": {
+    "uuid": "2a688469-1fc4-5824-b3cf-ee279e78f1c5",
+    "name": "Gisela",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870635"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

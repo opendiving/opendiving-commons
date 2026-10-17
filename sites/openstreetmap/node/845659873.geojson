@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.722426,
+      46.707932
+    ]
+  },
+  "properties": {
+    "uuid": "9f21541e-04ed-588e-a0db-5a92d1dde9fc",
+    "name": "Niesen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845659873"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

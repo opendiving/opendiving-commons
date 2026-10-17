@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.8555,
+      51.646167
+    ]
+  },
+  "properties": {
+    "uuid": "79e5bd86-e40d-5bf1-9aa5-0d15e73e4904",
+    "name": "M.V. Bardini Reefer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869557"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

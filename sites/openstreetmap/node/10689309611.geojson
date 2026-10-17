@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.138029,
+      53.290457
+    ]
+  },
+  "properties": {
+    "uuid": "2dcedb93-fb73-5ed3-98fa-0993018141fb",
+    "name": "Irish Underwater Council",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10689309611"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

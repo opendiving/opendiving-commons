@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.379681,
+      47.588925
+    ]
+  },
+  "properties": {
+    "uuid": "763c0e26-7119-5a36-833e-ef91b07fd231",
+    "name": "Seacrest Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/49830903"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

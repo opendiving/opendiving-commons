@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.279791,
+      12.134583
+    ]
+  },
+  "properties": {
+    "uuid": "43f76975-8770-5efc-ab16-c05a255b41ee",
+    "name": "Te Amo Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1188151213"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

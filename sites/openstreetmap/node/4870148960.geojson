@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.239625,
+      43.33138
+    ]
+  },
+  "properties": {
+    "uuid": "6fa537e6-6dbd-5587-9f8a-684e7bf58d34",
+    "name": "Baume Rousse",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4870148960"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

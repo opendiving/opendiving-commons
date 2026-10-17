@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.719358,
+      46.133191
+    ]
+  },
+  "properties": {
+    "uuid": "114bb895-55f5-50a4-ae5b-f418cd5865a5",
+    "name": "Porto Ronco Beach Club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3060482857"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

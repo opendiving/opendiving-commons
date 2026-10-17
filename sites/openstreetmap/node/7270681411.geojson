@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.835857,
+      -0.327546
+    ]
+  },
+  "properties": {
+    "uuid": "5aef5cd8-cfd8-5b86-ae95-7bc4d0a9e015",
+    "name": "Gap",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270681411"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

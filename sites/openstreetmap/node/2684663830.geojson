@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.388733,
+      52.164017
+    ]
+  },
+  "properties": {
+    "uuid": "66f7f354-959c-56ae-b07d-664d34b5c829",
+    "name": "Aqua-Holic",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2684663830"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

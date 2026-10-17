@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.382142,
+      47.8158
+    ]
+  },
+  "properties": {
+    "uuid": "a9839ffc-2613-5ef4-b9a0-37cc9c680a74",
+    "name": "Brackett's Landing",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/14353880"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.355827,
+      3.894228
+    ]
+  },
+  "properties": {
+    "uuid": "ef433f07-2d20-5f4e-8330-3738febb43a7",
+    "name": "Jack Faru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869917"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

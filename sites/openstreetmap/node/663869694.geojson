@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.86973,
+      43.04834
+    ]
+  },
+  "properties": {
+    "uuid": "22c5c2ae-7358-5148-8d75-d0f5da1cf331",
+    "name": "Arroyo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869694"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

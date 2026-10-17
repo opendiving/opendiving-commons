@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.818883,
+      -34.18665
+    ]
+  },
+  "properties": {
+    "uuid": "20c6c178-ccdf-5ac5-933f-fc40ef818720",
+    "name": "Phil’s Bay",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213842"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

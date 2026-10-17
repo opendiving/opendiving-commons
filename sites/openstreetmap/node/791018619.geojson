@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.228609,
+      42.041483
+    ]
+  },
+  "properties": {
+    "uuid": "c81e7c8d-f08e-56c2-9985-caa369e90d19",
+    "name": "Carall Bernat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/791018619"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.968572,
+      49.843207
+    ]
+  },
+  "properties": {
+    "uuid": "53b76d50-78f5-502f-b8cc-ff3b0cff5894",
+    "name": "Zvěřinov",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232715"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

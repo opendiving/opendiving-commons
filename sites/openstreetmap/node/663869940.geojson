@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.364021,
+      4.014879
+    ]
+  },
+  "properties": {
+    "uuid": "d79c9f2b-0785-514d-9d93-5eb3bbb86e8a",
+    "name": "Black Coral Faru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869940"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

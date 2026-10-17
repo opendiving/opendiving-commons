@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.406533,
+      24.2571
+    ]
+  },
+  "properties": {
+    "uuid": "cfd88eb7-2363-59e6-a6c7-acd89aa030c0",
+    "name": "Hausriff Zabargad Beach Resort",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869770"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

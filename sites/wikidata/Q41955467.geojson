@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4533,
+      -34.193833
+    ]
+  },
+  "properties": {
+    "uuid": "de8804c6-9d3f-5544-85e9-ce0ffab33e39",
+    "name": "Ark Rock Barge wreck",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41955467"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

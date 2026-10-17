@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.988333,
+      29.521667
+    ]
+  },
+  "properties": {
+    "uuid": "e3ceef08-5734-5435-95d8-a66c7b286b64",
+    "name": "Cedar Pride",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869877"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

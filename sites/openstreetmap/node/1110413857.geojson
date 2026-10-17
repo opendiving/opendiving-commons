@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.048547,
+      51.682793
+    ]
+  },
+  "properties": {
+    "uuid": "61e50234-5119-59f7-a46f-ade607e32f9f",
+    "name": "Ankerplaats - Dillingweg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1110413857"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

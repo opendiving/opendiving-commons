@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.882741,
+      3.590797
+    ]
+  },
+  "properties": {
+    "uuid": "3a5d14f6-770d-5ead-b543-cf07e4835203",
+    "name": "Kudhi Maa Wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7156015385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

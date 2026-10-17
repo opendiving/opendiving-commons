@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.719515,
+      8.736998
+    ]
+  },
+  "properties": {
+    "uuid": "4abaeb18-a1d7-56ef-a57c-bd7ff1751a6e",
+    "name": "K-7 Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1475405895"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

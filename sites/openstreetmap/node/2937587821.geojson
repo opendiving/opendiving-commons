@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.74876,
+      43.3953
+    ]
+  },
+  "properties": {
+    "uuid": "27d30d61-12ed-5a8f-bee5-996346065fa1",
+    "name": "Erretak",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587821"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

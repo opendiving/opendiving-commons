@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.749541,
+      12.550791
+    ]
+  },
+  "properties": {
+    "uuid": "031d4582-a73b-58a6-b23d-ad3c65f28fb4",
+    "name": "Cantil del Barco",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762601"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

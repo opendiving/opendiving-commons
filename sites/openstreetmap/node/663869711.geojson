@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.236345,
+      36.082002
+    ]
+  },
+  "properties": {
+    "uuid": "42f54de5-230a-569d-92a2-63e0f7b4c833",
+    "name": "Reqqa Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869711"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

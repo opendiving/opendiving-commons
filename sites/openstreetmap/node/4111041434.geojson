@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.548544,
+      -5.585033
+    ]
+  },
+  "properties": {
+    "uuid": "fe6e6586-b6f8-5f38-85e8-b0ca3efe78aa",
+    "name": "Leon's Bikini Bottom",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041434"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

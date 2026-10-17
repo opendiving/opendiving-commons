@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.63197,
+      47.12689
+    ]
+  },
+  "properties": {
+    "uuid": "c0d98d24-190b-51fb-88a6-9cfa8ea5172f",
+    "name": "Kurheim Ländli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452040"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

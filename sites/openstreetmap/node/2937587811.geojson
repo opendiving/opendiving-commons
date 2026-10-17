@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.84592,
+      47.54714
+    ]
+  },
+  "properties": {
+    "uuid": "c4042c4b-938e-5ca3-857d-ccd78ee44c6f",
+    "name": "Club de plongée allo plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587811"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

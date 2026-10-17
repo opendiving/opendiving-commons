@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.455447,
+      -2.214304
+    ]
+  },
+  "properties": {
+    "uuid": "414d58f1-8592-595e-9830-e8494abf4519",
+    "name": "Gorgonian passage dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13431576401"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

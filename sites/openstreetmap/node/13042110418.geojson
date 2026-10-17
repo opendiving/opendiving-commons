@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.459773,
+      -0.512987
+    ]
+  },
+  "properties": {
+    "uuid": "0fd19931-14a8-544f-aa05-7560cfbfaaf8",
+    "name": "Mangrove Ridge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042110418"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

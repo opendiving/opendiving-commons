@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.438858,
+      -5.466651
+    ]
+  },
+  "properties": {
+    "uuid": "a0180b22-aece-5219-9907-8e48d7b38267",
+    "name": "Tuna Can",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104175037"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

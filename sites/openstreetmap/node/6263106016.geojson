@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.861924,
+      45.695931
+    ]
+  },
+  "properties": {
+    "uuid": "3eaf6f9e-d305-550a-9bc8-ca5ec272f552",
+    "name": "Tête de la vache",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6263106016"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

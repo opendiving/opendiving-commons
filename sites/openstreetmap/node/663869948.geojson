@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.478393,
+      3.906159
+    ]
+  },
+  "properties": {
+    "uuid": "63d2439d-9b05-55da-a2ac-56817f8ba6d4",
+    "name": "Cocoa Tila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869948"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

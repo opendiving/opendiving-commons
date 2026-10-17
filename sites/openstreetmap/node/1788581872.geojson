@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.210659,
+      42.06602
+    ]
+  },
+  "properties": {
+    "uuid": "f9f51c91-dd89-55c4-8eda-6073c16423b0",
+    "name": "Negre del Falaguer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1788581872"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

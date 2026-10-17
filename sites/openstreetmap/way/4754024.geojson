@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.90312,
+      51.083347
+    ]
+  },
+  "properties": {
+    "uuid": "81f67b27-b943-52a9-a873-91834e331ca9",
+    "name": "Großer Krämersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4754024"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

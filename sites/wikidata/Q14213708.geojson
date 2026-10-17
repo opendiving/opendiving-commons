@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.902131,
+      -34.127169
+    ]
+  },
+  "properties": {
+    "uuid": "827ffd11-d253-5ff6-8234-a311dd60ef4d",
+    "name": "Blue Rock Quarry",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213708"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

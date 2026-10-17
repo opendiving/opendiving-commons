@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.755967,
+      9.540133
+    ]
+  },
+  "properties": {
+    "uuid": "0cfafbb7-aa98-5743-967d-f1ee980ce545",
+    "name": "Habagat Wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13904121504"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

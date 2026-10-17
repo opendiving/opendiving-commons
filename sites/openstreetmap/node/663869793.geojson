@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.909167,
+      27.1925
+    ]
+  },
+  "properties": {
+    "uuid": "888b735c-95a2-5925-a755-e39f29031d90",
+    "name": "Shaabruhr Umm Gamar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869793"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

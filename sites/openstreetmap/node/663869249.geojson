@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.631668,
+      -17.568533
+    ]
+  },
+  "properties": {
+    "uuid": "74e0efa5-9ed4-5355-9979-ce8c7fa21c59",
+    "name": "Papa Whisky",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869249"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

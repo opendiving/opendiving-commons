@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.219654,
+      41.974361
+    ]
+  },
+  "properties": {
+    "uuid": "84469860-9d4a-5f2f-a28b-71e21847aaf7",
+    "name": "Boia dels Ulls de Llop",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826566"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.024161,
+      21.969159
+    ]
+  },
+  "properties": {
+    "uuid": "07d07d0e-607e-56ec-bf52-3c233511b283",
+    "name": "Elba Reef, West-Plateau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045036765"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.425212,
+      54.101442
+    ]
+  },
+  "properties": {
+    "uuid": "5f1a4097-f6bc-59ee-8e97-c2c19702000f",
+    "name": "Großer Plöner See - Bosau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870643"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

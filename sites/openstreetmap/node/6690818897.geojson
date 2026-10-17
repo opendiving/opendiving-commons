@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.686508,
+      43.314779
+    ]
+  },
+  "properties": {
+    "uuid": "46b9f3e6-c4d9-565b-8b02-efefb46f2731",
+    "name": "Tombant des Sardinaux",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6690818897"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

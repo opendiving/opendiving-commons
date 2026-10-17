@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.719387,
+      3.587973
+    ]
+  },
+  "properties": {
+    "uuid": "d64267a2-be78-51ad-966d-544b2cbabff7",
+    "name": "Rangali manta point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584302415"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

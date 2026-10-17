@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.851323,
+      -0.336173
+    ]
+  },
+  "properties": {
+    "uuid": "bc652987-0374-5d53-bf58-a079d7678096",
+    "name": "Taipi Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270668459"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

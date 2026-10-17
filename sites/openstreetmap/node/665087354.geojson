@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.672494,
+      47.382348
+    ]
+  },
+  "properties": {
+    "uuid": "ad93a862-a7ee-54f3-a47d-ca440098cfa1",
+    "name": "Diepoldsau Sportplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087354"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.36465,
+      -33.929083
+    ]
+  },
+  "properties": {
+    "uuid": "a14dcdb8-41e6-575c-b451-3211515d4bdb",
+    "name": "North Paw Northern Pinnacles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41742252"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

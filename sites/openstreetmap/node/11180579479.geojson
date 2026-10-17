@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.386479,
+      38.723807
+    ]
+  },
+  "properties": {
+    "uuid": "5ba0f796-b759-543b-9caf-213bbd836ed1",
+    "name": "Arco de Formentera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11180579479"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

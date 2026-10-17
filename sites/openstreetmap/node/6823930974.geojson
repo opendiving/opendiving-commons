@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.598238,
+      40.617267
+    ]
+  },
+  "properties": {
+    "uuid": "832c2706-ad61-5183-bdd6-c32742c4336b",
+    "name": "Thassos scuba diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6823930974"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

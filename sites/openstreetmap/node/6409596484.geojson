@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.587418,
+      46.951208
+    ]
+  },
+  "properties": {
+    "uuid": "fee50ad5-12aa-5072-b271-122979f289a2",
+    "name": "Grottoni",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6409596484"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

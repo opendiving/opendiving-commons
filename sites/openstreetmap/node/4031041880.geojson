@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.244683,
+      7.283438
+    ]
+  },
+  "properties": {
+    "uuid": "47eeb844-30d8-5317-a7af-eda773799273",
+    "name": "Ulong Channel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031041880"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

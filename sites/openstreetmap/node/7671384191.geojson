@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.812569,
+      51.479821
+    ]
+  },
+  "properties": {
+    "uuid": "d848783f-7a10-58ec-98ee-417c98a4aa28",
+    "name": "Taucheinstieg 3",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7671384191"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

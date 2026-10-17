@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.540092,
+      19.321573
+    ]
+  },
+  "properties": {
+    "uuid": "712d2691-a1a9-5ca0-bc08-620a79b4e9d1",
+    "name": "The dive Academy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6914199295"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

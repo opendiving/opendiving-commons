@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.470283,
+      44.981483
+    ]
+  },
+  "properties": {
+    "uuid": "88d0e682-2523-5609-873a-d533ba3c9ec7",
+    "name": "Kap Selzine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869731"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

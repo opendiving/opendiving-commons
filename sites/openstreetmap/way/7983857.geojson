@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.200591,
+      52.29788
+    ]
+  },
+  "properties": {
+    "uuid": "87ba7b63-8dec-5405-9b59-822c6e5228b8",
+    "name": "Handorfer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/7983857"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

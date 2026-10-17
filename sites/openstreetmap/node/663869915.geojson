@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.350636,
+      3.902905
+    ]
+  },
+  "properties": {
+    "uuid": "c447e856-d619-5359-9521-9ab68a8e8ca7",
+    "name": "Rannalhi Faru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869915"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

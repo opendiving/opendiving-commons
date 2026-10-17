@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.656077,
+      13.464241
+    ]
+  },
+  "properties": {
+    "uuid": "f5b661db-faa2-53ea-84d4-07a2b78e23e5",
+    "name": "Outhouse Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1246045955"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

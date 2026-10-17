@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.591739,
+      -0.218824
+    ]
+  },
+  "properties": {
+    "uuid": "8b41cf90-fd91-55c8-832c-f778f9187b31",
+    "name": "Chinese Town",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270681269"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

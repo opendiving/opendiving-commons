@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.503128,
+      -8.096381
+    ]
+  },
+  "properties": {
+    "uuid": "9c0f3e23-df77-53f2-9b90-97108cc933c1",
+    "name": "Post I Jetty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4454995857"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

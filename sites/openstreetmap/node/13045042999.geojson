@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.040683,
+      21.982716
+    ]
+  },
+  "properties": {
+    "uuid": "bc83a7e8-472e-515f-b7ca-c136799193a2",
+    "name": "Elba Reef East (Southplateau)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045042999"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

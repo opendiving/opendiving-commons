@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.476667,
+      -34.236833
+    ]
+  },
+  "properties": {
+    "uuid": "cf7af9f4-c150-51ea-942c-449b1427f0ed",
+    "name": "Shark Alley",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213895"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

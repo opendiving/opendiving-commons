@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.315967,
+      -34.066433
+    ]
+  },
+  "properties": {
+    "uuid": "df4abc28-a6d5-5924-b0d3-237c502227ec",
+    "name": "Tafelberg Reef North",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41793357"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.621082,
+      47.275472
+    ]
+  },
+  "properties": {
+    "uuid": "86710428-b4fd-5f03-9b1a-bb6c0ff5575e",
+    "name": "Strandbad Feldmeilen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7319304278"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.133541,
+      53.698305
+    ]
+  },
+  "properties": {
+    "uuid": "cceece44-092b-592e-b284-08cde7aacb65",
+    "name": "Holztreppen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577341"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

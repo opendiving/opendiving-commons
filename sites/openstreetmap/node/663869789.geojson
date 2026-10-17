@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.985907,
+      26.831227
+    ]
+  },
+  "properties": {
+    "uuid": "b8f6d2ad-23a7-5509-b896-3fa238c06412",
+    "name": "Tobia Hamra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869789"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

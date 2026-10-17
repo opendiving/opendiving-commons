@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.821864,
+      25.135327
+    ]
+  },
+  "properties": {
+    "uuid": "74805956-799c-5d9a-a6b4-9d5b805ff4fb",
+    "name": "浮潛練習場",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9921693316"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

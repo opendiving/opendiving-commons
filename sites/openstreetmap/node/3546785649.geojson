@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.252895,
+      -8.705721
+    ]
+  },
+  "properties": {
+    "uuid": "ad3fcd3c-1cb6-54c3-ab25-0ffe6f9372b4",
+    "name": "Bali Scuba",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3546785649"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

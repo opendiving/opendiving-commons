@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.813538,
+      10.105643
+    ]
+  },
+  "properties": {
+    "uuid": "3625027e-ca60-59a1-bdf4-5908129ccd9a",
+    "name": "HTMS Sattakut",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5992774764"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.498038,
+      20.632503
+    ]
+  },
+  "properties": {
+    "uuid": "8e03fd18-6bc9-5c93-997f-054880ab5b72",
+    "name": "Tako Flats",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3480273167"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

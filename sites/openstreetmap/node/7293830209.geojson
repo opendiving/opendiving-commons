@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.783299,
+      1.614566
+    ]
+  },
+  "properties": {
+    "uuid": "6c031332-4d32-5f09-b265-7e43109e900e",
+    "name": "Timur 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293830209"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

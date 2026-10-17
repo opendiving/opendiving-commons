@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.25313,
+      -8.705751
+    ]
+  },
+  "properties": {
+    "uuid": "028a9a23-13ef-5f9a-a10c-d15b86b97006",
+    "name": "Bali Aqua Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3546785648"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

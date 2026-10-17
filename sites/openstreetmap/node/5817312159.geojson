@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.323034,
+      36.783875
+    ]
+  },
+  "properties": {
+    "uuid": "02acba70-e7f4-5457-8ef5-710554b6fad7",
+    "name": "Deca diving club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5817312159"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

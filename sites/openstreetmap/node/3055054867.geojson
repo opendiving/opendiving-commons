@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.317005,
+      27.855425
+    ]
+  },
+  "properties": {
+    "uuid": "80bc0875-03fe-5819-8e08-f9be799b6066",
+    "name": "Diving Centre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3055054867"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.135039,
+      24.823811
+    ]
+  },
+  "properties": {
+    "uuid": "32f69f05-9ad2-52ba-9eed-fb7d21afbed7",
+    "name": "通り池",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9280303157"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Toriike"
+      }
+    }
+  }
+}

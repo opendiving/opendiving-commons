@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.589195,
+      18.901867
+    ]
+  },
+  "properties": {
+    "uuid": "a72998e1-4c1e-572c-921e-1bed401d3925",
+    "name": "Dibsel Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721015872"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.814884,
+      51.476416
+    ]
+  },
+  "properties": {
+    "uuid": "ac26c1a4-242d-5a82-8ce5-0eb1f7e58136",
+    "name": "Sundhäuser See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4598684"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

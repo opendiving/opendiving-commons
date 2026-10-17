@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.203767,
+      23.618633
+    ]
+  },
+  "properties": {
+    "uuid": "540ea41e-9bd8-5359-84ff-7df18552024b",
+    "name": "South Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869751"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

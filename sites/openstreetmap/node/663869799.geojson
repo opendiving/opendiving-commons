@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.953267,
+      27.139
+    ]
+  },
+  "properties": {
+    "uuid": "6a06ef77-edec-597c-8be7-27495d1749f9",
+    "name": "Gota Abu Ramada - Aquarium",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869799"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

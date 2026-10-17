@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.981599,
+      47.668377
+    ]
+  },
+  "properties": {
+    "uuid": "feaa3c84-1834-5449-a12c-06c66f7869ac",
+    "name": "Landungssteg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

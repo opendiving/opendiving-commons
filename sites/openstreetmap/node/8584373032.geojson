@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.736411,
+      4.21796
+    ]
+  },
+  "properties": {
+    "uuid": "676c4e3e-9b6a-5e23-ae2a-f35afeefce97",
+    "name": "Gangehi Kandu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584373032"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

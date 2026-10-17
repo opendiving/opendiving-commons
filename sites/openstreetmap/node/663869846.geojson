@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.448263,
+      28.056738
+    ]
+  },
+  "properties": {
+    "uuid": "ba5801a5-bc04-5302-8c12-722e1451acab",
+    "name": "Hey Daroma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869846"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

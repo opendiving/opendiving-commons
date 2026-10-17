@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.081333,
+      51.4795
+    ]
+  },
+  "properties": {
+    "uuid": "fc8739d0-7c0c-5d8e-8d41-4622777cf9a3",
+    "name": "Möhnesee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870568"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

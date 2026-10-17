@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.517527,
+      35.903883
+    ]
+  },
+  "properties": {
+    "uuid": "1b545e6f-249b-5bb6-aea6-699efb2c4eaf",
+    "name": "Sant' Iermu - Sikka Leminija",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614906769"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Saint Elmo - Right Reef"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.906362,
+      27.367623
+    ]
+  },
+  "properties": {
+    "uuid": "4ca317e1-712f-5bd2-ab44-471ffc0acabf",
+    "name": "Umm Gamar West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5709269770"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

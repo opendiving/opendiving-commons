@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.336121,
+      36.005099
+    ]
+  },
+  "properties": {
+    "uuid": "2f8e427d-e603-52be-a4a9-fbf840252d43",
+    "name": "Dive Site and Shipwreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831399"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.74534,
+      12.506087
+    ]
+  },
+  "properties": {
+    "uuid": "f7395b5e-238c-58d4-b671-40b423ecc61a",
+    "name": "Cantil de Nirvana",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748291"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

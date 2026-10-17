@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.105813,
+      52.554124
+    ]
+  },
+  "properties": {
+    "uuid": "89a2deb7-b0bf-5e18-b8ae-dc337582bf82",
+    "name": "Gildenburgh Water",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/24920541"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

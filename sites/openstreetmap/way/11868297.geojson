@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.865538,
+      -1.596815
+    ]
+  },
+  "properties": {
+    "uuid": "b4d4ecd3-23cb-5837-8225-03a74b86691e",
+    "name": "Isla Salango",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/11868297"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.30955,
+      -34.036933
+    ]
+  },
+  "properties": {
+    "uuid": "c2b79723-15dd-5b68-8d9e-e79cf07d1a90",
+    "name": "SS Oakburn",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41799138"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

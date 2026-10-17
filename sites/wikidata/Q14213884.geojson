@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.396667,
+      -33.896667
+    ]
+  },
+  "properties": {
+    "uuid": "0fbc7d38-d5e3-594a-9737-7911500e57dd",
+    "name": "SS SA Seafarer",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213884"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

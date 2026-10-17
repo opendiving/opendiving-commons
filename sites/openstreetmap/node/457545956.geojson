@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.636171,
+      58.215143
+    ]
+  },
+  "properties": {
+    "uuid": "8f7c179e-ec21-56fe-98bb-fa33b7e8ce65",
+    "name": "Mekjervågen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/457545956"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

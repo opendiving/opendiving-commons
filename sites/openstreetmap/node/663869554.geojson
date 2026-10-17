@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.383333,
+      51.433333
+    ]
+  },
+  "properties": {
+    "uuid": "7faf0373-fa29-5176-b59e-96af0f522745",
+    "name": "S.S. Malmanger",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869554"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

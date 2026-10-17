@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.726518,
+      12.585564
+    ]
+  },
+  "properties": {
+    "uuid": "e1a0ba21-9596-5313-931f-a11b937fea79",
+    "name": "Cantil de Los Recuerdos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762602"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

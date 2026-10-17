@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.638167,
+      -34.227983
+    ]
+  },
+  "properties": {
+    "uuid": "76601cbf-441c-5e22-a385-d0c2b6bf22ce",
+    "name": "SATS General Botha",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213874"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

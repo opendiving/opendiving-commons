@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.052312,
+      9.552417
+    ]
+  },
+  "properties": {
+    "uuid": "b7b873f4-cbe0-5d9f-be75-6202163c24c6",
+    "name": "Member Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7574515246"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

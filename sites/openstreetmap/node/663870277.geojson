@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61245,
+      47.28102
+    ]
+  },
+  "properties": {
+    "uuid": "86c99537-348f-5c23-acd7-0221b665ae4d",
+    "name": "Sandy Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870277"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

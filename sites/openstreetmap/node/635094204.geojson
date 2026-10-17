@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.288822,
+      12.171025
+    ]
+  },
+  "properties": {
+    "uuid": "b5b7fabc-d612-5973-a991-2e25cf46698b",
+    "name": "Buddy's Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/635094204"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

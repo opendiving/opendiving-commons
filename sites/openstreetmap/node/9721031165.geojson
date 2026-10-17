@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.002377,
+      21.786135
+    ]
+  },
+  "properties": {
+    "uuid": "09a3c59a-7bee-594f-bbd3-2b0d78cb220a",
+    "name": "Abu Seif",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721031165"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

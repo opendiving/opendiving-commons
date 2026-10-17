@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.605922,
+      4.011397
+    ]
+  },
+  "properties": {
+    "uuid": "630bb2df-131b-53a7-befe-b096a73da3bd",
+    "name": "Bajo del Anda",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651060"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

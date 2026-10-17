@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.251814,
+      -0.542705
+    ]
+  },
+  "properties": {
+    "uuid": "96079b7e-a885-53e0-8ff2-d8e388c1b9b8",
+    "name": "Barracuda East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045311305"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

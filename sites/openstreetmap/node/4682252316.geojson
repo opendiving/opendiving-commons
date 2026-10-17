@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.07344,
+      47.504386
+    ]
+  },
+  "properties": {
+    "uuid": "c83a0a6b-78b5-5098-94fc-ec1841e053ad",
+    "name": "Diveworld Hungary",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4682252316"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

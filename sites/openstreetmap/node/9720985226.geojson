@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.319092,
+      20.860883
+    ]
+  },
+  "properties": {
+    "uuid": "b20ba46e-a5bd-56fa-9323-26a86b96f203",
+    "name": "Gota Mesharifa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9720985226"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

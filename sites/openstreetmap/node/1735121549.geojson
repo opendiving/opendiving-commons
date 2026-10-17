@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.921179,
+      6.490438
+    ]
+  },
+  "properties": {
+    "uuid": "ba8d089b-bdd1-52e0-b9a3-03d3399c3c8d",
+    "name": "Lankayan - Malu Malu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735121549"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

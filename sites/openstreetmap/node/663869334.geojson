@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.046051,
+      20.355571
+    ]
+  },
+  "properties": {
+    "uuid": "831f6095-1de5-5923-b551-3bd901938c50",
+    "name": "Punta Tunich Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869334"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.234983,
+      41.969509
+    ]
+  },
+  "properties": {
+    "uuid": "93b950ad-eb68-5b1e-a12a-e48121ec720a",
+    "name": "Les Alzines",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826564"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.712982,
+      8.75766
+    ]
+  },
+  "properties": {
+    "uuid": "b59ac090-97bf-5b8f-8026-4337955f42ef",
+    "name": "Bravo Buoy Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1475405901"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

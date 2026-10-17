@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.739045,
+      47.23375
+    ]
+  },
+  "properties": {
+    "uuid": "79a4008c-0fd7-5221-affa-cabb252542eb",
+    "name": "Kehlhof",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870312"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

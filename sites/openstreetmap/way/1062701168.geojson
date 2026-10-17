@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.756008,
+      23.386447
+    ]
+  },
+  "properties": {
+    "uuid": "c083d128-9f8d-5186-a743-20f7d54b8973",
+    "name": "Fandera Hemera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1062701168"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

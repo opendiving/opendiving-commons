@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.84286,
+      46.25258
+    ]
+  },
+  "properties": {
+    "uuid": "039f7292-c530-529e-8147-23cb62ce03e9",
+    "name": "Posse 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870186"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

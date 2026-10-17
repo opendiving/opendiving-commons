@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.608671,
+      4.006096
+    ]
+  },
+  "properties": {
+    "uuid": "f60fda05-f0ab-564e-ae30-f44b321acd15",
+    "name": "El Freezer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651053"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.796648,
+      1.641159
+    ]
+  },
+  "properties": {
+    "uuid": "c22f6928-0c9d-5288-ae07-fe6e7ad4e133",
+    "name": "S. Utara",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293848927"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

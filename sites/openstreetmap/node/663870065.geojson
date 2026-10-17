@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.16945,
+      46.80136
+    ]
+  },
+  "properties": {
+    "uuid": "1787bb26-b569-5ebb-a502-73c02f4b49f4",
+    "name": "Lauenen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870065"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

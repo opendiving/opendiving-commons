@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.35379,
+      47.611058
+    ]
+  },
+  "properties": {
+    "uuid": "c7a905f3-8913-5d32-b0eb-17a170c62da8",
+    "name": "Walchensee - Pioniertafel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870676"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

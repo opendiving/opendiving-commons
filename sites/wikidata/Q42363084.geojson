@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.482133,
+      -34.250616
+    ]
+  },
+  "properties": {
+    "uuid": "00f4fd9f-2d55-5fc3-b5ed-9675a92ff00a",
+    "name": "Santorini pinnacles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42363084"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.962979,
+      24.927838
+    ]
+  },
+  "properties": {
+    "uuid": "0e6b142c-ec17-58f3-96f3-562ea6db7db0",
+    "name": "Marsa Nakari North reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12754199513"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

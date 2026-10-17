@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.538209,
+      -5.689787
+    ]
+  },
+  "properties": {
+    "uuid": "c68a3811-83cc-5b17-ac52-f2458cb1279e",
+    "name": "Maria's Heart",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041435"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

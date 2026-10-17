@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.274,
+      46.7741
+    ]
+  },
+  "properties": {
+    "uuid": "d881b3b2-e4ce-5535-bb7f-f1769d02765a",
+    "name": "Kiesstrand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870068"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

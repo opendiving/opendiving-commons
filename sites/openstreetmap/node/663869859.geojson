@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.45779,
+      28.435592
+    ]
+  },
+  "properties": {
+    "uuid": "0d407cb4-47ef-544e-ab91-6a981c77188f",
+    "name": "3 Pools",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869859"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

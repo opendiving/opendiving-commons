@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.634668,
+      13.462009
+    ]
+  },
+  "properties": {
+    "uuid": "dfbdea4e-eb85-53ca-b07f-b564b89700c9",
+    "name": "American Tanker",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/17144279"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

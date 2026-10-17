@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.678703,
+      4.816413
+    ]
+  },
+  "properties": {
+    "uuid": "36b9374a-b3d7-52a1-8d28-d56295e72dca",
+    "name": "Rajawali Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3033956554"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

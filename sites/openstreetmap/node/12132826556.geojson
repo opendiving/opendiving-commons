@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.22903,
+      41.944236
+    ]
+  },
+  "properties": {
+    "uuid": "c5182c32-98db-599e-a5c3-7bc68c5e6d5c",
+    "name": "Barda de l'Illa Negra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826556"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

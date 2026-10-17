@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.521232,
+      28.505349
+    ]
+  },
+  "properties": {
+    "uuid": "19649614-0fae-54f1-bd93-5a0b12d42ebc",
+    "name": "Eel Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/251193614"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

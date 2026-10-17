@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.690372,
+      -0.464123
+    ]
+  },
+  "properties": {
+    "uuid": "8062446d-3ca1-5ead-8f2c-33bbf5bcc7d8",
+    "name": "Andrea's Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167296132"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

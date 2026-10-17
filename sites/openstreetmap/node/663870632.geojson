@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.97322,
+      53.852643
+    ]
+  },
+  "properties": {
+    "uuid": "bd0a43fa-ae24-513b-a73c-da4de223d11e",
+    "name": "Albertus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870632"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

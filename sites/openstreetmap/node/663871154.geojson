@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.557667,
+      54.670833
+    ]
+  },
+  "properties": {
+    "uuid": "3ba254f8-06dc-5f6c-a531-bf6b644ee6ad",
+    "name": "ORP Gryf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871154"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

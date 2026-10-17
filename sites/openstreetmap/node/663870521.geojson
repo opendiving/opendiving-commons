@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.187778,
+      48.024444
+    ]
+  },
+  "properties": {
+    "uuid": "30849aa4-f968-54d4-92bb-0f730bbddbf3",
+    "name": "Pilsensee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870521"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

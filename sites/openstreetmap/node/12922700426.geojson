@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.048783,
+      56.462847
+    ]
+  },
+  "properties": {
+    "uuid": "f658af59-166a-5b4f-ad0d-63e85102d5d7",
+    "name": "Randers Sportsdykkerklub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12922700426"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.461481,
+      27.992166
+    ]
+  },
+  "properties": {
+    "uuid": "350c1a98-81c0-5f8a-8a78-42d2ba2e00c1",
+    "name": "Thomas reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8559506183"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

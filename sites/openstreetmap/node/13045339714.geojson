@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.289593,
+      -0.593408
+    ]
+  },
+  "properties": {
+    "uuid": "4ab24fcd-e788-52d9-8985-1f55dbb65a5a",
+    "name": "Harto's Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045339714"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

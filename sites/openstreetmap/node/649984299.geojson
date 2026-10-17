@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      92.963393,
+      12.064092
+    ]
+  },
+  "properties": {
+    "uuid": "c971bcee-250a-5340-b09d-03fcc7c64b85",
+    "name": "MV Mars",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/649984299"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

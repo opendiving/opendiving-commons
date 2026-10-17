@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.33133,
+      46.2138
+    ]
+  },
+  "properties": {
+    "uuid": "529a6faf-9b8a-510a-ac4e-f7b4d8ae70e6",
+    "name": "Les Iles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869971"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.532507,
+      4.1086
+    ]
+  },
+  "properties": {
+    "uuid": "e6826e28-5ce4-5e1d-bcd8-a36c375665b4",
+    "name": "Embudu Finolhu Outside",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4584554104"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

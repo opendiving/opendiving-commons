@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.245619,
+      26.165344
+    ]
+  },
+  "properties": {
+    "uuid": "ad6caedb-4f70-5d40-b908-cdd38a3ea01d",
+    "name": "Flamenco Hausriff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6018110087"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

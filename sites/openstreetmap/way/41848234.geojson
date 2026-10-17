@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.519368,
+      28.498838
+    ]
+  },
+  "properties": {
+    "uuid": "9ef9d59c-4732-5b11-b5d6-67d67bcdff01",
+    "name": "Confined Water Training Area",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/41848234"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.741138,
+      12.534387
+    ]
+  },
+  "properties": {
+    "uuid": "635f5ba7-b41d-580f-a7cc-b536ff24a607",
+    "name": "Padi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748298"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.325167,
+      36.003745
+    ]
+  },
+  "properties": {
+    "uuid": "4f2a47b7-6be5-5871-aba6-8ca322a4c00f",
+    "name": "Ras l-Irqiqa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831395"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Lantern Point"
+      }
+    }
+  }
+}

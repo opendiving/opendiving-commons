@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.594778,
+      47.799782
+    ]
+  },
+  "properties": {
+    "uuid": "d55ad882-bde2-5765-9686-17d49f98336c",
+    "name": "Immenhofener Weiher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870472"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.178029,
+      44.309033
+    ]
+  },
+  "properties": {
+    "uuid": "bf3fdf54-85af-5970-911c-bad9d6929cd9",
+    "name": "Secca Gonzatti",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504266956"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

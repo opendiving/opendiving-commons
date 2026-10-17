@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.576084,
+      47.324167
+    ]
+  },
+  "properties": {
+    "uuid": "f5857b7e-8f51-5392-a4f7-4b7c9be8c300",
+    "name": "Bellerive 55",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452088"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

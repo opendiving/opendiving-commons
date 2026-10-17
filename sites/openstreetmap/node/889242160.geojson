@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.132957,
+      53.702052
+    ]
+  },
+  "properties": {
+    "uuid": "e6a5d7f3-475a-56af-871d-937a89109483",
+    "name": "Taucher E5B",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/889242160"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

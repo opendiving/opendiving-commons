@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.884441,
+      7.344582
+    ]
+  },
+  "properties": {
+    "uuid": "0ba7ce3c-7f65-5f30-b7b5-13fe1f79e09e",
+    "name": "Fujikawa Maru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031617721"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.381711,
+      25.954011
+    ]
+  },
+  "properties": {
+    "uuid": "44ee5968-722f-56ce-941b-06e6447ec5ca",
+    "name": "Novotel House Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11082801709"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

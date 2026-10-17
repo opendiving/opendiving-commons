@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.420358,
+      3.810294
+    ]
+  },
+  "properties": {
+    "uuid": "6e7843c8-02af-5863-9929-fcb838967149",
+    "name": "Kudarah",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869899"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

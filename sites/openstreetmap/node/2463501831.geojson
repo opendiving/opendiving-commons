@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.875754,
+      7.367574
+    ]
+  },
+  "properties": {
+    "uuid": "528733f2-d56c-5f55-acbb-6bb4924b38e6",
+    "name": "Hin Daeng",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2463501831"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

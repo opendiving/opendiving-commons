@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.826374,
+      51.740105
+    ]
+  },
+  "properties": {
+    "uuid": "3e442f01-dfb8-5f34-beac-19596bef3491",
+    "name": "Dolfintje",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1827914670"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

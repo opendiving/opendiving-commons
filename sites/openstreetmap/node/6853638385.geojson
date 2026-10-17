@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.037574,
+      -8.338197
+    ]
+  },
+  "properties": {
+    "uuid": "a2903008-9b86-5d8e-8b68-b94eff8b05c2",
+    "name": "little shark",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6853638385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

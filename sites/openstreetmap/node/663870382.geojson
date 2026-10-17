@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.01777,
+      47.67547
+    ]
+  },
+  "properties": {
+    "uuid": "be6eb281-8674-53b7-9b4b-b386d3b16192",
+    "name": "Schifflände",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870382"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

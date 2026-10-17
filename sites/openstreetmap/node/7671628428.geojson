@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.813251,
+      51.478505
+    ]
+  },
+  "properties": {
+    "uuid": "c895b3e7-32f1-5e5a-ab5b-37b64b5109fe",
+    "name": "Charlotte III",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7671628428"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

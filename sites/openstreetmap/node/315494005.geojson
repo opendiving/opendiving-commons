@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.651418,
+      24.185319
+    ]
+  },
+  "properties": {
+    "uuid": "e1c03c47-4872-5d51-a532-9654432c35cb",
+    "name": "Gota Sataia 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/315494005"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

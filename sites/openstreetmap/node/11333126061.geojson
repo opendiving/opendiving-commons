@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.289473,
+      26.202678
+    ]
+  },
+  "properties": {
+    "uuid": "769bb395-cd33-5125-a2c1-a124459f9180",
+    "name": "西浜・にしはま",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333126061"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Nishi Hama"
+      }
+    }
+  }
+}

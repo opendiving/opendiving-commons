@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.815567,
+      -34.188867
+    ]
+  },
+  "properties": {
+    "uuid": "969b3272-c04b-5324-885e-fbb1946ffe60",
+    "name": "Noble Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42427935"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

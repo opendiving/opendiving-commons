@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.79802,
+      46.47212
+    ]
+  },
+  "properties": {
+    "uuid": "7f373e04-72ed-5e0b-b914-aca94a13793d",
+    "name": "Lac Léman-Gare St. Saphorin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869977"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

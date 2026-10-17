@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.659483,
+      54.588745
+    ]
+  },
+  "properties": {
+    "uuid": "e9b748ba-9454-5f0a-a80b-a608aa53a5c1",
+    "name": "Amazone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871129"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

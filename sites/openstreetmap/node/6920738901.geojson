@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.416207,
+      24.237632
+    ]
+  },
+  "properties": {
+    "uuid": "1c910f27-99a2-5acd-9d4b-dbe6418dfa7e",
+    "name": "Wadi Lahmy Azur Housereef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6920738901"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.936485,
+      54.669478
+    ]
+  },
+  "properties": {
+    "uuid": "d9baaf83-8c13-5db6-8434-9625baa4512a",
+    "name": "Galvės ežero maudykla",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11968943455"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

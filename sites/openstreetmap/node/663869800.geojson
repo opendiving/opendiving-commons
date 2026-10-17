@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.984654,
+      27.193028
+    ]
+  },
+  "properties": {
+    "uuid": "35e23946-e853-5e36-be42-707caf3313c8",
+    "name": "Ham Ham",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869800"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

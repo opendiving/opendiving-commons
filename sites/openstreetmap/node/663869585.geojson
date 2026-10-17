@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.14,
+      50.686389
+    ]
+  },
+  "properties": {
+    "uuid": "74866d79-7a4e-54bf-9530-a8f4531b20c4",
+    "name": "Mira",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869585"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

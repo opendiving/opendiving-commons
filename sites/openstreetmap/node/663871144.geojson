@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.920844,
+      53.753207
+    ]
+  },
+  "properties": {
+    "uuid": "a741ead1-8618-540c-9f53-091b3db4d60c",
+    "name": "Jezioro Czarnoglowy Srednie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871144"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.221776,
+      -8.76819
+    ]
+  },
+  "properties": {
+    "uuid": "5db93c9b-8fbd-521b-8e5f-e38d39e9c879",
+    "name": "PADI Hammerhead Bali Dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3739211502"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

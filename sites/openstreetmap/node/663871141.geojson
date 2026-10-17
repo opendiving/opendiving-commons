@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.932077,
+      53.755201
+    ]
+  },
+  "properties": {
+    "uuid": "473d8241-f110-5dad-a4fa-1450acf08311",
+    "name": "Jezioro Czarnoglowy Duze - Unterwasserwald",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871141"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

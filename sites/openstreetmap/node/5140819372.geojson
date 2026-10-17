@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.966931,
+      48.690102
+    ]
+  },
+  "properties": {
+    "uuid": "ed0637f7-abc0-5657-ae20-540f1e181005",
+    "name": "Club de plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5140819372"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

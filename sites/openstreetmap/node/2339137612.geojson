@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.546942,
+      47.804607
+    ]
+  },
+  "properties": {
+    "uuid": "f9d32d37-8352-5596-960d-19aafd277397",
+    "name": "Badeplatz Nixe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2339137612"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

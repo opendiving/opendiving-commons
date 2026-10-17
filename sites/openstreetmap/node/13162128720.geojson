@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.803877,
+      45.775005
+    ]
+  },
+  "properties": {
+    "uuid": "338a035f-fa4a-50eb-b180-d614d607e7d1",
+    "name": "Thalassa Lyon Plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13162128720"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.930362,
+      32.636137
+    ]
+  },
+  "properties": {
+    "uuid": "214d4b1d-32f7-5910-a736-9288af061534",
+    "name": "Scuba Madeira",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5337055627"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

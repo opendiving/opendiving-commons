@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.286907,
+      -21.170568
+    ]
+  },
+  "properties": {
+    "uuid": "649d43f9-3807-5027-aac2-d592610a8dfc",
+    "name": "Abyss Plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4492168590"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.313105,
+      58.92677
+    ]
+  },
+  "properties": {
+    "uuid": "0836279e-5857-58c3-b952-7aa154796dde",
+    "name": "Tabarka (block ship)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/406542562"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

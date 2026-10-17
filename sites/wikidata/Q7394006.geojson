@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.313217,
+      -34.034367
+    ]
+  },
+  "properties": {
+    "uuid": "53fa271a-68de-57b6-b1ea-d761f2e06a48",
+    "name": "SS Maori",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q7394006"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

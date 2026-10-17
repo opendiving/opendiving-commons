@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.120363,
+      11.348375
+    ]
+  },
+  "properties": {
+    "uuid": "72ad16a3-0f0a-5d91-9dae-d103758e83cc",
+    "name": "Deep Slope",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4941391019"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

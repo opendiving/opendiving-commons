@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.382074,
+      -16.78832
+    ]
+  },
+  "properties": {
+    "uuid": "92015d69-3c07-5b63-8ff9-5e2ce7438d8f",
+    "name": "Iriru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869259"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

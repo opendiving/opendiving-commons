@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.302488,
+      27.846658
+    ]
+  },
+  "properties": {
+    "uuid": "52d8092d-0987-5fc6-af02-c245fe36770d",
+    "name": "Ras Katy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869829"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

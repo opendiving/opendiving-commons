@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.350892,
+      25.603115
+    ]
+  },
+  "properties": {
+    "uuid": "9698abab-e0a4-5870-af33-6667b17a0ff2",
+    "name": "Dibba Rock Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/3357581"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -14.330589,
+      28.042771
+    ]
+  },
+  "properties": {
+    "uuid": "b7f4b43d-2ed7-5109-aadd-52c15ac01e38",
+    "name": "Großes Muränenriff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6372064739"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

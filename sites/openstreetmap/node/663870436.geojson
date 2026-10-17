@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.16888,
+      47.76189
+    ]
+  },
+  "properties": {
+    "uuid": "f47affb6-7003-5bdf-9b25-92bfbdf7b477",
+    "name": "Liebesinsel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870436"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

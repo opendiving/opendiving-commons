@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.470464,
+      11.825025
+    ]
+  },
+  "properties": {
+    "uuid": "7281edff-a506-58e6-ab01-3af15cf48415",
+    "name": "BBDivers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4163477897"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

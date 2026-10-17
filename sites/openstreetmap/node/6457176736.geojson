@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.368295,
+      7.111946
+    ]
+  },
+  "properties": {
+    "uuid": "faddf7d5-3571-5cbd-be8f-f9c97c0abb2e",
+    "name": "Ngerechong Drop-off",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6457176736"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

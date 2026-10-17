@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.367513,
+      3.878562
+    ]
+  },
+  "properties": {
+    "uuid": "c6583455-93eb-5fbc-85ad-91a05a17a6df",
+    "name": "Fihalhohi Hausriff Nord",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869908"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

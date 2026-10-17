@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.612595,
+      -17.540237
+    ]
+  },
+  "properties": {
+    "uuid": "f0346c69-7e26-5f05-8b5f-03d748c40c41",
+    "name": "La virgule",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869240"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.141389,
+      -32.717989
+    ]
+  },
+  "properties": {
+    "uuid": "a5b3fbf9-ff47-5f96-9ef1-c47bdf078629",
+    "name": "The Pipeline",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3593902162"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

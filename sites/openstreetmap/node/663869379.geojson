@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.99653,
+      12.138497
+    ]
+  },
+  "properties": {
+    "uuid": "3bdc3394-e630-5930-879d-1eb9f3dfaf29",
+    "name": "Snake Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869379"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

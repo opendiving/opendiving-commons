@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.848991,
+      55.971352
+    ]
+  },
+  "properties": {
+    "uuid": "ef116630-b5e1-5689-93d2-d3dedf15a80f",
+    "name": "BB 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/392504435"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

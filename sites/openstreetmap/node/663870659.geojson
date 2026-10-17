@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.113751,
+      54.4042
+    ]
+  },
+  "properties": {
+    "uuid": "7c6e8d2c-6de0-5619-aa04-14e6f0a4d587",
+    "name": "Fehmarnsund",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870659"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

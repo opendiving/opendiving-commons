@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.652127,
+      25.50954
+    ]
+  },
+  "properties": {
+    "uuid": "7ad9cde3-b700-530b-843b-eefcfc8eb9af",
+    "name": "Marsa Mubarak",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5126304822"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Marsa Mares Bay"
+      }
+    }
+  }
+}

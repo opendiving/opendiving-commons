@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.893332,
+      8.710176
+    ]
+  },
+  "properties": {
+    "uuid": "1e118624-6cab-5d10-9262-0eb9a3509783",
+    "name": "El Arco",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1552609343"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

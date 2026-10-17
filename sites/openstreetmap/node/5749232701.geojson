@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.674307,
+      47.547637
+    ]
+  },
+  "properties": {
+    "uuid": "c2ffd53f-501b-527a-8cf0-6120d4a66af2",
+    "name": "Hallstätter See Bus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232701"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

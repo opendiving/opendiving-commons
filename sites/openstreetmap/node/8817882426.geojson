@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.401355,
+      19.362075
+    ]
+  },
+  "properties": {
+    "uuid": "7778c8c5-1e76-500b-9987-110f13924c6d",
+    "name": "USS Kittiwake Shipwreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8817882426"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

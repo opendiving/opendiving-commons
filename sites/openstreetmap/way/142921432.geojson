@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.176967,
+      45.683715
+    ]
+  },
+  "properties": {
+    "uuid": "bd5d2375-371f-5f2e-8dde-dc182d3d5322",
+    "name": "Plan d'eau de Chamagnieu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/142921432"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

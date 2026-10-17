@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.099383,
+      63.328854
+    ]
+  },
+  "properties": {
+    "uuid": "284aed27-637e-5f6e-ac08-1d0746bb0bdc",
+    "name": "Nykorallene",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3086851835"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.387422,
+      3.819211
+    ]
+  },
+  "properties": {
+    "uuid": "de6e1794-e256-5a4a-acdd-21bc570e1909",
+    "name": "Rihiveli Faru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869897"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.133794,
+      53.697702
+    ]
+  },
+  "properties": {
+    "uuid": "806330c8-78fd-58b1-8f12-f94a073db713",
+    "name": "Steinschlagmatten",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577343"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

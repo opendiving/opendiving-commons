@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.19845,
+      -16.875833
+    ]
+  },
+  "properties": {
+    "uuid": "d68aaa9b-c424-5f1b-a06b-a5565fad3798",
+    "name": "Moore Reef - Labyrinth",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869678"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

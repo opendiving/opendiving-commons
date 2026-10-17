@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.138031,
+      53.697487
+    ]
+  },
+  "properties": {
+    "uuid": "cdaf9951-daf0-5507-9926-f651ab12929d",
+    "name": "Kleine Büsche und Bäume",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450055"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

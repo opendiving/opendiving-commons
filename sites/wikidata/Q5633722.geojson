@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.47,
+      -34.22
+    ]
+  },
+  "properties": {
+    "uuid": "16a6ee03-4a46-50f3-aaaa-76d679d587f7",
+    "name": "HMS Pelorus",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q5633722"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

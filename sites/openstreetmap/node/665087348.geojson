@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.672222,
+      47.379722
+    ]
+  },
+  "properties": {
+    "uuid": "9fbb2c61-0792-5459-b441-0cd4c68d9d12",
+    "name": "Diepoldsau Badi Einstieg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087348"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

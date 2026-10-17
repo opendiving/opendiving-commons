@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.54135,
+      46.28742
+    ]
+  },
+  "properties": {
+    "uuid": "4556facd-2edf-507f-9d9b-f50945b4cee1",
+    "name": "Lac de Géronde-Plage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869968"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

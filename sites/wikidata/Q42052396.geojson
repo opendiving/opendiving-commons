@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.463333,
+      -34.200833
+    ]
+  },
+  "properties": {
+    "uuid": "db36805a-5681-5919-9f90-3817ad9af64b",
+    "name": "Windmill Offshore Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42052396"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

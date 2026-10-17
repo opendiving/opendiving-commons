@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.412986,
+      37.005666
+    ]
+  },
+  "properties": {
+    "uuid": "b5439302-fa86-571e-bdcd-6a45f62c30a5",
+    "name": "Büyük Resif",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10973665013"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.814357,
+      23.515712
+    ]
+  },
+  "properties": {
+    "uuid": "010d5e12-dc80-5168-b877-6511235db86c",
+    "name": "Habili Omran",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11271483280"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

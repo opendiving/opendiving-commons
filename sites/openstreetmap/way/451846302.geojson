@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.456047,
+      47.023852
+    ]
+  },
+  "properties": {
+    "uuid": "19571303-6c28-53dd-abce-21ce4e61853b",
+    "name": "Gebiet Riedsort",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/451846302"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

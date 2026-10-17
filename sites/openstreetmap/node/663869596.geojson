@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.128611,
+      50.642778
+    ]
+  },
+  "properties": {
+    "uuid": "293d4ba5-6975-5445-813e-4ef28f803170",
+    "name": "HMS Keryado",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869596"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

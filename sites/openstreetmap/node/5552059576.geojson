@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.491732,
+      22.6749
+    ]
+  },
+  "properties": {
+    "uuid": "3a5c4efa-90a1-5ac8-a697-72620ba671c1",
+    "name": "Blue Water Diving Safari",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5552059576"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

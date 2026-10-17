@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.69603,
+      -0.477448
+    ]
+  },
+  "properties": {
+    "uuid": "1a5be37e-b42f-5f2e-939e-acd9a2e76e72",
+    "name": "Friwen Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/672703117"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

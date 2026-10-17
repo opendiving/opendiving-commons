@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.68023,
+      44.388514
+    ]
+  },
+  "properties": {
+    "uuid": "dd75d58e-ee6b-5da1-9057-1fc9146a9702",
+    "name": "Palestra subacquea Arenzano",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/450769556"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

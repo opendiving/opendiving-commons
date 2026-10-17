@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.348148,
+      12.218142
+    ]
+  },
+  "properties": {
+    "uuid": "396abf86-aa16-59e5-9dc9-f0082426e352",
+    "name": "La Denia's Leap",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869441"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

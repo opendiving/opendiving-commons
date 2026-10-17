@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.466,
+      -34.195
+    ]
+  },
+  "properties": {
+    "uuid": "8e4ae119-07eb-5a18-8e45-c8b176f872d5",
+    "name": "Torch Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213933"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

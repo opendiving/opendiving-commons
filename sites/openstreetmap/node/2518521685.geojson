@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -23.759704,
+      15.275302
+    ]
+  },
+  "properties": {
+    "uuid": "386e5be0-1fce-546a-bb00-fa02b3113041",
+    "name": "Franciscus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2518521685"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

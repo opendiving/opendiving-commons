@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.283132,
+      30.318112
+    ]
+  },
+  "properties": {
+    "uuid": "0553db82-c1de-58ab-9e9e-504bedbce9ba",
+    "name": "Catherine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869448"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

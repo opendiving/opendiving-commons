@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.885333,
+      52.450983
+    ]
+  },
+  "properties": {
+    "uuid": "0890d8a6-5c70-5060-8915-c547c9c3b896",
+    "name": "Zeilboot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810586467"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

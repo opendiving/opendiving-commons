@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.195043,
+      11.720956
+    ]
+  },
+  "properties": {
+    "uuid": "2c86ac0e-32d2-57fd-8faf-fb185ce9db01",
+    "name": "Île Moucha جزيرة موشا",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/11092421"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Moucha Island"
+      }
+    }
+  }
+}

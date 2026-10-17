@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.90332,
+      23.429574
+    ]
+  },
+  "properties": {
+    "uuid": "7a029ebf-79fe-5f2a-9b6c-50137ab0c04a",
+    "name": "St John's Small Gota",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1213850349"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

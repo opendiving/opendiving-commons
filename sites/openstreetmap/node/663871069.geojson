@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.430683,
+      53.314683
+    ]
+  },
+  "properties": {
+    "uuid": "af122cad-a15c-516e-9eda-637effc7eaa9",
+    "name": "Schmaler Luzin, Ziegenwiese",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871069"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

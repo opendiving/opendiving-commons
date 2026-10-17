@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.60841,
+      47.284848
+    ]
+  },
+  "properties": {
+    "uuid": "918a80cd-20c6-5753-aded-bf5fa01cf7fc",
+    "name": "Riff Williams",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/241788315"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

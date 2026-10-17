@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.133057,
+      53.698178
+    ]
+  },
+  "properties": {
+    "uuid": "c0dc075c-86bc-5fc1-a043-9a246c270e46",
+    "name": "Rüttler und Briefkasten",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577339"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

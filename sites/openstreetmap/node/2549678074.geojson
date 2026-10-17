@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.385,
+      43.18895
+    ]
+  },
+  "properties": {
+    "uuid": "c9694472-3395-503c-8ec7-1b0b2d3bc72b",
+    "name": "Tunnel de planne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678074"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

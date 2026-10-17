@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.8595,
+      50.839167
+    ]
+  },
+  "properties": {
+    "uuid": "80bfa1b9-b428-5255-bd3f-0ae95ece8fa5",
+    "name": "Bleibtreusee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870547"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

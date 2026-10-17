@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.007465,
+      51.250597
+    ]
+  },
+  "properties": {
+    "uuid": "de949d2a-524a-5868-b5d4-7d851ac3937d",
+    "name": "Steinbruchsee Luise",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/24773471"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

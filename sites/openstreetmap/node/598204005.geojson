@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.568654,
+      52.283662
+    ]
+  },
+  "properties": {
+    "uuid": "73fb190f-609f-507a-b9e4-01cb2b8c5958",
+    "name": "Torfmoorsee Ostufer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/598204005"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

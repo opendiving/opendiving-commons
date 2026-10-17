@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.410296,
+      44.366914
+    ]
+  },
+  "properties": {
+    "uuid": "84f5a14b-39dd-5e0c-ad3b-3a405ed3e2ff",
+    "name": "Fontaine de la Burle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2411637407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

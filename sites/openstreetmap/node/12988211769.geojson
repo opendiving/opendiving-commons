@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.395763,
+      42.989263
+    ]
+  },
+  "properties": {
+    "uuid": "cf385499-064b-5605-b025-3aef8aed0379",
+    "name": "Gabiniėre Est",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12988211769"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

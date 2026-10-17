@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.417393,
+      -2.205385
+    ]
+  },
+  "properties": {
+    "uuid": "007354a4-bfc3-57d5-a9b9-526d14a761b6",
+    "name": "Wedding Cake",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439725"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

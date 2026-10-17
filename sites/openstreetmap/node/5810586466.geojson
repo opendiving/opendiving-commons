@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.885441,
+      52.450957
+    ]
+  },
+  "properties": {
+    "uuid": "4aea0d18-2e6b-5741-91d2-090dc3a86db3",
+    "name": "Kabelhaspels",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810586466"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.74107,
+      9.53897
+    ]
+  },
+  "properties": {
+    "uuid": "bfe732fc-2c37-5e68-868b-63cd990f2fb2",
+    "name": "Bita-ug",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13903375430"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

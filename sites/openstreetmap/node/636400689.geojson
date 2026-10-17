@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.316574,
+      12.206539
+    ]
+  },
+  "properties": {
+    "uuid": "48b1dff7-c23d-57e9-b938-c98a656a1fe4",
+    "name": "Weber's Joy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/636400689"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

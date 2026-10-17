@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.63324,
+      -8.525225
+    ]
+  },
+  "properties": {
+    "uuid": "1fb28e75-c98d-5f6c-a9a0-ad37fbd28839",
+    "name": "Tatawa Kecil dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182760644"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

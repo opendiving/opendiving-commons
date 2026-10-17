@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.885422,
+      52.450856
+    ]
+  },
+  "properties": {
+    "uuid": "5050e424-bc12-5de5-bb08-b2f66d6f1f36",
+    "name": "Onderwaterpark Twiske",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810548990"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

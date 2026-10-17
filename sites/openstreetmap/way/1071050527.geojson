@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.701058,
+      43.605042
+    ]
+  },
+  "properties": {
+    "uuid": "25730006-a04d-58a7-ac82-ad012069fa85",
+    "name": "Stuka / Junkers Ju 87",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1071050527"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

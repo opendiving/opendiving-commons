@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.286283,
+      43.280417
+    ]
+  },
+  "properties": {
+    "uuid": "17e03971-a5f2-5e6a-bdf8-6ce7738a9c50",
+    "name": "Tiboulen de frioul",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678071"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

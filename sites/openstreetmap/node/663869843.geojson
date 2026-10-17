@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.4,
+      27.956667
+    ]
+  },
+  "properties": {
+    "uuid": "23371c77-6d3c-5c9e-8293-e161d86ca063",
+    "name": "White Knight",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869843"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

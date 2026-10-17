@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.228078,
+      12.094058
+    ]
+  },
+  "properties": {
+    "uuid": "edac8d1a-ca0f-5c7e-9c3f-16d0d56d8891",
+    "name": "White Hole",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869411"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.498115,
+      -0.548034
+    ]
+  },
+  "properties": {
+    "uuid": "8dd2d414-c556-5ac0-8d56-663347d7c9da",
+    "name": "Batu Laut",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042160207"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

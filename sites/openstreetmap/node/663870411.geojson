@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.205913,
+      47.129684
+    ]
+  },
+  "properties": {
+    "uuid": "105f7603-7273-5515-b0b8-cd096e4bc1b0",
+    "name": "Laui",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870411"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

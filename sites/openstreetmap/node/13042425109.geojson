@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.60123,
+      8.81188
+    ]
+  },
+  "properties": {
+    "uuid": "01d15912-9b67-53e9-9e24-9686ed067723",
+    "name": "Kwaj-3 Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042425109"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

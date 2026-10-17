@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.484882,
+      51.45102
+    ]
+  },
+  "properties": {
+    "uuid": "d848e35a-cc33-5d7c-a612-89c2602f9bb9",
+    "name": "Buckland Lake Reserve",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/5096020"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

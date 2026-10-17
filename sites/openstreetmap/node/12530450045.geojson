@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.131148,
+      53.698807
+    ]
+  },
+  "properties": {
+    "uuid": "be19dd31-a19b-55c8-b252-44bb7d2113ea",
+    "name": "Segelboot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450045"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

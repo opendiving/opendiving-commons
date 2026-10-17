@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5203,
+      -34.1168
+    ]
+  },
+  "properties": {
+    "uuid": "cea27c9b-e4a7-5c86-a315-7c4dc4150f63",
+    "name": "Diving the Cape Peninsula and False Bay/Muizenberg Trawlers",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14913577"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

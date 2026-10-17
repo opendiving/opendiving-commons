@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.825773,
+      51.018847
+    ]
+  },
+  "properties": {
+    "uuid": "4098d967-ea06-5bed-b0de-e1342b36f3d5",
+    "name": "Tauchbasis Kiessee Leuben",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/324744396"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

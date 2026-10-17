@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.741726,
+      12.497146
+    ]
+  },
+  "properties": {
+    "uuid": "13390d89-b0b8-5978-ab07-8cb7c8006058",
+    "name": "West Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748289"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

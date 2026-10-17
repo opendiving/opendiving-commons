@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.346483,
+      43.310067
+    ]
+  },
+  "properties": {
+    "uuid": "d75cbaff-8cd6-5690-9ba3-dddbd3c81bb2",
+    "name": "Saint Dominique",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678062"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -21.116941,
+      64.25519
+    ]
+  },
+  "properties": {
+    "uuid": "ad700e78-8198-5c84-8299-634edc32f51b",
+    "name": "Silfra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1817672135"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Silfra Diving"
+      }
+    }
+  }
+}

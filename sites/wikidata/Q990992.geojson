@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.86,
+      51.766667
+    ]
+  },
+  "properties": {
+    "uuid": "a3c4c4bd-2111-50e4-a9de-f73a23332d0f",
+    "name": "Brouwersdam",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q990992"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

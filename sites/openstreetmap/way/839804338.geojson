@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.905933,
+      33.922797
+    ]
+  },
+  "properties": {
+    "uuid": "585ff544-a0fa-5e1e-8b87-6dbdb9254ca0",
+    "name": "Dive Land Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/839804338"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

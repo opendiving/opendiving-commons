@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.97452,
+      45.906628
+    ]
+  },
+  "properties": {
+    "uuid": "8db6895f-0084-593e-a4e6-535533515e2a",
+    "name": "Lago di Lugano-Lido di Riva S. Vitale",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870144"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

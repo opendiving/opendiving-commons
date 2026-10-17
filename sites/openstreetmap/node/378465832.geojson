@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.761487,
+      43.684116
+    ]
+  },
+  "properties": {
+    "uuid": "acad3c2e-6cd8-5771-8fa3-f5dfa00f935b",
+    "name": "Brampton Scuba Instruction",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/378465832"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.437466,
+      29.102476
+    ]
+  },
+  "properties": {
+    "uuid": "e5af9725-855f-544a-ab65-42384d37e48c",
+    "name": "Rainbow Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3173674191"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

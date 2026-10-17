@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.734141,
+      6.277748
+    ]
+  },
+  "properties": {
+    "uuid": "cb76ca65-7127-5713-8be7-d6870bdeabff",
+    "name": "Scuba Club langkawi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6178621789"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

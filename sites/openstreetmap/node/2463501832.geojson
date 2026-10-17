@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.87002,
+      7.367387
+    ]
+  },
+  "properties": {
+    "uuid": "4c2dc371-8a5e-51f8-b60b-a59d0fcfedce",
+    "name": "Hin Muang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2463501832"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Purple Rock"
+      }
+    }
+  }
+}

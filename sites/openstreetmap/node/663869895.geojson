@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.430742,
+      3.855119
+    ]
+  },
+  "properties": {
+    "uuid": "7f38d1cd-3ee2-5c0e-b076-fdc7278921fc",
+    "name": "Coral Giri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869895"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

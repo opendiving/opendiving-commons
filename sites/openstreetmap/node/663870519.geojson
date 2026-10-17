@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8445,
+      48.213833
+    ]
+  },
+  "properties": {
+    "uuid": "ecea1e28-8fd4-53d1-a9e1-806a2a772f1d",
+    "name": "Risskiessee Laupheim",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870519"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

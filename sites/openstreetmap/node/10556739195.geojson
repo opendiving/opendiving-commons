@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      137.156015,
+      34.929328
+    ]
+  },
+  "properties": {
+    "uuid": "29b75a6f-9ff5-5f1c-96dd-ae1cd1381fa2",
+    "name": "わっしょいダイバーズ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10556739195"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

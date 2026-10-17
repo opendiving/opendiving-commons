@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.466667,
+      -34.215
+    ]
+  },
+  "properties": {
+    "uuid": "90f2b8fe-9bae-5352-b903-44d3110ef4d4",
+    "name": "Rocklands blinder",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213857"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

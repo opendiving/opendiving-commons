@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.567675,
+      -2.219045
+    ]
+  },
+  "properties": {
+    "uuid": "3126fac7-3f63-52cd-a2e9-2b402b0d03ec",
+    "name": "Tank rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13431576501"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

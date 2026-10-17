@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5611,
+      -34.246417
+    ]
+  },
+  "properties": {
+    "uuid": "937b8563-abe3-5004-8943-1abe78f3bb2c",
+    "name": "Little anchor",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42416166"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

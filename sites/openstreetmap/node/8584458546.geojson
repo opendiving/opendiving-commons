@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.719292,
+      4.002327
+    ]
+  },
+  "properties": {
+    "uuid": "86a9d522-e17b-589e-8612-0c82b177d602",
+    "name": "Maalhos Thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584458546"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

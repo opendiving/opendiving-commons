@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.133454,
+      53.699103
+    ]
+  },
+  "properties": {
+    "uuid": "24e2cafb-20d1-5b41-adc3-9d9d86ac0708",
+    "name": "Mahusan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577346"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

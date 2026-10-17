@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.09351,
+      51.707834
+    ]
+  },
+  "properties": {
+    "uuid": "a3a17a7a-2813-5213-aaaa-d875827cdc98",
+    "name": "GochNess",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2292988145"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.788323,
+      16.166017
+    ]
+  },
+  "properties": {
+    "uuid": "95a514ef-b47d-50c7-af54-edf12d696b27",
+    "name": "Pointe Carangue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4056316469"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

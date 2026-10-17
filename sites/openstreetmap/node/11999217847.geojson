@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.268809,
+      50.854768
+    ]
+  },
+  "properties": {
+    "uuid": "8e7cc169-9f54-5ec5-8163-0e470a3486cc",
+    "name": "LKW-Kabine 16m",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11999217847"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

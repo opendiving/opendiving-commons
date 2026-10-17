@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.920699,
+      29.505302
+    ]
+  },
+  "properties": {
+    "uuid": "b56f174d-d87a-5538-8951-fcacb19079fa",
+    "name": "גנים יפניים",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8577540917"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

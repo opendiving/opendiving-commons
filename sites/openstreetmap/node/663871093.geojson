@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.435113,
+      52.837581
+    ]
+  },
+  "properties": {
+    "uuid": "92121b01-5891-5d11-9b3e-37fdacf5fdcd",
+    "name": "Jezioro Bielin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871093"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

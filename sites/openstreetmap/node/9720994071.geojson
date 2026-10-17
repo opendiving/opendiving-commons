@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.404234,
+      19.938963
+    ]
+  },
+  "properties": {
+    "uuid": "b99fd2ca-25e8-5a30-b5f8-5e2dc17d7fb8",
+    "name": "Shaab Rumi, Precontinent 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9720994071"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

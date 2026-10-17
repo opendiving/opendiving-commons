@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.19725,
+      27.729261
+    ]
+  },
+  "properties": {
+    "uuid": "be952e27-a26f-51d6-bc84-2c37fbbbf8f6",
+    "name": "The Alternatives",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14201842"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.302359,
+      10.619907
+    ]
+  },
+  "properties": {
+    "uuid": "0074ce2b-a8e0-5444-9e24-b5db00bba8ff",
+    "name": "Old Jetty Wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3651013790"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

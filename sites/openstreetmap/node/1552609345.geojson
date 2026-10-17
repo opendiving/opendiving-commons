@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.879203,
+      8.712673
+    ]
+  },
+  "properties": {
+    "uuid": "d6f53a19-69af-5ce5-8047-f14a0d0a597d",
+    "name": "Jardín Medio",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1552609345"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

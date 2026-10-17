@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.122872,
+      43.079414
+    ]
+  },
+  "properties": {
+    "uuid": "91f49451-13fb-53cd-a61c-f216c3aa8f89",
+    "name": "Sentier marin archéologique d'Olbia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/961147609"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.455192,
+      43.202908
+    ]
+  },
+  "properties": {
+    "uuid": "dd9a9733-97e4-5f4a-88b5-8bd3fa5dff4a",
+    "name": "Les Canons",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2990809755"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

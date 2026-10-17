@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.04446,
+      -8.34957
+    ]
+  },
+  "properties": {
+    "uuid": "d0a8d4d2-bf96-536b-929e-cd0e259b3124",
+    "name": "Gili Divers Biorock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4813305046"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

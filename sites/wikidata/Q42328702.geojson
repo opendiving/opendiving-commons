@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.487083,
+      -34.239367
+    ]
+  },
+  "properties": {
+    "uuid": "c3d89173-cacb-526a-9a95-a5b009caaff5",
+    "name": "Giant's Castle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42328702"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.875389,
+      51.179552
+    ]
+  },
+  "properties": {
+    "uuid": "f73deb76-981a-5bc8-a05d-b2c059f4e989",
+    "name": "9m platform (groot)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9671154514"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

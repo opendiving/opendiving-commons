@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.64649,
+      52.299
+    ]
+  },
+  "properties": {
+    "uuid": "4aa5d13f-7234-5400-8033-2ad4472db426",
+    "name": "Toolenburgerplas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074597"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

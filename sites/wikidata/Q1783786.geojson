@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.417667,
+      -33.908056
+    ]
+  },
+  "properties": {
+    "uuid": "982a5540-4e57-50ea-9717-3f857c983395",
+    "name": "Two Oceans Aquarium",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q1783786"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

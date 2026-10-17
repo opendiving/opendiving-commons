@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.478333,
+      -34.237083
+    ]
+  },
+  "properties": {
+    "uuid": "414edbd1-0df0-598b-b558-8c83070ccfd2",
+    "name": "Pyramid Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213851"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

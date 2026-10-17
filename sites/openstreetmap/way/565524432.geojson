@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.672049,
+      -0.557522
+    ]
+  },
+  "properties": {
+    "uuid": "dabc24d0-5d1d-5eb4-8044-e4e21910491f",
+    "name": "Yenkoranu Jetty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/565524432"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

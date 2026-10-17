@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.061231,
+      26.630022
+    ]
+  },
+  "properties": {
+    "uuid": "28895bf3-8d1a-55cf-b260-47b7e00b7045",
+    "name": "Shaab Hamdallah",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1396426968"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

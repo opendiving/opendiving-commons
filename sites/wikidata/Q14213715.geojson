@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.301937,
+      -34.04325
+    ]
+  },
+  "properties": {
+    "uuid": "60fc3ed3-7b45-5155-9768-a800e496037d",
+    "name": "Canyon",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213715"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

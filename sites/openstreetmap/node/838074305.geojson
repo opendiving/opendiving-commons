@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.072571,
+      51.633395
+    ]
+  },
+  "properties": {
+    "uuid": "0fd8da22-233e-5457-90f4-292dbc7ad583",
+    "name": "Blinde Dam",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074305"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

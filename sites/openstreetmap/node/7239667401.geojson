@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.604108,
+      4.004712
+    ]
+  },
+  "properties": {
+    "uuid": "f7257369-50c2-5a48-959d-2f0e729e4237",
+    "name": "El Arrecife",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239667401"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

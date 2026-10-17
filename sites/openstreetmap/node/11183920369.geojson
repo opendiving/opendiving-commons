@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.880568,
+      12.076258
+    ]
+  },
+  "properties": {
+    "uuid": "6ab3453f-f4c4-5e59-94de-f6822287fe47",
+    "name": "Ship wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11183920369"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

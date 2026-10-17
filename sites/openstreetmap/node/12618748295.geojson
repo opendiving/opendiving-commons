@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.73595,
+      12.516874
+    ]
+  },
+  "properties": {
+    "uuid": "dcf871c7-3964-54ba-a02e-e5fd3b6c8436",
+    "name": "El Faro",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748295"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

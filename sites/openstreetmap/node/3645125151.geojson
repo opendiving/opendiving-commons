@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.324659,
+      33.349098
+    ]
+  },
+  "properties": {
+    "uuid": "d21bcdf9-fad0-5a3b-b53a-e5b18cf4f677",
+    "name": "Avalon Dive Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3645125151"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

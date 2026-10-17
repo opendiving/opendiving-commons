@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.463367,
+      -34.180517
+    ]
+  },
+  "properties": {
+    "uuid": "ce86b74a-9cae-5e70-9641-c7fbb123177e",
+    "name": "Roman's Rest",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41897292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

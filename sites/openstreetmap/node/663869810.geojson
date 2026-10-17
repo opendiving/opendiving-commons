@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.928774,
+      27.580531
+    ]
+  },
+  "properties": {
+    "uuid": "9006149a-2928-5774-8527-6e9126329fbe",
+    "name": "Chrisoula K",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869810"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

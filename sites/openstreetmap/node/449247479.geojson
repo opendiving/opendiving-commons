@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.158574,
+      12.373995
+    ]
+  },
+  "properties": {
+    "uuid": "9346ac07-2a5d-5652-82ad-2445ad0906ff",
+    "name": "Playa Kalki",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/449247479"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

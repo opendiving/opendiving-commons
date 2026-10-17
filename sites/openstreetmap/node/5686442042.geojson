@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.373737,
+      9.877339
+    ]
+  },
+  "properties": {
+    "uuid": "45f3b406-5ea2-5bb7-9587-a6d41e7f6770",
+    "name": "Manta Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5686442042"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

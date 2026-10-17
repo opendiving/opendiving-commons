@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.94378,
+      51.338181
+    ]
+  },
+  "properties": {
+    "uuid": "bb57d2c6-0767-5f3b-ad4a-9c0f5c090665",
+    "name": "Sorpesee - Wintertauchplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/679301140"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

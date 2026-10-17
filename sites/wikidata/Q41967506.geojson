@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4551,
+      -34.192167
+    ]
+  },
+  "properties": {
+    "uuid": "9ee256be-9f63-53d2-acc7-690f77f37120",
+    "name": "Eastern wreck",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41967506"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

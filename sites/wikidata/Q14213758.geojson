@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.456667,
+      -34.203667
+    ]
+  },
+  "properties": {
+    "uuid": "518ffff5-d726-59e2-8c09-461ff2bd7cb9",
+    "name": "Froggy Pond",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213758"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

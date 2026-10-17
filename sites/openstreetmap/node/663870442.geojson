@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.852155,
+      46.815255
+    ]
+  },
+  "properties": {
+    "uuid": "e119b050-3e23-5aa6-a945-5b828f37a65d",
+    "name": "Strandbad",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870442"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

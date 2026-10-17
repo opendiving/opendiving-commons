@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.254092,
+      5.890949
+    ]
+  },
+  "properties": {
+    "uuid": "860d8b33-313e-5b4c-8415-a9ef12e96311",
+    "name": "Arus Balee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1075353141"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

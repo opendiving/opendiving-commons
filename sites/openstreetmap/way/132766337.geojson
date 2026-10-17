@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.689503,
+      52.595785
+    ]
+  },
+  "properties": {
+    "uuid": "77bde139-e31f-5991-ba26-82aec2f6c93a",
+    "name": "Dosthill Quarry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/132766337"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

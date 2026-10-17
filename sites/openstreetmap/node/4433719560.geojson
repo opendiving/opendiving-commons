@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.853667,
+      22.318667
+    ]
+  },
+  "properties": {
+    "uuid": "cbf258ae-41f3-5234-897a-9e336dfe87b8",
+    "name": "Shi'b Nazar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4433719560"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

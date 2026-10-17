@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.221768,
+      41.920245
+    ]
+  },
+  "properties": {
+    "uuid": "cc49b4a9-066a-5b7e-9a74-a658b2b63be8",
+    "name": "Canons de Tamariu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826555"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

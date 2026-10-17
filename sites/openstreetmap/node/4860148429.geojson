@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.191281,
+      11.309323
+    ]
+  },
+  "properties": {
+    "uuid": "bce8d856-fc54-5ea6-9f7c-4f5edbd513f2",
+    "name": "Torin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4860148429"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

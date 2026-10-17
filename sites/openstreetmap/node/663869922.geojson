@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.360447,
+      3.938861
+    ]
+  },
+  "properties": {
+    "uuid": "1ca1de79-827e-50d7-a090-b9c47fa70d36",
+    "name": "Vaageli Bodu Faru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869922"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

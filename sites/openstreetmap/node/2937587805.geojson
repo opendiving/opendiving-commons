@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.00382,
+      47.72316
+    ]
+  },
+  "properties": {
+    "uuid": "1cf998c9-54ab-55b4-93e4-ebd22646c063",
+    "name": "Centre International de Plongée- Saint-Nicolas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587805"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

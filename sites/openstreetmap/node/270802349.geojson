@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.552899,
+      -13.891201
+    ]
+  },
+  "properties": {
+    "uuid": "40bd860c-0365-5f8b-94dd-98dc3df7454b",
+    "name": "Round the Bend",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802349"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.581858,
+      47.924762
+    ]
+  },
+  "properties": {
+    "uuid": "cc433b48-bd94-5643-b399-3292836b48e3",
+    "name": "Nöhmer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310434"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

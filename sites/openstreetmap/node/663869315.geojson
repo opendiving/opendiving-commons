@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.311467,
+      48.6653
+    ]
+  },
+  "properties": {
+    "uuid": "ea4ccf97-45db-52ab-ba4f-809a53ae7e29",
+    "name": "Rubly Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869315"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

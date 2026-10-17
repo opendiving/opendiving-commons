@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.810093,
+      43.002081
+    ]
+  },
+  "properties": {
+    "uuid": "b712aa24-7782-570d-a8e1-f398721cef7e",
+    "name": "Punta dello Zenòbito",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/670867194"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

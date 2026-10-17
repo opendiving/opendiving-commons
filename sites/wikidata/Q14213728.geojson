@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.81325,
+      -34.3024
+    ]
+  },
+  "properties": {
+    "uuid": "30fd0d8e-b366-55c9-9238-8598dcae5524",
+    "name": "Coral Gardens (Rooi-els)",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213728"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

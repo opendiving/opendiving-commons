@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.751167,
+      53.860333
+    ]
+  },
+  "properties": {
+    "uuid": "d6d4e162-9f9c-5c1a-9b3f-7dc418cb9615",
+    "name": "Johann Wessels",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870628"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

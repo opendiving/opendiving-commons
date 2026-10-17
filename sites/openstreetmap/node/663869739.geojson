@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.5339,
+      44.983033
+    ]
+  },
+  "properties": {
+    "uuid": "e163ce7c-4f84-5e09-92d4-587f0335d705",
+    "name": "Holzsegelschiff mit Geschützen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869739"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

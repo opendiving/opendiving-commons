@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.493333,
+      28.016667
+    ]
+  },
+  "properties": {
+    "uuid": "84b9cf0b-1b5e-541b-ae6b-fd25dcf44978",
+    "name": "Kormoran",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869852"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

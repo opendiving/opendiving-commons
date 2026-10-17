@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.838757,
+      -0.317773
+    ]
+  },
+  "properties": {
+    "uuid": "a649b320-1a50-51f2-906c-8a8e0a8f2e2c",
+    "name": "Taipi Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270664530"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

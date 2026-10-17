@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.430167,
+      -33.885917
+    ]
+  },
+  "properties": {
+    "uuid": "cbe000f2-bc2f-5265-9d5a-31a88f6df1df",
+    "name": "Highfields",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213776"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

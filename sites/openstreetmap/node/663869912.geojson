@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.374581,
+      3.890288
+    ]
+  },
+  "properties": {
+    "uuid": "a09aad8d-66eb-5c6b-a3e0-fb28bdc36833",
+    "name": "Ramfaru Tulu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869912"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

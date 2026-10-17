@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.913286,
+      51.629227
+    ]
+  },
+  "properties": {
+    "uuid": "d44e5e02-928a-57ce-91a0-418993c046e7",
+    "name": "Zeelandbrug",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074262"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

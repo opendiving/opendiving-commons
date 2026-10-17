@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.605588,
+      43.171025
+    ]
+  },
+  "properties": {
+    "uuid": "c45906c8-4ecb-5cc7-a7c7-506f8762e96b",
+    "name": "Eden Dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5697642882"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

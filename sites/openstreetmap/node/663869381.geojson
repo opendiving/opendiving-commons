@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.127658,
+      12.266944
+    ]
+  },
+  "properties": {
+    "uuid": "ff40cac9-3445-5c99-b103-78f8f3c5cfea",
+    "name": "Airplane Wreck (Sunset Waters)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869381"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

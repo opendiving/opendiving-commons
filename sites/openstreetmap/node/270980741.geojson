@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.815039,
+      9.056285
+    ]
+  },
+  "properties": {
+    "uuid": "3b252a33-65ad-5366-ac25-569d70785fde",
+    "name": "Twin Peaks",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270980741"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.480917,
+      -34.268917
+    ]
+  },
+  "properties": {
+    "uuid": "75c63a7b-52a3-59aa-a643-3756144925fc",
+    "name": "MV Rockeater",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213811"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

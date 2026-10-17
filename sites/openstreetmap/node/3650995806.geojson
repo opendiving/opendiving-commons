@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.295655,
+      10.62653
+    ]
+  },
+  "properties": {
+    "uuid": "1f5bfff2-4a36-5eec-900c-b0e1a05becd5",
+    "name": "Corner Bar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3650995806"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

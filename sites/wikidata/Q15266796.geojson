@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.30025,
+      -34.039583
+    ]
+  },
+  "properties": {
+    "uuid": "f84b7bea-8473-55e4-98b8-053d3fb0dc65",
+    "name": "SURG Pinnacles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q15266796"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

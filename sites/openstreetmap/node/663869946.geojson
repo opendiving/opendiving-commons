@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.510309,
+      3.981984
+    ]
+  },
+  "properties": {
+    "uuid": "d39fbf09-833a-5bc3-afee-67df647de187",
+    "name": "Dhigu Thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869946"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

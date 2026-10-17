@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.85699,
+      47.66047
+    ]
+  },
+  "properties": {
+    "uuid": "0f94349f-7289-5c66-b2c1-088367544123",
+    "name": "Brücke-Camping",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870379"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

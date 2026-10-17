@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.735556,
+      48.073333
+    ]
+  },
+  "properties": {
+    "uuid": "d5f8e34b-346c-5a58-a646-ecc9f9a42abb",
+    "name": "Leitgeringer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870803"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.626516,
+      7.798342
+    ]
+  },
+  "properties": {
+    "uuid": "d0f793cb-341a-5d8d-9d44-2642e01b86da",
+    "name": "Hin Mu Sang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270985345"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Shark Point Dive Site"
+      }
+    }
+  }
+}

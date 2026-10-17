@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.374316,
+      9.881155
+    ]
+  },
+  "properties": {
+    "uuid": "0e2f105f-ba14-5563-ba20-25254d3248b5",
+    "name": "North Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5686442041"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

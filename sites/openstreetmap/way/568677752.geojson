@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.518418,
+      -0.563316
+    ]
+  },
+  "properties": {
+    "uuid": "469eaf3a-1140-5b17-8e9b-a198a3c786fa",
+    "name": "Aerborek Jetty Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/568677752"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

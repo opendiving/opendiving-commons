@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.856,
+      22.385833
+    ]
+  },
+  "properties": {
+    "uuid": "e8034219-9815-56ab-8dd1-445b10e10bdb",
+    "name": "Cave Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4433719551"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

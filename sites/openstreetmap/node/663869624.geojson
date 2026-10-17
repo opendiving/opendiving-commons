@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.165273,
+      58.891934
+    ]
+  },
+  "properties": {
+    "uuid": "0a83ab15-b5d4-58b1-a0c3-ee9e63667b5f",
+    "name": "SMS Markgraf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869624"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

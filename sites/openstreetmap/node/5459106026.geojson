@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.742701,
+      -0.687374
+    ]
+  },
+  "properties": {
+    "uuid": "a16ac0c8-fd39-5aab-8353-a5d17393b371",
+    "name": "Manta Wai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5459106026"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

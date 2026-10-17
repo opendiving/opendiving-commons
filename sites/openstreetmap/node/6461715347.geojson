@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.222972,
+      7.137533
+    ]
+  },
+  "properties": {
+    "uuid": "66605c6d-581a-5198-ad06-16306f405755",
+    "name": "Temple of Doom",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6461715347"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

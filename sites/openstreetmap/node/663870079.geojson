@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.31192,
+      46.98125
+    ]
+  },
+  "properties": {
+    "uuid": "95330738-a140-5b1f-ad98-1946cc37329b",
+    "name": "Lopper Rote Route 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870079"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

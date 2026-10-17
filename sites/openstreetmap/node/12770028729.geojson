@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.75791,
+      -0.740521
+    ]
+  },
+  "properties": {
+    "uuid": "3670805c-4ca4-5565-ad93-369ea9dc8463",
+    "name": "Tanjung Gurita",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12770028729"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

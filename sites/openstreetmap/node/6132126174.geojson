@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.507159,
+      -0.567213
+    ]
+  },
+  "properties": {
+    "uuid": "9b9cf4f1-e421-5bd3-b45e-67491c09f2d9",
+    "name": "Arborek shark point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6132126174"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.751717,
+      47.697617
+    ]
+  },
+  "properties": {
+    "uuid": "9cf04561-44cd-58ee-b99a-8e959d5dcad2",
+    "name": "Tegernsee - Schorn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870694"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

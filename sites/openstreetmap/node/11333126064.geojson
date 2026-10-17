@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.280383,
+      26.219648
+    ]
+  },
+  "properties": {
+    "uuid": "f78c61ae-474c-581b-bf8d-81ea9a8fe0ab",
+    "name": "阿真牛瀬・あまうしじ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333126064"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ama Ushiji"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.593363,
+      -8.278495
+    ]
+  },
+  "properties": {
+    "uuid": "ff098d36-0c54-52ba-a287-a5fc590e39aa",
+    "name": "Big Fins TecDiving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9028333855"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

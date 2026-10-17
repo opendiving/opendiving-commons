@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.467316,
+      49.423567
+    ]
+  },
+  "properties": {
+    "uuid": "3444290b-9fee-5244-8259-c71d23169e78",
+    "name": "Jägerweiher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870541"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

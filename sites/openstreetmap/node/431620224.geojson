@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.49585,
+      51.167172
+    ]
+  },
+  "properties": {
+    "uuid": "c6910f9f-6f80-5480-81ce-0f064a19c071",
+    "name": "Ponton",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/431620224"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

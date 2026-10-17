@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.368404,
+      35.997595
+    ]
+  },
+  "properties": {
+    "uuid": "0086f917-2386-5331-9169-a22482730336",
+    "name": "L-Aħrax",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831408"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Aħrax"
+      }
+    }
+  }
+}

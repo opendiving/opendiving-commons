@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.91343,
+      27.00451
+    ]
+  },
+  "properties": {
+    "uuid": "92dc9a5b-b40b-58c3-9779-350cc6d992cb",
+    "name": "Makadi Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701176785"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

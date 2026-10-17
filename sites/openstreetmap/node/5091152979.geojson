@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.449693,
+      -8.668999
+    ]
+  },
+  "properties": {
+    "uuid": "d6979a3f-2f28-5413-a340-99bc9d793205",
+    "name": "Drift Divers Nusa Lembonang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5091152979"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

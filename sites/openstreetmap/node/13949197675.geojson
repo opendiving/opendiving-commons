@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.508991,
+      50.346583
+    ]
+  },
+  "properties": {
+    "uuid": "7e446af4-c5bd-597d-aa15-ae3b294ba683",
+    "name": "Nimble Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949197675"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

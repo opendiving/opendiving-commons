@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.315804,
+      -32.629527
+    ]
+  },
+  "properties": {
+    "uuid": "059cb831-ec11-5f26-a1d9-d2c501ac1b5e",
+    "name": "Looking Glass",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2341894279"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

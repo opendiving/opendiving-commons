@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.385995,
+      -29.923059
+    ]
+  },
+  "properties": {
+    "uuid": "63ccd6b4-2014-507d-9c32-6a73b14d3595",
+    "name": "The Mackerel Run",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4852975615"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.831981,
+      27.178241
+    ]
+  },
+  "properties": {
+    "uuid": "05c235f6-695a-5003-b76c-547240c1ec9c",
+    "name": "Balena",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5708994007"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

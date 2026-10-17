@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.971088,
+      46.002892
+    ]
+  },
+  "properties": {
+    "uuid": "a558c6ec-f29e-5bd8-a805-5178476cc71b",
+    "name": "Ponte del Diavolo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870151"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

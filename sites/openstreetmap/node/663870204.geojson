@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.64261,
+      46.7706
+    ]
+  },
+  "properties": {
+    "uuid": "b54e883a-a601-5ea6-9611-7bffcfded0a3",
+    "name": "Alpenblick",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870204"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

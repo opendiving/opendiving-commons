@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.858278,
+      46.450481
+    ]
+  },
+  "properties": {
+    "uuid": "c2031c02-a3f1-50ae-ac48-48b8a236086b",
+    "name": "Lac Léman-Piscine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869986"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.025486,
+      54.838001
+    ]
+  },
+  "properties": {
+    "uuid": "5d661fab-fce8-561b-afd0-d9c0ea9d0ec5",
+    "name": "Vaišvydavos karjeras",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13034004966"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

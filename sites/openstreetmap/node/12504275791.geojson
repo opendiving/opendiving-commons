@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.211285,
+      44.300795
+    ]
+  },
+  "properties": {
+    "uuid": "7b2818b9-7926-5426-b33c-892c05f09d87",
+    "name": "Chiesa di San Giorgio",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504275791"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

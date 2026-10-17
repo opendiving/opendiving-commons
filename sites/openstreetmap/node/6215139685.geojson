@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.194724,
+      11.313391
+    ]
+  },
+  "properties": {
+    "uuid": "37fe8eed-be85-58e3-96e3-bbabeb30fcad",
+    "name": "Monad Shoal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6215139685"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

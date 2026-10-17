@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.7612,
+      51.292233
+    ]
+  },
+  "properties": {
+    "uuid": "10a850b2-a8b4-5784-a957-27d13df009e3",
+    "name": "Wetro",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871091"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

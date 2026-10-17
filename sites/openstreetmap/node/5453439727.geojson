@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.170119,
+      -2.143182
+    ]
+  },
+  "properties": {
+    "uuid": "da499bf1-9c16-5172-b8a8-b1697c4ed563",
+    "name": "Pele’s Playground",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439727"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

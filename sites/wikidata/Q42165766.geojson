@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.475833,
+      -34.223883
+    ]
+  },
+  "properties": {
+    "uuid": "59f4bd9d-f540-553d-940a-1c4a6c2b817b",
+    "name": "Caravan Central east pinnacle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42165766"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

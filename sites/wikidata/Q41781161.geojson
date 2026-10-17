@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.30318,
+      -34.04043
+    ]
+  },
+  "properties": {
+    "uuid": "64d0c22a-8eab-56c9-af26-27730aacd4b6",
+    "name": "M&M Cave",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41781161"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

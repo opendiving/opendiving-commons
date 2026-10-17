@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.453336,
+      49.353087
+    ]
+  },
+  "properties": {
+    "uuid": "2eb5d926-e4b7-5b3a-acc1-4f3b189258ae",
+    "name": "Kuhunter (Taucheinstieg Süd)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9996468292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

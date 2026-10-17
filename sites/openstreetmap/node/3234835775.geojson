@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.199154,
+      54.69326
+    ]
+  },
+  "properties": {
+    "uuid": "a984aa68-7948-542c-821a-a99561e0863d",
+    "name": "Hartlepool Divers Club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3234835775"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

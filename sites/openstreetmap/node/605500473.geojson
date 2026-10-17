@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.090761,
+      24.267062
+    ]
+  },
+  "properties": {
+    "uuid": "48c8f4d3-07a3-5494-9277-caac7ee7cb11",
+    "name": "Ukon Denchi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/605500473"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

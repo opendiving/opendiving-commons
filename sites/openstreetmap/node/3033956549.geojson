@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.662867,
+      4.84917
+    ]
+  },
+  "properties": {
+    "uuid": "c4111af1-cfe1-5189-8231-4ecc1fa1f98a",
+    "name": "Moonraker",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3033956549"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

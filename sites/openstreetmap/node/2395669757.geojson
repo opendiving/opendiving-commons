@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.065721,
+      -8.351077
+    ]
+  },
+  "properties": {
+    "uuid": "ee478183-f37c-5879-8006-23623dd3f442",
+    "name": "Mirkos Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669757"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

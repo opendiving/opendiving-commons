@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.38645,
+      -29.925042
+    ]
+  },
+  "properties": {
+    "uuid": "e85daae1-a876-5140-9aa0-47a6e9f61af5",
+    "name": "The Canyons",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4852975614"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

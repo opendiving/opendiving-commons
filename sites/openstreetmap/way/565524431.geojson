@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.691528,
+      -0.556276
+    ]
+  },
+  "properties": {
+    "uuid": "3dd8c567-f3d9-5507-be24-ae4cd6a0e4db",
+    "name": "Cape Kri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/565524431"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

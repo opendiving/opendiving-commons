@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.488162,
+      53.631729
+    ]
+  },
+  "properties": {
+    "uuid": "02d1dc70-dbba-5b05-b393-d2f71e107308",
+    "name": "Görslower Ufer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3494799484"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.485988,
+      51.122647
+    ]
+  },
+  "properties": {
+    "uuid": "b76a769e-b3dd-529c-9af1-5a5b6fa9e47f",
+    "name": "Zur Anne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/46946539"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3639,
+      47.608783
+    ]
+  },
+  "properties": {
+    "uuid": "c8302c87-de84-5b34-82e5-cd659ba72624",
+    "name": "Walchensee - Fleckerlspitz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870683"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

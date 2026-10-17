@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.885548,
+      52.450911
+    ]
+  },
+  "properties": {
+    "uuid": "8a2fb690-1755-5b9d-9126-30ed9738848b",
+    "name": "Rioleringsbuizen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810586463"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

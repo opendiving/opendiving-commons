@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.880729,
+      9.390468
+    ]
+  },
+  "properties": {
+    "uuid": "26eecd38-168e-5d69-a9ed-685211b5ee2d",
+    "name": "Tao Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5424905222"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

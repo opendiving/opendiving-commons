@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.248497,
+      51.262717
+    ]
+  },
+  "properties": {
+    "uuid": "fc22f92d-ae3d-52f3-a742-1dfa7e19feee",
+    "name": "Steinbruch Horka",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/47519195"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

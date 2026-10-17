@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.760391,
+      46.877474
+    ]
+  },
+  "properties": {
+    "uuid": "b04e8095-96eb-517b-8497-cb66680bb0de",
+    "name": "Port",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869997"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

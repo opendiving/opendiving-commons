@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.78376,
+      9.263761
+    ]
+  },
+  "properties": {
+    "uuid": "e015eb7e-f75f-5f70-90bb-97f4cad408f7",
+    "name": "Jigdup Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2199374866"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

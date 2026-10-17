@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.397548,
+      12.304809
+    ]
+  },
+  "properties": {
+    "uuid": "6eb1be71-a3ea-565e-9cfb-6e95d4c8ce5b",
+    "name": "Boka Bartol",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869442"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

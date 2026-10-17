@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.930398,
+      37.730536
+    ]
+  },
+  "properties": {
+    "uuid": "4e65a7b5-f54c-53aa-a025-e31282ed9144",
+    "name": "Aqualized Dive Adventures",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5858972469"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

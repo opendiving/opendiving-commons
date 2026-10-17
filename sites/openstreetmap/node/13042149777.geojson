@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.541864,
+      -0.580037
+    ]
+  },
+  "properties": {
+    "uuid": "6f5d7cc0-b8a3-53cb-a995-c0a3b19a6791",
+    "name": "Manta Sandy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042149777"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

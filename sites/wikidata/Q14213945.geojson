@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.456667,
+      -34.201
+    ]
+  },
+  "properties": {
+    "uuid": "074d5307-0024-5d41-b4bc-d6892109a978",
+    "name": "Windmill Beach",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213945"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

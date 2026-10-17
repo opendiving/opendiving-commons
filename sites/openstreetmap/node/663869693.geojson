@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.273933,
+      42.993267
+    ]
+  },
+  "properties": {
+    "uuid": "fc5609b4-d0e5-57ef-a8c8-9c01351fb573",
+    "name": "Wrack 'Sagona' (Le Grec)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869693"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

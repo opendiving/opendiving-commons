@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.849359,
+      -0.464968
+    ]
+  },
+  "properties": {
+    "uuid": "00eaa8e9-6c31-59fd-b26f-e1e805235d4c",
+    "name": "West Reef's End",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041942033"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

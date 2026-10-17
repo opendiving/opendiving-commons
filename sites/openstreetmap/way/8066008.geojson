@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.847075,
+      50.704006
+    ]
+  },
+  "properties": {
+    "uuid": "60591a97-3dd4-5075-9654-c6f7e3b85713",
+    "name": "Carrières de Lessines",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/8066008"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

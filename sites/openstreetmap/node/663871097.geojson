@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.400581,
+      52.871588
+    ]
+  },
+  "properties": {
+    "uuid": "3eb7c328-15f9-530d-a250-6df864d878cd",
+    "name": "Jezioro Moryn - Przyjezierze",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871097"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

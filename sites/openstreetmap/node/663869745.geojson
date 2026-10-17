@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.841867,
+      44.881883
+    ]
+  },
+  "properties": {
+    "uuid": "7267646e-fe57-524b-a22a-9b7df76f4e08",
+    "name": "Kap Silo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869745"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.714316,
+      47.458998
+    ]
+  },
+  "properties": {
+    "uuid": "a7727f37-1c02-5015-8d46-d0a86eff2d4e",
+    "name": "Hechenberg Nord",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12949360627"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

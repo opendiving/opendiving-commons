@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.260496,
+      12.033437
+    ]
+  },
+  "properties": {
+    "uuid": "ea59a38d-abfb-5671-9dc9-99e2ccf5a7c7",
+    "name": "Soft Coral Garden (unmarked site)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333668406"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

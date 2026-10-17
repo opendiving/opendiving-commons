@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.258138,
+      12.03232
+    ]
+  },
+  "properties": {
+    "uuid": "83d577bd-c242-572f-a9e9-f128d776d670",
+    "name": "Hidden Beach (unmarked site)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333668404"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

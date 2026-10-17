@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.136713,
+      24.820607
+    ]
+  },
+  "properties": {
+    "uuid": "ed0bdb73-e6c0-5157-bdbc-edc10259832f",
+    "name": "アントニオガウデイ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9280303156"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Antoniogaudei"
+      }
+    }
+  }
+}

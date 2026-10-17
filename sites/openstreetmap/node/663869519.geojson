@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.243013,
+      44.484994
+    ]
+  },
+  "properties": {
+    "uuid": "00619b4a-83c9-5858-bc6d-36c691410808",
+    "name": "Burlington Bay Horse Ferry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869519"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

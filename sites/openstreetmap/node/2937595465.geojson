@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.26667,
+      46.55
+    ]
+  },
+  "properties": {
+    "uuid": "12f8822e-2bc1-56a7-bb47-1a79f20ef8b8",
+    "name": "Épave John G. Mac Cullough",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595465"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

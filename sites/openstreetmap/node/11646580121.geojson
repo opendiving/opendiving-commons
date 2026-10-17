@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.229657,
+      41.088825
+    ]
+  },
+  "properties": {
+    "uuid": "42ee26ef-03d2-58cc-9554-d6fdbf260924",
+    "name": "Pecio La Dragonera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11646580121"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

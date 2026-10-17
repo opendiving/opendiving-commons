@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.639724,
+      -8.508359
+    ]
+  },
+  "properties": {
+    "uuid": "1ca5b3e4-db4a-550a-95cf-73495ae8306a",
+    "name": "Tatawa Besar dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182756978"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

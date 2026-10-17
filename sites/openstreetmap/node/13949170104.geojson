@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.863695,
+      50.262215
+    ]
+  },
+  "properties": {
+    "uuid": "83ec7f2d-1427-5e03-8a9f-907c8e388dad",
+    "name": "Louis Sheid",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949170104"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

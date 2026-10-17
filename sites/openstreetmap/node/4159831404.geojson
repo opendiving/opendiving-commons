@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.287154,
+      36.017076
+    ]
+  },
+  "properties": {
+    "uuid": "7e8bd65a-4826-54a5-abcc-cc2bb26d53a6",
+    "name": "MV Cominoland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831404"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

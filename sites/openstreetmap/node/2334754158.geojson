@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.256832,
+      50.391887
+    ]
+  },
+  "properties": {
+    "uuid": "45eddb28-dca3-5b5c-ad32-4942207cf220",
+    "name": "Kamieniołom Nadziejów",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2334754158"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

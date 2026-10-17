@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.078642,
+      43.036329
+    ]
+  },
+  "properties": {
+    "uuid": "565feafe-b980-52e7-ab61-8c92ab0c9770",
+    "name": "Mustang P51",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6022696241"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

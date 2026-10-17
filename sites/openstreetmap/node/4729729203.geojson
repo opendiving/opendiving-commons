@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.14908,
+      42.261404
+    ]
+  },
+  "properties": {
+    "uuid": "369eb708-ff99-5c17-a9a3-22b7c8df12e3",
+    "name": "L embarrancat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4729729203"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.938426,
+      54.493353
+    ]
+  },
+  "properties": {
+    "uuid": "020db88c-d7f4-5b4e-b250-b174fba55007",
+    "name": "Karlsminde",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870656"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

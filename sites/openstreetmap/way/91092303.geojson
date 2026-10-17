@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.640706,
+      50.183114
+    ]
+  },
+  "properties": {
+    "uuid": "19c27cbc-5c4a-5367-8711-e93a41f25d7d",
+    "name": "Carrière de la Rochefontaine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/91092303"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

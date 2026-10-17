@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.234315,
+      -32.678413
+    ]
+  },
+  "properties": {
+    "uuid": "f94ce745-f492-5a72-b988-12e7c98f88f9",
+    "name": "SS Oakland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2341894290"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

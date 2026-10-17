@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -46.180722,
+      -24.31925
+    ]
+  },
+  "properties": {
+    "uuid": "7673be52-4a00-55ab-95a6-22c6f2660eb5",
+    "name": "Laje de Santos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1725539818"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

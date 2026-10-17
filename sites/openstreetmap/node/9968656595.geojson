@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.382349,
+      36.650168
+    ]
+  },
+  "properties": {
+    "uuid": "7fb75418-9b4b-5051-9fa2-e8b6562fb099",
+    "name": "Le Grande Bleu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9968656595"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "The Big Blue"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.746136,
+      46.686406
+    ]
+  },
+  "properties": {
+    "uuid": "edb840b1-6e28-53c2-85c4-5f413b6ce4ca",
+    "name": "Frau Tschanz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845661554"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

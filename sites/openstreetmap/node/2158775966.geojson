@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.267237,
+      9.079643
+    ]
+  },
+  "properties": {
+    "uuid": "4bc6d633-0b45-52a5-b5a4-48f16e58f498",
+    "name": "Baluarte",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775966"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

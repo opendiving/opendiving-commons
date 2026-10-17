@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.855982,
+      36.429949
+    ]
+  },
+  "properties": {
+    "uuid": "e7d0c0ba-f3d2-565c-bdf3-2c9e53aa1912",
+    "name": "Beaver Lake Dive Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/18586970"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.794167,
+      50.672778
+    ]
+  },
+  "properties": {
+    "uuid": "3c1a22ee-6d87-51b8-8021-106b43ee5784",
+    "name": "Britsum",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869568"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.368477,
+      3.877139
+    ]
+  },
+  "properties": {
+    "uuid": "d5d030a5-80ad-5a4c-bd64-a1efb8d4a3e3",
+    "name": "Fihalhohi Hausriff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869901"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

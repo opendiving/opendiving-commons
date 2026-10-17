@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.051271,
+      -8.356834
+    ]
+  },
+  "properties": {
+    "uuid": "e4413847-0b70-51d9-8bbb-c38bdae0408f",
+    "name": "Bounty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669747"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

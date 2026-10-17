@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.500806,
+      52.912324
+    ]
+  },
+  "properties": {
+    "uuid": "732b75c2-a8e3-5265-ba30-10940ce645d8",
+    "name": "Jezioro Jelenin - T-Punkt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871098"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

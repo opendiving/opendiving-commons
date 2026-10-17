@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.8582,
+      -34.165383
+    ]
+  },
+  "properties": {
+    "uuid": "b4f8eaed-31b8-55d2-b824-0ae4fd9027ef",
+    "name": "Bikini Beach",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213701"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

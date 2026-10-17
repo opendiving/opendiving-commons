@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.876394,
+      23.426923
+    ]
+  },
+  "properties": {
+    "uuid": "33f8375e-41be-569c-97b0-438506ffac9c",
+    "name": "St John's Habili Gaffar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/315493984"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

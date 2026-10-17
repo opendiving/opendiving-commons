@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.827698,
+      10.095472
+    ]
+  },
+  "properties": {
+    "uuid": "5c2e6436-5692-5685-b154-526de265fad3",
+    "name": "Scuba Junction",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2616078980"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

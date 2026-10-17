@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.34023,
+      36.017993
+    ]
+  },
+  "properties": {
+    "uuid": "10d24b2d-2c3d-5c2d-ac7e-488e54ec1a28",
+    "name": "L-Għerien tal-Imnieri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3767235079"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Santa Marija Caves"
+      }
+    }
+  }
+}

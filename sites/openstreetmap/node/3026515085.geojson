@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      60.203715,
+      57.747028
+    ]
+  },
+  "properties": {
+    "uuid": "2944da3d-f674-5315-8749-37f0721877f8",
+    "name": "Морской ёж",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3026515085"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

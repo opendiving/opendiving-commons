@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.864417,
+      -16.039783
+    ]
+  },
+  "properties": {
+    "uuid": "9f0ac6b9-90a8-5d16-a298-703978ea3d7e",
+    "name": "Agincourt Reef No. 1 - Trigger Fish City",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869671"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

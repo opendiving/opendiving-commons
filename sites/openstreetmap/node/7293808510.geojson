@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.773457,
+      1.733046
+    ]
+  },
+  "properties": {
+    "uuid": "aabc71c5-c540-5377-b451-2d68c8750857",
+    "name": "Tangkasi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293808510"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

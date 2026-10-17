@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.558883,
+      47.857153
+    ]
+  },
+  "properties": {
+    "uuid": "c5d37b3f-04c6-52fa-b062-811408beaff5",
+    "name": "Steinschlag - Tafel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310415"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

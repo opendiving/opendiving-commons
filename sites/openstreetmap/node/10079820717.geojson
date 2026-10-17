@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.710799,
+      48.55668
+    ]
+  },
+  "properties": {
+    "uuid": "473c0879-d349-535d-a182-3d2bec05242b",
+    "name": "Blue Luve",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10079820717"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

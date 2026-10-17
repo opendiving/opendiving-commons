@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.267093,
+      9.07732
+    ]
+  },
+  "properties": {
+    "uuid": "80fe98be-5623-5c2b-9925-8925a18a00c3",
+    "name": "Chapel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775967"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

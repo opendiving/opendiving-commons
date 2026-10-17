@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.390478,
+      47.741918
+    ]
+  },
+  "properties": {
+    "uuid": "5b25afc3-c596-5e2d-87c0-2baae9b67bea",
+    "name": "Wolfgangsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232697"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

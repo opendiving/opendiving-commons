@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.034781,
+      44.187063
+    ]
+  },
+  "properties": {
+    "uuid": "150cec93-a26e-5041-94f5-082dee877932",
+    "name": "Plic Sajda",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869715"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.90409,
+      46.94278
+    ]
+  },
+  "properties": {
+    "uuid": "6779bd25-601a-5409-8595-ef72bf36154e",
+    "name": "La Motte",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869999"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

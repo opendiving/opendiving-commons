@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.341763,
+      46.705858
+    ]
+  },
+  "properties": {
+    "uuid": "d0bd8f07-6327-5030-89a0-0c1043808623",
+    "name": "Weißensee - Laka",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870716"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

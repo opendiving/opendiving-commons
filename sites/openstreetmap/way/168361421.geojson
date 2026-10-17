@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.856737,
+      52.057587
+    ]
+  },
+  "properties": {
+    "uuid": "4094d829-ee24-59ac-9f7b-b37942790dec",
+    "name": "Kleiner Schilfsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/168361421"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

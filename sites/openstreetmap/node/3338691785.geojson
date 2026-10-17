@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.264812,
+      -33.915797
+    ]
+  },
+  "properties": {
+    "uuid": "7f3a5ce4-f10f-5fc2-b538-7bb2ee5e8713",
+    "name": "Gordons Bay Underwater Trip Start",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3338691785"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

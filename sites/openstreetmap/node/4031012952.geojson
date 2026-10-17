@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.136605,
+      9.601518
+    ]
+  },
+  "properties": {
+    "uuid": "1a3379aa-9e54-5489-b673-3b4ffe949ed3",
+    "name": "Mill Channel new cleaning station",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031012952"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

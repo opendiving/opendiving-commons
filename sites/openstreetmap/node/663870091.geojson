@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.654233,
+      47.237114
+    ]
+  },
+  "properties": {
+    "uuid": "02583121-1ef6-590a-9ced-0d6f88db11c9",
+    "name": "Pontonierhaus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870091"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

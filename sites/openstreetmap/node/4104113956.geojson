@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.489003,
+      -5.420502
+    ]
+  },
+  "properties": {
+    "uuid": "2e543c69-9805-5950-b830-43e5cd865c97",
+    "name": "JC Slope",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104113956"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

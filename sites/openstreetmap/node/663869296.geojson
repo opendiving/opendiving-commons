@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.513333,
+      48.618333
+    ]
+  },
+  "properties": {
+    "uuid": "a59208d8-e4ee-52c6-89ff-f3c57915c838",
+    "name": "Tozier Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869296"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

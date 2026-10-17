@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.836378,
+      -34.174306
+    ]
+  },
+  "properties": {
+    "uuid": "5fa6e1a5-5dd8-5ed9-ab4f-e3cf9a78661a",
+    "name": "Stone Dog",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42427595"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

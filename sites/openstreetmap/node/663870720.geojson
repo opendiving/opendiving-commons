@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.830463,
+      47.718214
+    ]
+  },
+  "properties": {
+    "uuid": "5d963f5c-e784-53a2-9be0-961ca7e8cb3d",
+    "name": "Thumsee - Parkplatz Ost",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870720"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

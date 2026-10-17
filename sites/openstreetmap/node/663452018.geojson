@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.499669,
+      47.11555
+    ]
+  },
+  "properties": {
+    "uuid": "adfc9d0c-94e7-5e65-807e-3f35f20a14bd",
+    "name": "Lothenbach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452018"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.485315,
+      47.791821
+    ]
+  },
+  "properties": {
+    "uuid": "09e57953-f01d-5a77-9c02-265772765e84",
+    "name": "BMW Dixi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1607388460"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

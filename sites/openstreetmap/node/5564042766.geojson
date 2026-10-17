@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.35412,
+      53.340072
+    ]
+  },
+  "properties": {
+    "uuid": "2dc03d6e-a50c-5182-8ff8-c53f88128650",
+    "name": "Tauchspot Dolgener See Schweinemastanlage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5564042766"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

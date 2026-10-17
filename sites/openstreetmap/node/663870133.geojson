@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.870144,
+      45.962505
+    ]
+  },
+  "properties": {
+    "uuid": "e730358d-1c59-5c77-a070-68d82a6d2410",
+    "name": "Lago di Lugano-Le Macchine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870133"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

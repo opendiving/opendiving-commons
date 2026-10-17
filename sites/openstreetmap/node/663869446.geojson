@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.006944,
+      30.043889
+    ]
+  },
+  "properties": {
+    "uuid": "5cd01ef0-3281-54cf-ae43-437c96e7fe8a",
+    "name": "USS Oriskany",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869446"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

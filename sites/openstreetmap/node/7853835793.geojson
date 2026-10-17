@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.560987,
+      48.597647
+    ]
+  },
+  "properties": {
+    "uuid": "3aa12aa9-400e-59d2-b894-a7832950f03c",
+    "name": "Aber Wrac'h Plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7853835793"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

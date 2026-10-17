@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.688895,
+      12.933172
+    ]
+  },
+  "properties": {
+    "uuid": "1fb6bc6c-ac5d-554b-ab08-9202c5c968b5",
+    "name": "HTMS Khram",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3186777086"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

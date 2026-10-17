@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.837222,
+      50.920833
+    ]
+  },
+  "properties": {
+    "uuid": "7bbe5780-6c8e-5cb7-906d-df169c19a8af",
+    "name": "Caulonia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869567"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

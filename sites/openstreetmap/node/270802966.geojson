@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.556938,
+      -13.886678
+    ]
+  },
+  "properties": {
+    "uuid": "3a4aa8c5-dfe9-55a1-bbcf-46c25b2b4e0b",
+    "name": "Admiralty Anchorage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802966"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.04015,
+      11.967833
+    ]
+  },
+  "properties": {
+    "uuid": "c816fb76-ca3b-5495-b15d-20f43f7531fd",
+    "name": "Irako",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871195"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

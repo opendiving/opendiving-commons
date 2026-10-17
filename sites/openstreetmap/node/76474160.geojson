@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.563475,
+      47.34596
+    ]
+  },
+  "properties": {
+    "uuid": "c647d071-b25d-5283-8e84-c2312bf52b5c",
+    "name": "Wassersportzentrum Zürich (WZT)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/76474160"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

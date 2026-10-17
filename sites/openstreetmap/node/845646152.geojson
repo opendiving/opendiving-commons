@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.685821,
+      46.719765
+    ]
+  },
+  "properties": {
+    "uuid": "79b87b40-0b8b-5ad3-8cb8-acd1731492c7",
+    "name": "Schönörtli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845646152"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

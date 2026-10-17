@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.639572,
+      -33.086231
+    ]
+  },
+  "properties": {
+    "uuid": "16f54e83-0885-5c1a-952a-14035dbc67d7",
+    "name": "Swansea Bridge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2806042659"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

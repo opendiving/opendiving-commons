@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.578849,
+      52.821519
+    ]
+  },
+  "properties": {
+    "uuid": "6b8883f8-801b-5c65-a5d1-4446adde9883",
+    "name": "Ruhlesee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/130049625"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.481667,
+      50.768333
+    ]
+  },
+  "properties": {
+    "uuid": "8f490c12-9138-5fb6-b145-756fb16cba98",
+    "name": "Frode",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869579"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

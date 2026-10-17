@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.742399,
+      12.489516
+    ]
+  },
+  "properties": {
+    "uuid": "276fbabc-0ced-5f1b-961f-e8605b89e551",
+    "name": "Elsy Bar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748288"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

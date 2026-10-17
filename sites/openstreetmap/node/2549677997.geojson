@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.28575,
+      43.263833
+    ]
+  },
+  "properties": {
+    "uuid": "f0d68d18-9553-556b-bd9f-1466c3da97ca",
+    "name": "Cavau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549677997"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

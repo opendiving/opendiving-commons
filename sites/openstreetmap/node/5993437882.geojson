@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.235274,
+      11.290381
+    ]
+  },
+  "properties": {
+    "uuid": "b32354c9-9398-56d3-aec6-6dffe9693988",
+    "name": "Kimod Shoel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5993437882"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

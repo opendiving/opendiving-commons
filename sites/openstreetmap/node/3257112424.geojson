@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.495801,
+      21.819016
+    ]
+  },
+  "properties": {
+    "uuid": "9ef32b9f-0f1e-5ec2-acba-0913523fc47f",
+    "name": "María La Gorda: Centro International de Buceo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3257112424"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

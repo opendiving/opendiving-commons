@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.953754,
+      27.223137
+    ]
+  },
+  "properties": {
+    "uuid": "d428aad4-2e19-5aa2-9412-0db29f44bc95",
+    "name": "Ben El Gebel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700934171"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

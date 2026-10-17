@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.412389,
+      47.744983
+    ]
+  },
+  "properties": {
+    "uuid": "e49c1f3c-c043-5b9d-9134-e92409922145",
+    "name": "Wolfgangsee - Franzosenschanze/Parkplatz Abersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870752"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

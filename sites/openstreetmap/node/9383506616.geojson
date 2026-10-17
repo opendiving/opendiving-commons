@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.600326,
+      15.865039
+    ]
+  },
+  "properties": {
+    "uuid": "d181acb7-becc-51cd-8ede-426c3ec86227",
+    "name": "Pain de Sucre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9383506616"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

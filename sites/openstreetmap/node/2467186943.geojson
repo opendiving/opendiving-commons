@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.340209,
+      43.210147
+    ]
+  },
+  "properties": {
+    "uuid": "8e56c2f0-7a00-59f4-bb76-84771d543aa1",
+    "name": "Les fromages",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2467186943"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

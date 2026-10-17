@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.577709,
+      49.792789
+    ]
+  },
+  "properties": {
+    "uuid": "e3457741-137f-5c4d-80ad-4371be6d0f04",
+    "name": "Borek",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232710"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

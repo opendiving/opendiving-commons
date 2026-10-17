@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.245919,
+      5.882755
+    ]
+  },
+  "properties": {
+    "uuid": "4c153771-8857-530b-8c11-924ba9a2f952",
+    "name": "Long Beach Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/370554248"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

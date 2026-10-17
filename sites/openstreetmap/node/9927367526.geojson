@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.574685,
+      40.626255
+    ]
+  },
+  "properties": {
+    "uuid": "2daff222-8431-5c86-a8b5-1b209659a49e",
+    "name": "Popeye Diving Center Thassos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9927367526"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

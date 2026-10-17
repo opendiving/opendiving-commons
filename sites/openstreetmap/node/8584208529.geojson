@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.938879,
+      4.277636
+    ]
+  },
+  "properties": {
+    "uuid": "b89eb4f2-c391-55aa-ba0e-7aa8e906cb84",
+    "name": "Kuramathi North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584208529"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.375541,
+      9.934525
+    ]
+  },
+  "properties": {
+    "uuid": "c0a60a30-18b1-58b3-b0a0-8e79787a4f2d",
+    "name": "Sampaguita",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2286675483"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

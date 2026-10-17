@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.287906,
+      26.215256
+    ]
+  },
+  "properties": {
+    "uuid": "0ddf15d6-e23a-51a1-9409-d484ea36e220",
+    "name": "嘉比裏・がひうら",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333164773"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Gahi Ura"
+      }
+    }
+  }
+}

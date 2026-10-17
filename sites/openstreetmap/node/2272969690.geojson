@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.817339,
+      41.629132
+    ]
+  },
+  "properties": {
+    "uuid": "01db67cf-12d1-5dd0-ab3b-ce1211179f8c",
+    "name": "Campomoro Plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2272969690"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

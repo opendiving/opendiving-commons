@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61183,
+      46.9845
+    ]
+  },
+  "properties": {
+    "uuid": "a5cc8f17-e429-5136-8dd0-385275ad3d69",
+    "name": "Wolfsprung",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870217"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

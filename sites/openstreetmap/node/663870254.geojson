@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.170069,
+      46.493541
+    ]
+  },
+  "properties": {
+    "uuid": "8d555451-e01f-5182-9731-1a89f6cd1b93",
+    "name": "Laghetto Moesola immersioni",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870254"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

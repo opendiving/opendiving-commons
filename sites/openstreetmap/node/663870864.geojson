@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.520163,
+      50.619875
+    ]
+  },
+  "properties": {
+    "uuid": "46116562-371a-5755-88a1-eb9378465f34",
+    "name": "Hohenwarte-Stausee - Loreleifelsen und -Bucht mit Pumpenhaus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870864"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

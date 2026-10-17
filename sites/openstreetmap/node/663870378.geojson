@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.85963,
+      47.65855
+    ]
+  },
+  "properties": {
+    "uuid": "c1dd3fa8-a626-5ce6-ba9e-9624977358d8",
+    "name": "Brücke-Schifflände",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870378"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

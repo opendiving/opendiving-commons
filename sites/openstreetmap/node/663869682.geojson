@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.204838,
+      42.073431
+    ]
+  },
+  "properties": {
+    "uuid": "1ba2ec69-80da-59e7-b939-952c0f580066",
+    "name": "la Pedrosa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869682"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

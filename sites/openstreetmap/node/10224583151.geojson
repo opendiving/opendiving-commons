@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.585098,
+      -6.353986
+    ]
+  },
+  "properties": {
+    "uuid": "406ced79-64c6-5e99-bb23-ff08ed2aca00",
+    "name": "Woo south",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10224583151"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

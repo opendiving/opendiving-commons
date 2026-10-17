@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.154336,
+      12.301811
+    ]
+  },
+  "properties": {
+    "uuid": "5f74765b-2c18-5c9f-ac4b-2a5afaab5abb",
+    "name": "Mushroom Forest",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/448747096"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

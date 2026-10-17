@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.72822,
+      46.41927
+    ]
+  },
+  "properties": {
+    "uuid": "85323179-b77a-5970-b060-a3b793cf5f33",
+    "name": "Halbinsel Sasc da Corn 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870249"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

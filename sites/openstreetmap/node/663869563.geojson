@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.113894,
+      53.122765
+    ]
+  },
+  "properties": {
+    "uuid": "8fdc6038-84c1-5cfd-be76-fde669c00f07",
+    "name": "Vivian Quarry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869563"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

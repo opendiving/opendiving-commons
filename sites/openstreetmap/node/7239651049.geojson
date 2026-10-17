@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.613116,
+      4.000459
+    ]
+  },
+  "properties": {
+    "uuid": "160b005d-ec4c-544e-ac3e-738fa5d82b75",
+    "name": "La Puerta del Cielo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651049"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

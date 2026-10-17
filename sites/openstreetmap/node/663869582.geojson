@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.37,
+      50.784167
+    ]
+  },
+  "properties": {
+    "uuid": "c2c2525c-6c3b-5f78-bfa6-a57720648499",
+    "name": "Indiana",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869582"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.919416,
+      27.264801
+    ]
+  },
+  "properties": {
+    "uuid": "687b05b3-5a04-59bd-9329-42749e5fcae1",
+    "name": "Shaab Pinky",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5259828621"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

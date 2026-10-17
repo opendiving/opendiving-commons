@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.815283,
+      47.47695
+    ]
+  },
+  "properties": {
+    "uuid": "5cfb323e-0b18-5d0b-a0a0-3f69c1a27ed2",
+    "name": "Plansee - Zone 1 (Schotterparkplatz Kaiserbrunnen)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870470"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

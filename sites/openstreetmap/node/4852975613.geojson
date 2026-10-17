@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.390716,
+      -29.930456
+    ]
+  },
+  "properties": {
+    "uuid": "15e7b61f-2a82-5e8a-ab7d-459a1c30045c",
+    "name": "Elbow Cave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4852975613"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

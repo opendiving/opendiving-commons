@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.358733,
+      -33.831433
+    ]
+  },
+  "properties": {
+    "uuid": "ab5e8249-5837-5ec5-9cbf-b6a406604e45",
+    "name": "Robben Island steamer wreck",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41735995"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

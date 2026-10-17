@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.461955,
+      46.478589
+    ]
+  },
+  "properties": {
+    "uuid": "bcc1100a-628f-5986-8c9d-5651a7dfc593",
+    "name": "Lac Léman-Point du Suchet",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869974"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

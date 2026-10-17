@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.36262,
+      3.90236
+    ]
+  },
+  "properties": {
+    "uuid": "69758522-6898-56c8-9859-42e7a9421bee",
+    "name": "Rannalhi Kuda Giri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869913"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

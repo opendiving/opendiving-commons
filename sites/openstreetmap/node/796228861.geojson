@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.584504,
+      44.790257
+    ]
+  },
+  "properties": {
+    "uuid": "50d5a4d7-4c65-584a-8ae4-c68f10fd1333",
+    "name": "Gouffre de Cabouy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/796228861"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

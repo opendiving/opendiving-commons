@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.181472,
+      -41.03078
+    ]
+  },
+  "properties": {
+    "uuid": "2d12d05b-ebe1-5cba-9187-929d6ecdf308",
+    "name": "Go Dive Pacific",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11804617802"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

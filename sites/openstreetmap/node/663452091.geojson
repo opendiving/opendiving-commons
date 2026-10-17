@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.54595,
+      47.33147
+    ]
+  },
+  "properties": {
+    "uuid": "41048e46-ee20-538a-a10c-1e2ffdff8f7c",
+    "name": "Widmerland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452091"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

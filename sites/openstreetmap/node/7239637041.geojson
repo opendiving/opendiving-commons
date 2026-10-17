@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.612336,
+      3.997714
+    ]
+  },
+  "properties": {
+    "uuid": "ae02cdbb-c2a3-56f1-b5a5-6c912e57b2ed",
+    "name": "Bajo del Junior",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239637041"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

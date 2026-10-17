@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.473561,
+      36.354069
+    ]
+  },
+  "properties": {
+    "uuid": "9442db23-cf04-5492-a654-36b4220ae7e6",
+    "name": "Santorini Dive Center",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3820536294"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

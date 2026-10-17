@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.991183,
+      44.054983
+    ]
+  },
+  "properties": {
+    "uuid": "952317f6-747e-59b3-9e99-11c28d55cf24",
+    "name": "Brbišćica",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869718"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

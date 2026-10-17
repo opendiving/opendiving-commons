@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.295917,
+      44.90225
+    ]
+  },
+  "properties": {
+    "uuid": "c7aa94e5-1984-55f9-b743-e495b3dcabc7",
+    "name": "Miracine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869732"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

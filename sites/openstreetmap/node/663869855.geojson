@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.458627,
+      28.436899
+    ]
+  },
+  "properties": {
+    "uuid": "1e7ad141-bc3c-5b14-96f9-b15aa13277d7",
+    "name": "Moray Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869855"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

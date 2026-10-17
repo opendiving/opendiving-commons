@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.308717,
+      12.200171
+    ]
+  },
+  "properties": {
+    "uuid": "0babfd0c-7549-5b66-b6c5-e3f1932fa0a7",
+    "name": "Oil Slick Leap",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869425"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

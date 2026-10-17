@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.485346,
+      47.00262
+    ]
+  },
+  "properties": {
+    "uuid": "58c3b589-c5e3-572c-8e1c-cdc4a6def529",
+    "name": "Lido",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5377272894"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.758937,
+      46.680988
+    ]
+  },
+  "properties": {
+    "uuid": "d3760365-ceec-55e1-b0fd-5f6280ee1b27",
+    "name": "Grosse gelbe Wand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870048"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

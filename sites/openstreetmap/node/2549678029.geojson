@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.228817,
+      43.1987
+    ]
+  },
+  "properties": {
+    "uuid": "facb7a46-ace7-5b19-ab88-f17f7b8a2cd2",
+    "name": "Le Chaouen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678029"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

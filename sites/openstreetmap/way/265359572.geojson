@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.298485,
+      52.15652
+    ]
+  },
+  "properties": {
+    "uuid": "24b72080-a652-5238-9d13-9f6cd966c9ec",
+    "name": "Tauchereinstieg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/265359572"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Scuba entrance"
+      }
+    }
+  }
+}

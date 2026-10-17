@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.77819,
+      46.47415
+    ]
+  },
+  "properties": {
+    "uuid": "0bc28aaa-3126-57c0-ae94-bd68ae6c39f3",
+    "name": "Lac Léman-Minoteries",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869987"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.788264,
+      -15.50124
+    ]
+  },
+  "properties": {
+    "uuid": "22448778-b608-5d32-9d67-d676be7d480d",
+    "name": "Steve's Bommie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802353"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.53739,
+      59.220552
+    ]
+  },
+  "properties": {
+    "uuid": "b62e1375-9400-534c-879a-b85ec9d13af7",
+    "name": "Björkviks brygga",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5002097887"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

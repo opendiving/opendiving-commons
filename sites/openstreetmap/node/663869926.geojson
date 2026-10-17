@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.351402,
+      3.914468
+    ]
+  },
+  "properties": {
+    "uuid": "81eb965b-aa1d-5059-a2e2-6c55d8f42008",
+    "name": "Vaageli Caves",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869926"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.629167,
+      64.8643
+    ]
+  },
+  "properties": {
+    "uuid": "6c1be571-3818-5b8b-97e2-3df380974752",
+    "name": "Blaafjeld",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871176"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

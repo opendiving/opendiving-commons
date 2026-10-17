@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.84145,
+      26.315683
+    ]
+  },
+  "properties": {
+    "uuid": "e633f878-f2ee-5920-acd7-a3ed8d932cbc",
+    "name": "نوميديا",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869779"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Numidia"
+      }
+    }
+  }
+}

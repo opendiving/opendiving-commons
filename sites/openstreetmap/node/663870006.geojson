@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.11139,
+      46.69155
+    ]
+  },
+  "properties": {
+    "uuid": "1dcb73f5-f029-5627-87b6-4d7d3f86683f",
+    "name": "Sur Momont",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870006"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

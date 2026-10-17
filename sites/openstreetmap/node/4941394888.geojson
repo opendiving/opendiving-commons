@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.102406,
+      11.346199
+    ]
+  },
+  "properties": {
+    "uuid": "bd274b2f-c371-5b30-bece-ebe84a264ae2",
+    "name": "Lapus-Lapus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4941394888"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

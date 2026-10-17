@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.31975,
+      43.230933
+    ]
+  },
+  "properties": {
+    "uuid": "f0fd9a36-c0eb-58aa-9b8b-9c1651c405a3",
+    "name": "La drome",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678025"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

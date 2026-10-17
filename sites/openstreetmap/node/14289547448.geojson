@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.788342,
+      48.261713
+    ]
+  },
+  "properties": {
+    "uuid": "bec83728-62fb-5e45-8539-ed86207a7127",
+    "name": "Apostelsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14289547448"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

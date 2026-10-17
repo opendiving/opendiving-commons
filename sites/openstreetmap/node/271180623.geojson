@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.654226,
+      24.238811
+    ]
+  },
+  "properties": {
+    "uuid": "ca03ee1b-3a0a-5f51-bf0e-d7c7fefdb2fa",
+    "name": "Shaab Maksour South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271180623"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.861424,
+      47.722285
+    ]
+  },
+  "properties": {
+    "uuid": "66660015-5a73-5613-9cbd-133f3102fa16",
+    "name": "Schliersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/168896"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

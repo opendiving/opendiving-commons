@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.142083,
+      45.890767
+    ]
+  },
+  "properties": {
+    "uuid": "9202cca6-3894-5f6a-b91c-b8cc5d183f59",
+    "name": "Arbre à brochets",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549942053"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

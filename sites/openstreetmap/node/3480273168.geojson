@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.495986,
+      20.630003
+    ]
+  },
+  "properties": {
+    "uuid": "e4a6ea2b-ba1a-5846-b5a8-09c123949237",
+    "name": "The Back Side",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3480273168"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

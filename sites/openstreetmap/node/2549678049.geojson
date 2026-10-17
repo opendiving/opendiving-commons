@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.305083,
+      43.28545
+    ]
+  },
+  "properties": {
+    "uuid": "49756832-fa2d-559e-b1ed-1c977b9ae17a",
+    "name": "Nord Ratoneau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678049"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

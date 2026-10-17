@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.267043,
+      9.075116
+    ]
+  },
+  "properties": {
+    "uuid": "e9688a7e-e5bb-5387-b3a6-c0d35c8b61c9",
+    "name": "Katipanan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775971"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

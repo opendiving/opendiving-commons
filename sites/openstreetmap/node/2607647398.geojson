@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.537565,
+      53.627808
+    ]
+  },
+  "properties": {
+    "uuid": "753f3ec2-676b-5b9b-9f65-a4a6e833024f",
+    "name": "Tauchspot Flacher See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2607647398"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

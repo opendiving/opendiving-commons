@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.641312,
+      44.36967
+    ]
+  },
+  "properties": {
+    "uuid": "5aa8889b-9ff2-5547-b79a-14268bc2c71d",
+    "name": "Goul de la Tannerie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/541919613"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

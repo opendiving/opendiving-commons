@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.575007,
+      47.325766
+    ]
+  },
+  "properties": {
+    "uuid": "607382ec-5a97-513b-ade8-de733c1625e2",
+    "name": "Kleiner Hafen Küsnacht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452083"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

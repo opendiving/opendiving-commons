@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.583784,
+      -8.440971
+    ]
+  },
+  "properties": {
+    "uuid": "94ae6fc6-bef6-5321-aeb6-f2acaa94cb9c",
+    "name": "Lighthouse Reef Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8022562480"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

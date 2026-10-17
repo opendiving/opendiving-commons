@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.506976,
+      47.149989
+    ]
+  },
+  "properties": {
+    "uuid": "401b8512-2045-54e1-8d31-badab738ae5e",
+    "name": "Tellenörtli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7776394934"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

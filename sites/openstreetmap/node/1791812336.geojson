@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.899258,
+      48.283162
+    ]
+  },
+  "properties": {
+    "uuid": "cb7ead15-d764-5ed1-afcc-684b83f9afdc",
+    "name": "Ilsesee Taucherbasis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1791812336"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

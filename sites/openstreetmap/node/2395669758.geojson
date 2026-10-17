@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.044026,
+      -8.339525
+    ]
+  },
+  "properties": {
+    "uuid": "976bd8a6-3a08-5b66-bc08-c8f27c0da55a",
+    "name": "Shallow Turbo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669758"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

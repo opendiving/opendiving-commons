@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.883333,
+      -35.05
+    ]
+  },
+  "properties": {
+    "uuid": "5ce185e8-7abf-50f5-a40a-188920403991",
+    "name": "Diving the south coast of South Africa/Alphard Banks",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q110835120"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.72326,
+      5.932402
+    ]
+  },
+  "properties": {
+    "uuid": "4e8c68d7-7084-59ee-b565-8755f4d77adf",
+    "name": "D'Lagoon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/497187649"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

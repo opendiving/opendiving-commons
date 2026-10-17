@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.150877,
+      12.318134
+    ]
+  },
+  "properties": {
+    "uuid": "2b51594d-d2fd-5313-b8cc-b56291fb4e79",
+    "name": "Playa Lagun",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869390"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

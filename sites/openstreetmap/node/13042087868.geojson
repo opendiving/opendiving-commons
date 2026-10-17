@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.561022,
+      -0.428667
+    ]
+  },
+  "properties": {
+    "uuid": "66437548-3b80-5f64-8b10-851a17d2a262",
+    "name": "Soft corals in the passage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042087868"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

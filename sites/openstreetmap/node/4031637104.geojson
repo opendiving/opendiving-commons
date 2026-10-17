@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      162.902064,
+      5.289493
+    ]
+  },
+  "properties": {
+    "uuid": "d0819cd9-784f-5ee8-b21a-48b368c8140c",
+    "name": "Walung Drop Off",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031637104"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

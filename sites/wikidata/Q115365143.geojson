@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.774133,
+      -38.355939
+    ]
+  },
+  "properties": {
+    "uuid": "4cc23e75-b391-567e-8e8c-5899c2fbc47d",
+    "name": "Blairgowrie Pier",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q115365143"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

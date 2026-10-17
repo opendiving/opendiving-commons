@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.867846,
+      9.860141
+    ]
+  },
+  "properties": {
+    "uuid": "fde3f717-4243-568f-acaf-d4e0a9b63860",
+    "name": "Western Rocky",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/602929121"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.84389,
+      46.24083
+    ]
+  },
+  "properties": {
+    "uuid": "a64cade4-eeba-5b5c-889a-4f831ed28463",
+    "name": "Ponte Corippo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870181"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

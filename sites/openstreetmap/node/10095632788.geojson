@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.38614,
+      27.95041
+    ]
+  },
+  "properties": {
+    "uuid": "9597d2bf-472d-5afa-9ae7-4564b84c2ddc",
+    "name": "Shark's Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10095632788"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

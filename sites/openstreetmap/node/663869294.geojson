@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.486021,
+      48.59193
+    ]
+  },
+  "properties": {
+    "uuid": "902a4ba8-4d7b-5723-bb6d-0bb6f9e76059",
+    "name": "Senanus Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869294"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

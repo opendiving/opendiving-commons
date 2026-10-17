@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.108573,
+      51.280541
+    ]
+  },
+  "properties": {
+    "uuid": "fb6c3f5f-d31e-58f1-9f4d-aa3092f05065",
+    "name": "Steinbruch Sparmann",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/45106340"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

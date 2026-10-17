@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.094966,
+      47.795216
+    ]
+  },
+  "properties": {
+    "uuid": "df80031c-0948-504d-a880-392544fd52c4",
+    "name": "Tauchplatz Sipplingen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870394"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

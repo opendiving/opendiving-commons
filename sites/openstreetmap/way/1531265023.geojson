@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.129005,
+      53.700058
+    ]
+  },
+  "properties": {
+    "uuid": "f3c572fa-d099-5965-b4c0-675084252bf9",
+    "name": "Einstieg E0",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1531265023"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

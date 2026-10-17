@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.843173,
+      54.472466
+    ]
+  },
+  "properties": {
+    "uuid": "c109b708-f371-5a7e-87e7-78b3b9194f6a",
+    "name": "Eckernförde - Riff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7782189535"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

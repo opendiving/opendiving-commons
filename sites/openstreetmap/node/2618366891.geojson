@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.504984,
+      47.531434
+    ]
+  },
+  "properties": {
+    "uuid": "221cc149-93f3-5de6-b018-a6790376ce79",
+    "name": "Baernkogl",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2618366891"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

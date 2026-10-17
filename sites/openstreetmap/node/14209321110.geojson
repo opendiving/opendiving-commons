@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.520308,
+      -0.777972
+    ]
+  },
+  "properties": {
+    "uuid": "b7ddf60f-9860-5096-b977-43da39f2fbf0",
+    "name": "León Dormido",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14209321110"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Kicker Rock"
+      }
+    }
+  }
+}

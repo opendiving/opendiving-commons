@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.55464,
+      47.5521
+    ]
+  },
+  "properties": {
+    "uuid": "3b7a12e6-cb8e-57da-93c3-1205bd00a8c5",
+    "name": "Tössegg-Eglisau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870357"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

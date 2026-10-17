@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.905554,
+      43.066654
+    ]
+  },
+  "properties": {
+    "uuid": "ee89c2fa-a8ba-5f38-a5f9-9e253fc61bfc",
+    "name": "Le Tromblon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6022696242"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

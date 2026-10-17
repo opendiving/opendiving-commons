@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.119351,
+      11.3456
+    ]
+  },
+  "properties": {
+    "uuid": "c3e0b140-cc5f-528e-9e77-9deb47d86d35",
+    "name": "Ka-Osting / Bantigue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4557974264"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

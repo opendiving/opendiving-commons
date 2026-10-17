@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.65443,
+      13.459393
+    ]
+  },
+  "properties": {
+    "uuid": "79a75c10-3b4c-5eb9-ae16-c322ced56cba",
+    "name": "Tokai Maru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871204"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

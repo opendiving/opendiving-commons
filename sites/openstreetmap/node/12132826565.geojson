@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.232573,
+      41.965529
+    ]
+  },
+  "properties": {
+    "uuid": "357481eb-b928-5ab2-9b0c-74490b0cb819",
+    "name": "Cap sa Sal (Buceig)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826565"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

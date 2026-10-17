@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.44965,
+      47.1815
+    ]
+  },
+  "properties": {
+    "uuid": "809f0413-b669-5212-8dc6-09c4f61c4487",
+    "name": "Leuzigen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870093"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

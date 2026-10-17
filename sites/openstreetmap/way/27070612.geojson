@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.685044,
+      45.402826
+    ]
+  },
+  "properties": {
+    "uuid": "6f8a0755-500f-5111-8b98-4e8ee99da3af",
+    "name": "Kahnawake Quarry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/27070612"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

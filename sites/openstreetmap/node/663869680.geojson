@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.315217,
+      20.22675
+    ]
+  },
+  "properties": {
+    "uuid": "98ed4ab1-3b44-5074-955b-4e2331d8c33a",
+    "name": "Blue Belt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869680"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

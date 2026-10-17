@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.627376,
+      7.807392
+    ]
+  },
+  "properties": {
+    "uuid": "82c18fc9-c275-5fd0-945f-adf607db5280",
+    "name": "Hin Jom",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270985343"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Anemone Reef"
+      }
+    }
+  }
+}

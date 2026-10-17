@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.607661,
+      4.012025
+    ]
+  },
+  "properties": {
+    "uuid": "30dba9f8-e00f-51f6-915b-83331f83c7c7",
+    "name": "Bajo del Cholo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651058"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.45889,
+      43.27407
+    ]
+  },
+  "properties": {
+    "uuid": "a7214d39-b271-562e-915c-8d2f7631786d",
+    "name": "Site de Plongée Le Sentier Sous Marin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5026935010"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

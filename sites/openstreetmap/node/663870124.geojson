@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.19408,
+      47.47872
+    ]
+  },
+  "properties": {
+    "uuid": "3cb5946b-a665-5901-9ea9-57fd230834ea",
+    "name": "Alter Aarelauf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870124"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

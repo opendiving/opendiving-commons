@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.486444,
+      36.959914
+    ]
+  },
+  "properties": {
+    "uuid": "3533163d-fa82-5d81-8531-6e792a9d9912",
+    "name": "Aksona",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10973665014"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

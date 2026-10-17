@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.35855,
+      47.992468
+    ]
+  },
+  "properties": {
+    "uuid": "7b8505e6-503b-5848-bab1-0bca2abafd2a",
+    "name": "Kempfenhausen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5247860338"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

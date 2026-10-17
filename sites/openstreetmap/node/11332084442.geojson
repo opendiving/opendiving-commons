@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.887484,
+      23.63332
+    ]
+  },
+  "properties": {
+    "uuid": "28302b39-b908-5e53-940f-6753012621b3",
+    "name": "Farsha Ergein Farayed",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11332084442"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

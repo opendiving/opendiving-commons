@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.940986,
+      3.569758
+    ]
+  },
+  "properties": {
+    "uuid": "de2cc7e5-6989-572c-84c7-b8c30184ff32",
+    "name": "Hudhu Thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9572676008"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

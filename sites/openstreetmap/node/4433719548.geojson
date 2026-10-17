@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.968,
+      22.223167
+    ]
+  },
+  "properties": {
+    "uuid": "31cbd63e-d22c-51c6-a8b7-e36d5389a259",
+    "name": "Al Fahal South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4433719548"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

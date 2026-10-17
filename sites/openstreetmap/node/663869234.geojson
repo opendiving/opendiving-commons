@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.620071,
+      -17.615904
+    ]
+  },
+  "properties": {
+    "uuid": "7487a5bf-0c8c-5471-8599-afa41a50058b",
+    "name": "Tombant St Etienne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869234"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

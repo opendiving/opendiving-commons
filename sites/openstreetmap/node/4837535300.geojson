@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.32531,
+      63.449678
+    ]
+  },
+  "properties": {
+    "uuid": "594314a4-8b92-59a9-84a3-7bc9dc579787",
+    "name": "Texacobryggen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4837535300"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

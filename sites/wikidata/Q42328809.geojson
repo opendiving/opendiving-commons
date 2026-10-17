@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4867,
+      -34.237083
+    ]
+  },
+  "properties": {
+    "uuid": "5acf50ea-bdc6-5015-a363-d0489434f733",
+    "name": "Phone Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42328809"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

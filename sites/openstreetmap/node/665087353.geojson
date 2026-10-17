@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.671805,
+      47.379986
+    ]
+  },
+  "properties": {
+    "uuid": "26e27926-a331-5b92-a7dc-2403dd971830",
+    "name": "Diepoldsau Strandbad Einstieg 1 Badebetrieb",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087353"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

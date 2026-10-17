@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.815137,
+      54.261613
+    ]
+  },
+  "properties": {
+    "uuid": "4af1361d-b0eb-5a46-b92c-cb0586fa9a8c",
+    "name": "Bomb",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13002464799"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

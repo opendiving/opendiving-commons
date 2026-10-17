@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.275594,
+      26.179389
+    ]
+  },
+  "properties": {
+    "uuid": "30df9c22-58a1-5376-8d96-9a61de63c869",
+    "name": "佐久原漁礁",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333126068"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Sakubaru Gyosho"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.152312,
+      38.700234
+    ]
+  },
+  "properties": {
+    "uuid": "c1857665-612a-5aaf-8604-48307e68238a",
+    "name": "Le Piramidi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2137060566"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

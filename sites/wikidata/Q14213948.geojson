@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.59305,
+      -34.156117
+    ]
+  },
+  "properties": {
+    "uuid": "72962f09-a4ab-54d7-9799-22c793415e35",
+    "name": "York Shoal",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213948"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

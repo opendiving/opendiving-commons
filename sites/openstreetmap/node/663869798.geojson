@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.984613,
+      27.173451
+    ]
+  },
+  "properties": {
+    "uuid": "97444a83-9a7e-585c-b230-8e7ead20b73a",
+    "name": "Abu Ramada Plateau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869798"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

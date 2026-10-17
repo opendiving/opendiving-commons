@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.60664,
+      4.008297
+    ]
+  },
+  "properties": {
+    "uuid": "4552440c-27bc-5ffa-a3a8-e927a2ab3d6a",
+    "name": "La Pared del Náufrago",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651054"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

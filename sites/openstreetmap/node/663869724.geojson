@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.491617,
+      44.496467
+    ]
+  },
+  "properties": {
+    "uuid": "7fdcbc98-ac0b-5ac2-ac4f-420c01051178",
+    "name": "Krivica",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869724"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

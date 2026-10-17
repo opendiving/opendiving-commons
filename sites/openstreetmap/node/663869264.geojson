@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.603333,
+      48.311667
+    ]
+  },
+  "properties": {
+    "uuid": "dc91cde6-3d30-53d8-b2af-41e40bf6b50c",
+    "name": "South Bedford Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869264"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

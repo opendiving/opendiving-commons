@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.041953,
+      35.020159
+    ]
+  },
+  "properties": {
+    "uuid": "bcd37559-7921-569d-ad26-cae678edd98b",
+    "name": "Trans Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/961870075"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

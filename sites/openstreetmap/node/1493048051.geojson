@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.347376,
+      25.982308
+    ]
+  },
+  "properties": {
+    "uuid": "0f5565f1-0b72-5fc1-bdf2-0473c8c7cca7",
+    "name": "Soug Bahar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1493048051"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

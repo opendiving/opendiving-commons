@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.171888,
+      11.719194
+    ]
+  },
+  "properties": {
+    "uuid": "b091f615-529a-5025-be35-5b071052e9aa",
+    "name": "Îles Moucha الجزر موشا",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/316800294"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Moucha Islands"
+      }
+    }
+  }
+}

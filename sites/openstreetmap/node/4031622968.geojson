@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      158.10588,
+      6.859498
+    ]
+  },
+  "properties": {
+    "uuid": "40713e56-72e8-5a24-b0cf-06821544c5fb",
+    "name": "Pahleng Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031622968"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.948126,
+      18.409912
+    ]
+  },
+  "properties": {
+    "uuid": "33c0d515-3927-5187-b320-6781bb172be3",
+    "name": "Snorkeler's Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7157290216"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

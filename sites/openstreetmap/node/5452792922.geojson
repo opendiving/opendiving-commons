@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.649612,
+      -2.256762
+    ]
+  },
+  "properties": {
+    "uuid": "be5b46ec-9134-5422-8e73-c85e625264e5",
+    "name": "Karang Bayangan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5452792922"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

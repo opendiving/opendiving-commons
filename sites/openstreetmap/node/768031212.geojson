@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.127467,
+      27.703823
+    ]
+  },
+  "properties": {
+    "uuid": "e942874f-7226-5e5f-88b8-4a72a041e299",
+    "name": "الإسم العربي ؟",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/768031212"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Beacon Rock"
+      }
+    }
+  }
+}

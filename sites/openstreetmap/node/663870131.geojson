@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.88019,
+      45.95952
+    ]
+  },
+  "properties": {
+    "uuid": "b24c7a03-aeb7-51bc-a6e7-2e4a66174491",
+    "name": "Lago di Lugano-Il Deserto",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870131"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

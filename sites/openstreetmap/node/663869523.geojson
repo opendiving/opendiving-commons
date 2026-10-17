@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.308183,
+      44.3127
+    ]
+  },
+  "properties": {
+    "uuid": "663e97dc-31fc-53dc-badd-ed3b5e7a6257",
+    "name": "Sloop Island Canal Boat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869523"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.061577,
+      26.639717
+    ]
+  },
+  "properties": {
+    "uuid": "c21ae158-c970-53db-a5be-629d6b0c0289",
+    "name": "Salem Express",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869778"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

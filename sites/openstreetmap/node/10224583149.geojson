@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.5788,
+      -6.327524
+    ]
+  },
+  "properties": {
+    "uuid": "3aad0725-0449-53c9-b71a-f024216c4131",
+    "name": "Sau Inn Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10224583149"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

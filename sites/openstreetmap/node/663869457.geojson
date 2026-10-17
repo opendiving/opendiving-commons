@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.243633,
+      30.18175
+    ]
+  },
+  "properties": {
+    "uuid": "3f51a258-f58d-5d32-a2cd-7f88e113856c",
+    "name": "Deliverance",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869457"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

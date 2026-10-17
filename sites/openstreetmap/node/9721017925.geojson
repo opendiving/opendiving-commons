@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.741888,
+      18.574092
+    ]
+  },
+  "properties": {
+    "uuid": "91c13d9c-6cb5-50c8-982c-1f23ab5d00dc",
+    "name": "Isar Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721017925"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

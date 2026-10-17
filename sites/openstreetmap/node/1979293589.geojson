@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.326222,
+      27.882292
+    ]
+  },
+  "properties": {
+    "uuid": "4005e9b4-b2b0-5788-8025-b7cf4764f6c7",
+    "name": "Tower",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1979293589"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

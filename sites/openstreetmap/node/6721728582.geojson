@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.677241,
+      44.592015
+    ]
+  },
+  "properties": {
+    "uuid": "a2156898-ead3-5b9e-a0fe-72692f5e0934",
+    "name": "Brockville Underwater Sculpture Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6721728582"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.469403,
+      3.894661
+    ]
+  },
+  "properties": {
+    "uuid": "95b8e0ea-b08c-5d35-919d-0c6fd5a5baca",
+    "name": "Guradoo Kuda Kandu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869929"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

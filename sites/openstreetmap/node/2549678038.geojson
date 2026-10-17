@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.253533,
+      43.206867
+    ]
+  },
+  "properties": {
+    "uuid": "50e031a5-ab4e-58df-bd44-dc6043df5b82",
+    "name": "Les Veyrons",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678038"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

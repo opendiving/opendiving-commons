@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.33788,
+      46.209994
+    ]
+  },
+  "properties": {
+    "uuid": "237ca51c-2aa2-5ca5-a5c6-58fc271a468f",
+    "name": "Carrière de Montulat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1983334434"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

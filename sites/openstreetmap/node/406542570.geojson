@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.311135,
+      58.923202
+    ]
+  },
+  "properties": {
+    "uuid": "f0ae52ac-aaef-56ea-aafe-6e9cd75453b4",
+    "name": "Gobernador",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/406542570"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

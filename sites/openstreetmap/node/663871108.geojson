@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.172883,
+      53.5226
+    ]
+  },
+  "properties": {
+    "uuid": "71ff392f-fa8d-5a10-bcd7-a1a78f07d7e1",
+    "name": "Penzliner See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871108"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.815963,
+      41.629314
+    ]
+  },
+  "properties": {
+    "uuid": "b1bc92a2-6ed9-590d-872a-f88411749dd5",
+    "name": "Torra Plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/361102005"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.580889,
+      54.229905
+    ]
+  },
+  "properties": {
+    "uuid": "a6c70a5a-23f6-52d1-9b77-014c8115c7bc",
+    "name": "Jezioro Rydzówka",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871172"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.330267,
+      -33.669767
+    ]
+  },
+  "properties": {
+    "uuid": "91749ce9-95e1-51f1-bc59-57bae8634dbd",
+    "name": "MV Treasure",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213815"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

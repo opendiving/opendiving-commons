@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.619767,
+      -5.739326
+    ]
+  },
+  "properties": {
+    "uuid": "1f65bfdb-69c9-5387-9322-80c9e61329bd",
+    "name": "Diving Spot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2132034788"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

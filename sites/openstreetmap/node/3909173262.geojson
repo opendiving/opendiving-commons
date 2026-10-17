@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.263147,
+      -8.706567
+    ]
+  },
+  "properties": {
+    "uuid": "e5cff096-a9c5-5556-94d4-eaa6d425a87c",
+    "name": "Water Walk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3909173262"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

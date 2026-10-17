@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.702948,
+      23.41205
+    ]
+  },
+  "properties": {
+    "uuid": "6d521376-6d30-50dc-a6e5-25cdbd908fce",
+    "name": "Gotta Hemera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1216458194"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.506409,
+      -17.512163
+    ]
+  },
+  "properties": {
+    "uuid": "46727912-ffdf-5684-b00e-de67e08a7e74",
+    "name": "Grottes du Tahara",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869245"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

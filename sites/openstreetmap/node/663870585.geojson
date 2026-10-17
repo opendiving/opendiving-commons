@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.060555,
+      51.370278
+    ]
+  },
+  "properties": {
+    "uuid": "e3517b23-fc61-5708-b9a4-9e7e8e0b91b8",
+    "name": "Twistesee (Twistestausee)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870585"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}
