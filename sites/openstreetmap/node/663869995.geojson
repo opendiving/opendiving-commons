@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.97767,
+      46.94573
+    ]
+  },
+  "properties": {
+    "uuid": "93ac23a8-1d8b-5203-8df9-341987aa7378",
+    "name": "La Madonne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869995"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

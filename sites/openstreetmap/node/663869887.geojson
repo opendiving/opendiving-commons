@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.957198,
+      3.635281
+    ]
+  },
+  "properties": {
+    "uuid": "05e81151-e471-5e1d-9c13-7ac82f10728a",
+    "name": "Vilamendhoo Housereef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869887"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

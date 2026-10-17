@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.452083,
+      -34.189583
+    ]
+  },
+  "properties": {
+    "uuid": "678e1e70-efdb-5838-af10-35ac383e3134",
+    "name": "Twin barges",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41967800"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

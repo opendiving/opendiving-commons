@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.694686,
+      -2.022354
+    ]
+  },
+  "properties": {
+    "uuid": "3a8da570-9a9c-5ab4-8191-6d5b5decce49",
+    "name": "Love Potion",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453440222"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

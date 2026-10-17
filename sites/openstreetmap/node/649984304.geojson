@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.160541,
+      12.122893
+    ]
+  },
+  "properties": {
+    "uuid": "d97a9d31-ef21-5869-adcb-6043e8f892d4",
+    "name": "Jackson's Bar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/649984304"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

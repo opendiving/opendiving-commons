@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.618317,
+      -17.629379
+    ]
+  },
+  "properties": {
+    "uuid": "f872f4b1-5284-5be2-978a-db5438396448",
+    "name": "Plateau aux tortues",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869238"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

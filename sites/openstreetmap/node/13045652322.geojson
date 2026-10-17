@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.296029,
+      -0.58883
+    ]
+  },
+  "properties": {
+    "uuid": "34671f85-c9f6-51e6-9b41-7691fd978eac",
+    "name": "Keruo Channel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045652322"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

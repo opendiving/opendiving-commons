@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.043935,
+      -8.348153
+    ]
+  },
+  "properties": {
+    "uuid": "a7cb3839-5686-5d78-8ea2-b2aceb14b571",
+    "name": "Samba Vilas Biorock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4813305044"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

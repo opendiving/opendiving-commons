@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.444004,
+      53.715633
+    ]
+  },
+  "properties": {
+    "uuid": "5ee5f0b3-c397-5f24-8c54-8eedc25d8172",
+    "name": "Hertasee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/94221639"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

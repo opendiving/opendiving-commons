@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.095951,
+      47.766074
+    ]
+  },
+  "properties": {
+    "uuid": "2bb1b23d-d732-52a6-bbb5-8760ba8e782f",
+    "name": "Marienschlucht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870395"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

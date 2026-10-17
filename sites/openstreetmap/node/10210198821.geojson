@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.391996,
+      -5.838703
+    ]
+  },
+  "properties": {
+    "uuid": "cbcdd9a6-3310-54d5-81fd-de6bf5a65452",
+    "name": "Little Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10210198821"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

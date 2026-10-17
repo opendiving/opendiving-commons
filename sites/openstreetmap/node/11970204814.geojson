@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.529944,
+      47.880018
+    ]
+  },
+  "properties": {
+    "uuid": "410c859c-5d71-5fa7-bd6d-bf26143e9fb3",
+    "name": "Nußdorf Hausboot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11970204814"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

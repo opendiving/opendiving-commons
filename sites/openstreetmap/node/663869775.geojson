@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.508567,
+      24.27205
+    ]
+  },
+  "properties": {
+    "uuid": "af62df81-cfab-593a-b1a1-a1e574068e73",
+    "name": "Shaab Said Nord",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869775"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

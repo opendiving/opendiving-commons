@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.699828,
+      46.684718
+    ]
+  },
+  "properties": {
+    "uuid": "63f8d4f6-a0df-5c5a-9e55-806ee480525e",
+    "name": "Frankenstein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845803384"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

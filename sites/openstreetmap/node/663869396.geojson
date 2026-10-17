@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.264812,
+      12.038652
+    ]
+  },
+  "properties": {
+    "uuid": "fcd968c1-5db9-5557-9908-342220a31ba0",
+    "name": "Vista Blue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869396"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

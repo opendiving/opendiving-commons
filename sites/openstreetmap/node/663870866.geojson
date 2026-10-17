@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.583349,
+      50.600413
+    ]
+  },
+  "properties": {
+    "uuid": "118f18ea-9f8f-5ea4-9b94-910cf619977d",
+    "name": "Hohenwarte-Stausee - Drachenschwanz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870866"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

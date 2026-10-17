@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.705106,
+      55.597494
+    ]
+  },
+  "properties": {
+    "uuid": "18b36c51-05df-5ebe-bdb3-ebc575b47da2",
+    "name": "Alaušas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13034066923"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.714,
+      46.1205
+    ]
+  },
+  "properties": {
+    "uuid": "b7d93f84-c36a-59f9-8f1e-03c6f966abe6",
+    "name": "Porto alla Ressiga",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870156"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13337,
+      53.701295
+    ]
+  },
+  "properties": {
+    "uuid": "44da5714-7238-562c-94d4-cbcf745344ac",
+    "name": "Kleine Höhlen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518343"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

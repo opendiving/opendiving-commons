@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.563382,
+      -13.851845
+    ]
+  },
+  "properties": {
+    "uuid": "370be083-dce5-572e-a5a2-bb7bf5e74da7",
+    "name": "Castle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802350"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

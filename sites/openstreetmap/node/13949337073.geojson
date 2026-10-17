@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.433376,
+      50.549968
+    ]
+  },
+  "properties": {
+    "uuid": "9d5d4b28-d297-5db2-b7c1-037c6b254c4f",
+    "name": "Galicia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949337073"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

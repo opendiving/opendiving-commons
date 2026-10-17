@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.655981,
+      54.187952
+    ]
+  },
+  "properties": {
+    "uuid": "baa9771d-0af1-506b-a554-87cd426650fc",
+    "name": "Arabella",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871171"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

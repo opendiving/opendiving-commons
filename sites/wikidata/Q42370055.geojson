@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.479667,
+      -34.272667
+    ]
+  },
+  "properties": {
+    "uuid": "1ebcaf6a-138c-5b96-b15d-2f3c65bb1f19",
+    "name": "Kreef Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42370055"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

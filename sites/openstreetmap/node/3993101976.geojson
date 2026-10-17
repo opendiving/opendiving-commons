@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      171.373701,
+      7.08668
+    ]
+  },
+  "properties": {
+    "uuid": "07517762-27de-5304-a590-5ad047a39d8d",
+    "name": "Raycrew",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3993101976"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

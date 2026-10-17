@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.962157,
+      54.153894
+    ]
+  },
+  "properties": {
+    "uuid": "a677b1d2-ae66-5d61-88e3-ec97f100e66b",
+    "name": "Jezioro Krzywa Kuta",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871174"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

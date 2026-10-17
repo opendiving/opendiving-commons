@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.825438,
+      12.149537
+    ]
+  },
+  "properties": {
+    "uuid": "03b99106-e511-52dd-bce0-3614961b56de",
+    "name": "Nashin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5527196821"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Nanshin maru \"black island wreck\" - Civilian tanker - 45m - (21 to 32m)"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.418524,
+      27.963526
+    ]
+  },
+  "properties": {
+    "uuid": "cd2d4a89-5ba0-53d2-9dcb-e4ccd45fb156",
+    "name": "Ras Nasrani",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9235927141"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

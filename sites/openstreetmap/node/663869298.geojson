@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.483333,
+      48.623333
+    ]
+  },
+  "properties": {
+    "uuid": "de3c657f-8d69-5dbd-b801-43cee63c0c72",
+    "name": "Dyer Rocks",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869298"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

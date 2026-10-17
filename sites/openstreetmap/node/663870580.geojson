@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.035044,
+      51.196503
+    ]
+  },
+  "properties": {
+    "uuid": "106cf5d3-d0db-5b96-aeb5-2f47455b8ca3",
+    "name": "Edersee: Tauchzone I (Berich)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870580"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.178664,
+      54.359486
+    ]
+  },
+  "properties": {
+    "uuid": "ffa15404-f1eb-5021-88b7-839e86dfaa81",
+    "name": "Kitzeberg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870654"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

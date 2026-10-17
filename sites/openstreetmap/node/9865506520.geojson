@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.986992,
+      10.210365
+    ]
+  },
+  "properties": {
+    "uuid": "2a56a41b-c2f1-5da0-b729-0d383952f98f",
+    "name": "Hilutungan Sanctuary",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9865506520"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

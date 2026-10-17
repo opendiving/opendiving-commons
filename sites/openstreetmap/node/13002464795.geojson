@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.81671,
+      54.26489
+    ]
+  },
+  "properties": {
+    "uuid": "f4689bc7-fa43-554d-ab67-6afeb7815961",
+    "name": "Mirror",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13002464795"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

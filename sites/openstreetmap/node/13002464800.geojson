@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.813213,
+      54.258101
+    ]
+  },
+  "properties": {
+    "uuid": "9aa80327-7524-5c99-adfd-81169466b40f",
+    "name": "Skiffs",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13002464800"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

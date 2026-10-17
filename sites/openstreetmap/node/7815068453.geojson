@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.400221,
+      44.776938
+    ]
+  },
+  "properties": {
+    "uuid": "60479a5b-d559-542f-ae07-94590cd5b948",
+    "name": "Wreck Wee Hawk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7815068453"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.352132,
+      12.219293
+    ]
+  },
+  "properties": {
+    "uuid": "4ac512a9-aafe-5f4d-9337-c784dfa563fe",
+    "name": "Karpata",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869440"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

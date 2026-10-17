@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.893232,
+      57.05807
+    ]
+  },
+  "properties": {
+    "uuid": "bac3472f-b55b-5231-9b6d-95f76de26112",
+    "name": "Aalborg Sportsdykkerklub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3802590347"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

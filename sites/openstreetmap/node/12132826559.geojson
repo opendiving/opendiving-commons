@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.233128,
+      41.962424
+    ]
+  },
+  "properties": {
+    "uuid": "a2a81144-44b7-5dc4-a6b0-4066636ba9c0",
+    "name": "Punta des Plom (Buceig)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826559"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

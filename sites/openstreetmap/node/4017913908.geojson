@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.276318,
+      12.146012
+    ]
+  },
+  "properties": {
+    "uuid": "2faff932-4fc0-51f4-9eb7-f7322257814c",
+    "name": "Chachacha Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4017913908"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

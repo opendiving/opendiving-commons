@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.440333,
+      -34.1595
+    ]
+  },
+  "properties": {
+    "uuid": "68609f0d-c7b3-5724-8b39-b94777120cf2",
+    "name": "P87",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213832"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.206456,
+      11.273445
+    ]
+  },
+  "properties": {
+    "uuid": "ce0f0c74-d343-5fc8-8154-a1159633155e",
+    "name": "Punta Venado",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4860148434"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

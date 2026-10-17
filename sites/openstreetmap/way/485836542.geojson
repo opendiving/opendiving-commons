@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.188246,
+      11.308907
+    ]
+  },
+  "properties": {
+    "uuid": "3bcbdb0b-aa67-5b16-b3c2-08c08cdb54e5",
+    "name": "Monad Shoel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/485836542"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

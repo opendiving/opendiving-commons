@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.405026,
+      3.820782
+    ]
+  },
+  "properties": {
+    "uuid": "cefbc004-2779-54f1-9810-1bb0236efbd3",
+    "name": "Rihiveli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869900"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.53725,
+      -34.272233
+    ]
+  },
+  "properties": {
+    "uuid": "6fb05b21-416d-57a3-8e68-6dae82d34e42",
+    "name": "Diving the Cape Peninsula and False Bay/Josh's Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q110835328"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

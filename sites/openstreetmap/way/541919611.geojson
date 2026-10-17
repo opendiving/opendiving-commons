@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.641017,
+      44.370382
+    ]
+  },
+  "properties": {
+    "uuid": "4d420911-c59e-596a-959c-ecbb3f5e1cfe",
+    "name": "Goul du Pont",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/541919611"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

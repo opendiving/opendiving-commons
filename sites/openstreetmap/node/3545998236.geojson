@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.675937,
+      28.919615
+    ]
+  },
+  "properties": {
+    "uuid": "03c46030-33aa-5c95-8af9-e306250fe222",
+    "name": "Puerto del Carmen (west)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3545998236"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.462167,
+      -34.320283
+    ]
+  },
+  "properties": {
+    "uuid": "20d4e882-9540-595c-b46c-25421ef5fea2",
+    "name": "Buffels Bay",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213714"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

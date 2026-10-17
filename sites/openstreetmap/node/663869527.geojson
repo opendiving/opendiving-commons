@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.989397,
+      27.635451
+    ]
+  },
+  "properties": {
+    "uuid": "974a6fab-ba4b-5a2f-a0ae-12a1539705e6",
+    "name": "El Bajón",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869527"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

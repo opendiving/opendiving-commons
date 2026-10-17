@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.60405,
+      47.08397
+    ]
+  },
+  "properties": {
+    "uuid": "50933a92-2c66-5753-b343-817e74a5f55f",
+    "name": "Antonos Stratos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595460"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

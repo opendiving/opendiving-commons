@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.347,
+      -34.059
+    ]
+  },
+  "properties": {
+    "uuid": "a29f35c9-dfb7-5630-a375-bda909822aa5",
+    "name": "Sentinel",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213894"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.208469,
+      41.91724
+    ]
+  },
+  "properties": {
+    "uuid": "58284f17-962b-5a18-b98b-aeacc2c262ed",
+    "name": "Badia de Tamariu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5596181551"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

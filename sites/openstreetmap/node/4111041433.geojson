@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.550374,
+      -5.585679
+    ]
+  },
+  "properties": {
+    "uuid": "4b52d3a7-bdd2-5e07-8c10-141a877242b9",
+    "name": "Kayuangin Lagoon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041433"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

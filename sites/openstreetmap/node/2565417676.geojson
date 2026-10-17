@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      170.504889,
+      -45.882648
+    ]
+  },
+  "properties": {
+    "uuid": "beb34311-5d8d-51ce-a390-0cdd119ad8fa",
+    "name": "Dive Otago",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2565417676"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

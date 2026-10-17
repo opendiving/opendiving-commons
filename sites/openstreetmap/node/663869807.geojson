@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.831122,
+      27.296343
+    ]
+  },
+  "properties": {
+    "uuid": "178a87b1-547e-5992-a1f0-4be82ddfd85c",
+    "name": "El Fanadir Foc",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869807"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

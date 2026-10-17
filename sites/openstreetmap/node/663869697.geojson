@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.700744,
+      43.187993
+    ]
+  },
+  "properties": {
+    "uuid": "63873dd5-5235-5313-bc1d-4f0f7acda8d8",
+    "name": "Rubis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869697"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

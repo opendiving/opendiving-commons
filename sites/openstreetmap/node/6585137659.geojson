@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.082756,
+      26.753998
+    ]
+  },
+  "properties": {
+    "uuid": "0f6f5eff-1a18-5c47-bcdf-b25ca1828d03",
+    "name": "Panorama Reef East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6585137659"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

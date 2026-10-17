@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.458847,
+      46.976685
+    ]
+  },
+  "properties": {
+    "uuid": "6669aa13-8283-5ff8-99d9-77420369d6f9",
+    "name": "Copacabana",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870783"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

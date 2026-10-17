@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.352977,
+      -0.39552
+    ]
+  },
+  "properties": {
+    "uuid": "3adad88b-e63c-560c-97b5-b97ca2f67600",
+    "name": "Daphne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13121653577"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

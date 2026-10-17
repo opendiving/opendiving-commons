@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.33545,
+      47.6061
+    ]
+  },
+  "properties": {
+    "uuid": "516b46cb-ba72-5414-9368-367fb2894878",
+    "name": "Walchensee - Galerie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870679"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

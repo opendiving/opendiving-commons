@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.481667,
+      -34.24
+    ]
+  },
+  "properties": {
+    "uuid": "3cb80293-ec80-5e00-9390-a6f32a7289ab",
+    "name": "West Pie Rock Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42328959"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

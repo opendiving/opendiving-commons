@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.455856,
+      53.779934
+    ]
+  },
+  "properties": {
+    "uuid": "0bb644ec-24dd-5cca-b70e-c751341e3028",
+    "name": "Jezioro Majcz Wielki",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/77505"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

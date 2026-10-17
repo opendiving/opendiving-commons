@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.422567,
+      53.275567
+    ]
+  },
+  "properties": {
+    "uuid": "b973537c-fdfb-56e0-8a81-db37b018aa93",
+    "name": "Krüselinsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871073"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

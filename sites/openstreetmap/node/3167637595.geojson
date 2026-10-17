@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.997502,
+      30.006026
+    ]
+  },
+  "properties": {
+    "uuid": "308c4ea4-ea14-55ef-b16d-4fae738a77ef",
+    "name": "Troy Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3167637595"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

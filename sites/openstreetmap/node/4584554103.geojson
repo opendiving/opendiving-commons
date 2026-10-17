@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.463521,
+      3.896088
+    ]
+  },
+  "properties": {
+    "uuid": "d82413bd-2f66-5c1e-9914-d9c4a9a87164",
+    "name": "Guraidhoo Channel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4584554103"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

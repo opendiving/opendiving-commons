@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.596737,
+      46.982897
+    ]
+  },
+  "properties": {
+    "uuid": "ba6f932f-b3bf-5969-81e1-ded033fcd217",
+    "name": "Schillerstein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6410022596"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

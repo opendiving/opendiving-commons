@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      131.206949,
+      -0.400204
+    ]
+  },
+  "properties": {
+    "uuid": "d5332eba-eeee-5afc-b746-8ed99172f11d",
+    "name": "Imbekwan wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045635629"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

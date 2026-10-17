@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.813566,
+      10.109502
+    ]
+  },
+  "properties": {
+    "uuid": "b1058d84-9228-5956-b69d-e862d97ae5e9",
+    "name": "White Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4791057086"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

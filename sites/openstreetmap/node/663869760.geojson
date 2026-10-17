@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.203767,
+      23.618633
+    ]
+  },
+  "properties": {
+    "uuid": "95fcd15c-3617-5e9e-947c-a275ff6c9391",
+    "name": "Zabargad Jetty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869760"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.692146,
+      34.961077
+    ]
+  },
+  "properties": {
+    "uuid": "4d9770f0-b29c-5028-83fb-90e266b93a78",
+    "name": "Ελπίδα",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9415919368"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Elpida"
+      }
+    }
+  }
+}

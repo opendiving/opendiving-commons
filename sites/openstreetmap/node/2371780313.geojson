@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -110.300382,
+      24.203542
+    ]
+  },
+  "properties": {
+    "uuid": "134b50e8-9880-5489-acc1-3601f09403d6",
+    "name": "The Cortez Club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2371780313"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

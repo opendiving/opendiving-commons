@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.42461,
+      50.567892
+    ]
+  },
+  "properties": {
+    "uuid": "064442c1-68c5-539e-a02a-9eb4c846c727",
+    "name": "The Dredger",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13962669695"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

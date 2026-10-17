@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.225489,
+      42.042181
+    ]
+  },
+  "properties": {
+    "uuid": "e8b6e0c5-6ba9-5778-8b05-0ac15d6b76dc",
+    "name": "les Ferranelles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/791018614"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

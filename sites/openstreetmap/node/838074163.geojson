@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.93062,
+      51.5405
+    ]
+  },
+  "properties": {
+    "uuid": "5d799cec-eb38-5bef-bd7f-66491f05749f",
+    "name": "Goese Sas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074163"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

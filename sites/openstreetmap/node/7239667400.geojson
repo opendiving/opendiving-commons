@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.603696,
+      4.006929
+    ]
+  },
+  "properties": {
+    "uuid": "93b8ec3c-3861-5e06-b8fe-fdce8912fe16",
+    "name": "La Cara del Fantasma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239667400"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

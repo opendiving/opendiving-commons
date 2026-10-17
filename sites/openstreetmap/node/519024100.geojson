@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.959769,
+      3.634438
+    ]
+  },
+  "properties": {
+    "uuid": "9ae2a18a-51de-583b-bc09-1a784b582dfd",
+    "name": "Exit 9",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/519024100"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.534035,
+      49.098649
+    ]
+  },
+  "properties": {
+    "uuid": "0de4f59b-2061-5d57-b899-c17dcd13e9cb",
+    "name": "Büchenauer See (Alte Allmend)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870496"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

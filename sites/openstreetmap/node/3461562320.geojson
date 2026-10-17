@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.273774,
+      47.789595
+    ]
+  },
+  "properties": {
+    "uuid": "12df5641-b701-5c0d-9c1f-59da43a7e016",
+    "name": "Tauchplatz Taucheinstieg 2 / Schwabbelland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3461562320"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

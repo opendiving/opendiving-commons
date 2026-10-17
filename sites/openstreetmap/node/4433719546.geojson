@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.970667,
+      22.291333
+    ]
+  },
+  "properties": {
+    "uuid": "694ac853-5527-515b-a71f-8fe0f9243185",
+    "name": "Al Fahal East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4433719546"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

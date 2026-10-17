@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.083665,
+      34.682167
+    ]
+  },
+  "properties": {
+    "uuid": "4048d554-86c9-5a23-9bc4-797c854efb34",
+    "name": "Lady Thetis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9451291572"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

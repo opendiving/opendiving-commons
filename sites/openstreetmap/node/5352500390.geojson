@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.225207,
+      6.96978
+    ]
+  },
+  "properties": {
+    "uuid": "3db2d68d-4f48-5b62-b370-6c9ba5f49abd",
+    "name": "Peliliu Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5352500390"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

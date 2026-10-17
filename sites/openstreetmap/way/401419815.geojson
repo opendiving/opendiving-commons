@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.042167,
+      26.78258
+    ]
+  },
+  "properties": {
+    "uuid": "b7dae8bc-512b-569b-bed2-1c7ab78f9d6e",
+    "name": "Phil Foster Park Snorkel Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/401419815"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

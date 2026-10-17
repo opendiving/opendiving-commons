@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.501063,
+      49.027457
+    ]
+  },
+  "properties": {
+    "uuid": "106f2678-1047-5928-bec8-cfcc39b80cf1",
+    "name": "Tauchen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/815697820"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

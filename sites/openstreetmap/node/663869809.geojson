@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.92695,
+      27.579267
+    ]
+  },
+  "properties": {
+    "uuid": "a5592c09-3f99-59d6-9f51-599895a9ccf3",
+    "name": "Carnatic",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869809"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

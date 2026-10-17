@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.037567,
+      53.673933
+    ]
+  },
+  "properties": {
+    "uuid": "228eb10d-639f-5dbc-bbf6-fbd5908538fd",
+    "name": "Woseriner See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871104"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

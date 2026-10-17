@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.83925,
+      -34.1717
+    ]
+  },
+  "properties": {
+    "uuid": "43085754-b9e4-5fa0-9f1d-a0184a174b0e",
+    "name": "Vogelsteen",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213936"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

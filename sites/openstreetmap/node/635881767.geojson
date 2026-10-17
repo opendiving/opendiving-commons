@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.282218,
+      12.059758
+    ]
+  },
+  "properties": {
+    "uuid": "d75851d0-db64-575b-bcca-f42b3f5bf323",
+    "name": "English Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/635881767"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

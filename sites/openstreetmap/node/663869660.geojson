@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.597778,
+      -38.298333
+    ]
+  },
+  "properties": {
+    "uuid": "5414059c-2233-5d0d-a82b-e56a754d0683",
+    "name": "Castle Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869660"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

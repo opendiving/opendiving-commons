@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.81648,
+      54.263561
+    ]
+  },
+  "properties": {
+    "uuid": "5d979073-7303-59d0-b897-2e518c2ad9ac",
+    "name": "Tree",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13002464796"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

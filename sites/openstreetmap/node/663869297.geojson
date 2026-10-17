@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.53965,
+      48.54602
+    ]
+  },
+  "properties": {
+    "uuid": "7f5ebff8-bcec-5e93-be06-ada6d9e05f81",
+    "name": "White Lady (Repulse Rock)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869297"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

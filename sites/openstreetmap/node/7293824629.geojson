@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.814312,
+      1.789604
+    ]
+  },
+  "properties": {
+    "uuid": "4fee9e4b-0d28-51a1-a4b5-cca4bf85060d",
+    "name": "Helga Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293824629"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

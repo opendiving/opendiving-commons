@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.84311,
+      46.17372
+    ]
+  },
+  "properties": {
+    "uuid": "bfc924d2-45f0-5141-85f4-a309cb8dccd8",
+    "name": "Aqua Tenero",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870173"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

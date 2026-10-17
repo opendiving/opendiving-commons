@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.670426,
+      47.171489
+    ]
+  },
+  "properties": {
+    "uuid": "fc1b6f0b-95b2-5e74-9c65-d58bc2a9068c",
+    "name": "Burgäschisee-Strandbad",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870096"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

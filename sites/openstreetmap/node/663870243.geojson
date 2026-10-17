@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.79933,
+      47.10441
+    ]
+  },
+  "properties": {
+    "uuid": "e77e7312-6bb7-5f69-8c48-93b8ce0d771a",
+    "name": "Rampe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870243"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

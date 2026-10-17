@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.68982,
+      46.50092
+    ]
+  },
+  "properties": {
+    "uuid": "2c4f20ce-b51d-5ebf-acd2-3c69bff189e5",
+    "name": "Lac Léman-Lutry Plage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869991"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

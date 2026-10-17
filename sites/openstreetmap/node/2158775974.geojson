@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.271749,
+      9.074175
+    ]
+  },
+  "properties": {
+    "uuid": "3a190575-fdcd-5cb5-8f02-0dfea358788f",
+    "name": "Marine Sanctuary",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775974"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

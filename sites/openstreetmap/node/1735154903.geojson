@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.060095,
+      5.771397
+    ]
+  },
+  "properties": {
+    "uuid": "929f77f0-9f2a-53a8-92e1-0569ea01c391",
+    "name": "Redang - South Tip",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735154903"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

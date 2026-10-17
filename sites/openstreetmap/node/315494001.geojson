@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.785876,
+      23.814793
+    ]
+  },
+  "properties": {
+    "uuid": "aad4dd29-2dbe-55df-ab5b-3c806812e443",
+    "name": "Abu Echera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/315494001"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

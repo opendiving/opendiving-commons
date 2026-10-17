@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.663937,
+      -0.811195
+    ]
+  },
+  "properties": {
+    "uuid": "ed97d663-4cb3-5ae2-b70c-cc28e4b1af4f",
+    "name": "Tanjung Tampo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12787919668"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

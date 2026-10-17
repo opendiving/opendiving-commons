@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.313533,
+      -34.069917
+    ]
+  },
+  "properties": {
+    "uuid": "4bf7777b-c2ea-59cb-92cf-2c9e83f1bffc",
+    "name": "Tafelberg Reef West",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41793326"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

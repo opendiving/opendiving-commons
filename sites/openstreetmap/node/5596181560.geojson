@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.216643,
+      41.929569
+    ]
+  },
+  "properties": {
+    "uuid": "40428ff1-66df-598b-8005-444aacb96cfb",
+    "name": "Cala des Tramadiu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5596181560"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

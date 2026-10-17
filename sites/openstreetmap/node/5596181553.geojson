@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.215998,
+      41.921291
+    ]
+  },
+  "properties": {
+    "uuid": "aa63b625-2337-53e4-88b7-e33bcf1ccf8d",
+    "name": "Aigua Xelida",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5596181553"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

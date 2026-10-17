@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.334261,
+      -0.491735
+    ]
+  },
+  "properties": {
+    "uuid": "266eee7e-55d5-5615-8165-97e67e14d31e",
+    "name": "Yeben Shallows",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042168610"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

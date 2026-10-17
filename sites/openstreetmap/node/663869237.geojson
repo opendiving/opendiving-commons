@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.619537,
+      -17.634003
+    ]
+  },
+  "properties": {
+    "uuid": "51106554-9de4-5023-9b8b-cb81f32f93d3",
+    "name": "La source",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869237"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

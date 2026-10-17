@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.139268,
+      42.481205
+    ]
+  },
+  "properties": {
+    "uuid": "345f8970-2158-560f-b996-d4a24e40381a",
+    "name": "Pelleteuse",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11736993514"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

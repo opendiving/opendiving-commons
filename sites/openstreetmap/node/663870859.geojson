@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.634799,
+      50.611436
+    ]
+  },
+  "properties": {
+    "uuid": "67019fbc-1350-5568-9a1c-741ac2504889",
+    "name": "Conrod-Kraftwerk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870859"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.305464,
+      54.414828
+    ]
+  },
+  "properties": {
+    "uuid": "91a465ec-3c46-56c9-9f04-bdb0f2a90129",
+    "name": "Staberhuk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871123"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.620331,
+      -17.618052
+    ]
+  },
+  "properties": {
+    "uuid": "0e97d942-e098-583a-b48b-aead1fed14df",
+    "name": "Faille St Etienne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869233"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.29262,
+      26.223374
+    ]
+  },
+  "properties": {
+    "uuid": "0d22628c-3f20-5377-a817-62a8220fdb0c",
+    "name": "宇論の崎・うるるのさち",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333126066"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Uroro no Sachi"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.36415,
+      -33.9309
+    ]
+  },
+  "properties": {
+    "uuid": "01b37124-f40f-50c1-816a-fa7ce3542857",
+    "name": "North Paw main reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213826"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.80941,
+      51.480506
+    ]
+  },
+  "properties": {
+    "uuid": "57eb8d11-28d7-5d29-9823-326c69bb10cc",
+    "name": "Sundi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12852595385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

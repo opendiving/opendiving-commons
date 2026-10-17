@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.72669,
+      9.538431
+    ]
+  },
+  "properties": {
+    "uuid": "4f6ee207-a80e-56a5-8583-d4616338cdb6",
+    "name": "Gak-ang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9961040117"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

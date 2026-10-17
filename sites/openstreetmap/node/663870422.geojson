@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.47717,
+      47.48833
+    ]
+  },
+  "properties": {
+    "uuid": "5c9526de-6f85-5150-b2fc-c116246471b8",
+    "name": "Badi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870422"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

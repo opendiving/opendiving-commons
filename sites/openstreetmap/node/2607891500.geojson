@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.084564,
+      14.503714
+    ]
+  },
+  "properties": {
+    "uuid": "1d5483cf-3120-56fb-8d66-15824cb98d07",
+    "name": "Plongée Passion",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2607891500"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

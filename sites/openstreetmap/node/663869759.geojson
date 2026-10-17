@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.242294,
+      23.563077
+    ]
+  },
+  "properties": {
+    "uuid": "d9f8a224-f7ae-536d-b025-a0b3750a5a34",
+    "name": "Rocky West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869759"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

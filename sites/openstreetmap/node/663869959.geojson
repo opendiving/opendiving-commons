@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.24091,
+      46.30359
+    ]
+  },
+  "properties": {
+    "uuid": "fe237276-0249-5611-850a-12a37a401cdb",
+    "name": "Plage d'Hermance",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869959"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

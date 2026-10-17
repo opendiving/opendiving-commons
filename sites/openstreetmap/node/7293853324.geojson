@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.750695,
+      1.616462
+    ]
+  },
+  "properties": {
+    "uuid": "c52c5303-c24c-5511-96b6-8dd059c207f7",
+    "name": "Fukui Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293853324"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.815183,
+      -34.307567
+    ]
+  },
+  "properties": {
+    "uuid": "46b65276-5a53-5621-a832-400080b444b6",
+    "name": "Balcony",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213696"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

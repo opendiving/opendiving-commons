@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.258348,
+      27.724701
+    ]
+  },
+  "properties": {
+    "uuid": "e9ba4560-54e0-5552-abc7-46719f04d3a7",
+    "name": "Yolanda Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/278086478"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

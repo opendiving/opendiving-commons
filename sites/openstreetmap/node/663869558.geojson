@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.517167,
+      51.467167
+    ]
+  },
+  "properties": {
+    "uuid": "ac70f9fd-ca4e-5c2d-8607-fb3c946ba5b5",
+    "name": "S.V. Stephen Whitney",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869558"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

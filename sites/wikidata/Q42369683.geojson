@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.483767,
+      -34.275283
+    ]
+  },
+  "properties": {
+    "uuid": "a9aa908a-c58f-5c5a-9d55-8b79070e2e10",
+    "name": "Maze Cave",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42369683"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

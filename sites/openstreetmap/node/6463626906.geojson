@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.44846,
+      7.369152
+    ]
+  },
+  "properties": {
+    "uuid": "e11eb5f7-f8f1-58fc-9e67-e9a2d252840f",
+    "name": "Jake SeaPlane",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6463626906"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

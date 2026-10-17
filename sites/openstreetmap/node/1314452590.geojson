@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.576321,
+      -8.526092
+    ]
+  },
+  "properties": {
+    "uuid": "7799eaeb-60b8-53bf-83c3-07bb2c02ae44",
+    "name": "Gili Mimpang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1314452590"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

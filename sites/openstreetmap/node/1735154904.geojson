@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.01009,
+      5.818576
+    ]
+  },
+  "properties": {
+    "uuid": "cd9cf669-77ea-50fe-92cd-7bfb75ae5694",
+    "name": "Redang - Tanjung Tokong",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735154904"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.404827,
+      50.639355
+    ]
+  },
+  "properties": {
+    "uuid": "c2661640-d6b3-5287-a99b-0ef5974ca4ef",
+    "name": "Bank 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12050342719"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

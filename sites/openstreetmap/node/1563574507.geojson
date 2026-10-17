@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.950736,
+      4.005445
+    ]
+  },
+  "properties": {
+    "uuid": "f7924aff-f70f-5b40-928d-ce878ab6bc7f",
+    "name": "House Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1563574507"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

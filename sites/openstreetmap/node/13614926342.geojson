@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.328,
+      35.988753
+    ]
+  },
+  "properties": {
+    "uuid": "ac8268ca-0e2c-58f9-8683-272e4942f826",
+    "name": "Iċ-Ċirkewwa - Għar u Sikket Susie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614926342"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ċirkewwa - Susie's Pool and Reef"
+      }
+    }
+  }
+}

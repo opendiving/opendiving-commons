@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.916667,
+      -35.016667
+    ]
+  },
+  "properties": {
+    "uuid": "ff4328f7-be17-59e0-a922-e2fcb173dbc8",
+    "name": "Diving the south coast of South Africa/Twelve Mile Bank",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q110835274"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

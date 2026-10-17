@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.880304,
+      19.695697
+    ]
+  },
+  "properties": {
+    "uuid": "9fd36669-ee71-5383-8338-ed396da51455",
+    "name": "Kissimmee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2310227531"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

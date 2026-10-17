@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.70767,
+      46.54849
+    ]
+  },
+  "properties": {
+    "uuid": "15ed5385-9209-51c1-aeaa-4da516c9dba9",
+    "name": "Lago Cadano",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870196"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

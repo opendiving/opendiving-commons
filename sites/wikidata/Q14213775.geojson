@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.360833,
+      -33.980833
+    ]
+  },
+  "properties": {
+    "uuid": "d29d0d63-6aa8-5c02-89c5-2fdd05495ee1",
+    "name": "Het Huis te Kraaiestein",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213775"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

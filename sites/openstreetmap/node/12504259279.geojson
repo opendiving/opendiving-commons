@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.187782,
+      44.307745
+    ]
+  },
+  "properties": {
+    "uuid": "aaac578d-daa5-571d-8f2d-f41b91b7686f",
+    "name": "Scoglio del Diamante",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504259279"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

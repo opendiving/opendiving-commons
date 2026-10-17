@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.754582,
+      -0.74595
+    ]
+  },
+  "properties": {
+    "uuid": "e41ba50e-4282-5fe5-a0db-cb4d022a8f83",
+    "name": "Rap God",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12770052101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

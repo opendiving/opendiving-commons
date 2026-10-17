@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.418194,
+      12.655472
+    ]
+  },
+  "properties": {
+    "uuid": "cebc86ce-4103-53a2-9257-db8206ae10d8",
+    "name": "Southeast Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038388"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

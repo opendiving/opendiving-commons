@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.819883,
+      12.154967
+    ]
+  },
+  "properties": {
+    "uuid": "8285c303-05e9-5b3d-9530-3b7ccfba708e",
+    "name": "Nanshin Maru wreck (Black island beach)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871203"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

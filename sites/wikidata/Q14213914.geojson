@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4672,
+      -34.2194
+    ]
+  },
+  "properties": {
+    "uuid": "31e76bcf-8fc1-549e-aa87-860c13d51d2d",
+    "name": "Stern Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213914"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.279959,
+      12.076002
+    ]
+  },
+  "properties": {
+    "uuid": "35c7f09b-09ab-52cd-8d5b-1353c5b4c189",
+    "name": "The Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1420984809"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

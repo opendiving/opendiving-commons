@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.941669,
+      49.821809
+    ]
+  },
+  "properties": {
+    "uuid": "f29093d7-bb64-555a-b32c-0ec754f076aa",
+    "name": "Mokrýšov Velká jáma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232712"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.8175,
+      -34.3125
+    ]
+  },
+  "properties": {
+    "uuid": "35cc2562-ca80-5f9d-a740-95502545cb1e",
+    "name": "Container Bay",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213726"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

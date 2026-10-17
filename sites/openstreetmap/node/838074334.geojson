@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.77245,
+      51.6816
+    ]
+  },
+  "properties": {
+    "uuid": "ab60d861-6555-5b9c-9861-8e2c1179de22",
+    "name": "Plompe Toren",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074334"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

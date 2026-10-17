@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.277155,
+      54.449902
+    ]
+  },
+  "properties": {
+    "uuid": "374a5b17-a92d-55c1-97e0-a42a868f021b",
+    "name": "Gahlendorf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871122"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

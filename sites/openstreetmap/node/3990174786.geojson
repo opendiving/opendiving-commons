@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.88599,
+      38.244406
+    ]
+  },
+  "properties": {
+    "uuid": "0dd9f861-9e59-5049-8128-fb14e58a015d",
+    "name": "Mesta Chios Diving Center",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3990174786"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

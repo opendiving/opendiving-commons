@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.619344,
+      46.953833
+    ]
+  },
+  "properties": {
+    "uuid": "c3b82365-000a-5da0-87fe-da990bc23fa1",
+    "name": "Sisikon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870235"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

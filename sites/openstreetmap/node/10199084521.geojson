@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.218396,
+      56.163345
+    ]
+  },
+  "properties": {
+    "uuid": "ada6cb07-68c9-519b-b289-df89217a3062",
+    "name": "Sportsdykkerklubben KVAK",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10199084521"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

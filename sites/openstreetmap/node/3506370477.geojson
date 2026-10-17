@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.240236,
+      9.338551
+    ]
+  },
+  "properties": {
+    "uuid": "8a565754-02d6-55c5-be14-0823af4fc9c3",
+    "name": "Starfleet Scuba Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3506370477"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

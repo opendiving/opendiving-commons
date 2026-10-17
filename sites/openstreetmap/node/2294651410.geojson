@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.484927,
+      48.831649
+    ]
+  },
+  "properties": {
+    "uuid": "d50253e7-19ef-5b4c-8489-98a2915a3f0c",
+    "name": "Ploum'Aqua",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2294651410"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

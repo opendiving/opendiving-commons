@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.137824,
+      22.166501
+    ]
+  },
+  "properties": {
+    "uuid": "31059479-a4ef-5f0d-b4bf-c4fddfac5805",
+    "name": "Cueva de los peces",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2974620840"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

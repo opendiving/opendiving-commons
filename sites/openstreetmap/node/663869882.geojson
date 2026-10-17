@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.786033,
+      3.999433
+    ]
+  },
+  "properties": {
+    "uuid": "586896d7-c95d-5b18-8ec9-2ca62c7f59c7",
+    "name": "Fesdhoo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869882"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

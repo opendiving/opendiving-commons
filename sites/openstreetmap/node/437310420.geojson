@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.568683,
+      47.881162
+    ]
+  },
+  "properties": {
+    "uuid": "21b18f06-c0c2-5d5f-9b2a-4b0439678982",
+    "name": "Steinwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310420"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

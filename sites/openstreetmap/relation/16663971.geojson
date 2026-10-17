@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.558871,
+      24.210829
+    ]
+  },
+  "properties": {
+    "uuid": "908f4433-3520-523d-a6eb-c55a84c2054e",
+    "name": "Farewell Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/16663971"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

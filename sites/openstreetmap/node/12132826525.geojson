@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.21294,
+      41.915449
+    ]
+  },
+  "properties": {
+    "uuid": "5e586de9-5921-5fec-b813-66a93b619467",
+    "name": "Roca Montiell",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826525"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

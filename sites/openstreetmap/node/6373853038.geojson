@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.644162,
+      43.259189
+    ]
+  },
+  "properties": {
+    "uuid": "4290c24d-7a38-584b-bb44-ea4391deb85d",
+    "name": "Big Blue Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6373853038"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

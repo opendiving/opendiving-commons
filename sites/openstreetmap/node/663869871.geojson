@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.516867,
+      28.542381
+    ]
+  },
+  "properties": {
+    "uuid": "cd00d828-c65d-5125-b4a1-7b79f5a19c69",
+    "name": "Abu Helal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869871"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

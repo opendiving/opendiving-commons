@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.85152,
+      46.81522
+    ]
+  },
+  "properties": {
+    "uuid": "e4dd4c45-cf46-5b2d-9703-489e6171eb33",
+    "name": "Alter Stollen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870458"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

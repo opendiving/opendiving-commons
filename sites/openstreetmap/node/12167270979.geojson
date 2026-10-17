@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.700096,
+      -0.474447
+    ]
+  },
+  "properties": {
+    "uuid": "96526c05-7f8c-563f-8394-7bdb31f603ef",
+    "name": "Friwen Laut",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167270979"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.044283,
+      -8.349036
+    ]
+  },
+  "properties": {
+    "uuid": "3c637112-66ea-5626-a21f-610aa8293544",
+    "name": "Trawangan Dive Biorock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4813305045"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

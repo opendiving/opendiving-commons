@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.700284,
+      29.83621
+    ]
+  },
+  "properties": {
+    "uuid": "a750f832-e91c-56ea-82b2-141aa8f8d9c7",
+    "name": "Ginnie Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1939166695"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.835858,
+      -1.678419
+    ]
+  },
+  "properties": {
+    "uuid": "eb2cf501-081c-50e9-b971-4ac6dad44dde",
+    "name": "Islas Los Ahorcados",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/36880269"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

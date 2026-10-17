@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.232172,
+      54.57583
+    ]
+  },
+  "properties": {
+    "uuid": "e7ca72c4-49a4-528a-a479-8176f0cc5438",
+    "name": "Burg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/676790082"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

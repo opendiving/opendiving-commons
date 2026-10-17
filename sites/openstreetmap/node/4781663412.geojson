@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.693826,
+      31.702817
+    ]
+  },
+  "properties": {
+    "uuid": "20556505-b1ac-5958-a0ed-d8591f3236d6",
+    "name": "Roca Hundida",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4781663412"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

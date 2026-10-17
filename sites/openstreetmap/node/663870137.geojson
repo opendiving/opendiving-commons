@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.956248,
+      45.985711
+    ]
+  },
+  "properties": {
+    "uuid": "50d99eda-816b-5cc6-bfd2-2a549bb17703",
+    "name": "Lago di Lugano-Lugano-Sub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870137"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

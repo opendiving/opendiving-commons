@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.602873,
+      -8.283735
+    ]
+  },
+  "properties": {
+    "uuid": "de32240b-a10e-5ce4-b6d5-07f289ba591f",
+    "name": "Emerald",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12052475969"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

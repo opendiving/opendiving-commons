@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.97166,
+      29.418775
+    ]
+  },
+  "properties": {
+    "uuid": "68815aac-8297-520b-b05a-cec6798f8b4e",
+    "name": "Tank",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5522700737"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

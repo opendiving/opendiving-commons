@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.256216,
+      12.03116
+    ]
+  },
+  "properties": {
+    "uuid": "d6b667ee-d749-5aab-8f14-d5ada215c04b",
+    "name": "Yellow Hut (unmarked site)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333668405"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

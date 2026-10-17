@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.157375,
+      43.028103
+    ]
+  },
+  "properties": {
+    "uuid": "0365e968-c739-532a-b8b7-a82e4d1687a5",
+    "name": "Sentier sous-marin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7859233612"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Underwater path with antique vases and wreck"
+      }
+    }
+  }
+}

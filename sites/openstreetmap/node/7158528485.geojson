@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.884447,
+      4.074567
+    ]
+  },
+  "properties": {
+    "uuid": "9727bcd1-027c-515c-a01a-e37f9b76fadb",
+    "name": "Maaya Lagoon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7158528485"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

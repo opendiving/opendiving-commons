@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.570588,
+      -5.665489
+    ]
+  },
+  "properties": {
+    "uuid": "2b6c0186-c586-54bb-9bfa-44cf0e60f68b",
+    "name": "Leon's Cloudy Canyon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104180145"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

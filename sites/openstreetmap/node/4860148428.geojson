@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.182398,
+      11.303098
+    ]
+  },
+  "properties": {
+    "uuid": "774a340a-5527-521f-8802-c89274b0cc4e",
+    "name": "Bombita",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4860148428"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.832067,
+      -34.27495
+    ]
+  },
+  "properties": {
+    "uuid": "838607cd-cea3-53e5-b21d-c246fe690aef",
+    "name": "Blousteen Ridge",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213706"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

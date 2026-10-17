@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.7384,
+      47.70135
+    ]
+  },
+  "properties": {
+    "uuid": "8ba47ba0-9cb1-55b4-9104-2540eaf397f5",
+    "name": "Tegernsee - Friedl",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870693"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.973533,
+      11.9871
+    ]
+  },
+  "properties": {
+    "uuid": "3242e774-da5d-59a6-b0a9-0f4aa7d88151",
+    "name": "Akitsushima",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871197"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

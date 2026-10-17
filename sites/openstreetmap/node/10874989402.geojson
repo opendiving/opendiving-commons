@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.527909,
+      -8.096481
+    ]
+  },
+  "properties": {
+    "uuid": "ad6f1290-06fa-58a9-ad1c-309ecf706bdd",
+    "name": "Menjangan - Pos 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10874989402"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

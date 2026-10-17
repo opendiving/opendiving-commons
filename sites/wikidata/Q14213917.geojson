@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.360967,
+      -33.97865
+    ]
+  },
+  "properties": {
+    "uuid": "cc93a904-6e30-5352-8679-4071d9da952c",
+    "name": "Strawberry Rocks",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213917"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

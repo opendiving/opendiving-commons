@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.674545,
+      43.72182
+    ]
+  },
+  "properties": {
+    "uuid": "11dbecbd-1e7d-5500-81fc-4aa9193be7c9",
+    "name": "Francesca da Rimini",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9510868539"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.474167,
+      -34.225
+    ]
+  },
+  "properties": {
+    "uuid": "6576d79a-9d36-511d-a093-0620b68d0a74",
+    "name": "Inner Caravan",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42200994"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

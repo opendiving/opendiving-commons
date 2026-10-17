@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.27177,
+      47.11427
+    ]
+  },
+  "properties": {
+    "uuid": "77027f2a-5aaa-598a-bd3d-70e2d4876d86",
+    "name": "Broder",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870408"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

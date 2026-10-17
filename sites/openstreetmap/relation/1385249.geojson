@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.091817,
+      53.154889
+    ]
+  },
+  "properties": {
+    "uuid": "a8fc1792-7606-5611-8da7-8373bc5cae47",
+    "name": "De Beertsterplas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/1385249"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

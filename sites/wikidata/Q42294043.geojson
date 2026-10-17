@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.480433,
+      -34.239267
+    ]
+  },
+  "properties": {
+    "uuid": "1bb0e3b0-672e-5a88-9640-4f064978a96d",
+    "name": "Castle Pinnacles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42294043"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

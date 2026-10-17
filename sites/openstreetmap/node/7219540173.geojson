@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.250039,
+      8.666996
+    ]
+  },
+  "properties": {
+    "uuid": "ccab6c25-7466-539f-9311-c32863ab9f25",
+    "name": "Andaman Scuba",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7219540173"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

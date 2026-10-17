@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.372924,
+      25.020494
+    ]
+  },
+  "properties": {
+    "uuid": "a108b688-78a6-5186-87fe-fd823bf73550",
+    "name": "Molasses Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1464177482"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

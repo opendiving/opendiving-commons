@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.413304,
+      4.58915
+    ]
+  },
+  "properties": {
+    "uuid": "50dc76cb-cb0a-5792-9d52-247829e75046",
+    "name": "Entrence base",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/786623714"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

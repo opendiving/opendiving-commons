@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.380092,
+      -34.273239
+    ]
+  },
+  "properties": {
+    "uuid": "4d1d061e-986a-58e6-aaab-8f047bdf68a3",
+    "name": "SS Thomas T. Tucker",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q7394451"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

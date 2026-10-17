@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.186524,
+      41.862533
+    ]
+  },
+  "properties": {
+    "uuid": "4812d433-6e41-54f0-98c6-8bc6691bedaf",
+    "name": "Illes Formigues",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14071084203"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

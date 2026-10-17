@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.412828,
+      12.240701
+    ]
+  },
+  "properties": {
+    "uuid": "4f08cadb-b9f8-51eb-9bda-ba389797a8bb",
+    "name": "Nukove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869422"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

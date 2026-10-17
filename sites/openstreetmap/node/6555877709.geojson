@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.347059,
+      34.858858
+    ]
+  },
+  "properties": {
+    "uuid": "66cc35c8-64ea-5ab2-a1e9-cb0ba4651e4f",
+    "name": "Church Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6555877709"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

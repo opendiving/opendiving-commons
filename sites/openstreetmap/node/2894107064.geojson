@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.782927,
+      27.341682
+    ]
+  },
+  "properties": {
+    "uuid": "54470fed-f864-5a78-824b-87c8c3b20175",
+    "name": "Abu Salama",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2894107064"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

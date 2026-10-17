@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.466621,
+      15.608089
+    ]
+  },
+  "properties": {
+    "uuid": "f3e42a02-094e-52b6-8cb4-e89d18ffaa09",
+    "name": "Tube Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4758417738"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.157211,
+      47.093145
+    ]
+  },
+  "properties": {
+    "uuid": "5fb2c665-19d5-520c-abc0-f2c8ab587c1e",
+    "name": "Twann",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1469369626"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

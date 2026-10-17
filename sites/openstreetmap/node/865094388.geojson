@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.990377,
+      9.945004
+    ]
+  },
+  "properties": {
+    "uuid": "a6f8a2f6-7e8d-5029-9ddb-609746687191",
+    "name": "หินใบ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/865094388"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Sail Rock"
+      }
+    }
+  }
+}

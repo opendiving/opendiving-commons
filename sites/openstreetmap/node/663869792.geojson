@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.953148,
+      27.214287
+    ]
+  },
+  "properties": {
+    "uuid": "503a790e-f641-50f9-99a4-46efc28256f3",
+    "name": "Shaab Sabrina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869792"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

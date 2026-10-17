@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.22052,
+      42.049534
+    ]
+  },
+  "properties": {
+    "uuid": "07264310-1544-588e-b291-d1b41e9b0d4e",
+    "name": "el Salpatxot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/791018585"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

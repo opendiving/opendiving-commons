@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.26487,
+      47.1293
+    ]
+  },
+  "properties": {
+    "uuid": "f0a48d90-6faf-51c3-a31d-5faf874b1d3c",
+    "name": "Josen West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870406"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

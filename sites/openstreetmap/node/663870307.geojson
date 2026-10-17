@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.628337,
+      47.271422
+    ]
+  },
+  "properties": {
+    "uuid": "010f4e8e-debc-511f-94d6-3b351d720264",
+    "name": "Pumpwerk Meilen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870307"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

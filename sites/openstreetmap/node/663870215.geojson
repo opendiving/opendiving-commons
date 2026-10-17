@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.54853,
+      46.98894
+    ]
+  },
+  "properties": {
+    "uuid": "15ee302b-544a-534a-8737-bc17d17f89d0",
+    "name": "Strandbad Kindli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870215"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

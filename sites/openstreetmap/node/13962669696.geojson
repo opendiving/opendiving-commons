@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.419665,
+      50.584792
+    ]
+  },
+  "properties": {
+    "uuid": "fc502b8d-08e3-5d68-a9db-8a00a98a461c",
+    "name": "Countesse of Erne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13962669696"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

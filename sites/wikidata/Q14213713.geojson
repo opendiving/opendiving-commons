@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.426783,
+      -34.181333
+    ]
+  },
+  "properties": {
+    "uuid": "c53b2b09-2612-5039-b30f-f04d6819e4b2",
+    "name": "Brunswick",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213713"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

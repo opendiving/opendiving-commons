@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.903938,
+      30.657884
+    ]
+  },
+  "properties": {
+    "uuid": "5b92aa3a-13ee-5f59-bbd8-7b1e6dd60def",
+    "name": "Morrison Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3196635239"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.030946,
+      51.197083
+    ]
+  },
+  "properties": {
+    "uuid": "a6ca2440-36e7-54cf-9712-2a358e42babe",
+    "name": "Tauchzone 1 (Berich)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/430691944"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

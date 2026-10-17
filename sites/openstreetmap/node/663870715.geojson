@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.341758,
+      46.705818
+    ]
+  },
+  "properties": {
+    "uuid": "22feca46-e8a4-530b-804d-306277a0647c",
+    "name": "Weißensee - Tschelankofel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870715"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

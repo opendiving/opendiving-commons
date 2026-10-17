@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.160058,
+      24.866575
+    ]
+  },
+  "properties": {
+    "uuid": "baa924c4-2fb8-5749-bbd7-27368045fdbc",
+    "name": "W字アーチ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9280279109"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "W-Achi"
+      }
+    }
+  }
+}

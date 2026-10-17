@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.608644,
+      -2.194136
+    ]
+  },
+  "properties": {
+    "uuid": "af65288c-7e56-56bc-b4ac-4d042693a87d",
+    "name": "Romeo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5452969922"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

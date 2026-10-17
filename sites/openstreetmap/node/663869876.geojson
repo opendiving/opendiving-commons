@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.926992,
+      29.512091
+    ]
+  },
+  "properties": {
+    "uuid": "9fe97146-99d3-57a3-9c9a-aeeafd66bf0e",
+    "name": "Yatouche",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869876"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

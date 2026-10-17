@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.84299,
+      51.470169
+    ]
+  },
+  "properties": {
+    "uuid": "5907a050-5181-580d-a4e7-0a094cb90884",
+    "name": "Taucheinstieg 4",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2377183915"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

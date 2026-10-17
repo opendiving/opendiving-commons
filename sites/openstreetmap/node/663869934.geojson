@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.468134,
+      3.891865
+    ]
+  },
+  "properties": {
+    "uuid": "eefef648-9cb2-53f0-918f-6c7558748d63",
+    "name": "Guradoo North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869934"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

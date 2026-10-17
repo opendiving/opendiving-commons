@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.268529,
+      12.04664
+    ]
+  },
+  "properties": {
+    "uuid": "6eb91833-0107-5f4a-ba91-a0a09c3fc995",
+    "name": "Red Beryl",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

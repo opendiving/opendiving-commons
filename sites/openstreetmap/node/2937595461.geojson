@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.48475,
+      46.94081
+    ]
+  },
+  "properties": {
+    "uuid": "249b772c-64b1-5589-b361-de191e01437a",
+    "name": "Aube",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595461"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

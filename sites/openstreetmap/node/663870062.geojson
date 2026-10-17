@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.30152,
+      46.77522
+    ]
+  },
+  "properties": {
+    "uuid": "d6201f55-6ffe-5a48-aab2-56f8764f2a9f",
+    "name": "Rechte Dammseite",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870062"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

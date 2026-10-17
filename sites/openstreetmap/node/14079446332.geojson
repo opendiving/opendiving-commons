@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.135247,
+      53.696794
+    ]
+  },
+  "properties": {
+    "uuid": "fe21c452-ab0e-51ce-8e5f-d711a2baa1c6",
+    "name": "Scootermessstrecke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14079446332"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

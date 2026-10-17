@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.605868,
+      4.013955
+    ]
+  },
+  "properties": {
+    "uuid": "93045cc8-c850-584b-9e8d-380989dd32b6",
+    "name": "La Catedral",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651055"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

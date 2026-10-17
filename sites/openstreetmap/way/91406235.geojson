@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.573591,
+      50.194246
+    ]
+  },
+  "properties": {
+    "uuid": "194cd5f9-3aa2-5df6-b1fa-4a0add687840",
+    "name": "La Croisette",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/91406235"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

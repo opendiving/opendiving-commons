@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.417167,
+      12.654694
+    ]
+  },
+  "properties": {
+    "uuid": "350610b5-ca65-5375-a81f-17e6036e6314",
+    "name": "South Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038387"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

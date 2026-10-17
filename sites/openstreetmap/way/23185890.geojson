@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.460096,
+      27.992734
+    ]
+  },
+  "properties": {
+    "uuid": "23b7a373-20cd-5f28-9cfd-12f67c2d892b",
+    "name": "شعب توماس",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/23185890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Thomas Reef"
+      }
+    }
+  }
+}

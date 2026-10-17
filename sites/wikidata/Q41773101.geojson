@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.302367,
+      -34.0258
+    ]
+  },
+  "properties": {
+    "uuid": "d7521c0f-ddbe-5180-b234-af381982f60a",
+    "name": "Humpback Ridge",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41773101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

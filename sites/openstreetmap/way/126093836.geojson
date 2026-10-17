@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.510732,
+      47.458881
+    ]
+  },
+  "properties": {
+    "uuid": "3a92181d-1c6c-59fb-b068-02bf5d512d52",
+    "name": "Carrière des Frênaies",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/126093836"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

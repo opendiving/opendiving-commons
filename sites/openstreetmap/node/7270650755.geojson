@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.934882,
+      -0.477539
+    ]
+  },
+  "properties": {
+    "uuid": "388d8eef-0ec1-52d1-ae45-46dfb8c142f4",
+    "name": "No Fear",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270650755"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

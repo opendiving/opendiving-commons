@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      146.563876,
+      -13.848716
+    ]
+  },
+  "properties": {
+    "uuid": "47ce488f-4a93-59f2-aeb1-438df00fbfe7",
+    "name": "Halfway Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802351"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

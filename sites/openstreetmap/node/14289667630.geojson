@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.387824,
+      49.151022
+    ]
+  },
+  "properties": {
+    "uuid": "72484086-4e47-5f32-85d4-f1d165e3869a",
+    "name": "Baggersee Giesen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14289667630"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

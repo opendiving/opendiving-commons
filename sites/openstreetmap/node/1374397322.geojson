@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.421472,
+      50.818261
+    ]
+  },
+  "properties": {
+    "uuid": "9e372483-757b-5300-859d-1f996171e12e",
+    "name": "Echtzer See, Tauchereinstieg am DLRG-Haus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1374397322"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

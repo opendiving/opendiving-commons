@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.984414,
+      27.162831
+    ]
+  },
+  "properties": {
+    "uuid": "6294abaa-35bc-5866-8c36-731f5bc9b191",
+    "name": "Abu Ramada - Ost",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869802"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

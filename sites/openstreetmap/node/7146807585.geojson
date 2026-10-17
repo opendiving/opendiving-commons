@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.469191,
+      3.893799
+    ]
+  },
+  "properties": {
+    "uuid": "745446e8-d24f-54eb-bee8-b5b698b44bf4",
+    "name": "Guraidhoo Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7146807585"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

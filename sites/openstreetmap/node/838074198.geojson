@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.884765,
+      51.649427
+    ]
+  },
+  "properties": {
+    "uuid": "6900bdad-3214-51c1-8c6e-ceb49322cbfc",
+    "name": "Lokkersnol",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074198"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

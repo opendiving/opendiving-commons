@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.604083,
+      4.003442
+    ]
+  },
+  "properties": {
+    "uuid": "4cb691d9-4555-5b25-a5e2-9e36f2c3bdec",
+    "name": "La Pared del Tangon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239667402"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

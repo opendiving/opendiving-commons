@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.930601,
+      -0.326286
+    ]
+  },
+  "properties": {
+    "uuid": "42157d99-6731-5037-a4e7-c231e99f0200",
+    "name": "Togeanadventures.com",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5389892922"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

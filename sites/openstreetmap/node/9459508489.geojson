@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.377827,
+      7.607231
+    ]
+  },
+  "properties": {
+    "uuid": "3a61f39f-ec7f-5a85-8ee0-a723901965ad",
+    "name": "Bay 1 / Ao Ter",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9459508489"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.077908,
+      13.86275
+    ]
+  },
+  "properties": {
+    "uuid": "f0124928-081d-5f86-a649-7dfa081cf1b2",
+    "name": "Fairyland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/398450579"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

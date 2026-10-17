@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.439242,
+      36.390277
+    ]
+  },
+  "properties": {
+    "uuid": "3965fa45-150c-558b-8a51-a1268cb79ceb",
+    "name": "Aegean Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3796766500"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

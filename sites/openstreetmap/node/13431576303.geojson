@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.609423,
+      -2.22212
+    ]
+  },
+  "properties": {
+    "uuid": "1f95a035-4344-59e9-a485-52452446565b",
+    "name": "Boo east",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13431576303"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.449666,
+      -16.686186
+    ]
+  },
+  "properties": {
+    "uuid": "830299ff-82b5-5a9d-82e6-ab5ca281209e",
+    "name": "Le trou de la Pieuvre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869250"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

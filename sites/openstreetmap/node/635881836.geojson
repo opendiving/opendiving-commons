@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.284695,
+      12.130864
+    ]
+  },
+  "properties": {
+    "uuid": "20cdac1d-8bd1-5fb9-9b8a-5d3a8848ad28",
+    "name": "Corporal Meiss",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/635881836"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

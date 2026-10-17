@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.325152,
+      46.667722
+    ]
+  },
+  "properties": {
+    "uuid": "a4d0f1ab-b863-576e-a5ef-71ba147d15da",
+    "name": "Lac du Joux",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869972"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

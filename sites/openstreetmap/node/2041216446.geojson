@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.198404,
+      49.346716
+    ]
+  },
+  "properties": {
+    "uuid": "b3ac4b8d-f9b5-5a73-bda7-a63a112fe033",
+    "name": "Murner See - Einstieg Rutsch'n",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2041216446"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

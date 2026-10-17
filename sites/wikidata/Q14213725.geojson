@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.370367,
+      -33.9391
+    ]
+  },
+  "properties": {
+    "uuid": "9ca8ad5f-0e6d-5373-af22-6cbfc20b086f",
+    "name": "Clifton Rocks",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213725"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

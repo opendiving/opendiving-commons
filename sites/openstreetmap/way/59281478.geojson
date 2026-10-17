@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      60.204433,
+      57.744335
+    ]
+  },
+  "properties": {
+    "uuid": "bfad9ec6-4c59-5c65-91d0-dfe4e88283a0",
+    "name": "карьер Хургада",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/59281478"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

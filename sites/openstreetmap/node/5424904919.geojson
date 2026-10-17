@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.848806,
+      9.415387
+    ]
+  },
+  "properties": {
+    "uuid": "9708f207-0da9-507e-a46d-5cb7d712c349",
+    "name": "Suthep Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5424904919"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.471667,
+      47.496389
+    ]
+  },
+  "properties": {
+    "uuid": "6cd0e371-335d-55a9-8dcd-6faea78368ca",
+    "name": "Uhland-Ansaugstutzen Horn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087372"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

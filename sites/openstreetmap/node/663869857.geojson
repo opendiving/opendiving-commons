@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.457688,
+      28.420614
+    ]
+  },
+  "properties": {
+    "uuid": "399a32bb-712f-5a89-ab71-8db16eba4ae2",
+    "name": "Umm Sid",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869857"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

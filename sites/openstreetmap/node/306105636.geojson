@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.812471,
+      16.944874
+    ]
+  },
+  "properties": {
+    "uuid": "046c26a5-d2d9-52e8-bd4e-9e6ab69c0e2d",
+    "name": "Divemasters delight",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/306105636"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

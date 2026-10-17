@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.46,
+      -34.192917
+    ]
+  },
+  "properties": {
+    "uuid": "e3b73f92-62e1-5063-8ad9-a8e73d884e8b",
+    "name": "Anchor Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42049332"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

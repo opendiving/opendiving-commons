@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.411257,
+      -0.293336
+    ]
+  },
+  "properties": {
+    "uuid": "8c8e8646-bed8-5d7e-a5a2-c32ef91b202f",
+    "name": "Neregando reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9518535640"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

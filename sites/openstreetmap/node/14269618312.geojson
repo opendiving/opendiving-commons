@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.775597,
+      16.166336
+    ]
+  },
+  "properties": {
+    "uuid": "ec0f17d6-8c4c-5efa-922d-06786e6e90e8",
+    "name": "Atlantis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14269618312"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

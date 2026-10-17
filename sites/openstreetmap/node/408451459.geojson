@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.612058,
+      24.220101
+    ]
+  },
+  "properties": {
+    "uuid": "226d1564-3b0d-5c5a-89bd-b3fe61dbeca6",
+    "name": "Shaab Claudio",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/408451459"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

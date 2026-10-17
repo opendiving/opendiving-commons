@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.598912,
+      47.293211
+    ]
+  },
+  "properties": {
+    "uuid": "84578217-9e4b-5aab-9e69-f3eba7d52358",
+    "name": "Bocchiaplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/344403290"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

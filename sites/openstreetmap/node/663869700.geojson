@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.3611,
+      43.024433
+    ]
+  },
+  "properties": {
+    "uuid": "e6aa9be2-0fad-5265-9d6a-8d3bedbb5065",
+    "name": "La Tantine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869700"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Wrack 'Tantine'"
+      }
+    }
+  }
+}

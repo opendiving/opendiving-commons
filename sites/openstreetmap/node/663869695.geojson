@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.190294,
+      44.308127
+    ]
+  },
+  "properties": {
+    "uuid": "8de2a948-c421-5e0a-81be-d22c0495d7c9",
+    "name": "Wreck `Mohawk Deer`",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869695"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

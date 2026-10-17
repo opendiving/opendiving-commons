@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.991667,
+      50.3705
+    ]
+  },
+  "properties": {
+    "uuid": "9780ba16-5393-5dc5-9c16-a773a00fcc2d",
+    "name": "Baggersee Diez",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870490"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.63655,
+      46.4751
+    ]
+  },
+  "properties": {
+    "uuid": "fbae6298-60df-5807-a8a5-4a2eb8650156",
+    "name": "Sassello",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870190"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

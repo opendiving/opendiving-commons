@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -72.099195,
+      41.307259
+    ]
+  },
+  "properties": {
+    "uuid": "970547b7-0c65-559b-8af1-56b5a97e12aa",
+    "name": "Ocean Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1026118127"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.308836,
+      -34.0369
+    ]
+  },
+  "properties": {
+    "uuid": "12f7e335-bb63-5fea-aed3-d0309fe0dbdd",
+    "name": "SS Oakburn and Bos 400",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q2877353"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

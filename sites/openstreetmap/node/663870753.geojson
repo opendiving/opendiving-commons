@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.388166,
+      47.765968
+    ]
+  },
+  "properties": {
+    "uuid": "6e017291-b634-5104-a116-193fc5c60af6",
+    "name": "Wolfgangsee - Fürbergbucht/Falkensteinwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870753"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

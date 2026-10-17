@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.676389,
+      50.646667
+    ]
+  },
+  "properties": {
+    "uuid": "a1e01ea8-7427-50c5-b974-48b27bf58974",
+    "name": "Axwell",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869578"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

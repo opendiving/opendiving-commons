@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.354267,
+      -34.07495
+    ]
+  },
+  "properties": {
+    "uuid": "ff275e3e-1c2d-5bf3-bfe5-5d9aaf3fb410",
+    "name": "Die Josie",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213740"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

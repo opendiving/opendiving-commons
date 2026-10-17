@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.360217,
+      -33.978833
+    ]
+  },
+  "properties": {
+    "uuid": "31cac214-81a1-508f-b916-2f39b110e240",
+    "name": "Geldkis",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213760"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

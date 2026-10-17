@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.277269,
+      -0.408508
+    ]
+  },
+  "properties": {
+    "uuid": "fea5706e-3490-56a1-bc4b-339701aa1b28",
+    "name": "Mosquera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13121663404"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

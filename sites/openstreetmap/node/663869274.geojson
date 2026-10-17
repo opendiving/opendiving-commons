@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.402219,
+      48.417403
+    ]
+  },
+  "properties": {
+    "uuid": "ebd507c8-1cc3-580a-8b6b-6e4f85c98e8c",
+    "name": "S. F. Tolmie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869274"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

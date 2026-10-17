@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.643916,
+      -33.022266
+    ]
+  },
+  "properties": {
+    "uuid": "4ef0b77d-1be7-5b8c-a45a-5ad1c540270a",
+    "name": "Valpo Sup",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11328375086"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

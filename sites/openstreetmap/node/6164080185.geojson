@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.81229,
+      9.056352
+    ]
+  },
+  "properties": {
+    "uuid": "703e7d45-3b6d-5f83-af85-79c05bae2864",
+    "name": "The Dome",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6164080185"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Koh Tachai Pinnacle"
+      }
+    }
+  }
+}

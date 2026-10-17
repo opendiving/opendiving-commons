@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.41641,
+      4.589421
+    ]
+  },
+  "properties": {
+    "uuid": "70d826b2-d0f5-533a-8973-26e5130af51e",
+    "name": "Entrence 110",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/786623659"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

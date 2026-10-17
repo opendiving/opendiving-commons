@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -29.94762,
+      38.404652
+    ]
+  },
+  "properties": {
+    "uuid": "30820f28-3368-592f-b50d-378f0ef29898",
+    "name": "princess alice bank",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5875583620"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

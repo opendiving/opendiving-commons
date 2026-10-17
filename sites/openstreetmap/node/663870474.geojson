@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.768829,
+      47.452874
+    ]
+  },
+  "properties": {
+    "uuid": "7158c394-b34c-56ef-891a-9a1e5045a37a",
+    "name": "Heiterwanger See - Tauchzone 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870474"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

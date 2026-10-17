@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.77113,
+      9.54569
+    ]
+  },
+  "properties": {
+    "uuid": "c329c87a-dc31-5095-9578-5d202792f7d7",
+    "name": "Alona Beach House Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13903338020"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

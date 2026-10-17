@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.978635,
+      45.922858
+    ]
+  },
+  "properties": {
+    "uuid": "4e536b34-c402-5b92-a5af-7911955200b6",
+    "name": "Lago di Lugano-Campeggio Paradiso",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870146"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

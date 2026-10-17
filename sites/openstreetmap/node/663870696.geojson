@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.75179,
+      47.711899
+    ]
+  },
+  "properties": {
+    "uuid": "c4b41746-6ed6-5758-8471-f95a575588ac",
+    "name": "Tegernsee - Hotel Guggemoos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870696"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

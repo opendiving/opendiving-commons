@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.136337,
+      53.696281
+    ]
+  },
+  "properties": {
+    "uuid": "646868ae-282a-53c3-b416-ed085b745f1f",
+    "name": "Leuchtturm",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450053"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

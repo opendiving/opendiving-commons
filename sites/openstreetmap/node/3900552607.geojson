@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.372329,
+      7.243304
+    ]
+  },
+  "properties": {
+    "uuid": "8ea85b19-dfed-57dc-b2fe-9e742682a408",
+    "name": "Paradies Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3900552607"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

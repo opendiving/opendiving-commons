@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.713949,
+      -0.533318
+    ]
+  },
+  "properties": {
+    "uuid": "51443514-563f-5804-b0f2-c374c4e835f1",
+    "name": "Sardine Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9865460718"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

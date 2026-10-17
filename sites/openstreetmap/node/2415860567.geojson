@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.478942,
+      46.941296
+    ]
+  },
+  "properties": {
+    "uuid": "7d855a54-8fb4-5914-bde1-3ce157352434",
+    "name": "Mapraggsee-KSL",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2415860567"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

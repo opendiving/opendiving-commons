@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.036079,
+      37.73255
+    ]
+  },
+  "properties": {
+    "uuid": "32cf9bec-1b6d-51dc-b3af-c2d3ee0b4daf",
+    "name": "Kerveli scouba diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2547460303"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

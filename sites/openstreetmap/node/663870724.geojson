@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.507028,
+      47.527831
+    ]
+  },
+  "properties": {
+    "uuid": "98eb84d1-aedd-5edf-bb8e-4bbbe1a0589d",
+    "name": "Vorderer Gosausee - Bootshütte bis Bärnkogel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870724"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

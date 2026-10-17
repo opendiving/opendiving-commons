@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.312033,
+      30.295667
+    ]
+  },
+  "properties": {
+    "uuid": "ac5ecedf-4581-5cfa-a6c7-2e7484006397",
+    "name": "USS Massachusetts",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869447"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

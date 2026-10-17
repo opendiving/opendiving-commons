@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.493256,
+      3.958439
+    ]
+  },
+  "properties": {
+    "uuid": "24134cc5-93c0-53ba-ac10-444b4afc61f8",
+    "name": "Maafushi Thila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869944"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

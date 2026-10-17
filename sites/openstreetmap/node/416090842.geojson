@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.649805,
+      24.242213
+    ]
+  },
+  "properties": {
+    "uuid": "d75d3048-13b7-504e-a1e2-fc7cfe2ba04f",
+    "name": "Shaab Maksour North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/416090842"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

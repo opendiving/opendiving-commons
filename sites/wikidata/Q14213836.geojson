@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4808,
+      -34.2567
+    ]
+  },
+  "properties": {
+    "uuid": "1858a613-37c6-54a5-a2b6-c0a153e033ce",
+    "name": "Partridge Point",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213836"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

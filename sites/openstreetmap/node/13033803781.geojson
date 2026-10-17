@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.807128,
+      54.258885
+    ]
+  },
+  "properties": {
+    "uuid": "79d544f1-cf5b-5888-941e-954184c1e8be",
+    "name": "Bell",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13033803781"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

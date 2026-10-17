@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.471616,
+      47.019103
+    ]
+  },
+  "properties": {
+    "uuid": "8f1ca8ca-b656-5f4a-a08f-849568e8bfaa",
+    "name": "Unterwilen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870216"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.753464,
+      1.694234
+    ]
+  },
+  "properties": {
+    "uuid": "f00caa0a-3632-54e3-8d23-35ce77ffa1a2",
+    "name": "Gorango",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293857725"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

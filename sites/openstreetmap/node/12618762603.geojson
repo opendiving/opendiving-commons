@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.720804,
+      12.5895
+    ]
+  },
+  "properties": {
+    "uuid": "d4c447cd-77cb-51df-914c-6c3641fa5ca3",
+    "name": "La Montanita",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762603"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

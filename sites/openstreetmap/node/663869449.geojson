@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.204833,
+      30.2915
+    ]
+  },
+  "properties": {
+    "uuid": "68e6fcba-830c-53a8-a199-74c195cbadd7",
+    "name": "Three Coal Barges",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869449"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.188094,
+      36.051525
+    ]
+  },
+  "properties": {
+    "uuid": "aea0563a-8f36-5c01-aa74-3abe9f5dff9f",
+    "name": "Big Bear-Little Bear",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/384942080"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

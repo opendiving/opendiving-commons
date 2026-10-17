@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.707496,
+      -8.625598
+    ]
+  },
+  "properties": {
+    "uuid": "9f4c31d5-2444-57b4-b4f8-20a2e1fbf677",
+    "name": "Wainilu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182771889"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

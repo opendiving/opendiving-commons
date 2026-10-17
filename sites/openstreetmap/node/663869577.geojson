@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.658611,
+      50.6575
+    ]
+  },
+  "properties": {
+    "uuid": "ae9bc162-01e0-5d6f-b22f-51330ea8e2ce",
+    "name": "Gascogny",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869577"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

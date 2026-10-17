@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.288522,
+      26.220129
+    ]
+  },
+  "properties": {
+    "uuid": "bc6f2460-7b1a-5d29-9c5d-5ae274862f20",
+    "name": "嘉比前・がひまえ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333126065"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Gahi Mae"
+      }
+    }
+  }
+}

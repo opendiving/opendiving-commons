@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.445495,
+      -0.513905
+    ]
+  },
+  "properties": {
+    "uuid": "e3338a23-b61e-5655-9c47-ce3897c1d649",
+    "name": "Mayhem",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167275309"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

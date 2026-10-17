@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.542119,
+      20.189831
+    ]
+  },
+  "properties": {
+    "uuid": "5239244a-7f2c-5f8b-ba30-1c5160b23182",
+    "name": "Cenote Dos Pisos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13387694587"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

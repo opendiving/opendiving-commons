@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.685315,
+      43.31272
+    ]
+  },
+  "properties": {
+    "uuid": "e9f0d2be-e664-5079-bc09-301f51aa25c3",
+    "name": "Rocher de la Garde (les Sardinaux)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6690818907"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.651674,
+      47.249033
+    ]
+  },
+  "properties": {
+    "uuid": "2dcb6946-5e61-5442-8be4-bc6a3f04c363",
+    "name": "Vordere Au",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452047"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

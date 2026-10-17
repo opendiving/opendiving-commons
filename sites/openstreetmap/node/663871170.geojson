@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.680521,
+      54.178408
+    ]
+  },
+  "properties": {
+    "uuid": "5085d6e8-abad-595b-9783-cbdf7a30deb5",
+    "name": "Jezioro Mamry – Upalty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871170"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

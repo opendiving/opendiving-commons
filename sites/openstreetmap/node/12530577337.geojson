@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130592,
+      53.699548
+    ]
+  },
+  "properties": {
+    "uuid": "baa25115-d9a8-527f-9c2f-997c4cc9f198",
+    "name": "Betonbombe I",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577337"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

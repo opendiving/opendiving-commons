@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.478683,
+      -34.225217
+    ]
+  },
+  "properties": {
+    "uuid": "374931d0-0dde-5d49-91a0-29d030a80136",
+    "name": "South Caravan",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42200514"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

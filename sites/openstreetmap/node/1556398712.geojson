@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.453597,
+      27.984875
+    ]
+  },
+  "properties": {
+    "uuid": "95f73db5-b4b7-5b2d-9d0e-267fda107ca5",
+    "name": "Gordon reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1556398712"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

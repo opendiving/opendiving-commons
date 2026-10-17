@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      166.835002,
+      -22.328834
+    ]
+  },
+  "properties": {
+    "uuid": "ac67c2f6-4003-5e45-a26a-6934e40ea982",
+    "name": "Aiguille du Prony",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1482181677"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

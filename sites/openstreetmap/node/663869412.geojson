@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.282629,
+      12.086711
+    ]
+  },
+  "properties": {
+    "uuid": "e7547062-a275-5225-bb87-85138c083262",
+    "name": "Jeannie's Glory",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869412"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

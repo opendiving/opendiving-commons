@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.6819,
+      12.537258
+    ]
+  },
+  "properties": {
+    "uuid": "d546556d-2f96-5c54-9264-c0aec8b42a12",
+    "name": "Trampa Tortuga",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748282"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

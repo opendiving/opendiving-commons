@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.288652,
+      48.478672
+    ]
+  },
+  "properties": {
+    "uuid": "68cbed70-d830-5eed-aabc-9449d039695c",
+    "name": "Lutzenberger See - Teil Ost",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870515"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.30145,
+      -34.0411
+    ]
+  },
+  "properties": {
+    "uuid": "86df4451-d45d-5e8d-9937-6a1bada15622",
+    "name": "Star Wall",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41779947"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

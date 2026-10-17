@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.8255,
+      54.475333
+    ]
+  },
+  "properties": {
+    "uuid": "d30f3771-8035-5197-b97d-abec8bd7192e",
+    "name": "Waltraud Behrmann",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871118"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.29283,
+      49.089503
+    ]
+  },
+  "properties": {
+    "uuid": "3e2115f0-b1c6-540c-823c-abec47c87967",
+    "name": "SC WÖRTH Taucher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/344865782"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

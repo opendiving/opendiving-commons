@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.890955,
+      9.78131
+    ]
+  },
+  "properties": {
+    "uuid": "f0d6b9ac-0b49-5b7b-b686-65ca01da2440",
+    "name": "Diving and snorkeling point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2557077396"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

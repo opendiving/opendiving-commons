@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.999492,
+      4.264251
+    ]
+  },
+  "properties": {
+    "uuid": "38a45a62-aca4-5634-bedb-b9de053d32ec",
+    "name": "Rasdhoo Madivaru Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584208531"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

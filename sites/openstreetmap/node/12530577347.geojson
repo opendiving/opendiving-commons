@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.131756,
+      53.701157
+    ]
+  },
+  "properties": {
+    "uuid": "62578602-98d2-5caf-a6b9-042d55581872",
+    "name": "Ultraleichtflieger",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577347"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

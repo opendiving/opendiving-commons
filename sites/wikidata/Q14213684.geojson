@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.44975,
+      -34.190133
+    ]
+  },
+  "properties": {
+    "uuid": "6e5ca9ef-bacb-5be4-9ef7-3b0aeac04d10",
+    "name": "Ammunition Barges",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213684"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

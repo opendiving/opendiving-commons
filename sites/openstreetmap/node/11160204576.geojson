@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.277942,
+      25.767248
+    ]
+  },
+  "properties": {
+    "uuid": "b4593265-5b29-589a-9f7c-09f0dc6abb92",
+    "name": "Bimini Road",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11160204576"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

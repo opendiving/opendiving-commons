@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.569158,
+      54.411249
+    ]
+  },
+  "properties": {
+    "uuid": "c35fffdf-2e62-5066-b194-bf5414396bd0",
+    "name": "Gdański Klub Płetwonurków Rekin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3215190288"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

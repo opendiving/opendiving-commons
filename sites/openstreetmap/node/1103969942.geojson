@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.692192,
+      47.251671
+    ]
+  },
+  "properties": {
+    "uuid": "9f018f44-9a53-553d-8b4a-9b2e60307063",
+    "name": "Leuenhaab",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1103969942"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

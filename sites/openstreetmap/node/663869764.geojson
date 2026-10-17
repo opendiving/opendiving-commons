@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.711833,
+      24.1577
+    ]
+  },
+  "properties": {
+    "uuid": "19462b73-69a2-56e5-b47d-21495221b891",
+    "name": "Shaab Sataya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869764"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

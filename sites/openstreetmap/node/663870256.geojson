@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.35616,
+      46.56508
+    ]
+  },
+  "properties": {
+    "uuid": "8c21c8e4-d34a-5b1c-9114-d45c70b1cca1",
+    "name": "Gul",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870256"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

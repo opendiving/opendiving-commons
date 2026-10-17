@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.2178,
+      46.39372
+    ]
+  },
+  "properties": {
+    "uuid": "0069d14e-8c0c-510e-9c2a-daac0a3d1b37",
+    "name": "Arnensee-West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869965"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

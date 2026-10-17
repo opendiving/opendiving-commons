@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.269522,
+      -19.57143
+    ]
+  },
+  "properties": {
+    "uuid": "db5f32de-82c2-5e53-be42-cac398dfe238",
+    "name": "Cruise Whitsundays Pontoon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2490191153"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

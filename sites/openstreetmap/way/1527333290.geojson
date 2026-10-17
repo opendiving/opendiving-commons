@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.049874,
+      53.926978
+    ]
+  },
+  "properties": {
+    "uuid": "9dfb3e63-de08-5beb-b003-5d5a0ef05f3f",
+    "name": "Centrum Nurkowe \"Ustka\"",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1527333290"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

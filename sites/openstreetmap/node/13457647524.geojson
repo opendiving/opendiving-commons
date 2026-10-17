@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.760691,
+      51.464138
+    ]
+  },
+  "properties": {
+    "uuid": "29c52702-32eb-58a2-ac04-cfe6b19fd521",
+    "name": "TSC Meiderich e.V.",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13457647524"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.423424,
+      49.795873
+    ]
+  },
+  "properties": {
+    "uuid": "0b914ac3-16e4-5f9a-9874-4491eb8d328b",
+    "name": "Slapy Ždáň",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232707"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.979164,
+      27.158319
+    ]
+  },
+  "properties": {
+    "uuid": "77bc96f6-d590-5ef6-96e9-251fc000ebe6",
+    "name": "Abu Ramada South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869797"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

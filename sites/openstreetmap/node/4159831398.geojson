@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.340423,
+      36.019037
+    ]
+  },
+  "properties": {
+    "uuid": "04124937-4f0e-5064-9ef9-e6efd106da84",
+    "name": "Is-Sikka ta' Santa Marija",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831398"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Santa Maria Reef"
+      }
+    }
+  }
+}

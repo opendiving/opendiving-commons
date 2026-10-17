@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.55283,
+      46.73836
+    ]
+  },
+  "properties": {
+    "uuid": "f1e1a32f-02f4-5c31-a8c6-92069f11e849",
+    "name": "Igl Lai (Heidsee)-Seerestaurant",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870245"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.802133,
+      27.6867
+    ]
+  },
+  "properties": {
+    "uuid": "a6288088-726f-5475-938a-a1d4242a0daf",
+    "name": "Ulysses",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869816"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

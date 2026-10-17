@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.292849,
+      26.239382
+    ]
+  },
+  "properties": {
+    "uuid": "ba8c3ae4-dac0-5351-8177-3835edc6e260",
+    "name": "新田洞窟・にたどうくつ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333164774"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Nita Doukutsu"
+      }
+    }
+  }
+}

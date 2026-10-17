@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      96.886852,
+      -12.094775
+    ]
+  },
+  "properties": {
+    "uuid": "28cf2cf9-927f-53cc-a3e5-6633efde151f",
+    "name": "Snorkeling in the Rip",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5156089223"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

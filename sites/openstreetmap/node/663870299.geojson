@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.638739,
+      47.26782
+    ]
+  },
+  "properties": {
+    "uuid": "7dee15a6-d717-5c8d-b583-a4a25b3b117d",
+    "name": "Anlegesteg der Autofähre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870299"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.770967,
+      44.93455
+    ]
+  },
+  "properties": {
+    "uuid": "2a2939bc-703a-5a8f-9465-fd2c77da1f3e",
+    "name": "Tunel Prvić",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869746"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

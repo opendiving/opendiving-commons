@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.157078,
+      11.713912
+    ]
+  },
+  "properties": {
+    "uuid": "8a4c3941-6418-5f6f-9eac-8cf71a665d6b",
+    "name": "Île Maskali جزيرة ماسكالي",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/234743094"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Maskali Island"
+      }
+    }
+  }
+}

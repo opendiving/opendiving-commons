@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.816337,
+      10.080777
+    ]
+  },
+  "properties": {
+    "uuid": "1c289f1a-ca8c-5473-ad98-b5a0965ed31d",
+    "name": "Pottery",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5993352457"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

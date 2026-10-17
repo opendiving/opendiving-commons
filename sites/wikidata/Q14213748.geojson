@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.487667,
+      -34.236083
+    ]
+  },
+  "properties": {
+    "uuid": "d8ff4c5b-99af-5f56-932f-78ac99673d7f",
+    "name": "Fan Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213748"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

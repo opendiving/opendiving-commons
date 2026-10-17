@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.807323,
+      51.481174
+    ]
+  },
+  "properties": {
+    "uuid": "bfbcd85f-3b96-5c3d-950f-464d126004ef",
+    "name": "Taucheinstieg 2a",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7580910798"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

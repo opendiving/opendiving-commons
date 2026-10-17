@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.807986,
+      1.624023
+    ]
+  },
+  "properties": {
+    "uuid": "a5519e99-1169-583a-a6bd-14c03cff5899",
+    "name": "Siladen 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293852782"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

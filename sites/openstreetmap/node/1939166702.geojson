@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.76182,
+      29.984163
+    ]
+  },
+  "properties": {
+    "uuid": "3c3ec22b-8795-510f-b9c0-8aa616495db8",
+    "name": "Ichetucknee Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1939166702"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

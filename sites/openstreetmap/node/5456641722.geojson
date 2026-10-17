@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.708833,
+      -0.70257
+    ]
+  },
+  "properties": {
+    "uuid": "7834e4a5-e11c-54f0-bf0f-52a9f093796a",
+    "name": "P-47",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5456641722"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

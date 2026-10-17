@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.489277,
+      -16.713809
+    ]
+  },
+  "properties": {
+    "uuid": "313e5c7d-4505-5bb1-8008-f5b3b527e4cc",
+    "name": "L'Aquarium",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869252"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

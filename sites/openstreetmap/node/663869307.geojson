@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.321667,
+      48.67
+    ]
+  },
+  "properties": {
+    "uuid": "a3b002ab-9b5c-5829-a986-a2b16aa643e8",
+    "name": "Graham`s Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869307"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

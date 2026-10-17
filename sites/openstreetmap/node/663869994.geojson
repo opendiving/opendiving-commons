@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.870942,
+      46.949038
+    ]
+  },
+  "properties": {
+    "uuid": "cf2db3a6-4827-5d5f-aaaa-d7997a0ce79a",
+    "name": "Boudry Plage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869994"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

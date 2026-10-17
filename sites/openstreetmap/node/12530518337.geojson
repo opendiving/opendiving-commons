@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.131999,
+      53.699683
+    ]
+  },
+  "properties": {
+    "uuid": "79bc0b2d-15c0-55de-9cef-c6cc4c150bfa",
+    "name": "Flugzeugwrack Piper",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518337"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

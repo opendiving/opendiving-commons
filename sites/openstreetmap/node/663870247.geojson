@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.802621,
+      46.46851
+    ]
+  },
+  "properties": {
+    "uuid": "a34c00fb-b5dd-5429-a13e-5bc6e7f6f19c",
+    "name": "Lej da Champfèr",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870247"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

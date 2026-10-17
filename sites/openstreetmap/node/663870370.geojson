@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.60297,
+      47.64669
+    ]
+  },
+  "properties": {
+    "uuid": "8feeea84-8b2c-5fff-99fd-1d4d176fb902",
+    "name": "Alte Zollbrücke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870370"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

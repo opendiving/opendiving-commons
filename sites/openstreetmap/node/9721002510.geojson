@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.598909,
+      18.502832
+    ]
+  },
+  "properties": {
+    "uuid": "82a7428f-dcff-5d0d-8ec8-3df8174f38cf",
+    "name": "Daharat Abida",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721002510"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

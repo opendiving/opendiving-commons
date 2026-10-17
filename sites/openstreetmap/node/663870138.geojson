@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.961703,
+      46.001802
+    ]
+  },
+  "properties": {
+    "uuid": "79ac8e08-552c-51cf-b307-66e1f40da8f0",
+    "name": "Foce del Casserate",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870138"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

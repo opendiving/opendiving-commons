@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.2242,
+      47.0693
+    ]
+  },
+  "properties": {
+    "uuid": "f07feefe-4a5b-5fc7-958f-5d5eb5afe7df",
+    "name": "Épave Chasseur N° 107",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595462"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

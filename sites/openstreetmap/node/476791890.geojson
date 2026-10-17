@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.322283,
+      46.978905
+    ]
+  },
+  "properties": {
+    "uuid": "a146489a-054a-57d6-9c1e-46e85a9b8e28",
+    "name": "Lopper 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/476791890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

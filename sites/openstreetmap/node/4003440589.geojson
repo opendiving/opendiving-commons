@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.109088,
+      11.32356
+    ]
+  },
+  "properties": {
+    "uuid": "ba4e5a9d-36fd-51e8-9881-2c259c0aa85a",
+    "name": "Dakit-Dakit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4003440589"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

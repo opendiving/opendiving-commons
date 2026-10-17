@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.39717,
+      4.638233
+    ]
+  },
+  "properties": {
+    "uuid": "20ccf963-f2a6-5684-89e4-b39d1a129514",
+    "name": "Akirifushi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/672632386"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

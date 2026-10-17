@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.315817,
+      -34.14695
+    ]
+  },
+  "properties": {
+    "uuid": "53d9b76f-4c21-5b82-b4f3-1e98ca196bc6",
+    "name": "SS Clan Monroe",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213877"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

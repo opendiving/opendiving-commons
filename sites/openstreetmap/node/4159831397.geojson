@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.31771,
+      36.012537
+    ]
+  },
+  "properties": {
+    "uuid": "fa87bd95-260e-5942-b221-36ef759fb3eb",
+    "name": "Anchor Reef (Dive Site)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831397"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

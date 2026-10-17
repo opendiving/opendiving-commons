@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.79889,
+      12.950011
+    ]
+  },
+  "properties": {
+    "uuid": "8ab89f5c-ee7b-5d61-81fa-13c4dcac5eb9",
+    "name": "HTMS Kut",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1603728988"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

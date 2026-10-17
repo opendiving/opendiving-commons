@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.578101,
+      -6.320227
+    ]
+  },
+  "properties": {
+    "uuid": "01014acd-f76c-5629-8d74-f6d769876e31",
+    "name": "Cement wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10224583148"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

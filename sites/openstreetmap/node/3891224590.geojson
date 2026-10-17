@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.295066,
+      7.837767
+    ]
+  },
+  "properties": {
+    "uuid": "cb2d69e0-8b07-53a2-9a24-e4f867a91f12",
+    "name": "Sub Aqua",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3891224590"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

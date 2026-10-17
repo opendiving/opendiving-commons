@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.01035,
+      47.67231
+    ]
+  },
+  "properties": {
+    "uuid": "0e042791-6da4-5823-aa11-7681081f483d",
+    "name": "Baywatch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870388"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

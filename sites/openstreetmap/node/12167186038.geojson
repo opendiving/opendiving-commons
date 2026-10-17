@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.698689,
+      -0.45017
+    ]
+  },
+  "properties": {
+    "uuid": "874bc3ee-dc67-5505-a0c6-50a0385c3042",
+    "name": "Batu Lima",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167186038"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

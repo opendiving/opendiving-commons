@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.8299,
+      3.466733
+    ]
+  },
+  "properties": {
+    "uuid": "0e1388fd-05c2-599a-9b21-c4a657af5606",
+    "name": "Holiday Beyru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9562069130"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.604807,
+      4.000653
+    ]
+  },
+  "properties": {
+    "uuid": "7473670e-8a97-527e-89bd-0c671f26dc4f",
+    "name": "Vagamares",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239667404"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130879,
+      53.701631
+    ]
+  },
+  "properties": {
+    "uuid": "c9a82574-3085-5301-991e-92bfa9ddd6a0",
+    "name": "Weißer Hai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518347"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.060443,
+      47.080785
+    ]
+  },
+  "properties": {
+    "uuid": "d77814b1-8345-5ac0-bef6-ad7784b19051",
+    "name": "Du coté de Roussay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/85167384"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

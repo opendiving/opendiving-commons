@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.945176,
+      47.513987
+    ]
+  },
+  "properties": {
+    "uuid": "6c037a0d-f7aa-56cf-bd2b-41353ebd3955",
+    "name": "Salza-Speichersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870754"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.350242,
+      25.603433
+    ]
+  },
+  "properties": {
+    "uuid": "14c43649-f44d-57cd-abb8-5967e041cd53",
+    "name": "Dibba Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9865803545"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

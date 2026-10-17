@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.485943,
+      47.790956
+    ]
+  },
+  "properties": {
+    "uuid": "f9a4ae04-63a3-5fd9-92c9-a5789157a76e",
+    "name": "Attersee - Ferrari-Kapelle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870821"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

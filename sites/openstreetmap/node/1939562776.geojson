@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.837015,
+      -15.982229
+    ]
+  },
+  "properties": {
+    "uuid": "c8f2cbbb-96e8-54c7-9c96-d89649f07ff2",
+    "name": "Wreck Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1939562776"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

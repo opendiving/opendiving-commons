@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.722483,
+      9.592367
+    ]
+  },
+  "properties": {
+    "uuid": "783954ee-9fa5-5582-a6ac-1121db414d18",
+    "name": "Doljo Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871182"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

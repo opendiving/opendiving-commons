@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.272206,
+      12.051341
+    ]
+  },
+  "properties": {
+    "uuid": "fd41dd9f-58dc-5f9e-8b12-b71558abacf3",
+    "name": "Margate Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869400"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

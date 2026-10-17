@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.771874,
+      51.808325
+    ]
+  },
+  "properties": {
+    "uuid": "fdcc4f18-bb9d-54b1-a03f-8be504c822a3",
+    "name": "Berendonk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1019959132"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.52038,
+      54.838723
+    ]
+  },
+  "properties": {
+    "uuid": "c7f7accd-c015-5d21-9d3f-cd2bed03bdab",
+    "name": "Quellental",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870640"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

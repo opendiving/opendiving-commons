@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.725441,
+      21.200927
+    ]
+  },
+  "properties": {
+    "uuid": "98c0e1a5-5c16-51c0-b45e-29ca78003d61",
+    "name": "MUSA Cancun Underwater Museum of Art",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/708312807"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

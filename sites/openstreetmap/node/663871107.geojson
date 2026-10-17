@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.528333,
+      53.5955
+    ]
+  },
+  "properties": {
+    "uuid": "0da23634-e055-5a80-8277-acebef596566",
+    "name": "Tiefer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871107"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

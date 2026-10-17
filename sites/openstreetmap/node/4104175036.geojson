@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.592981,
+      -5.583461
+    ]
+  },
+  "properties": {
+    "uuid": "cbb0e34e-e7ae-552a-a046-0436710b7c12",
+    "name": "Valley of the tubes",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104175036"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

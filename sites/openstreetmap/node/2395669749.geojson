@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.088655,
+      -8.347456
+    ]
+  },
+  "properties": {
+    "uuid": "a639e6f2-3790-5d76-b9ab-57b1657eb31d",
+    "name": "Frog Fish Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669749"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

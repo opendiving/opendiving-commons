@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.584596,
+      47.932504
+    ]
+  },
+  "properties": {
+    "uuid": "7e21f53e-142d-5848-924e-a0355e035d68",
+    "name": "Surfplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310436"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

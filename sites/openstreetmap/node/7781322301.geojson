@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.510981,
+      44.32673
+    ]
+  },
+  "properties": {
+    "uuid": "8b027fa8-f43f-5298-8d81-b11725c5e16c",
+    "name": "Presepe degli Abissi di Albisola",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7781322301"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

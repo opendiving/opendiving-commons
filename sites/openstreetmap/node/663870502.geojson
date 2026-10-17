@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.440467,
+      48.291403
+    ]
+  },
+  "properties": {
+    "uuid": "0fd6fa90-351f-5ce4-9b04-fb509dee04af",
+    "name": "Kaiser See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870502"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

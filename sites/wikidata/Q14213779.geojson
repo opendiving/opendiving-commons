@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4674,
+      -34.213617
+    ]
+  },
+  "properties": {
+    "uuid": "5ecf96d8-efff-56e3-b247-cf4c490527f5",
+    "name": "Insanity Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213779"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

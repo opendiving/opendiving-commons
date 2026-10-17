@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.644985,
+      -33.022001
+    ]
+  },
+  "properties": {
+    "uuid": "b1cdd5aa-3c36-5665-9156-972baa76dec6",
+    "name": "Club de Buceo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11328375085"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.2843,
+      43.2647
+    ]
+  },
+  "properties": {
+    "uuid": "238c534f-f845-569f-bf98-617916e5bceb",
+    "name": "Pierre fendue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678056"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

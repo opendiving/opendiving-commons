@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.249759,
+      13.012423
+    ]
+  },
+  "properties": {
+    "uuid": "d29e2f40-ad6a-54a8-93b8-eb0d938554ee",
+    "name": "Devil's Table + dinghy mooring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5075261521"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

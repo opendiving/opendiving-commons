@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.346673,
+      -16.831808
+    ]
+  },
+  "properties": {
+    "uuid": "dfffe067-a10f-5a41-b05f-e033e6369da3",
+    "name": "Te Ava Mo’a",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869260"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

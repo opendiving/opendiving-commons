@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.823252,
+      53.111897
+    ]
+  },
+  "properties": {
+    "uuid": "2714bb43-32e5-5adc-8d77-7f57d49e289e",
+    "name": "Stadtwaldsee (Uni-See)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870608"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

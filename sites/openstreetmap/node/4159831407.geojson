@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.27288,
+      36.017765
+    ]
+  },
+  "properties": {
+    "uuid": "52368869-a762-52cf-987e-1458c1bb7555",
+    "name": "Mġarr ix-Xini",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

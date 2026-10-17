@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.978507,
+      47.583303
+    ]
+  },
+  "properties": {
+    "uuid": "6b5ec9af-4bad-5412-aa4f-50c474e5d51e",
+    "name": "SS Saganaga",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9802778109"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

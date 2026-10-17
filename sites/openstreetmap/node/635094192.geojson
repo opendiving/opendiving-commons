@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.281011,
+      12.158938
+    ]
+  },
+  "properties": {
+    "uuid": "559e4d59-9c3b-5028-aff7-e8e2d738aeae",
+    "name": "Boy Scout",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/635094192"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3,
+      -34.05
+    ]
+  },
+  "properties": {
+    "uuid": "53f3a240-a078-54b2-bc30-01771835f2dd",
+    "name": "Stonehenge",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213916"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.66173,
+      -8.337564
+    ]
+  },
+  "properties": {
+    "uuid": "fa2da5c0-f771-556d-9bf6-2b80f067950a",
+    "name": "Amed wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4527419399"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

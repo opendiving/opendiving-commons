@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -140.974016,
+      -18.065723
+    ]
+  },
+  "properties": {
+    "uuid": "913662fd-9f77-5ce3-9097-f2e63f34a832",
+    "name": "Mairie II",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10164697267"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

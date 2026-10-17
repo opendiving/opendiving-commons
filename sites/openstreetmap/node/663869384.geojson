@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.079446,
+      12.198578
+    ]
+  },
+  "properties": {
+    "uuid": "5a7ea4e0-0fd3-5bf7-9bb7-299182277cbf",
+    "name": "Rif Sint Marie",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869384"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

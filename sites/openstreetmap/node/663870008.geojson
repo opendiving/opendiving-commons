@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.15125,
+      46.61875
+    ]
+  },
+  "properties": {
+    "uuid": "9616e218-aa34-59bb-8d1d-f7eea28d4ec7",
+    "name": "Presqu`ile",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870008"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

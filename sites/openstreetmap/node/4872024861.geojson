@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.097922,
+      54.488979
+    ]
+  },
+  "properties": {
+    "uuid": "b5d7c861-52ef-5fc7-b204-c07097f11e76",
+    "name": "Betonschute",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4872024861"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.490112,
+      44.846777
+    ]
+  },
+  "properties": {
+    "uuid": "3b03e0d6-c815-5e1c-8a8d-5182a06a3401",
+    "name": "Source de Combe Nègre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3024484145"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

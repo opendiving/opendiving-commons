@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.34945,
+      -34.065017
+    ]
+  },
+  "properties": {
+    "uuid": "18dd674e-3b29-53e9-978a-6a70bafab555",
+    "name": "MV Aster",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213803"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

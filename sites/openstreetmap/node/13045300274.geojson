@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.250866,
+      -0.541895
+    ]
+  },
+  "properties": {
+    "uuid": "00c28738-6fe3-5958-88ef-bf2ad933a5c2",
+    "name": "Barracuda West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045300274"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

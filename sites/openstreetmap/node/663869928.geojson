@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.476225,
+      3.904682
+    ]
+  },
+  "properties": {
+    "uuid": "d57ba344-1ee9-5907-8829-b89ed27244b2",
+    "name": "Kandoma Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869928"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

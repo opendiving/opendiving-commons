@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.725473,
+      -0.519011
+    ]
+  },
+  "properties": {
+    "uuid": "4cfdb57a-1b3c-556a-b851-7598caf95583",
+    "name": "Blue Magic",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167285285"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

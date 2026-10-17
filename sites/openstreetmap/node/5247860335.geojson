@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.322549,
+      47.966034
+    ]
+  },
+  "properties": {
+    "uuid": "e005aefb-03d9-5f87-bb0d-c7a010042d36",
+    "name": "Paradies",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5247860335"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

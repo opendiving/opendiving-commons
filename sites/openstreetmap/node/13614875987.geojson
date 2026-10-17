@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.190943,
+      36.054014
+    ]
+  },
+  "properties": {
+    "uuid": "78ce7ca7-8d7c-5a90-ad2d-cfad15e56fe9",
+    "name": "Il-Qawra",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614875987"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Qawra"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.921224,
+      39.139295
+    ]
+  },
+  "properties": {
+    "uuid": "047487ff-f0e4-51f9-948e-8b9d9556c9c0",
+    "name": "Black Rock Dive Centre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4001434925"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

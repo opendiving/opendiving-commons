@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.613436,
+      3.993246
+    ]
+  },
+  "properties": {
+    "uuid": "79f7fba8-6aa0-5441-aa54-63e53a4aa0ab",
+    "name": "Escuba",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239602287"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

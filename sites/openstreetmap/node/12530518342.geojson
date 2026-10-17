@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.134003,
+      53.700914
+    ]
+  },
+  "properties": {
+    "uuid": "374b5148-cecb-58fc-b287-ed0369a5771c",
+    "name": "Steilhang II",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518342"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

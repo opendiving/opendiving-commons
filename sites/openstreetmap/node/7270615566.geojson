@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.841175,
+      -0.363897
+    ]
+  },
+  "properties": {
+    "uuid": "5513bf1c-1ef5-5ec9-ae2e-ae11e0107912",
+    "name": "Mildred's Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270615566"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

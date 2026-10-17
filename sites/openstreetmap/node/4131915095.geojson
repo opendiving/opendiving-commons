@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.731419,
+      -32.272484
+    ]
+  },
+  "properties": {
+    "uuid": "fa0de5d7-1ea4-5b6a-9240-ef11993b8a0f",
+    "name": "Wreck Trail",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4131915095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

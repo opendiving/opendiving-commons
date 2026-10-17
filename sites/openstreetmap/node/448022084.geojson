@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.906851,
+      12.089735
+    ]
+  },
+  "properties": {
+    "uuid": "6dbecb60-5c5d-5083-b7a7-549e9b7f375d",
+    "name": "Marie Pampoen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/448022084"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

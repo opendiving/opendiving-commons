@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.918969,
+      39.154846
+    ]
+  },
+  "properties": {
+    "uuid": "a2cb606a-fddc-5c74-8274-35d232b8836a",
+    "name": "Cala Galiota",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/724682562"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

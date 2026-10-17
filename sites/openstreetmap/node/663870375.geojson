@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.82911,
+      47.67558
+    ]
+  },
+  "properties": {
+    "uuid": "4ffbc7f1-a64a-56fc-a4d8-73d9ad214939",
+    "name": "Hemishofen-Rheinklingen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870375"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

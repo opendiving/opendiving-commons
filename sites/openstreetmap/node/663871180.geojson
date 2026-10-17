@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.534333,
+      68.23333
+    ]
+  },
+  "properties": {
+    "uuid": "755b6b07-5996-5c57-96c7-332e05d34590",
+    "name": "MS Hamburg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871180"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

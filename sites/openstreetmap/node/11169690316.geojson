@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.081078,
+      51.639249
+    ]
+  },
+  "properties": {
+    "uuid": "2b27849f-abdd-5983-a2b6-528d98c2e85a",
+    "name": "Goudzwaardeg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11169690316"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

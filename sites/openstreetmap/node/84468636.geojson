@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.034529,
+      60.239814
+    ]
+  },
+  "properties": {
+    "uuid": "6cfda675-6683-562c-963c-b9ba63767c0a",
+    "name": "Ojamon kaivoslampi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/84468636"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

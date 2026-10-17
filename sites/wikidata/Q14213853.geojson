@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4095,
+      -33.8975
+    ]
+  },
+  "properties": {
+    "uuid": "d1dcc577-eed0-540d-89c3-5b354363ce19",
+    "name": "RMS Athens",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213853"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

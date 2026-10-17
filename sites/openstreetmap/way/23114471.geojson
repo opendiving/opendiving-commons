@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.813842,
+      50.879624
+    ]
+  },
+  "properties": {
+    "uuid": "0b0e8565-7c94-5d81-a1bc-174a97df2220",
+    "name": "Steinbruchsee Ratssteinbruch Hartmannsdorf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/23114471"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

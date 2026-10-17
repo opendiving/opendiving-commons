@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.4217,
+      -0.280909
+    ]
+  },
+  "properties": {
+    "uuid": "4d0e8d54-9918-51bd-9a9a-a5ba0e43a960",
+    "name": "Thundi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9521898155"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

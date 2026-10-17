@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.69038,
+      53.52696
+    ]
+  },
+  "properties": {
+    "uuid": "8da28d70-6945-59e8-9533-c9ef2196a353",
+    "name": "Heike",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870625"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

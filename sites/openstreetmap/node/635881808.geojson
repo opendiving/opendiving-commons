@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.290118,
+      12.103752
+    ]
+  },
+  "properties": {
+    "uuid": "0ef6a3b5-bf82-579a-8797-659663dab78f",
+    "name": "Hilma Hooker",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/635881808"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

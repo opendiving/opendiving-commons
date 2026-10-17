@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4065,
+      47.798783
+    ]
+  },
+  "properties": {
+    "uuid": "d138e11f-a9ae-5e44-a3cd-2e0360b28502",
+    "name": "Mondsee - Kienbergwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870750"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

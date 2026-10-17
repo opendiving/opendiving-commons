@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.601751,
+      51.318362
+    ]
+  },
+  "properties": {
+    "uuid": "b3057b6a-35d1-50be-9d6d-1b71e5284f99",
+    "name": "Westbruch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870889"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

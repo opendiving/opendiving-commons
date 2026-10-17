@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.997469,
+      5.731868
+    ]
+  },
+  "properties": {
+    "uuid": "60222dac-e561-59a2-9724-23da312ff26d",
+    "name": "Redang - Terumbu Kili",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735154911"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

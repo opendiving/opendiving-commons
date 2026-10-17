@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.416666,
+      12.661833
+    ]
+  },
+  "properties": {
+    "uuid": "99d8eb40-4509-5a9e-b846-efffed9093f6",
+    "name": "Aladin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038368"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

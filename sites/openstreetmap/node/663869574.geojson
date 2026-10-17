@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.61,
+      50.716944
+    ]
+  },
+  "properties": {
+    "uuid": "65094884-ca6d-5186-b482-cc6e97ec7a3e",
+    "name": "Wittering",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869574"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

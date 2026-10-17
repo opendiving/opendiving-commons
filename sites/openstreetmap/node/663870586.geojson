@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.055738,
+      51.048447
+    ]
+  },
+  "properties": {
+    "uuid": "01886eaa-41a8-56a4-a769-b2cd02c7b2a8",
+    "name": "Stotternheimer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870586"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

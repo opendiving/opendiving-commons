@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.605156,
+      -2.193739
+    ]
+  },
+  "properties": {
+    "uuid": "2b96b793-cdc2-5252-98f5-85feaf01b803",
+    "name": "Yilliet Corne",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453440221"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

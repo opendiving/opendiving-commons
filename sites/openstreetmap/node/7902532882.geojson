@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.87494,
+      51.179136
+    ]
+  },
+  "properties": {
+    "uuid": "7ddbed37-4f23-5364-8b90-6d04254959f1",
+    "name": "instap 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7902532882"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

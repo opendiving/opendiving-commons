@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.28966,
+      46.35305
+    ]
+  },
+  "properties": {
+    "uuid": "836a8383-1f89-51ac-87b5-c88212a4e275",
+    "name": "Diving \"Lac de Neuchâtel-De la Lé\"",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869969"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

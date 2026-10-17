@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.370067,
+      -33.95925
+    ]
+  },
+  "properties": {
+    "uuid": "3fcce9e1-ecc8-59b2-a9aa-45eea07503b1",
+    "name": "Bakoven Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213692"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

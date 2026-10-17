@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.645012,
+      -8.558211
+    ]
+  },
+  "properties": {
+    "uuid": "c672654b-0d74-55ce-bb22-dd21a2e8b214",
+    "name": "Siaba Besar dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5114515324"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.129653,
+      53.69986
+    ]
+  },
+  "properties": {
+    "uuid": "6c8c1e99-b388-50b7-bafb-a345f1b51d22",
+    "name": "LKW-Rampe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577335"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

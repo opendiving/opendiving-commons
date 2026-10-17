@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.577328,
+      47.317105
+    ]
+  },
+  "properties": {
+    "uuid": "f075c0cf-0a59-5aca-ae8b-dcbf4310768f",
+    "name": "Park Horn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3888943100"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

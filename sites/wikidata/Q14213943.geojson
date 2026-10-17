@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5619,
+      -34.247433
+    ]
+  },
+  "properties": {
+    "uuid": "7b690c86-cfc6-54db-8504-dad4ea8a1380",
+    "name": "Whittle Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213943"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

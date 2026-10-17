@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.221002,
+      42.051846
+    ]
+  },
+  "properties": {
+    "uuid": "62d57ab7-5214-5fe9-b8d3-fef6285bd575",
+    "name": "el Medallot",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/791018578"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.250059,
+      13.013316
+    ]
+  },
+  "properties": {
+    "uuid": "d39d22dc-67ce-5e25-9d77-08eb36262b81",
+    "name": "Stratmann Wreck + dinghy mooring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5075463222"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

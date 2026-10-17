@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.744071,
+      46.687933
+    ]
+  },
+  "properties": {
+    "uuid": "371018eb-84d2-5ce3-8306-001c3ba36702",
+    "name": "Fischbalme",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845657674"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

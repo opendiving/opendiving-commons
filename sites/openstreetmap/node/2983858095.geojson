@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.251619,
+      51.305633
+    ]
+  },
+  "properties": {
+    "uuid": "c3b4f109-a588-5b48-bdbc-4d3d1267cd87",
+    "name": "Tauchbasis E2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2983858095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

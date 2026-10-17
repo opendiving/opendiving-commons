@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.91914,
+      47.06755
+    ]
+  },
+  "properties": {
+    "uuid": "fc6385fa-ada2-53b2-82c7-4dabdd29bac8",
+    "name": "Hundloch-Quelle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870241"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

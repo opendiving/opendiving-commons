@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.228768,
+      41.963783
+    ]
+  },
+  "properties": {
+    "uuid": "c38c3af5-3628-5122-8c61-017c78ebddfc",
+    "name": "Cala d'Aiguafreda",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5596197484"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

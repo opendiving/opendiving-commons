@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.258855,
+      27.727442
+    ]
+  },
+  "properties": {
+    "uuid": "55cea071-1575-508a-aa70-8e0078fd02fe",
+    "name": "Anemone City",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271182011"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

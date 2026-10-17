@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.966986,
+      10.194416
+    ]
+  },
+  "properties": {
+    "uuid": "146c1659-3594-5f29-9d56-d985ca90695b",
+    "name": "Dive Center Searama",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4068135665"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

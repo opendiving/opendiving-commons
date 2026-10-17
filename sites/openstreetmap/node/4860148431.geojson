@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.199968,
+      11.317596
+    ]
+  },
+  "properties": {
+    "uuid": "ff70ee55-a44b-520f-afef-6f7b6ba8390f",
+    "name": "Punta Aguja",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4860148431"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

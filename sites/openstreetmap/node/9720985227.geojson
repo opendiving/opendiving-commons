@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.101837,
+      21.585197
+    ]
+  },
+  "properties": {
+    "uuid": "a8a4a0ae-433a-5db5-9aeb-67d1e95e7d70",
+    "name": "Pfeiffer Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9720985227"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

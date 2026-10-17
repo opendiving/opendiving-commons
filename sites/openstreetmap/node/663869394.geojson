@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.236765,
+      12.027663
+    ]
+  },
+  "properties": {
+    "uuid": "aa50f215-80a1-5627-bb30-7b59c39a928c",
+    "name": "Willemstoren Lighthouse",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869394"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

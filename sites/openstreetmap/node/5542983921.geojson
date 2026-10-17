@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.535234,
+      13.052921
+    ]
+  },
+  "properties": {
+    "uuid": "ee8d1d78-0f65-5804-9a28-707cde33e62d",
+    "name": "Freights Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5542983921"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

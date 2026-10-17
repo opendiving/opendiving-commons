@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.362322,
+      3.94383
+    ]
+  },
+  "properties": {
+    "uuid": "1f70ddb6-9cb1-519d-8e95-6dcd93086374",
+    "name": "Vaageli Tila",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869925"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

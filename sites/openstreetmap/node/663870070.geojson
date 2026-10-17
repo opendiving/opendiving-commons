@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.30272,
+      46.95425
+    ]
+  },
+  "properties": {
+    "uuid": "92d13a2b-4dd9-5775-b8f5-2d012ae3db26",
+    "name": "Schiessüberwachung",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870070"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

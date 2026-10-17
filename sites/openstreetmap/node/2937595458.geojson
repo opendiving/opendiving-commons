@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.183333,
+      46.465278
+    ]
+  },
+  "properties": {
+    "uuid": "25d82aee-d528-5f89-b418-33693e4dfe0c",
+    "name": "Épave Afrique",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595458"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.468541,
+      15.55251
+    ]
+  },
+  "properties": {
+    "uuid": "4727ee2d-83f0-5484-b012-cc2609f51970",
+    "name": "hot Sophia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4758372667"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

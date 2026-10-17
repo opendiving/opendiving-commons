@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.193726,
+      9.584901
+    ]
+  },
+  "properties": {
+    "uuid": "c8157bf4-16f9-59b2-84c5-79ba271c4df8",
+    "name": "Pangas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10672663106"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

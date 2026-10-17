@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.085575,
+      12.211921
+    ]
+  },
+  "properties": {
+    "uuid": "880116b5-9d17-5102-91be-010bfd213c52",
+    "name": "Daaibooi Baai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Daaibooi Bay"
+      }
+    }
+  }
+}

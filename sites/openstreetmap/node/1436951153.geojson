@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.497581,
+      47.072643
+    ]
+  },
+  "properties": {
+    "uuid": "12bda2b9-182e-58c5-902e-125eb943a4c8",
+    "name": "Strick",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1436951153"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

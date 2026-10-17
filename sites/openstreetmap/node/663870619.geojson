@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.364586,
+      53.996806
+    ]
+  },
+  "properties": {
+    "uuid": "cc6d36f1-c4e3-5497-9ecd-d76ef0b9ec1b",
+    "name": "Amalie C. Ertel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870619"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

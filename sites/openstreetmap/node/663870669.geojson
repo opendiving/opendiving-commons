@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.390278,
+      45.319722
+    ]
+  },
+  "properties": {
+    "uuid": "ade0e9b2-21f1-500c-a176-fb4a6b293056",
+    "name": "Wrack Coriolanus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870669"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

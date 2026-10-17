@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.452926,
+      18.181357
+    ]
+  },
+  "properties": {
+    "uuid": "e426daae-2e13-5bba-b84d-e16b3266c6c4",
+    "name": "Lady G'Diver",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2998062638"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

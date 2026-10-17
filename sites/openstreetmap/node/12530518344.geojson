@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.132782,
+      53.701221
+    ]
+  },
+  "properties": {
+    "uuid": "cb430d3a-a572-574d-b2ee-9d2e92f4473c",
+    "name": "Kabelrolle II",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518344"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.291042,
+      47.91921
+    ]
+  },
+  "properties": {
+    "uuid": "228f7379-442b-53c8-8929-a367ed81e9ee",
+    "name": "Strandbad Garatshausen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5247836452"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

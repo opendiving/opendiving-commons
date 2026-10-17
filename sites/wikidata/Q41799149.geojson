@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.30955,
+      -34.036933
+    ]
+  },
+  "properties": {
+    "uuid": "edac019e-4115-5a87-b9af-5fdb6ea0129c",
+    "name": "Bos 400",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41799149"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

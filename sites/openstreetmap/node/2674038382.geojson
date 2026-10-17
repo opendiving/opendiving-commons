@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.432639,
+      12.668139
+    ]
+  },
+  "properties": {
+    "uuid": "506daa51-011e-522f-8c08-5666e0f59152",
+    "name": "Shark Airport",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038382"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

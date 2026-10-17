@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.53582,
+      17.208286
+    ]
+  },
+  "properties": {
+    "uuid": "8d5895f4-b362-5867-bb8d-503e5d4edef9",
+    "name": "Half Moon Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5484628122"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

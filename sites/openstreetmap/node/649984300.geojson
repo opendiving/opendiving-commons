@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      92.95201,
+      12.07839
+    ]
+  },
+  "properties": {
+    "uuid": "d1ded2ea-e339-51f3-972a-f77278044c93",
+    "name": "Johnson's Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/649984300"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

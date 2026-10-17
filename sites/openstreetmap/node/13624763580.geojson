@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.247604,
+      36.078825
+    ]
+  },
+  "properties": {
+    "uuid": "be88d17f-b26c-582a-ba96-e2403fbff810",
+    "name": "Il-Bajja tax-Xwejni",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13624763580"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Xwejni Bay"
+      }
+    }
+  }
+}

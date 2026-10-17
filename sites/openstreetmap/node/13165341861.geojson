@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.58805,
+      -6.36337
+    ]
+  },
+  "properties": {
+    "uuid": "5a5450a0-0cb9-5b1a-9705-5dcd981a92d8",
+    "name": "Napoleon Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13165341861"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

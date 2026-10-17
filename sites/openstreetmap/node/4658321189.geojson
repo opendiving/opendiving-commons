@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.822884,
+      9.389559
+    ]
+  },
+  "properties": {
+    "uuid": "8c5806e5-4d9a-5e14-941b-098138b6edb2",
+    "name": "Prebens Platon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4658321189"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

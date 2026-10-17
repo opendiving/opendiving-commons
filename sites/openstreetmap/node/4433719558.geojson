@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.023667,
+      22.253333
+    ]
+  },
+  "properties": {
+    "uuid": "5d5f923b-435e-5e82-9bd7-28ecee2b8304",
+    "name": "Sand Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4433719558"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

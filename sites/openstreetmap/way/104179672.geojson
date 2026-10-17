@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.567016,
+      50.509154
+    ]
+  },
+  "properties": {
+    "uuid": "c58227f4-1188-5835-9af0-b8ebe2c0ea54",
+    "name": "Carrière de la Gombe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/104179672"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

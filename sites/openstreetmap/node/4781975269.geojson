@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.332256,
+      47.929522
+    ]
+  },
+  "properties": {
+    "uuid": "72739caa-fee2-5ddb-ace2-5660edcd1d0b",
+    "name": "Allmannshauser Steilwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4781975269"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

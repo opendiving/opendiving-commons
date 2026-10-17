@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.06818,
+      9.898
+    ]
+  },
+  "properties": {
+    "uuid": "185148b0-e01c-5b71-bca7-f42a5ba7be53",
+    "name": "Bonnie's place",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4692529172"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

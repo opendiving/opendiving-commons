@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.240579,
+      9.337118
+    ]
+  },
+  "properties": {
+    "uuid": "dc0066c6-bd16-5d7d-81ed-938560ec1627",
+    "name": "La Buga Dive & Surf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3506370479"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

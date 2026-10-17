@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.972124,
+      29.426193
+    ]
+  },
+  "properties": {
+    "uuid": "f1360649-d7b8-5a2a-8f07-8f473ae731e8",
+    "name": "Gorgon 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5504662457"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

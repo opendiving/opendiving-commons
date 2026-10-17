@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.464333,
+      -34.3165
+    ]
+  },
+  "properties": {
+    "uuid": "5c2b0175-3296-5850-bffb-1cf2033d1f92",
+    "name": "Bordjiesrif",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213712"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

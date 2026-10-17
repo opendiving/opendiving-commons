@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.62228,
+      47.13228
+    ]
+  },
+  "properties": {
+    "uuid": "28b24847-e652-5e1d-9e7e-b198a3279d4e",
+    "name": "Altersheim Breiten",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870289"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

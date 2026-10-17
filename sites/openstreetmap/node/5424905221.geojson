@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.881863,
+      9.389271
+    ]
+  },
+  "properties": {
+    "uuid": "840f655a-5518-53a0-bd88-e8ece8db82fd",
+    "name": "Turtle Ridge (Turtle Ledge)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5424905221"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

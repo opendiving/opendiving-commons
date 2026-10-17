@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.426232,
+      35.960443
+    ]
+  },
+  "properties": {
+    "uuid": "190d0131-be22-562d-b5c8-c4d6c548735d",
+    "name": "Qawra Tramuntana",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614926336"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Qawra North"
+      }
+    }
+  }
+}

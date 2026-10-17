@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.772066,
+      1.792737
+    ]
+  },
+  "properties": {
+    "uuid": "28a48208-b7cc-5e30-b035-73544704abaa",
+    "name": "Batu Kapal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293832250"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

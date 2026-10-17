@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.17512,
+      47.06042
+    ]
+  },
+  "properties": {
+    "uuid": "e6c5d7d5-1e30-5f2b-974e-50a69645daf1",
+    "name": "Hagneckkanal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870034"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

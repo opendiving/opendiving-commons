@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.66976,
+      47.393341
+    ]
+  },
+  "properties": {
+    "uuid": "545e173b-41d0-5007-be03-ed9601658d4c",
+    "name": "Schmitter Zoll Einstieg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087346"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

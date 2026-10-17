@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.569183,
+      45.333733
+    ]
+  },
+  "properties": {
+    "uuid": "e1771488-ac01-5c8c-bbab-cc7da1f8c817",
+    "name": "Аллея вождей",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3228465468"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

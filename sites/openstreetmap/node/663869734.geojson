@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.297433,
+      44.750917
+    ]
+  },
+  "properties": {
+    "uuid": "6ddbc586-b5c3-5178-be0b-f668548f6d10",
+    "name": "Zeca",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869734"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

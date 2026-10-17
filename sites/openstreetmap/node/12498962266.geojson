@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.786352,
+      43.725936
+    ]
+  },
+  "properties": {
+    "uuid": "71aa5ddf-894c-5ac7-bcc0-4c889027210b",
+    "name": "Plavi Jadran",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12498962266"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

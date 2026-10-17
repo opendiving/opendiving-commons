@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.093053,
+      11.921803
+    ]
+  },
+  "properties": {
+    "uuid": "1157919e-fd47-5563-a49d-f1c2eb99b52d",
+    "name": "Dixon's",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/649985251"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

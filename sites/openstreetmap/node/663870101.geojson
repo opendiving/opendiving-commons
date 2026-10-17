@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.05351,
+      47.39944
+    ]
+  },
+  "properties": {
+    "uuid": "e2cc33d6-8f6c-5613-9676-3a8d4647bc07",
+    "name": "Rüchligwehr",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

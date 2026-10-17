@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.330822,
+      46.979318
+    ]
+  },
+  "properties": {
+    "uuid": "69551359-ee2f-5213-95e7-571be68f961b",
+    "name": "Lopper Acheregg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870081"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

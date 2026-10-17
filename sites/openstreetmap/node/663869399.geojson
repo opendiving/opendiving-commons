@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.291505,
+      12.108785
+    ]
+  },
+  "properties": {
+    "uuid": "30181948-2926-53f2-aedb-d5ea3cf4a336",
+    "name": "Punt Vierkant",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869399"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

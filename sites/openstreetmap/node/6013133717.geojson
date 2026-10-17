@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.162047,
+      5.255602
+    ]
+  },
+  "properties": {
+    "uuid": "409db6d1-4030-5485-b60b-341fbafbf414",
+    "name": "Housereef West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6013133717"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

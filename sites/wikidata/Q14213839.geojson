@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.454233,
+      -34.19815
+    ]
+  },
+  "properties": {
+    "uuid": "836a799d-813b-5bd1-8bdc-59896a8ce294",
+    "name": "Penguin Point",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213839"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

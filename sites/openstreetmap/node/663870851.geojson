@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.797278,
+      47.863739
+    ]
+  },
+  "properties": {
+    "uuid": "5f82bb51-fc6c-55ea-9784-729281ee889e",
+    "name": "Traunsee - Eisenau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870851"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.48155,
+      -34.267483
+    ]
+  },
+  "properties": {
+    "uuid": "8479ed1a-b79e-5673-b12b-bb9bd0cc74dd",
+    "name": "Good Hope Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213765"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

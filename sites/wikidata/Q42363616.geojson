@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.481533,
+      -34.255617
+    ]
+  },
+  "properties": {
+    "uuid": "0b4b2dbf-9ea8-5b89-9ee1-b6c82146c913",
+    "name": "Seal Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42363616"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

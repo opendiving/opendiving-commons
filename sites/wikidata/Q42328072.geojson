@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4775,
+      -34.2387
+    ]
+  },
+  "properties": {
+    "uuid": "8ab91be0-ef5d-5cad-bccd-eca88f7ba8c2",
+    "name": "North Castle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42328072"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

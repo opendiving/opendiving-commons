@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.176469,
+      44.310548
+    ]
+  },
+  "properties": {
+    "uuid": "455153d4-c14f-5ca1-9b7d-1655d3c9d00b",
+    "name": "Colombara",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504275763"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

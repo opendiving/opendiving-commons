@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.846824,
+      55.624623
+    ]
+  },
+  "properties": {
+    "uuid": "e5ded1b9-d511-5153-a1f4-daa07ad48d30",
+    "name": "Snorkel trail",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10552874754"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

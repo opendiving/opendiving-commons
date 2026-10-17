@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.043015,
+      -8.349607
+    ]
+  },
+  "properties": {
+    "uuid": "04922905-36dc-582d-afec-98a76ea5a37f",
+    "name": "Trawangan Dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/14716724"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

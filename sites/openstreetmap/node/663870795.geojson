@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.337117,
+      47.85255
+    ]
+  },
+  "properties": {
+    "uuid": "a667d715-4454-569e-85de-53207b84ce03",
+    "name": "Starnberger See - Ambach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870795"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

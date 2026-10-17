@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.698121,
+      -0.475099
+    ]
+  },
+  "properties": {
+    "uuid": "fe5e8bee-a901-5d5b-a92e-9a5068c0b478",
+    "name": "Friwen Bonda",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5349889523"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

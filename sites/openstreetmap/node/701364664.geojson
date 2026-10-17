@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.71657,
+      24.15956
+    ]
+  },
+  "properties": {
+    "uuid": "15d175de-bc75-5960-a464-2cb26d93f02f",
+    "name": "Sataya East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701364664"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

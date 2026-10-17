@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.393313,
+      44.779497
+    ]
+  },
+  "properties": {
+    "uuid": "56afca5f-7768-54d2-9625-1988c1ec1b43",
+    "name": "The Conestoga",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7814063292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

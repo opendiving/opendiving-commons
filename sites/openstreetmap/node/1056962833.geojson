@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.502834,
+      51.021833
+    ]
+  },
+  "properties": {
+    "uuid": "9942ce28-a849-55ed-be81-d6513d6c0f35",
+    "name": "De Nekker",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1056962833"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

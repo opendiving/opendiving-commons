@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.204715,
+      23.61666
+    ]
+  },
+  "properties": {
+    "uuid": "1c0409a8-31fd-5565-91ad-7a073951082a",
+    "name": "Khanka",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1068557880"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.188715,
+      36.053012
+    ]
+  },
+  "properties": {
+    "uuid": "4920688a-453a-52fa-bda8-d01bb1b04688",
+    "name": "Il-Ħofra tal-Bidwin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/384936428"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

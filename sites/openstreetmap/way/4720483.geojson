@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.243699,
+      51.628751
+    ]
+  },
+  "properties": {
+    "uuid": "0f93e22a-19e6-576e-98b3-7e185552f6fd",
+    "name": "Förstergrube",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4720483"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

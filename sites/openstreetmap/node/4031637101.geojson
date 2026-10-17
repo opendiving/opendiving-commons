@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      162.989249,
+      5.25881
+    ]
+  },
+  "properties": {
+    "uuid": "bf569ceb-80a7-5829-8467-73fe403a61cb",
+    "name": "Hiroshi East End",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031637101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

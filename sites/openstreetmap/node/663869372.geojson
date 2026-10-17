@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.750106,
+      21.244582
+    ]
+  },
+  "properties": {
+    "uuid": "746330c6-b521-537c-8e0a-74f8722e8d8a",
+    "name": "El Farito",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869372"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.57191,
+      46.12352
+    ]
+  },
+  "properties": {
+    "uuid": "4802127b-c97d-5b27-b53e-d96c2c513c72",
+    "name": "Lac de Moiry-Rochers de Paris",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869967"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

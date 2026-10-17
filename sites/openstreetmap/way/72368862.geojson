@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.870208,
+      47.817116
+    ]
+  },
+  "properties": {
+    "uuid": "89808931-c5a9-5129-aff5-0c28b0d50abd",
+    "name": "Lac d'Alfeld",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/72368862"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

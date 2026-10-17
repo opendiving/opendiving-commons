@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.546474,
+      42.855314
+    ]
+  },
+  "properties": {
+    "uuid": "74c9a557-15a4-517f-8ce2-72c5d1eaa3fe",
+    "name": "Cerboli Anchor",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1835981018"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

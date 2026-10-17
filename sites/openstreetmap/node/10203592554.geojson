@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.290096,
+      36.016772
+    ]
+  },
+  "properties": {
+    "uuid": "7690655b-508b-52ef-9a75-06c02e6a2e59",
+    "name": "MT Hephaestus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10203592554"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

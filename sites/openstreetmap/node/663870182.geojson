@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.845,
+      46.24847
+    ]
+  },
+  "properties": {
+    "uuid": "74a7976e-2583-56ce-b170-60cdf6a4c25c",
+    "name": "Pozzo della Misura",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870182"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

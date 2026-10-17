@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.67306,
+      4.8054
+    ]
+  },
+  "properties": {
+    "uuid": "8506e079-3d41-5f36-9ec8-0ed576f52dba",
+    "name": "Tanjung Gemuk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3033956551"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

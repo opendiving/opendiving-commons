@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.657579,
+      49.943259
+    ]
+  },
+  "properties": {
+    "uuid": "ee424644-37f5-51b2-9ef3-25f64bdd61c3",
+    "name": "lom - Svobodné Heřmanice",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/963990699"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

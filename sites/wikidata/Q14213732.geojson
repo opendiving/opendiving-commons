@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.837717,
+      -34.171833
+    ]
+  },
+  "properties": {
+    "uuid": "a8736839-6001-5783-84db-67cd433c0a40",
+    "name": "Cow and Calf",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213732"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

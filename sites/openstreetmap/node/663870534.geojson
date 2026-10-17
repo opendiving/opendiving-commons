@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.486167,
+      49.4055
+    ]
+  },
+  "properties": {
+    "uuid": "5374c1f7-46f7-5163-a5f7-5070864927b6",
+    "name": "Marxweiher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870534"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

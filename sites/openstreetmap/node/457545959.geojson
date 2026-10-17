@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.63041,
+      58.204498
+    ]
+  },
+  "properties": {
+    "uuid": "5e359a3c-a1c8-5acb-abed-0a0026ce3b28",
+    "name": "Indre Kalven",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/457545959"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

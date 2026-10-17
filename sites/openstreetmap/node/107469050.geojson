@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.562422,
+      47.347138
+    ]
+  },
+  "properties": {
+    "uuid": "b0cf8ca5-9dd6-5005-a657-29c58c405a54",
+    "name": "WZT;Luftverbund",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/107469050"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

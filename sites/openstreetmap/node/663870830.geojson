@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5822,
+      47.924783
+    ]
+  },
+  "properties": {
+    "uuid": "0489322f-380b-5044-9ea6-029aa295ade2",
+    "name": "Attersee - Nöhmer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870830"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

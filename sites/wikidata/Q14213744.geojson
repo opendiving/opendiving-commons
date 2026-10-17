@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.361831,
+      -33.972792
+    ]
+  },
+  "properties": {
+    "uuid": "43ad2ca9-4b29-5ea9-9769-d357bd6af5f4",
+    "name": "Dreadlocks Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213744"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

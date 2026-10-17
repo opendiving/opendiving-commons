@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.995057,
+      40.128042
+    ]
+  },
+  "properties": {
+    "uuid": "3fc3d43e-1ad9-57da-838e-17d045844305",
+    "name": "La Reggia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665503266"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

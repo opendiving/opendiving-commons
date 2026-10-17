@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.321873,
+      12.210866
+    ]
+  },
+  "properties": {
+    "uuid": "0ddf6398-1133-5a67-8ed3-d59f8ea04470",
+    "name": "1000 Steps",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1495901720"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

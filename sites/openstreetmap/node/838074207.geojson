@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.880859,
+      51.657115
+    ]
+  },
+  "properties": {
+    "uuid": "e5f9334a-76bf-55a3-b3f2-b139b527b745",
+    "name": "Kisternol",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074207"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

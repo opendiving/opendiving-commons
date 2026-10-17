@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.304453,
+      -0.59303
+    ]
+  },
+  "properties": {
+    "uuid": "aae657c0-d71a-5211-bb69-29b14e086065",
+    "name": "Keruo Night Dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045665467"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.028072,
+      35.402279
+    ]
+  },
+  "properties": {
+    "uuid": "b1f58ba8-fd94-5ef0-a2e7-629ad5f1cfca",
+    "name": "Lygaria",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2467454824"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

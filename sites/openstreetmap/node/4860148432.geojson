@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.194061,
+      11.311471
+    ]
+  },
+  "properties": {
+    "uuid": "90649b66-fc9d-5f6a-8b7a-99673fa7e1ad",
+    "name": "Salichin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4860148432"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

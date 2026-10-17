@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.388001,
+      -29.922992
+    ]
+  },
+  "properties": {
+    "uuid": "6a58fff8-a69a-5561-90d9-19fcab011263",
+    "name": "Anemone Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4852971260"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

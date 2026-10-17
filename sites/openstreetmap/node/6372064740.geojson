@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -14.334492,
+      28.042376
+    ]
+  },
+  "properties": {
+    "uuid": "9ba9bb08-20d7-5b87-88b3-963dce178fd6",
+    "name": "Kleines Muränenriff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6372064740"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.334424,
+      47.934918
+    ]
+  },
+  "properties": {
+    "uuid": "15ce3204-4703-57e1-a18c-ed7cbf3ebfba",
+    "name": "Starnberger See - Wintertauchplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870796"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

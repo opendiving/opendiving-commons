@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.22935,
+      47.12469
+    ]
+  },
+  "properties": {
+    "uuid": "31ba35e1-3dab-500f-98fc-eb145ce5e112",
+    "name": "Nidaukanal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870097"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

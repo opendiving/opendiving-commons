@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.899673,
+      6.536827
+    ]
+  },
+  "properties": {
+    "uuid": "28490afa-65d9-5b34-8ca5-28652abbc732",
+    "name": "Lankayan - Sunnug Lair",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735121553"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

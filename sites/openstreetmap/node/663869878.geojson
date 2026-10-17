@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.953955,
+      29.544722
+    ]
+  },
+  "properties": {
+    "uuid": "a51040b1-9f56-5842-a3de-2e2433d7cb5f",
+    "name": "סופה",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869878"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Soufa"
+      }
+    }
+  }
+}

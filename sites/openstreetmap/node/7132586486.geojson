@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.41287,
+      11.903953
+    ]
+  },
+  "properties": {
+    "uuid": "3b2c05f5-1db9-5053-a463-8e475b5bc715",
+    "name": "Good snorkeling",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7132586486"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Diving and Snorkeling spot"
+      }
+    }
+  }
+}

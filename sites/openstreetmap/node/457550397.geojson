@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.681198,
+      58.214871
+    ]
+  },
+  "properties": {
+    "uuid": "d1cd4a10-26d7-5883-947a-de4b18722ccc",
+    "name": "Hunden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/457550397"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.688933,
+      9.514833
+    ]
+  },
+  "properties": {
+    "uuid": "f7d6a3d1-c1cf-59c8-bd42-fa5d9645cd6c",
+    "name": "Black Forest",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871185"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

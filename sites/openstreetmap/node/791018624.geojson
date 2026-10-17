@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.225805,
+      42.044248
+    ]
+  },
+  "properties": {
+    "uuid": "2bfacc7b-4802-5f37-98fc-e58ca14f2e0c",
+    "name": "Dolfi Nord",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/791018624"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

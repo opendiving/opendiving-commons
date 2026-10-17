@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.983942,
+      34.982534
+    ]
+  },
+  "properties": {
+    "uuid": "29d7bc6e-ca9a-563b-9bdd-037a6166d9b4",
+    "name": "Museum of Underwater Sculpture Ayia Napa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1020897856"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

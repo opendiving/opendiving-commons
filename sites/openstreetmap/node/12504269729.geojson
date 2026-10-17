@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.179888,
+      44.308495
+    ]
+  },
+  "properties": {
+    "uuid": "a18b6c64-853a-54da-b11a-f4fd647a3c18",
+    "name": "Andrea Ghisotti (ex Scoglio del Raviolo)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504269729"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

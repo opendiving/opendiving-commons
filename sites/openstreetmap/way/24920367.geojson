@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.274927,
+      52.542038
+    ]
+  },
+  "properties": {
+    "uuid": "9a70465b-3f73-520d-b153-306ee761cf5d",
+    "name": "Stoney Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/24920367"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.238056,
+      50.705
+    ]
+  },
+  "properties": {
+    "uuid": "9877a7c9-1bf6-5ec7-b3ea-f806f6c69732",
+    "name": "City of London",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869600"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

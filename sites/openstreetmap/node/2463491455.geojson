@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.820822,
+      7.636639
+    ]
+  },
+  "properties": {
+    "uuid": "d744ec47-6e37-5036-837a-f4f3cffff810",
+    "name": "หินบิดา",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2463491455"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Hin Bida"
+      }
+    }
+  }
+}

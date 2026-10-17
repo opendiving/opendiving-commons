@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.496747,
+      48.90304
+    ]
+  },
+  "properties": {
+    "uuid": "00ee4f0a-6217-5015-b7d8-763c9a017fab",
+    "name": "Attinger Weiher 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/34603489"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

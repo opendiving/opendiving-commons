@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.712409,
+      29.183704
+    ]
+  },
+  "properties": {
+    "uuid": "9b93b27b-c49e-569b-820c-e97a4ca3eada",
+    "name": "Juniper Springs",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6575351894"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

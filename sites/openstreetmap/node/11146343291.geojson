@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.907435,
+      48.669291
+    ]
+  },
+  "properties": {
+    "uuid": "86d62a52-4ce6-58e5-9fb9-4c4412363394",
+    "name": "Carantec Plongée",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11146343291"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

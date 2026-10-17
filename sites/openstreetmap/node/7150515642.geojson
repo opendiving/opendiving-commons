@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.296525,
+      10.631653
+    ]
+  },
+  "properties": {
+    "uuid": "22a6c829-b880-57e1-9fbb-02e145259b5f",
+    "name": "Middle tree",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7150515642"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

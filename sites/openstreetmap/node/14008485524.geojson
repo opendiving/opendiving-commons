@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.119745,
+      40.098028
+    ]
+  },
+  "properties": {
+    "uuid": "aa061605-4f96-5c88-8f46-a5f7147076f4",
+    "name": "Shpella Nënujore e Viroit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14008485524"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Viroi Underwater Cave"
+      }
+    }
+  }
+}

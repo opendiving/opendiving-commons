@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.645718,
+      45.160386
+    ]
+  },
+  "properties": {
+    "uuid": "1a177d49-e36d-5878-b76a-6f83cad11d4c",
+    "name": "Peltastis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870769"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.461759,
+      -0.525111
+    ]
+  },
+  "properties": {
+    "uuid": "bfb1eb09-4654-5e25-8c1b-8ed9776dd176",
+    "name": "Mangrove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167289732"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

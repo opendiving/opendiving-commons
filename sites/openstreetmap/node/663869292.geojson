@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.505,
+      48.558333
+    ]
+  },
+  "properties": {
+    "uuid": "2fe82a4b-a26b-5cd1-9a62-8c11c649f31e",
+    "name": "McKenzie Bright",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

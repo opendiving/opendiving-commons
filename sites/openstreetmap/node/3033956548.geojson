@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.67574,
+      4.806749
+    ]
+  },
+  "properties": {
+    "uuid": "089e012c-10c4-5a0d-8586-fd7f42f95919",
+    "name": "Turtle Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3033956548"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

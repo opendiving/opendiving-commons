@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.673077,
+      -38.295417
+    ]
+  },
+  "properties": {
+    "uuid": "c5255f84-f339-5be9-b286-f6c6743322ca",
+    "name": "Eliza Ramsden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869655"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

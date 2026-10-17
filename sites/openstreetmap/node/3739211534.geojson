@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.222398,
+      -8.772638
+    ]
+  },
+  "properties": {
+    "uuid": "fb49a529-4a92-5cb7-95fe-866bddc68e59",
+    "name": "PADI Bali Scuba Masters",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3739211534"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

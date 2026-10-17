@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      100.043917,
+      6.069247
+    ]
+  },
+  "properties": {
+    "uuid": "52f8b190-fd32-54f5-b018-079d7046e293",
+    "name": "Shark Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6806162537"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.382443,
+      3.666047
+    ]
+  },
+  "properties": {
+    "uuid": "4643a922-567c-5fed-ac01-20e8f8cab4ab",
+    "name": "Kunaavashi Kandu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869892"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

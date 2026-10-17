@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.38556,
+      -33.83986
+    ]
+  },
+  "properties": {
+    "uuid": "5f901834-cc8d-506f-b14d-4598abe7bcf2",
+    "name": "MV Daeyang Family",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213805"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

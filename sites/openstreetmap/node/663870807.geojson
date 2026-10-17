@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.559933,
+      47.86
+    ]
+  },
+  "properties": {
+    "uuid": "fec75630-0924-562c-9d38-c475eb22dd9e",
+    "name": "Attersee - Liebesbrücke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870807"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

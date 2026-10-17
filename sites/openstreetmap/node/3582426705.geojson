@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.835054,
+      10.122923
+    ]
+  },
+  "properties": {
+    "uuid": "7977275a-a656-5d46-b869-b575cd7ae8ba",
+    "name": "อ่าวม่วง",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3582426705"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Mango Bay"
+      }
+    }
+  }
+}

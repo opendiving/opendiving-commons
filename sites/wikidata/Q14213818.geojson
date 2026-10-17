@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.812,
+      -34.3125
+    ]
+  },
+  "properties": {
+    "uuid": "06a25f42-8326-5cb0-bb68-95975ae21595",
+    "name": "Mike’s Point",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213818"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

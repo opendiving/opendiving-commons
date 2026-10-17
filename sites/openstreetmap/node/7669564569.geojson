@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.050596,
+      50.146797
+    ]
+  },
+  "properties": {
+    "uuid": "8fbc9e54-2142-5047-9493-93602d4599bd",
+    "name": "Pendennis Shore Dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7669564569"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

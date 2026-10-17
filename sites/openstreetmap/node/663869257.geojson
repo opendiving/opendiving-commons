@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.539059,
+      -16.664726
+    ]
+  },
+  "properties": {
+    "uuid": "81265bab-aa6b-5507-948d-49fab9491732",
+    "name": "Pa’ipa’i",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869257"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

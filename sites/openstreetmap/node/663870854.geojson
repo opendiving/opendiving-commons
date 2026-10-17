@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.797281,
+      47.863732
+    ]
+  },
+  "properties": {
+    "uuid": "91a6f25a-fad2-545c-a865-39bdbb877476",
+    "name": "Traunsee - Madonna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870854"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

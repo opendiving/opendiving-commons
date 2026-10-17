@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.111222,
+      36.761046
+    ]
+  },
+  "properties": {
+    "uuid": "af766638-1045-5519-a94a-f463259e4744",
+    "name": "CB iSub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/299665191"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

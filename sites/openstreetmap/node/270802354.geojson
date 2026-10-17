@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.776816,
+      -15.512587
+    ]
+  },
+  "properties": {
+    "uuid": "b16d3839-c16a-5186-bddf-f76fe73fd2ca",
+    "name": "Flare Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802354"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

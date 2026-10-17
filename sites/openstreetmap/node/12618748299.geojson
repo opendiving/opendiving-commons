@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.747188,
+      12.537996
+    ]
+  },
+  "properties": {
+    "uuid": "c74cf043-52da-5eff-a7c6-8417a96948aa",
+    "name": "Punta Padi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748299"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

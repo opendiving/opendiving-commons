@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.3315,
+      42.319978
+    ]
+  },
+  "properties": {
+    "uuid": "00168aff-7292-5c7c-9eed-538449dc46e5",
+    "name": "Massa d'Or (la Rata)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869684"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

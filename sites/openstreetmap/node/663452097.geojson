@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.696602,
+      47.321282
+    ]
+  },
+  "properties": {
+    "uuid": "b0b77e4e-ae2b-5b74-b520-dc58504c5076",
+    "name": "Bad Egg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452097"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

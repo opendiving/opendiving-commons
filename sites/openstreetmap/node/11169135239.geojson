@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.749124,
+      5.912943
+    ]
+  },
+  "properties": {
+    "uuid": "5107e4c1-e47c-51f0-b394-133daaafdab1",
+    "name": "Kapal Polis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11169135239"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Police Wreck"
+      }
+    }
+  }
+}

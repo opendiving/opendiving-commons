@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.680475,
+      45.076254
+    ]
+  },
+  "properties": {
+    "uuid": "97c1c9ce-8db6-552d-9e6c-325b735ca4e4",
+    "name": "Vajavine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3084519395"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "100 Steps"
+      }
+    }
+  }
+}

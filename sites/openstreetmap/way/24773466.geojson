@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.014522,
+      51.247838
+    ]
+  },
+  "properties": {
+    "uuid": "7db370a7-d801-5db2-b77f-294e3a3e7c96",
+    "name": "Steinbruchsee Prelle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/24773466"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4798,
+      -34.25775
+    ]
+  },
+  "properties": {
+    "uuid": "477d0ab4-06b4-594f-acdf-312fa42c2d65",
+    "name": "Big Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42363511"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

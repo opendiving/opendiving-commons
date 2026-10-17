@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13613,
+      53.697426
+    ]
+  },
+  "properties": {
+    "uuid": "946c5745-b473-5f78-859f-d1bd9c395a5f",
+    "name": "Schwarzer Wohnwagen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14079446333"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.46392,
+      46.97658
+    ]
+  },
+  "properties": {
+    "uuid": "2ad481c1-8043-5d8b-a45d-acf2d72e2825",
+    "name": "Hammerschmitte",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870035"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

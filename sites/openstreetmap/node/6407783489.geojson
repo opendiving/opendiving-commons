@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.211511,
+      9.347698
+    ]
+  },
+  "properties": {
+    "uuid": "98e6b1c3-f56c-5aa4-87b5-29fa33837939",
+    "name": "Scuba 6 Eco Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6407783489"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.195828,
+      44.305488
+    ]
+  },
+  "properties": {
+    "uuid": "87169a3f-e7af-5203-b902-30681eef0eec",
+    "name": "Punta dell'Altare",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504281150"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

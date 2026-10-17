@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.42332,
+      47.799579
+    ]
+  },
+  "properties": {
+    "uuid": "bedf1513-d0d4-59d3-bfe7-475fb58ef59a",
+    "name": "Mondsee - Kreuzstein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870751"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

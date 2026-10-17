@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.817868,
+      45.936191
+    ]
+  },
+  "properties": {
+    "uuid": "00ea8bb1-4eee-5693-86b6-b3cd0f788081",
+    "name": "Tenno lake rent",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5851223760"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.29885,
+      -34.025033
+    ]
+  },
+  "properties": {
+    "uuid": "3d128d3f-1dc6-5a05-8b9b-67a4af385b17",
+    "name": "Wilhelm's Wall",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41773379"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

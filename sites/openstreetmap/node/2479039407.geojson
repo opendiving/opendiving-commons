@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.100116,
+      45.732933
+    ]
+  },
+  "properties": {
+    "uuid": "e80b56b5-c9d9-555f-b22c-6bbaeea2d671",
+    "name": "Porche des Eaux Mortes",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2479039407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

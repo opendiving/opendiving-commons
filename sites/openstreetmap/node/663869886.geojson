@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.77895,
+      3.654217
+    ]
+  },
+  "properties": {
+    "uuid": "da77f279-8c4d-5740-8d33-2b80e7d8195c",
+    "name": "Pineapple Island Hausriff",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869886"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.75639,
+      46.40444
+    ]
+  },
+  "properties": {
+    "uuid": "96ae9c4c-0e2d-5cc9-bc83-3d5f00c6dfae",
+    "name": "Site de Plongée de Locum",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3030544976"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

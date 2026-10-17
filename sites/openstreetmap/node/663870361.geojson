@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.60271,
+      47.64139
+    ]
+  },
+  "properties": {
+    "uuid": "8abc67b3-42dc-51ec-af76-ab5538ab4504",
+    "name": "Kloster",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870361"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.184067,
+      44.734583
+    ]
+  },
+  "properties": {
+    "uuid": "17e4dabe-2880-5ef4-9b57-a16e33385e65",
+    "name": "Galijola",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869735"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

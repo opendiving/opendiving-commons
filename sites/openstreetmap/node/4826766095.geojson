@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.314258,
+      6.484679
+    ]
+  },
+  "properties": {
+    "uuid": "06381a7b-bbb7-553e-9f06-10364859478e",
+    "name": "เกาะอุเสน",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4826766095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ko Usen"
+      }
+    }
+  }
+}

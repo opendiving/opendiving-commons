@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.885832,
+      52.450931
+    ]
+  },
+  "properties": {
+    "uuid": "f19c0a94-bc27-5a35-b54e-0c93f65cff76",
+    "name": "Bestelbus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810586462"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.496152,
+      48.222332
+    ]
+  },
+  "properties": {
+    "uuid": "ba969fce-cda9-5db4-a754-8d0906993a0b",
+    "name": "Centre de Plongée I.S.A.",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587806"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

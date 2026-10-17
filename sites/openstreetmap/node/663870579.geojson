@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.061159,
+      51.200515
+    ]
+  },
+  "properties": {
+    "uuid": "cd328dbd-fcab-5b71-8c2c-6faf8067a3a3",
+    "name": "Edersee: Tauchzone II (Sitte)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870579"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

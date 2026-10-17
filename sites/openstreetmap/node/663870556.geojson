@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.296333,
+      51.7605
+    ]
+  },
+  "properties": {
+    "uuid": "149b3ca4-c09b-5d16-8f04-6f9c2a2ac279",
+    "name": "Wisseler See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870556"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

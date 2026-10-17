@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.351121,
+      27.91296
+    ]
+  },
+  "properties": {
+    "uuid": "47659185-7b35-57d4-8088-f8b5706486c9",
+    "name": "Middle Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/279811209"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

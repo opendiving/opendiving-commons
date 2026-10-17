@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.226774,
+      1.461073
+    ]
+  },
+  "properties": {
+    "uuid": "12a0efbf-4d53-5fa2-83d1-baffcad8078c",
+    "name": "Nudi Falls",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12224048419"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

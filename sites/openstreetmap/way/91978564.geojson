@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.178779,
+      24.788527
+    ]
+  },
+  "properties": {
+    "uuid": "21235791-4381-5024-bce0-03e5164bf6db",
+    "name": "Shaab Sharm",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/91978564"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

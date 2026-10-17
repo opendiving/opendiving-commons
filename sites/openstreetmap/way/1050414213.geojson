@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.875671,
+      51.179227
+    ]
+  },
+  "properties": {
+    "uuid": "f8dc144f-fe27-5732-b2a9-7d83bf8a8acd",
+    "name": "3m platform",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1050414213"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.719935,
+      1.623267
+    ]
+  },
+  "properties": {
+    "uuid": "8d6e1c22-6d46-5982-839f-baec946af34f",
+    "name": "Muka Gereja",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293853962"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

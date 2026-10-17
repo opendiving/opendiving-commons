@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.572828,
+      47.328987
+    ]
+  },
+  "properties": {
+    "uuid": "ffaccbcc-d27e-56f8-9145-173ac9ebcb3a",
+    "name": "Terlinden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/371470562"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

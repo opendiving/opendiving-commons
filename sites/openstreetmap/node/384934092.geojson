@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.248695,
+      36.081745
+    ]
+  },
+  "properties": {
+    "uuid": "b495a634-bb05-5ba8-aa7d-54a69cf0f3c9",
+    "name": "Calypso Cave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/384934092"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

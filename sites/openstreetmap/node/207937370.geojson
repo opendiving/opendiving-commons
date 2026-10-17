@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.576804,
+      47.322077
+    ]
+  },
+  "properties": {
+    "uuid": "676e2b8a-3359-52ee-a5c7-24e07dea27c0",
+    "name": "Ermitage",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/207937370"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

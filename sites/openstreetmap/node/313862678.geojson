@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.287201,
+      12.167472
+    ]
+  },
+  "properties": {
+    "uuid": "18a76de7-d227-5e9d-a097-3501702fb544",
+    "name": "Bari Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/313862678"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

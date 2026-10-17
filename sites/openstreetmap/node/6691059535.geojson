@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.628453,
+      43.157657
+    ]
+  },
+  "properties": {
+    "uuid": "c79a8fde-d851-5307-a0d1-6adeeac9d84f",
+    "name": "Prophète",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6691059535"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

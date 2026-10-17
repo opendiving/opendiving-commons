@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.025581,
+      -8.337684
+    ]
+  },
+  "properties": {
+    "uuid": "d7c12327-0536-527e-9906-f722c06b8869",
+    "name": "Jack Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669751"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

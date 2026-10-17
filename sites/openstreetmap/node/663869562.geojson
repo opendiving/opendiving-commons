@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.493483,
+      51.487933
+    ]
+  },
+  "properties": {
+    "uuid": "c3b62be4-5786-51d8-8448-85bb36146cf2",
+    "name": "M.F.V. Mystique",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869562"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

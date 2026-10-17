@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.447867,
+      51.6107
+    ]
+  },
+  "properties": {
+    "uuid": "adfc04af-0d03-5bfa-bd97-4acbe90c0312",
+    "name": "Tröbitz Nordfeld",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870921"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

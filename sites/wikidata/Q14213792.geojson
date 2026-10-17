@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.426233,
+      -34.187317
+    ]
+  },
+  "properties": {
+    "uuid": "9f06a2b6-e9eb-5a44-8757-3b5845766069",
+    "name": "Long Beach Simon's Town",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213792"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

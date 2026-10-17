@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.254072,
+      48.417845
+    ]
+  },
+  "properties": {
+    "uuid": "13007c69-37fa-519a-b54b-494ee411dc8e",
+    "name": "Virtue Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869288"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

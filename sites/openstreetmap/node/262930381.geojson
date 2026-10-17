@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.750675,
+      54.823625
+    ]
+  },
+  "properties": {
+    "uuid": "061921ab-4c4c-554e-8686-446f0ed57145",
+    "name": "Inger Klit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/262930381"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

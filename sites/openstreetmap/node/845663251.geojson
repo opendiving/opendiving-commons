@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.768287,
+      46.681869
+    ]
+  },
+  "properties": {
+    "uuid": "4eeda580-3d05-586f-8269-19934330d2ec",
+    "name": "Balmholz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845663251"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

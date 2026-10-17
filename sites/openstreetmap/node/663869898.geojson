@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.386212,
+      3.807211
+    ]
+  },
+  "properties": {
+    "uuid": "ce9e45b8-94ed-571c-b8cb-012b1075042a",
+    "name": "Origandu Finolhu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869898"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.169153,
+      44.312599
+    ]
+  },
+  "properties": {
+    "uuid": "e617a6fa-89c0-5a39-9e52-96c0ae07355c",
+    "name": "Punta dell'Indiano",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504242624"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

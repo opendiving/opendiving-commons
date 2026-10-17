@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.094439,
+      27.738611
+    ]
+  },
+  "properties": {
+    "uuid": "fe695a7b-cd46-599c-ad46-6d5807c43145",
+    "name": "Sha'ab Mahmud",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14219878"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

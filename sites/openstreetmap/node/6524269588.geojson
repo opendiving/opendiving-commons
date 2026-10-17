@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.85387,
+      43.876701
+    ]
+  },
+  "properties": {
+    "uuid": "562cd822-7f13-55ea-b58e-fef3bb4b0fe9",
+    "name": "Foux de Pompignan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6524269588"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

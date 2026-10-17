@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.688426,
+      57.264696
+    ]
+  },
+  "properties": {
+    "uuid": "d633b52e-bf16-5e47-a06f-9324f3762128",
+    "name": "HMS Port Napier",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/20325186"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

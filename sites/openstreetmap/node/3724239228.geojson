@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.793539,
+      48.482179
+    ]
+  },
+  "properties": {
+    "uuid": "14663846-78da-5098-8044-823499066439",
+    "name": "Wacholderrain",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3724239228"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

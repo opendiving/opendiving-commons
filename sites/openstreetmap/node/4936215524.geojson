@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.825192,
+      28.863006
+    ]
+  },
+  "properties": {
+    "uuid": "37b4332b-95dd-5cdb-bae2-989950bb09f1",
+    "name": "Lanzarote Non Stop Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4936215524"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

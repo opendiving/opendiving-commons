@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.226397,
+      36.447712
+    ]
+  },
+  "properties": {
+    "uuid": "8226912c-b91e-5591-928d-0a7e77e3438e",
+    "name": "Waterhoppers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/793101328"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

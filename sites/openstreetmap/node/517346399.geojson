@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.56005,
+      28.614776
+    ]
+  },
+  "properties": {
+    "uuid": "f138d2b9-dad5-5fa6-9342-4f16217748f5",
+    "name": "Dahayla North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/517346399"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

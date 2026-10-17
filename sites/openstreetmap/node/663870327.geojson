@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.60342,
+      47.28942
+    ]
+  },
+  "properties": {
+    "uuid": "f9c8efac-4992-58db-bc32-d04864d97e16",
+    "name": "Segelclub Herrliberg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870327"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

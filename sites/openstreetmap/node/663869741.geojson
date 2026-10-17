@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.780617,
+      44.864967
+    ]
+  },
+  "properties": {
+    "uuid": "c5fbb80b-dd76-5171-8b80-54b2c3138c4c",
+    "name": "Kap Tanki",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869741"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

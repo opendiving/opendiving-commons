@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.509499,
+      12.617833
+    ]
+  },
+  "properties": {
+    "uuid": "b37c10e2-3e95-55d0-9efb-618fa15484b7",
+    "name": "Corde Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038375"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

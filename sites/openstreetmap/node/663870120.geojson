@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.219,
+      47.29489
+    ]
+  },
+  "properties": {
+    "uuid": "06bcd223-0c21-551c-b356-011365d28538",
+    "name": "Restaurant Delphin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870120"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

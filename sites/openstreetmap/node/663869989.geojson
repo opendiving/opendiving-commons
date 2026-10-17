@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.81049,
+      46.47008
+    ]
+  },
+  "properties": {
+    "uuid": "cce5540e-bea5-5cd8-919f-e3a13e5a9284",
+    "name": "La Pichette",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869989"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

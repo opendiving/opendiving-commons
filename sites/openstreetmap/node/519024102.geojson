@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.958321,
+      3.634707
+    ]
+  },
+  "properties": {
+    "uuid": "f60615fb-4c7e-59de-870c-6d7e57cb4a64",
+    "name": "Exit 8",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/519024102"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

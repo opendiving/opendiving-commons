@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.334633,
+      51.269783
+    ]
+  },
+  "properties": {
+    "uuid": "f40de1d8-4856-5143-854c-1388081fbdfe",
+    "name": "Cospudener See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870878"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

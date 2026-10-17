@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.530281,
+      7.796424
+    ]
+  },
+  "properties": {
+    "uuid": "3848aff6-cb74-539b-b1dc-b8cf6e264332",
+    "name": "Ko Dok Mai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2470089673"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

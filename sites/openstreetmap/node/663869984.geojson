@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.85489,
+      46.45214
+    ]
+  },
+  "properties": {
+    "uuid": "cb1202b8-fa34-54a1-bb50-55539ce0bdcb",
+    "name": "Lac Léman-Port",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869984"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

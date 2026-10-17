@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.497633,
+      47.11764
+    ]
+  },
+  "properties": {
+    "uuid": "85a51c8d-1415-55ab-aaa7-02c51ca44722",
+    "name": "Zigeunerplätzli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452016"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

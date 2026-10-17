@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.575436,
+      47.325167
+    ]
+  },
+  "properties": {
+    "uuid": "ef2a53c1-0a43-5395-a223-aa3feccf0b5b",
+    "name": "Schiffli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452085"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

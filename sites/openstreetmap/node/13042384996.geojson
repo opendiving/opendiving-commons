@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.726583,
+      8.736707
+    ]
+  },
+  "properties": {
+    "uuid": "426add65-5b9a-5162-beba-9471f6995e12",
+    "name": "K-10 Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042384996"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.491383,
+      47.47978
+    ]
+  },
+  "properties": {
+    "uuid": "9e932605-6836-5226-bca3-d394d2b72099",
+    "name": "Kornhaus Rorschach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087361"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

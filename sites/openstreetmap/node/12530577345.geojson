@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.134834,
+      53.69722
+    ]
+  },
+  "properties": {
+    "uuid": "fc4ec59e-06e1-5034-86cc-6f356b2f3c11",
+    "name": "PKW Verkehrsunfall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577345"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

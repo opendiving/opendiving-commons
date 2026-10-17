@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.159754,
+      -0.579643
+    ]
+  },
+  "properties": {
+    "uuid": "5a3c0e19-5fe3-508b-8768-01d82dd2d34c",
+    "name": "Plazas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13123276912"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

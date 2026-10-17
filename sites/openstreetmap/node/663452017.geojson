@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.514077,
+      47.169281
+    ]
+  },
+  "properties": {
+    "uuid": "1a5fbf7a-7c4c-5a35-88b2-aeae6a44b2c7",
+    "name": "Vorstad",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452017"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

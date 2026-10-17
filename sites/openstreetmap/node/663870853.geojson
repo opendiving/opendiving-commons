@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.797284,
+      47.86371
+    ]
+  },
+  "properties": {
+    "uuid": "f1669669-7489-5574-ac4b-2e7ebb56eb28",
+    "name": "Traunsee - Karbach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870853"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

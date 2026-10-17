@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.513246,
+      28.47723
+    ]
+  },
+  "properties": {
+    "uuid": "052f8e08-e0ed-5333-bb7a-a774d9161a94",
+    "name": "الجزر",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/251193886"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "The Islands"
+      }
+    }
+  }
+}

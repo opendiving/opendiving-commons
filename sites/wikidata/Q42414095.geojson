@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.8275,
+      -34.1525
+    ]
+  },
+  "properties": {
+    "uuid": "2fac593a-2f3d-5673-9621-e9cb1c492ea0",
+    "name": "Moddergat",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42414095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

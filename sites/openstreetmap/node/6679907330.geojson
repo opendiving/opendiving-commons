@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.279384,
+      47.79337
+    ]
+  },
+  "properties": {
+    "uuid": "7e3710ff-a787-5cf7-b5e2-2c78247d64ed",
+    "name": "Bigouden Ranniged Ar Mor",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6679907330"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

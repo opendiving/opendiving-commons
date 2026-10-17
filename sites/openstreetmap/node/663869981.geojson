@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.691975,
+      46.499629
+    ]
+  },
+  "properties": {
+    "uuid": "382acc40-1e2e-59ab-84df-e3b2e19d920c",
+    "name": "Lac Léman-Crépine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869981"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

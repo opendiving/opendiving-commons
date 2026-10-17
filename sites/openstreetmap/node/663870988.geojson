@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.971167,
+      52.973667
+    ]
+  },
+  "properties": {
+    "uuid": "6f2a9e5a-8b6f-51d1-ad4a-d250cf510fa0",
+    "name": "Gudelacksee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870988"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

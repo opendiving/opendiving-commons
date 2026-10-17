@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.609138,
+      28.554916
+    ]
+  },
+  "properties": {
+    "uuid": "16b2d2ac-049f-582e-ada2-295c82ed9369",
+    "name": "Eagle's Nest",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/238016491"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

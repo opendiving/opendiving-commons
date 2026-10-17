@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.98722,
+      23.417514
+    ]
+  },
+  "properties": {
+    "uuid": "3c72ee90-b949-5d5b-8a02-25b055ad698a",
+    "name": "Habili Ali",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1213850350"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.498056,
+      12.6215
+    ]
+  },
+  "properties": {
+    "uuid": "b9a7f1f6-587c-54f6-b034-d30ae78e6a05",
+    "name": "Shipwreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

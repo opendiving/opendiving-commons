@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.377783,
+      47.806633
+    ]
+  },
+  "properties": {
+    "uuid": "907f044a-ed7e-5733-89f5-c156c77ecadc",
+    "name": "Mondsee - Harnischwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870749"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

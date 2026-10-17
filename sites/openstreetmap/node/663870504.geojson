@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.121622,
+      48.448453
+    ]
+  },
+  "properties": {
+    "uuid": "1f7847a7-f9ff-5d94-88d6-6ce39d328afc",
+    "name": "Autobahnsee Elchingen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870504"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

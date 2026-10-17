@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.55079,
+      44.825017
+    ]
+  },
+  "properties": {
+    "uuid": "8e326163-5bc5-527c-a293-053131ab9f57",
+    "name": "Font del Truffe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4286676101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

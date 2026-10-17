@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.683367,
+      43.285333
+    ]
+  },
+  "properties": {
+    "uuid": "c03e8f1c-0934-51d6-8b7c-101d02c6b0e2",
+    "name": "Rabiou, La Cathédrale",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6690818920"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

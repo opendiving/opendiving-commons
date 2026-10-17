@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.226217,
+      42.049392
+    ]
+  },
+  "properties": {
+    "uuid": "8e725292-28bd-5e8c-ac5a-b3d09768a4b3",
+    "name": "la Pota del Llop",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/791018588"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.506889,
+      16.322037
+    ]
+  },
+  "properties": {
+    "uuid": "31f1b8de-c1c4-54a8-803e-c2d1d21a1821",
+    "name": "Tobri Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2130801890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

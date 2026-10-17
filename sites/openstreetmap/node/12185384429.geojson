@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.643081,
+      -0.58235
+    ]
+  },
+  "properties": {
+    "uuid": "c50eab06-5498-5fac-a629-ea2cc171fd63",
+    "name": "Erens New",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12185384429"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

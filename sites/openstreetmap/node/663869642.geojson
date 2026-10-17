@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.711678,
+      -38.311678
+    ]
+  },
+  "properties": {
+    "uuid": "04fff5df-6bee-5044-b7a4-40d00e1a5ff5",
+    "name": "Portsea Hole",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869642"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

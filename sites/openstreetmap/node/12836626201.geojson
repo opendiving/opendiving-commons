@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.618296,
+      51.44701
+    ]
+  },
+  "properties": {
+    "uuid": "fae9c862-1732-5d62-b562-7785ba5e9173",
+    "name": "Severnside Sub-Aqua Club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12836626201"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

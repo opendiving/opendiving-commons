@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.610645,
+      -0.901016
+    ]
+  },
+  "properties": {
+    "uuid": "569396a5-155f-5202-aea9-e67f33057b1c",
+    "name": "Galapagos fan dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3667973195"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

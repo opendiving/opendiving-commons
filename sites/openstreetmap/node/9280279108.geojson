@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.155917,
+      24.865179
+    ]
+  },
+  "properties": {
+    "uuid": "d192b183-3207-500f-827d-6539d8169428",
+    "name": "クロスホール",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9280279108"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Kurosuhôru"
+      }
+    }
+  }
+}

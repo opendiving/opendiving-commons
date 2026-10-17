@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.162488,
+      38.692053
+    ]
+  },
+  "properties": {
+    "uuid": "244001bb-2c59-5a80-a232-ecefed354717",
+    "name": "Sutta zà Lisa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2137061116"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.312044,
+      42.760636
+    ]
+  },
+  "properties": {
+    "uuid": "0ef72658-ea2a-5b47-aa43-77a02c0a0809",
+    "name": "Sottolonda",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8992451328"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

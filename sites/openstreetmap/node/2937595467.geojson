@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.683333,
+      46.083333
+    ]
+  },
+  "properties": {
+    "uuid": "46c5ef7f-4f84-5a27-9d05-832a2cfd386b",
+    "name": "Épave Sauerland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937595467"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

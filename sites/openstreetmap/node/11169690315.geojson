@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.904695,
+      51.630525
+    ]
+  },
+  "properties": {
+    "uuid": "708a0964-9eba-5ce7-ae34-e0097c659b5d",
+    "name": "Halverwege",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11169690315"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

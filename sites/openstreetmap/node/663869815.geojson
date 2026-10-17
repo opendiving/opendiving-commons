@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.8046,
+      27.677983
+    ]
+  },
+  "properties": {
+    "uuid": "f2cee882-ca66-5c64-91df-59245ad54fd9",
+    "name": "Barge de Gubal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869815"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

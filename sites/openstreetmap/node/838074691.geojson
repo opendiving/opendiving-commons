@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.002471,
+      52.307768
+    ]
+  },
+  "properties": {
+    "uuid": "38ad0ce8-f21f-5bf0-88e6-e3309e9745ef",
+    "name": "Gaasperplas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074691"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

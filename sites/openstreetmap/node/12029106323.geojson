@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.61167,
+      46.932611
+    ]
+  },
+  "properties": {
+    "uuid": "73f4927f-0bda-5c0a-8046-340ea7946b1a",
+    "name": "Vierwaldstättersee - Tellskapelle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12029106323"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

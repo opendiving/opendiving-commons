@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.767631,
+      7.654406
+    ]
+  },
+  "properties": {
+    "uuid": "11acc738-0ff1-54d3-a855-3b2ae943288d",
+    "name": "เกาะบิดะนอก",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5469289177"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ko Bida Nok"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.14666,
+      52.868056
+    ]
+  },
+  "properties": {
+    "uuid": "5666568c-cf8d-5944-8177-194584391506",
+    "name": "Badesee Halen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870572"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

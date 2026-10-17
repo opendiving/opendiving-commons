@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.598459,
+      43.667462
+    ]
+  },
+  "properties": {
+    "uuid": "b2e7017e-56ce-514b-942b-4c472c7aa910",
+    "name": "Centro de actividades subacuáticas de Viveiro",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/342398643"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.2248,
+      -32.686884
+    ]
+  },
+  "properties": {
+    "uuid": "f2ddbdcd-7b1c-5e8b-b695-de6c24243b70",
+    "name": "Cabbage Tree Island",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3593863240"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

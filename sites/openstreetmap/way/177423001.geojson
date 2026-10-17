@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.84298,
+      51.153917
+    ]
+  },
+  "properties": {
+    "uuid": "fd69abfc-bf91-58d4-bf82-b870d9ce325a",
+    "name": "De Grote Hegge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/177423001"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

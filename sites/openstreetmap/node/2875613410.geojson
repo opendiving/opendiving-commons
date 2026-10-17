@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.007049,
+      52.510487
+    ]
+  },
+  "properties": {
+    "uuid": "c6d05fa0-a3f5-55e5-a672-4c128932514c",
+    "name": "Aqua Fun Purmerend",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2875613410"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

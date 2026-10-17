@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.911639,
+      4.054558
+    ]
+  },
+  "properties": {
+    "uuid": "0c39405e-77d9-5da5-9ca7-e0c1af0f9155",
+    "name": "Halaveli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869881"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

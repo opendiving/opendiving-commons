@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.865662,
+      44.48769
+    ]
+  },
+  "properties": {
+    "uuid": "52d1bb53-37dd-560d-892b-4921d117dfe5",
+    "name": "Résurgence de la Landenouse",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3024804118"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

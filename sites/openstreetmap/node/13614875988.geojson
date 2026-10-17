@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.188688,
+      36.053111
+    ]
+  },
+  "properties": {
+    "uuid": "3192913f-2fd3-5341-936d-8f6909fe1789",
+    "name": "Il-Ħofra tal-Bidwin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614875988"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Blue Hole"
+      }
+    }
+  }
+}

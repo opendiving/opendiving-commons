@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.183975,
+      58.878549
+    ]
+  },
+  "properties": {
+    "uuid": "28a7c588-bdcf-5ea6-a0f3-ab7f3fe7326d",
+    "name": "SMS Dresden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869628"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

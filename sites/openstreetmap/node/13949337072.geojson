@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.983359,
+      50.483268
+    ]
+  },
+  "properties": {
+    "uuid": "d37e3c62-39c6-5b53-b299-1a2e9ec3887a",
+    "name": "Chateau Yquem",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949337072"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

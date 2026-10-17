@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.51328,
+      4.084567
+    ]
+  },
+  "properties": {
+    "uuid": "37bbb4c9-a095-5141-af0b-e23196992b50",
+    "name": "Main jetty exit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/682245383"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.569827,
+      46.997648
+    ]
+  },
+  "properties": {
+    "uuid": "83d24689-b2fd-56ac-abf3-2be88b23f3ba",
+    "name": "Eichwald",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870214"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

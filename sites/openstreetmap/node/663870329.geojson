@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.57403,
+      47.28894
+    ]
+  },
+  "properties": {
+    "uuid": "ebe192e2-a3da-50e1-a501-91f6e84cef8f",
+    "name": "Strandbad Thalwil",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870329"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

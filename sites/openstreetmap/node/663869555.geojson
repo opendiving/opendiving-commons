@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.298,
+      51.297
+    ]
+  },
+  "properties": {
+    "uuid": "7ccf676e-2a57-5057-ba8d-c3b4896c02b7",
+    "name": "S.S. Minnehaha",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869555"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

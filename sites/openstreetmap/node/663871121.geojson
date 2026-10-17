@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.286378,
+      54.439004
+    ]
+  },
+  "properties": {
+    "uuid": "5e342473-a66b-5a8b-a5aa-fd773c628ff4",
+    "name": "Katharinenhof",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871121"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

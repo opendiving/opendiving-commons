@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.681983,
+      25.468414
+    ]
+  },
+  "properties": {
+    "uuid": "067f6876-165a-5de5-9431-3549edb7b929",
+    "name": "Ras Shona",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271180928"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

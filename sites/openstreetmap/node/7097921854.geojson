@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.394414,
+      11.784395
+    ]
+  },
+  "properties": {
+    "uuid": "fe2198d0-e69b-5aa2-9bdb-1cc743c2d29a",
+    "name": "Koh Laun - Scuba Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7097921854"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Diving and Snorkeling spot"
+      }
+    }
+  }
+}

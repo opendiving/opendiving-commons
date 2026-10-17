@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.867397,
+      45.874631
+    ]
+  },
+  "properties": {
+    "uuid": "fef5b306-931d-5f31-83ba-6e55c0161e54",
+    "name": "ArcoSub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14066161656"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

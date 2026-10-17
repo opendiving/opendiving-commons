@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3649,
+      -33.94233
+    ]
+  },
+  "properties": {
+    "uuid": "6ccb6373-443f-5718-bdc9-8810d1d06b4d",
+    "name": "Cleeve's Tunnel",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213722"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

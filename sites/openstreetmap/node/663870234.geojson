@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.614798,
+      46.958985
+    ]
+  },
+  "properties": {
+    "uuid": "e380f111-aba1-5f24-a6de-9483f2ac2623",
+    "name": "Schiefernegg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870234"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

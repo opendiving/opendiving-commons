@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.316667,
+      48.69
+    ]
+  },
+  "properties": {
+    "uuid": "985044f6-9047-5f11-bdb8-2604d9826919",
+    "name": "Joan Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869311"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.303,
+      -34.0345
+    ]
+  },
+  "properties": {
+    "uuid": "0e639149-556c-5532-900b-954372b4a382",
+    "name": "SAS Gelderland",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213869"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

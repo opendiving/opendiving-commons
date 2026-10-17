@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.579375,
+      47.859758
+    ]
+  },
+  "properties": {
+    "uuid": "105a4bfb-11c2-55ac-a0b6-2d1752bc4168",
+    "name": "Douix de Châtillon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/764536299"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

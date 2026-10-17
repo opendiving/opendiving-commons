@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.310517,
+      -34.034217
+    ]
+  },
+  "properties": {
+    "uuid": "4ef181e1-b056-5c37-adfe-e30b9f1c632e",
+    "name": "MV Ker Yar Vor and the Jo May",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213810"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

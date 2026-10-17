@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.179806,
+      60.340786
+    ]
+  },
+  "properties": {
+    "uuid": "3c4da2cc-9eee-55cd-9891-2f7791a382ea",
+    "name": "Äventyrsgruvan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4197632501"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

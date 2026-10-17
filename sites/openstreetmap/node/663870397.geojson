@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.037546,
+      47.80121
+    ]
+  },
+  "properties": {
+    "uuid": "542c6df4-4bde-5a1e-8a74-43ed2d2269fb",
+    "name": "Alter Hafen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870397"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

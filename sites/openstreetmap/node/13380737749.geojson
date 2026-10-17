@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.786965,
+      35.025837
+    ]
+  },
+  "properties": {
+    "uuid": "d9ce624e-a727-5e02-aaa7-4fd143132806",
+    "name": "Wannai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13380737749"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

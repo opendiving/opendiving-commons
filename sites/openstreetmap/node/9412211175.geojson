@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.365004,
+      7.609529
+    ]
+  },
+  "properties": {
+    "uuid": "92d4f28c-fe29-5142-a357-2b17c4ebcf42",
+    "name": "Bungalow bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9412211175"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

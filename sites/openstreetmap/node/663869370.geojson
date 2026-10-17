@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.719894,
+      21.199297
+    ]
+  },
+  "properties": {
+    "uuid": "9a30a9d2-b3d3-58f5-ab5c-99d9e191d140",
+    "name": "Manchones I",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869370"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

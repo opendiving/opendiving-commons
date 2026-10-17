@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.219309,
+      50.802099
+    ]
+  },
+  "properties": {
+    "uuid": "e658e179-e008-550a-9bba-f6b404750105",
+    "name": "Indoor-Tauchcenter dive4life",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870560"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

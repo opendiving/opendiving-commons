@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.165294,
+      5.254978
+    ]
+  },
+  "properties": {
+    "uuid": "65fbd111-18fa-5d2e-8a72-103a4939d3c3",
+    "name": "Housereef East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6013133718"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

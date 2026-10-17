@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.72681,
+      46.46963
+    ]
+  },
+  "properties": {
+    "uuid": "da152566-49d2-5342-8e50-522dfb192b64",
+    "name": "Coluonnas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870248"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

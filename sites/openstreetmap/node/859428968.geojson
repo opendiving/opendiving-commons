@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.810099,
+      10.123752
+    ]
+  },
+  "properties": {
+    "uuid": "4bfee669-dcd3-5330-a442-f199d80853a6",
+    "name": "Green Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/859428968"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

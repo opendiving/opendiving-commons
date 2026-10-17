@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.257522,
+      27.724454
+    ]
+  },
+  "properties": {
+    "uuid": "b46ec6a4-d7a7-5335-9752-9a59beab91e1",
+    "name": "Satellite Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271195267"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

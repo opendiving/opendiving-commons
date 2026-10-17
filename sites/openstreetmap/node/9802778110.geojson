@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -52.968145,
+      47.588242
+    ]
+  },
+  "properties": {
+    "uuid": "7889c2f8-7d4f-5458-9c08-2ac6c6c4369a",
+    "name": "SS Lord Strathcona",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9802778110"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

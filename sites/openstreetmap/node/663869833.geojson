@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.323333,
+      27.870833
+    ]
+  },
+  "properties": {
+    "uuid": "c1401f46-977e-5b8e-982f-18751a779c9b",
+    "name": "Pinky Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869833"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.937395,
+      25.072444
+    ]
+  },
+  "properties": {
+    "uuid": "5ebd9f24-c048-5c9f-bef1-87b06c952ae5",
+    "name": "Legend",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11331356919"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

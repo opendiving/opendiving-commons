@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -15.382213,
+      27.871776
+    ]
+  },
+  "properties": {
+    "uuid": "091cd868-f487-5122-9031-7ce102866660",
+    "name": "Hole in the Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11356028407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

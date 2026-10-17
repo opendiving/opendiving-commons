@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.438333,
+      -34.144667
+    ]
+  },
+  "properties": {
+    "uuid": "ed229c30-fcbf-5578-b280-926431d23e6e",
+    "name": "Sunny Cove",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213921"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

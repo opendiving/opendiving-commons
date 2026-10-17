@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.684571,
+      -0.41548
+    ]
+  },
+  "properties": {
+    "uuid": "5bda3eda-948a-536e-b595-e066c068bc83",
+    "name": "Goa Goa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270645426"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

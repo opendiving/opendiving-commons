@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.97972,
+      45.90542
+    ]
+  },
+  "properties": {
+    "uuid": "eacabb03-2241-5df7-9c30-07ad04d32dac",
+    "name": "Il vaporetto (Relitto di Milano)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870141"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

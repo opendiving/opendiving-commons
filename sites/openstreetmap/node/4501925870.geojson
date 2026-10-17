@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      55.475145,
+      -21.343776
+    ]
+  },
+  "properties": {
+    "uuid": "b48dc635-ca74-5247-8734-283b531b5e0a",
+    "name": "Plongée Australe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4501925870"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

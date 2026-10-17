@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.763817,
+      -34.142683
+    ]
+  },
+  "properties": {
+    "uuid": "1a5d5f8f-4163-5235-8659-e50eb0b72f5f",
+    "name": "Drop Zone",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q20892015"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

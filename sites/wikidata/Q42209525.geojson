@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.475978,
+      -34.231319
+    ]
+  },
+  "properties": {
+    "uuid": "224eb10e-d79e-50f4-b811-4c49d94e254c",
+    "name": "Miller's Point tidal pool",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42209525"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

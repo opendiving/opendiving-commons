@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.831773,
+      27.284707
+    ]
+  },
+  "properties": {
+    "uuid": "c652c16e-4cb2-5040-89d7-ebde9dd7de33",
+    "name": "El Fanadir Dacht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3755841121"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

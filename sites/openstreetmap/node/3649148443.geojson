@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.542856,
+      44.852274
+    ]
+  },
+  "properties": {
+    "uuid": "89cd80d6-ac76-5989-93e4-6a756c7ab175",
+    "name": "Émergence de Meyraguet",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3649148443"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

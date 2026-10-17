@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.136139,
+      53.69927
+    ]
+  },
+  "properties": {
+    "uuid": "c8460706-1440-5c43-83de-947706e1ec8f",
+    "name": "Rohrleitung",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518340"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

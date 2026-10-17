@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.762541,
+      1.45695
+    ]
+  },
+  "properties": {
+    "uuid": "d5f848ae-f13c-5739-af94-9d776bc22861",
+    "name": "Murex Dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4432316400"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

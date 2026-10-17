@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.31084,
+      25.06667
+    ]
+  },
+  "properties": {
+    "uuid": "c6c85f23-8814-556e-9766-10961e77dc69",
+    "name": "Spiegel Grove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869445"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

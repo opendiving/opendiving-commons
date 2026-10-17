@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5025,
+      47.478333
+    ]
+  },
+  "properties": {
+    "uuid": "952dfd5e-db2b-5218-a0b3-317546ccd4e4",
+    "name": "Bootsrampe Rorschach Schlipf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/665087373"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

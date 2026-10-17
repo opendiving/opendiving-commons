@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.790328,
+      46.455037
+    ]
+  },
+  "properties": {
+    "uuid": "d4fe3df1-46ec-5119-8752-60bdbf6a2616",
+    "name": "Campingplatz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870257"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

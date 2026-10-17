@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.414896,
+      34.732679
+    ]
+  },
+  "properties": {
+    "uuid": "fd3db0b4-3cf0-54b0-8ab8-41898add4efd",
+    "name": "White Stars",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9461360671"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

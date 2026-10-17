@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.654004,
+      58.236541
+    ]
+  },
+  "properties": {
+    "uuid": "9992387e-4bfe-5ebc-8c65-fffbc1a1afc0",
+    "name": "Gudrun",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/310268843"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

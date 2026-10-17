@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.868588,
+      43.048008
+    ]
+  },
+  "properties": {
+    "uuid": "aa926512-3e42-5d59-8021-e0858bd64c6c",
+    "name": "Tombant des Deux Frères",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6022696243"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

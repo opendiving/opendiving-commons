@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.691792,
+      1.653237
+    ]
+  },
+  "properties": {
+    "uuid": "f89daa7e-9b9d-51e1-8efe-a473f6b3f43b",
+    "name": "Tanjung Kopi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293845147"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.29,
+      12.107128
+    ]
+  },
+  "properties": {
+    "uuid": "255d3886-8180-5b8f-8994-f0c151d32286",
+    "name": "The Lake",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869417"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

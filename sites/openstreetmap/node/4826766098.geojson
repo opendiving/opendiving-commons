@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.256427,
+      6.544329
+    ]
+  },
+  "properties": {
+    "uuid": "f90e8f6b-6b68-577d-8186-2f50690def67",
+    "name": "เกาะบางเหนือ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4826766098"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Koh Yang North"
+      }
+    }
+  }
+}

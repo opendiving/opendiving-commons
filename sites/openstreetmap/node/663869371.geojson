@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.719121,
+      21.204337
+    ]
+  },
+  "properties": {
+    "uuid": "327c21d2-ee9c-5c03-b539-4fe689b67797",
+    "name": "El Garrafon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869371"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

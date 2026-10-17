@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.55306,
+      47.31974
+    ]
+  },
+  "properties": {
+    "uuid": "e10b5de3-9b72-5dac-a726-fd605842622c",
+    "name": "Schoggiwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452069"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

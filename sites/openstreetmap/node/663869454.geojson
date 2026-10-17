@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.293356,
+      30.330963
+    ]
+  },
+  "properties": {
+    "uuid": "e24721e5-63bf-5329-9740-4a8e3820f03c",
+    "name": "Fort Pickens Jetties",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869454"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

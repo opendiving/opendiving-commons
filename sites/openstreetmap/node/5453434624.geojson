@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.425044,
+      -2.20266
+    ]
+  },
+  "properties": {
+    "uuid": "9bdb3f54-3119-562c-b1f6-31365fee388d",
+    "name": "Wayil",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453434624"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

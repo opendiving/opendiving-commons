@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.025455,
+      21.968583
+    ]
+  },
+  "properties": {
+    "uuid": "266719e7-e4c5-546f-af53-5c9a41198188",
+    "name": "Elba Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721028451"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

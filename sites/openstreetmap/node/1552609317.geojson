@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.889856,
+      8.711136
+    ]
+  },
+  "properties": {
+    "uuid": "a0d6906f-1957-5b7c-9d95-a82f15ba1145",
+    "name": "La Cueva",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1552609317"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.287213,
+      12.103392
+    ]
+  },
+  "properties": {
+    "uuid": "4db13bbb-29d8-59e7-82d9-9489a92ae3c9",
+    "name": "Angel City",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869415"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

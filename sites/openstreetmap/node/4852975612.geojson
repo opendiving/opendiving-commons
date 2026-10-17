@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      153.389469,
+      -29.927644
+    ]
+  },
+  "properties": {
+    "uuid": "d0e7d618-0a9f-5963-8765-01c09cc937fb",
+    "name": "Bubble Cave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4852975612"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

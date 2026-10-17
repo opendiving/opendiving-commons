@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.2537,
+      -33.839818
+    ]
+  },
+  "properties": {
+    "uuid": "608e60d8-ba70-5f86-8adf-66ac01fe0a42",
+    "name": "Clifton Gardens",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2806033752"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

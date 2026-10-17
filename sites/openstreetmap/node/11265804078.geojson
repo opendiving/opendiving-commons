@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.378362,
+      11.805748
+    ]
+  },
+  "properties": {
+    "uuid": "574ff3ba-06a4-508f-ad76-562c1fda667c",
+    "name": "Ko Thian - Scuba Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11265804078"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Diving and Snorkeling spot"
+      }
+    }
+  }
+}

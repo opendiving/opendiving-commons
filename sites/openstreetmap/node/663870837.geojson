@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.687903,
+      47.834478
+    ]
+  },
+  "properties": {
+    "uuid": "4f953c6a-7155-5ba9-a33e-cd1b800bb79d",
+    "name": "vorderer Langbathsee - Ostufer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870837"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

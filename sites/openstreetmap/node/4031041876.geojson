@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.239495,
+      7.106011
+    ]
+  },
+  "properties": {
+    "uuid": "f183c6db-816b-5cbd-9abf-ae13d16ac623",
+    "name": "New Drop-Off",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031041876"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

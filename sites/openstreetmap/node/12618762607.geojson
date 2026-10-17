@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.709713,
+      12.598849
+    ]
+  },
+  "properties": {
+    "uuid": "a5b69b12-0d49-56cf-a4c9-c9f604903507",
+    "name": "Bajo del Hospital",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762607"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

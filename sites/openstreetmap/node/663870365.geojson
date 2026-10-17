@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.785707,
+      47.675095
+    ]
+  },
+  "properties": {
+    "uuid": "54e5629f-39f3-5b3e-a1e1-e76b6dc35c70",
+    "name": "Schupfen-Camping",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870365"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

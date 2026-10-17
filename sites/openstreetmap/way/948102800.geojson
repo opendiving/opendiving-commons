@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -76.809767,
+      24.594461
+    ]
+  },
+  "properties": {
+    "uuid": "8c69bfa8-0340-5bae-bdd1-d95dfbd7efb1",
+    "name": "Curtiss C-46A-45-CU Commando",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/948102800"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

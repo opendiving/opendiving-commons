@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.023087,
+      35.408284
+    ]
+  },
+  "properties": {
+    "uuid": "2b1611ce-4a55-5563-859c-52874542c051",
+    "name": "Mononaftis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2467454825"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

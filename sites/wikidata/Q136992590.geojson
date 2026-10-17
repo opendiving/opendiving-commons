@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.87598,
+      27.77843
+    ]
+  },
+  "properties": {
+    "uuid": "30d57453-9320-5f71-80a0-1693316c2b50",
+    "name": "Kingston",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q136992590"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

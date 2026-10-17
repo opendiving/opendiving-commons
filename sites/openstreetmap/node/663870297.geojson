@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.628531,
+      47.251477
+    ]
+  },
+  "properties": {
+    "uuid": "9abe26d2-a3ff-542a-b463-92865410eda0",
+    "name": "Meilibach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870297"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

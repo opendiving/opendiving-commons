@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.876898,
+      3.479069
+    ]
+  },
+  "properties": {
+    "uuid": "d4147847-23d6-5d5e-a1ef-142952f6d0c9",
+    "name": "Dhidhoo corner (out reef)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9555754854"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

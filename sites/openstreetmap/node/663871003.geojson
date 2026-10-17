@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.8702,
+      53.124988
+    ]
+  },
+  "properties": {
+    "uuid": "f5d19a83-4f09-581e-8310-8c1f8fce7352",
+    "name": "Rheinsberger See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871003"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

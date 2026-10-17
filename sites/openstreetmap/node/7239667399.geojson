@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.603034,
+      4.008623
+    ]
+  },
+  "properties": {
+    "uuid": "8e4b0ccf-4d34-538e-ae50-8f62f866e6ff",
+    "name": "Bajo del Monstruo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239667399"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

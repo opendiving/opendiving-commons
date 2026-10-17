@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.984,
+      27.19578
+    ]
+  },
+  "properties": {
+    "uuid": "a8dbb921-9b3f-55e3-bcd2-b9e8bf5e0dc8",
+    "name": "Erg Somaya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999360"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

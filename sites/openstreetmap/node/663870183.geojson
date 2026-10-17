@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.79488,
+      46.29366
+    ]
+  },
+  "properties": {
+    "uuid": "9b73707b-01bf-5a16-8678-06267afcf295",
+    "name": "Pozzo San Rocco",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870183"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

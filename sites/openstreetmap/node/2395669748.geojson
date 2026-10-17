@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.046258,
+      -8.336744
+    ]
+  },
+  "properties": {
+    "uuid": "bb0264ed-0dd4-5fba-8278-8441b6af8064",
+    "name": "Deep Turbo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669748"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

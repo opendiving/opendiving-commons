@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.522715,
+      35.890482
+    ]
+  },
+  "properties": {
+    "uuid": "63a0ea97-e442-5a5c-bc35-0da4da112600",
+    "name": "Wreck of SS Margit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159847956"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

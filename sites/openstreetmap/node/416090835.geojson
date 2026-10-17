@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.516173,
+      24.262383
+    ]
+  },
+  "properties": {
+    "uuid": "a715ba27-83b3-5fd7-95ec-954b03776206",
+    "name": "Shaab Said South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/416090835"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

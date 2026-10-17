@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.494167,
+      -34.39
+    ]
+  },
+  "properties": {
+    "uuid": "def762c7-26b0-588c-b7b8-8a78145b7838",
+    "name": "SS Lusitania",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q7393983"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

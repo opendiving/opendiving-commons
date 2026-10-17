@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.02167,
+      47.67481
+    ]
+  },
+  "properties": {
+    "uuid": "cf81af26-099c-5ce5-a399-a423d31d02f4",
+    "name": "Wildsau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870380"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

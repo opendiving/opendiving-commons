@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.481,
+      -34.2767
+    ]
+  },
+  "properties": {
+    "uuid": "2a887ab1-ac56-5ea3-b628-7776990dd42a",
+    "name": "Batsata Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213700"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

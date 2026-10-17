@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.552849,
+      47.849604
+    ]
+  },
+  "properties": {
+    "uuid": "2f253d0c-4284-5fb0-ba7b-f9dab31acbe9",
+    "name": "Ofen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310413"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

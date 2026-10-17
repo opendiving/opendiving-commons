@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.134526,
+      42.480019
+    ]
+  },
+  "properties": {
+    "uuid": "f31180b0-20da-50ff-81be-b5bd12c555ca",
+    "name": "Aquablue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11837415061"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

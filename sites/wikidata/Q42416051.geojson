@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.559583,
+      -34.246033
+    ]
+  },
+  "properties": {
+    "uuid": "c241ce2e-6ec3-572a-a557-c920e5161898",
+    "name": "September anchor",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42416051"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

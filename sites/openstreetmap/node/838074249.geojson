@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.96074,
+      51.6141
+    ]
+  },
+  "properties": {
+    "uuid": "69c76568-56b0-50d2-a36a-124778856efb",
+    "name": "Zuidbout",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074249"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

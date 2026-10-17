@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.31,
+      -34.022167
+    ]
+  },
+  "properties": {
+    "uuid": "efbd6382-ede5-570f-a036-7784b55f1d3e",
+    "name": "Steps",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213913"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

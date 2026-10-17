@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.536638,
+      49.414985
+    ]
+  },
+  "properties": {
+    "uuid": "13a8c0e6-aee7-5df2-bd23-88fdeabfb63c",
+    "name": "Rheinauer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870538"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

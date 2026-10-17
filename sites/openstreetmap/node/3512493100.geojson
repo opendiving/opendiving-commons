@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.301782,
+      37.849029
+    ]
+  },
+  "properties": {
+    "uuid": "06bb1e7e-5e8f-5fa4-9c84-2a792b8e4b35",
+    "name": "Canyon di Angelo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3512493100"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

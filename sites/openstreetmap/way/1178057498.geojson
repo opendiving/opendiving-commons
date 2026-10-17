@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.639771,
+      51.232091
+    ]
+  },
+  "properties": {
+    "uuid": "a3c55664-f92f-5210-8f7a-8a5162b9f7b8",
+    "name": "Duikplas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1178057498"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.107807,
+      46.688886
+    ]
+  },
+  "properties": {
+    "uuid": "d13d0cad-814f-5374-9a7a-6b63436fd6de",
+    "name": "Pont Thusy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870007"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

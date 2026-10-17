@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.50451,
+      49.084775
+    ]
+  },
+  "properties": {
+    "uuid": "140e5c37-f2ce-5ece-a7c4-cda9552c0838",
+    "name": "Flaschentauchen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870498"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

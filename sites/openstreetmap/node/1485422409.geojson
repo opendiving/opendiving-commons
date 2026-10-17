@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.526184,
+      -8.600966
+    ]
+  },
+  "properties": {
+    "uuid": "a6c68f8f-f163-515e-9110-35f9edda220f",
+    "name": "Pantai Merah",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1485422409"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

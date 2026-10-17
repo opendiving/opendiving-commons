@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.413221,
+      12.29353
+    ]
+  },
+  "properties": {
+    "uuid": "154c85cd-5dc8-5458-9d52-52e76c3fb09a",
+    "name": "Bisé Morto",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4200486589"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

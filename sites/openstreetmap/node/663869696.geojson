@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.229717,
+      44.314433
+    ]
+  },
+  "properties": {
+    "uuid": "dd7dcc70-f19d-508b-858e-3cf79b84deab",
+    "name": "Wrack `Genova`",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869696"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

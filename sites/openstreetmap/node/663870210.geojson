@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.473667,
+      46.995482
+    ]
+  },
+  "properties": {
+    "uuid": "051096e4-ebd3-5c88-adb2-db23bbc0a6ef",
+    "name": "Ober Nas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870210"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

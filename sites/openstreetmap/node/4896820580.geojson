@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.492507,
+      43.306569
+    ]
+  },
+  "properties": {
+    "uuid": "b730cf9d-a424-5f2e-b2c9-4c2ad04bdbf0",
+    "name": "Diving Centro Sub Cecina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4896820580"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

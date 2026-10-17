@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130401,
+      53.701788
+    ]
+  },
+  "properties": {
+    "uuid": "70b35a40-c2fa-5e1d-a1ff-e27eee41da25",
+    "name": "Beton-Trümmerfeld",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518346"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

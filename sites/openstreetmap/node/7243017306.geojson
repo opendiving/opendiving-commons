@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.198423,
+      19.291179
+    ]
+  },
+  "properties": {
+    "uuid": "280b265c-663a-5f96-b843-013bccfc2a03",
+    "name": "Las Galeras Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7243017306"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.816568,
+      54.262681
+    ]
+  },
+  "properties": {
+    "uuid": "ccf7519b-1202-5d83-a5e4-3f8ee1ea852c",
+    "name": "Boat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13002464798"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

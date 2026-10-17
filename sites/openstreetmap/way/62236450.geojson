@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.550458,
+      50.939728
+    ]
+  },
+  "properties": {
+    "uuid": "67dd4093-e8d2-5b5f-9c25-fd9819a30987",
+    "name": "Duikvijver De Kyn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/62236450"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

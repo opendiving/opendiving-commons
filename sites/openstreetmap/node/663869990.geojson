@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.81539,
+      46.46987
+    ]
+  },
+  "properties": {
+    "uuid": "f0a2788c-6bda-5d3b-8400-9f98aaf67c32",
+    "name": "Les Gonelles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869990"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.29023,
+      -5.735522
+    ]
+  },
+  "properties": {
+    "uuid": "339b8cb8-09d2-5c23-a60a-e164128c79c2",
+    "name": "Captain Muddy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10790374777"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

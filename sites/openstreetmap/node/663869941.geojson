@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.433551,
+      4.125016
+    ]
+  },
+  "properties": {
+    "uuid": "705d2cf0-302e-522e-87d5-bf6b0d98ee02",
+    "name": "Velassaru Caves",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869941"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.474908,
+      -34.234314
+    ]
+  },
+  "properties": {
+    "uuid": "a82ab24b-7589-5c22-9ff7-89485302e59b",
+    "name": "Rumbly Bay slipway",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42209276"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

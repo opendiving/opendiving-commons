@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.16355,
+      46.26385
+    ]
+  },
+  "properties": {
+    "uuid": "c10cbfb3-7c99-5f14-90a4-a2aabdd0cd9f",
+    "name": "Lac Léman-Le Paradis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869962"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

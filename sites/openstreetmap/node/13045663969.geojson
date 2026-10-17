@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.289384,
+      -0.606519
+    ]
+  },
+  "properties": {
+    "uuid": "835655db-84a2-5723-ab6d-c45e0c9c6305",
+    "name": "My Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045663969"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

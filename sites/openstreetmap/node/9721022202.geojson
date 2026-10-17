@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.412088,
+      19.929234
+    ]
+  },
+  "properties": {
+    "uuid": "ec706af4-5fab-592c-bbf7-c565f9763151",
+    "name": "Shab Rumi, Plateau S",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721022202"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

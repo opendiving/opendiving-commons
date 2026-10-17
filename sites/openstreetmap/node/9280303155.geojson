@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.142281,
+      24.812636
+    ]
+  },
+  "properties": {
+    "uuid": "a7b9c776-e413-5825-b622-4cf388018b26",
+    "name": "中の島チャンネル",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9280303155"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Nakanojima Channel"
+      }
+    }
+  }
+}

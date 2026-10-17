@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.460167,
+      -34.2015
+    ]
+  },
+  "properties": {
+    "uuid": "0b13c2a2-74b6-5a91-b522-d867d3f68c6c",
+    "name": "Outer Windmill",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42052599"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

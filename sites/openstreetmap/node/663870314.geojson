@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.56348,
+      47.30005
+    ]
+  },
+  "properties": {
+    "uuid": "052e2758-31e6-53e6-98ea-0f3664b1313a",
+    "name": "Park Thalwil",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870314"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

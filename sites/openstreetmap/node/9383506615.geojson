@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.601923,
+      15.877526
+    ]
+  },
+  "properties": {
+    "uuid": "9295e428-82b8-596d-a71a-b7295271fa4e",
+    "name": "Pointe à Cabrit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9383506615"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

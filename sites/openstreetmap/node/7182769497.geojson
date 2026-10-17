@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.486879,
+      -8.641888
+    ]
+  },
+  "properties": {
+    "uuid": "027a05a5-45e5-513a-9d8d-dae7fc335f14",
+    "name": "Loh Namu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182769497"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

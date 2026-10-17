@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.495061,
+      20.63412
+    ]
+  },
+  "properties": {
+    "uuid": "085909a3-2c32-516a-a45e-309a4ccd435b",
+    "name": "Shark Condos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3480273166"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

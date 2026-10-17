@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.256,
+      17.634
+    ]
+  },
+  "properties": {
+    "uuid": "d2dae596-6ff6-53d8-9c92-9f2131097f07",
+    "name": "Ladder Bay, Saba",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q6469307"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

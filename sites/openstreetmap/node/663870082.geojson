@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.38672,
+      47.0273
+    ]
+  },
+  "properties": {
+    "uuid": "16ac0ae2-b751-59d6-aaaf-27c73eb878ab",
+    "name": "Chrüztrichter",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870082"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.936905,
+      3.55615
+    ]
+  },
+  "properties": {
+    "uuid": "4c7a63fd-dd2f-5a11-8066-0e3b2ba75da7",
+    "name": "Broken rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584320417"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

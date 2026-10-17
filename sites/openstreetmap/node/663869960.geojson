@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.163562,
+      46.263852
+    ]
+  },
+  "properties": {
+    "uuid": "1b24b4d6-65e9-5378-a352-4b469fd2fb7b",
+    "name": "Lac Léman-Le Boesch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869960"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

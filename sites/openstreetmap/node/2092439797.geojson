@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.422152,
+      36.827572
+    ]
+  },
+  "properties": {
+    "uuid": "87e3fc36-4812-553f-9a23-6bf62bce1111",
+    "name": "fighter plane wrack world war II",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2092439797"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.011635,
+      39.870515
+    ]
+  },
+  "properties": {
+    "uuid": "bc94448b-aef8-59d6-a770-7f9f4aae272f",
+    "name": "Anija e mbytur SS Probitas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9489868295"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "SS Probitas Shipwreck"
+      }
+    }
+  }
+}

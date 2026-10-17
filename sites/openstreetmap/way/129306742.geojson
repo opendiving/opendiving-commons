@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.179512,
+      44.003607
+    ]
+  },
+  "properties": {
+    "uuid": "212f586b-7dd3-543b-9dfc-94d69d1dc1e8",
+    "name": "Корпус парохода Азов",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/129306742"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Azov shipwreck"
+      }
+    }
+  }
+}

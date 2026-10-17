@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.861992,
+      54.450944
+    ]
+  },
+  "properties": {
+    "uuid": "4170376c-22f5-551f-ab5d-1afe999c95a2",
+    "name": "Eckernförde - Südstrand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870647"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

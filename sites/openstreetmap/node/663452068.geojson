@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.55667,
+      47.3116
+    ]
+  },
+  "properties": {
+    "uuid": "8552024c-a60d-5ccc-a150-2d302c953f3e",
+    "name": "Seebad Rüschlikon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452068"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

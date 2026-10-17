@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.743972,
+      26.329106
+    ]
+  },
+  "properties": {
+    "uuid": "86cde078-9b8e-53c8-bd55-0e2d225798a1",
+    "name": "砂辺",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/602948140"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Sunabe"
+      }
+    }
+  }
+}

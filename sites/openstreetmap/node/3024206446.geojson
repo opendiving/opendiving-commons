@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.614901,
+      44.879303
+    ]
+  },
+  "properties": {
+    "uuid": "897254cc-045f-5097-a72e-c2a775f253c7",
+    "name": "Source de la Finou",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3024206446"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

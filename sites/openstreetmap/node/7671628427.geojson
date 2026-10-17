@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.810418,
+      51.480155
+    ]
+  },
+  "properties": {
+    "uuid": "896a4c72-d4cd-5044-ab06-5ec13396a134",
+    "name": "Charlotte II",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7671628427"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

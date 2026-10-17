@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.062588,
+      -8.358871
+    ]
+  },
+  "properties": {
+    "uuid": "c19e439e-9af4-5e37-815c-91ec7e0eea10",
+    "name": "Meno Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669754"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.65419,
+      46.50542
+    ]
+  },
+  "properties": {
+    "uuid": "37720f73-ab89-5cfe-a13b-3c08db90b86c",
+    "name": "Lac Léman-Falaise de Glaise",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869973"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

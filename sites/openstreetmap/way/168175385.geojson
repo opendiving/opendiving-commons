@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -100.027471,
+      21.860511
+    ]
+  },
+  "properties": {
+    "uuid": "6f8c9726-bb79-5d92-ac40-496a4535cc9d",
+    "name": "Laguna de la Media Luna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/168175385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

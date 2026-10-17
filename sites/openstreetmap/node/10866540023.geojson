@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.492903,
+      51.51664
+    ]
+  },
+  "properties": {
+    "uuid": "b6aa0d7b-2145-58b8-a299-1054661e6875",
+    "name": "TSC Dortmund e.V. 1959",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10866540023"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.770186,
+      49.947753
+    ]
+  },
+  "properties": {
+    "uuid": "a1f859aa-5626-5708-92f3-102cfdf0a7eb",
+    "name": "Kalkbruchsee Hunsfels",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/514431572"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

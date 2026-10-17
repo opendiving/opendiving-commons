@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.718535,
+      12.487547
+    ]
+  },
+  "properties": {
+    "uuid": "8969721e-f254-5ca0-b977-897e16eae42b",
+    "name": "Palacio de la Cherna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748285"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

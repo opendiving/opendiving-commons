@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.453909,
+      18.730473
+    ]
+  },
+  "properties": {
+    "uuid": "b74893ec-9586-5217-84d5-49fe9a0d025c",
+    "name": "Astron",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/512287101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

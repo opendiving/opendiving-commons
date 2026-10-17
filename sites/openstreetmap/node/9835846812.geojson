@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.58025,
+      55.712528
+    ]
+  },
+  "properties": {
+    "uuid": "1a8a50fb-a1b3-5bcb-86d6-504a27562738",
+    "name": "Aquarios",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9835846812"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

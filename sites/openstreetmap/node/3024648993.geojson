@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.698834,
+      44.457267
+    ]
+  },
+  "properties": {
+    "uuid": "79473c87-acac-53bf-bc23-ea66bdd9b478",
+    "name": "Crégols",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3024648993"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

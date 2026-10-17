@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.606512,
+      47.287023
+    ]
+  },
+  "properties": {
+    "uuid": "73c9099d-0a09-53b4-85e4-22db904b821e",
+    "name": "Restaurant Bellevue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870322"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

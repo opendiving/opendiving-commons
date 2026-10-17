@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.305333,
+      -34.038
+    ]
+  },
+  "properties": {
+    "uuid": "0a9200e4-f2ce-5433-8878-2fbdd184ee0b",
+    "name": "Die Perd",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213742"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

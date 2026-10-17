@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.135194,
+      53.700404
+    ]
+  },
+  "properties": {
+    "uuid": "0cc5cb3a-a1f0-5ab7-938f-edfe02fd05b8",
+    "name": "Einmündung Rohrleitung",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518339"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.74828,
+      46.659084
+    ]
+  },
+  "properties": {
+    "uuid": "1d23eb0d-c09c-52a0-9505-985ce9a280b8",
+    "name": "Gipsunion",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845693543"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

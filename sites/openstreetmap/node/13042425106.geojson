@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.7287,
+      8.73666
+    ]
+  },
+  "properties": {
+    "uuid": "73a47b16-9c88-5c99-a2fb-cadee1dc6e03",
+    "name": "Junkpile-1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042425106"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

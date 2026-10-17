@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.363633,
+      43.196817
+    ]
+  },
+  "properties": {
+    "uuid": "67a5f0a9-67d2-5b8c-bc1f-4970a8bc38ac",
+    "name": "Grotte Arc en Ciel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678007"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

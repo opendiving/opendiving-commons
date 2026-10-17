@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.48085,
+      -34.268416
+    ]
+  },
+  "properties": {
+    "uuid": "695b1b4e-e982-5721-ab94-c63d43e5cf74",
+    "name": "SAS Good Hope",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213870"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

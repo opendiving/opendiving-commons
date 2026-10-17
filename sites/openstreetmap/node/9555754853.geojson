@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.918787,
+      3.514871
+    ]
+  },
+  "properties": {
+    "uuid": "0cbe7c94-ad81-5c57-bb20-dfd22bf852b5",
+    "name": "Fish Bank",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9555754853"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

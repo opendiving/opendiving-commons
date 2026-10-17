@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.024217,
+      11.970917
+    ]
+  },
+  "properties": {
+    "uuid": "98c5eafb-1a0b-5d3f-a2d8-ce2a35ccf594",
+    "name": "Lusong gunboat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871201"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

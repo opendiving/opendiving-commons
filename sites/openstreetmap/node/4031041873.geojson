@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.450652,
+      7.340701
+    ]
+  },
+  "properties": {
+    "uuid": "46618842-ef26-5608-b911-9826a6798e4c",
+    "name": "Chandelier Cave",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031041873"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

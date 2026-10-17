@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.76834,
+      1.610286
+    ]
+  },
+  "properties": {
+    "uuid": "6c6a7122-609b-5741-b4f7-36621a3ec899",
+    "name": "Cela Cela",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293854507"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

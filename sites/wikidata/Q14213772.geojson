@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.305467,
+      -34.029117
+    ]
+  },
+  "properties": {
+    "uuid": "9597dc8d-d25e-5c45-aebe-c045c1e8bcd8",
+    "name": "Hakka Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213772"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

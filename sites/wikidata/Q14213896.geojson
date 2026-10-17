@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4835,
+      -34.253167
+    ]
+  },
+  "properties": {
+    "uuid": "eccc83a2-397a-5693-bf02-fd94f5223e2c",
+    "name": "Sherwood Forest",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213896"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

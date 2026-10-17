@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.269816,
+      9.085156
+    ]
+  },
+  "properties": {
+    "uuid": "0b79fecb-5052-522f-a6d1-54e0021c5fdf",
+    "name": "Coconut Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775968"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

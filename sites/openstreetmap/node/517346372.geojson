@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.553535,
+      28.611724
+    ]
+  },
+  "properties": {
+    "uuid": "7ffddfa0-da20-5084-a3d7-74fb2851ad23",
+    "name": "Dahayla South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/517346372"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

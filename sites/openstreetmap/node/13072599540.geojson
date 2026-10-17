@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.678705,
+      -27.540756
+    ]
+  },
+  "properties": {
+    "uuid": "9d72916c-6f6c-5ad8-ac58-f2c243782091",
+    "name": "Coral Divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13072599540"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

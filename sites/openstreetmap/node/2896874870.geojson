@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.219013,
+      8.610497
+    ]
+  },
+  "properties": {
+    "uuid": "43d063fe-f512-5717-a96a-dc5924b73c30",
+    "name": "Scuba Lanka",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2896874870"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.845128,
+      46.246467
+    ]
+  },
+  "properties": {
+    "uuid": "24132c6f-7a18-5fd2-a584-59a5cc67a198",
+    "name": "Amslerbecken",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870184"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

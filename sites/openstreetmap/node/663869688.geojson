@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.337089,
+      43.207344
+    ]
+  },
+  "properties": {
+    "uuid": "6188fe1b-afea-52ec-b4a7-7ef92a5255b1",
+    "name": "Le Liban",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869688"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

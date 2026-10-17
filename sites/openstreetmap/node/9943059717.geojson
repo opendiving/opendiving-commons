@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.553219,
+      -6.27289
+    ]
+  },
+  "properties": {
+    "uuid": "6fbfb90b-9b92-5b01-8a84-0f7a0511da2a",
+    "name": "Barracuda Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9943059717"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.464233,
+      53.683383
+    ]
+  },
+  "properties": {
+    "uuid": "9799cdd1-a6a6-5921-9395-28a0656b96e2",
+    "name": "Schweriner See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871105"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

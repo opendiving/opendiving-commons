@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.621584,
+      10.252805
+    ]
+  },
+  "properties": {
+    "uuid": "fef0f406-dd4e-5952-98a4-54301074fd66",
+    "name": "Zona de Buceo 1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7131087117"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

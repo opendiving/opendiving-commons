@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.735975,
+      12.535524
+    ]
+  },
+  "properties": {
+    "uuid": "d3ff622a-a406-52a3-bba8-42431d4261b1",
+    "name": "Blue Diamond",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6205812103"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

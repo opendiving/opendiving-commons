@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.067778,
+      50.769167
+    ]
+  },
+  "properties": {
+    "uuid": "8ac5151a-fb9a-5988-a42d-9de043bcbe16",
+    "name": "HMT Ocean Sunlight",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869584"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

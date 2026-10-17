@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.518401,
+      -8.60391
+    ]
+  },
+  "properties": {
+    "uuid": "3c8db930-4e42-5674-818a-943a4ca51264",
+    "name": "Pink Beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182770013"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

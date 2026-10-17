@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.246056,
+      26.155731
+    ]
+  },
+  "properties": {
+    "uuid": "e362b295-d986-5d77-b8c9-80ee7b79434f",
+    "name": "Mövenpick Resort El Quseir Hausriff (El Quadim)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869781"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

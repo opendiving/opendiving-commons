@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.949016,
+      16.11274
+    ]
+  },
+  "properties": {
+    "uuid": "bb2ee3a2-fee9-5f10-8bc3-db00625dc3de",
+    "name": "The Maze",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/820354025"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

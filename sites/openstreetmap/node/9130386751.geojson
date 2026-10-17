@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.10022,
+      40.085242
+    ]
+  },
+  "properties": {
+    "uuid": "62f82dcb-facd-5f83-a04c-399ed0206d01",
+    "name": "La Llosa des Patró Pere",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9130386751"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

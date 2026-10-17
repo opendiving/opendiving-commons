@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.426501,
+      41.135577
+    ]
+  },
+  "properties": {
+    "uuid": "47ce0834-3a93-5aed-a641-1d6b970c55c0",
+    "name": "El Biotop",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14070824492"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

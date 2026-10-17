@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.133319,
+      24.669924
+    ]
+  },
+  "properties": {
+    "uuid": "5f24d270-01ca-5181-a9c7-79194b745114",
+    "name": "Shilineat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/315494013"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

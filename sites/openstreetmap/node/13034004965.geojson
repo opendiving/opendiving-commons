@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.885837,
+      54.919883
+    ]
+  },
+  "properties": {
+    "uuid": "609baa29-67b2-5cf9-94b1-52ddc9f9f883",
+    "name": "VIII Fortas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13034004965"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

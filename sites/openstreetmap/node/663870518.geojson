@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.25101,
+      48.485836
+    ]
+  },
+  "properties": {
+    "uuid": "281c8ebc-89ea-584f-8097-4a8f8e67b271",
+    "name": "Mehrlesee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870518"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

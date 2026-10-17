@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.394417,
+      43.169658
+    ]
+  },
+  "properties": {
+    "uuid": "e3b0f0f8-0dac-5155-9bd1-a39bfe09cf38",
+    "name": "Impérial du Large",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2990794869"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.669167,
+      52.685
+    ]
+  },
+  "properties": {
+    "uuid": "132d74f2-04ff-5fd5-871c-e49c0e2c0cbe",
+    "name": "H.M.S. Martin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869552"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

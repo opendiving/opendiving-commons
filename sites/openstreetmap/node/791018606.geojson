@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.226826,
+      42.041096
+    ]
+  },
+  "properties": {
+    "uuid": "87f3091a-ed6d-5c99-bdef-1a0cab80a3cc",
+    "name": "Tasco Petit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/791018606"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

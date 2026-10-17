@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.3562,
+      46.99421
+    ]
+  },
+  "properties": {
+    "uuid": "c2396abe-be12-5b10-98c5-0bec28fa3f18",
+    "name": "Kehrsiten Forrest",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870076"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

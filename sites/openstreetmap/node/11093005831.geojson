@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.810292,
+      27.31424
+    ]
+  },
+  "properties": {
+    "uuid": "8b605a47-a9f0-56ec-8dcc-841ff053a435",
+    "name": "Jotao Abu Galawa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11093005831"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

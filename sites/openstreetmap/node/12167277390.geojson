@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.687248,
+      -0.434382
+    ]
+  },
+  "properties": {
+    "uuid": "c72ff4a0-5e9c-5213-a84a-3376e1f3465b",
+    "name": "Kabui",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167277390"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

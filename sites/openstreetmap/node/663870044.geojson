@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.93617,
+      46.69602
+    ]
+  },
+  "properties": {
+    "uuid": "95eb42d8-2654-59bd-a132-53d4122f180a",
+    "name": "Ehem. Seepolizei)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870044"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.555933,
+      -34.210617
+    ]
+  },
+  "properties": {
+    "uuid": "2c9c6814-3f42-5833-a6bc-e5642eccbb37",
+    "name": "Diving the Cape Peninsula and False Bay/Blue Flame Pinnacles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q110835343"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

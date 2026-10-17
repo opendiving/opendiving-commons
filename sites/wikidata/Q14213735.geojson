@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.453133,
+      -34.124583
+    ]
+  },
+  "properties": {
+    "uuid": "893e524d-954d-56ad-b979-3ff6924a2dda",
+    "name": "Dale Brook",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213735"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

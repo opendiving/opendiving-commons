@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.22948,
+      47.12441
+    ]
+  },
+  "properties": {
+    "uuid": "f932525b-f3db-53f0-b44d-65fcd89a231c",
+    "name": "Nidaukanal Rest. Blue Marlin",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870092"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

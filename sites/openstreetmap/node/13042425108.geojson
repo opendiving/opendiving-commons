@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.701911,
+      8.742393
+    ]
+  },
+  "properties": {
+    "uuid": "a7e40548-cc74-5b85-96a5-ecd5a25d25d7",
+    "name": "SAR Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042425108"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

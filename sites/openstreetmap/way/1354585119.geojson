@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.164599,
+      10.443126
+    ]
+  },
+  "properties": {
+    "uuid": "38975830-ace6-5ca3-b05d-fd6b0dc5159a",
+    "name": "Twin Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1354585119"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

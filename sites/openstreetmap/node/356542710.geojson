@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.384577,
+      47.813708
+    ]
+  },
+  "properties": {
+    "uuid": "77ce21f7-d7ff-5648-97ae-0ece93c5341f",
+    "name": "Edmonds Underwater Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/356542710"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

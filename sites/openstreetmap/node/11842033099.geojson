@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.216936,
+      36.453164
+    ]
+  },
+  "properties": {
+    "uuid": "3f7873ec-190d-5b9d-b1f6-9d51fdbb8eee",
+    "name": "Psarapoula",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11842033099"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

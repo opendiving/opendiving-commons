@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3069,
+      -34.064583
+    ]
+  },
+  "properties": {
+    "uuid": "a629c15e-e2e3-57f0-895b-c21fd95644e9",
+    "name": "Di's Cracks",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213738"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

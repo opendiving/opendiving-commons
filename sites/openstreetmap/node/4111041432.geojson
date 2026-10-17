@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.575667,
+      -5.616414
+    ]
+  },
+  "properties": {
+    "uuid": "4fb762c5-08f4-5b24-bd15-3cdbff165de9",
+    "name": "Kaliage Kecil Utara",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041432"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

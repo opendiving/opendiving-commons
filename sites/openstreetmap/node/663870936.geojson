@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.650133,
+      52.2214
+    ]
+  },
+  "properties": {
+    "uuid": "1093561a-9f70-5516-a1a4-dd1956fd630b",
+    "name": "Barleber See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870936"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

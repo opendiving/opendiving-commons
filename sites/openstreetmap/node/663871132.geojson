@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.083117,
+      53.525533
+    ]
+  },
+  "properties": {
+    "uuid": "25c0e2f5-d3db-5363-b2ba-d14c7c10a843",
+    "name": "Krugsdorfer Kiessee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871132"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

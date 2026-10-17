@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.314853,
+      63.451768
+    ]
+  },
+  "properties": {
+    "uuid": "e9b32a84-5fc6-5d70-af97-5eeb2cd21142",
+    "name": "Trolla",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3086851843"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

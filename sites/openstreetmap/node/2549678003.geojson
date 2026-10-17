@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.403067,
+      43.176117
+    ]
+  },
+  "properties": {
+    "uuid": "f6f68e0c-f70e-55e8-a7a7-b515858f1a5b",
+    "name": "Grand Congloué",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678003"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.280181,
+      12.077631
+    ]
+  },
+  "properties": {
+    "uuid": "cd76b26b-119f-5839-8b22-d45d01762d3d",
+    "name": "Invisibles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869402"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.67508,
+      47.34564
+    ]
+  },
+  "properties": {
+    "uuid": "077dfa02-d772-5fc3-8cdc-63468c05dc12",
+    "name": "Strandbad Maur",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

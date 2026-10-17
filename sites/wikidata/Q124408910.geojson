@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.252778,
+      17.641111
+    ]
+  },
+  "properties": {
+    "uuid": "ac2db96b-ee25-5744-9ad6-864f696739cd",
+    "name": "Well's Bay",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q124408910"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

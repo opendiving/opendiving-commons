@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.593886,
+      -0.825953
+    ]
+  },
+  "properties": {
+    "uuid": "f67dd74a-011b-5b1b-8c32-d07bc81e7059",
+    "name": "Cookie Monster",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12769990888"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

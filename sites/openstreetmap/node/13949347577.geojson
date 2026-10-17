@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.233324,
+      50.533293
+    ]
+  },
+  "properties": {
+    "uuid": "14373d22-1440-5df3-9b3d-765f0ae371d7",
+    "name": "Boma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949347577"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

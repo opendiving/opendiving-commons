@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.132668,
+      47.749247
+    ]
+  },
+  "properties": {
+    "uuid": "d652405b-95d8-5621-a71f-00127cd71632",
+    "name": "Wallhausen Steilwand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870392"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

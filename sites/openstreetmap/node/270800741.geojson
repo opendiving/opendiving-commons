@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.690316,
+      -14.915441
+    ]
+  },
+  "properties": {
+    "uuid": "0b396e51-d70b-5b53-b6e6-4a619a64988d",
+    "name": "Challenger Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270800741"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

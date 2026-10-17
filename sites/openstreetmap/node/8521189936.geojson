@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.407152,
+      60.034382
+    ]
+  },
+  "properties": {
+    "uuid": "59b7d2e0-def4-5942-ae15-5829b3c4ae77",
+    "name": "Планета Дайвинга",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8521189936"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

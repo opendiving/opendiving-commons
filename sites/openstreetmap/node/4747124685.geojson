@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.621495,
+      -8.308309
+    ]
+  },
+  "properties": {
+    "uuid": "6e7ed0f0-a5bc-51e4-9aa0-83f42cd6287c",
+    "name": "Bulakan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4747124685"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.987778,
+      51.523611
+    ]
+  },
+  "properties": {
+    "uuid": "36a46328-bc11-5c50-b81f-2b1c3eb6cac6",
+    "name": "Galleon without money",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q24561592"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

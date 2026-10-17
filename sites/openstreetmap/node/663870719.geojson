@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.440346,
+      46.625442
+    ]
+  },
+  "properties": {
+    "uuid": "1d4a55e2-858d-5c14-bea0-026c5c88cfd0",
+    "name": "Pressegger See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870719"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

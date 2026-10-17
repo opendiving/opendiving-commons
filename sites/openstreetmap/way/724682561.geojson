@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.91698,
+      39.159796
+    ]
+  },
+  "properties": {
+    "uuid": "90b09d95-57bb-59f9-ac8a-e6848385fd06",
+    "name": "Cap Llebeig",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/724682561"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

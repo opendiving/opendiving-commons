@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.28686,
+      47.11389
+    ]
+  },
+  "properties": {
+    "uuid": "df5f4560-70de-5877-84da-a84b373e62db",
+    "name": "Bommerstein Hafen West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

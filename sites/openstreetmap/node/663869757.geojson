@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.246292,
+      23.56114
+    ]
+  },
+  "properties": {
+    "uuid": "d2d70adb-e92b-53c3-897b-8cf9ea50d6a5",
+    "name": "Rocky South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869757"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

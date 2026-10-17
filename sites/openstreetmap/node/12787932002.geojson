@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.765843,
+      -0.753241
+    ]
+  },
+  "properties": {
+    "uuid": "e755175e-4034-5bb9-923e-7af2ec52adb3",
+    "name": "Circus",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12787932002"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

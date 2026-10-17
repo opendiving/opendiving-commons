@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.421745,
+      50.819639
+    ]
+  },
+  "properties": {
+    "uuid": "e04fd2ef-3a17-553f-88c4-d0d8bdd9a83e",
+    "name": "Badesee Düren-Echtz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/17440790"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

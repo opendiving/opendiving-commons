@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.785491,
+      35.028499
+    ]
+  },
+  "properties": {
+    "uuid": "77765bd7-52f2-5f0c-8be2-11b039a76c63",
+    "name": "Outer bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13380725516"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

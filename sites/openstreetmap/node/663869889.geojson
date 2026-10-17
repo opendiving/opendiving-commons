@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.364956,
+      3.848639
+    ]
+  },
+  "properties": {
+    "uuid": "1a7381bd-319b-5225-bc77-5894e6389c50",
+    "name": "Lhohi Bodu Kandu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869889"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

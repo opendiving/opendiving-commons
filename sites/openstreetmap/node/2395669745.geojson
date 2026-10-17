@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.073828,
+      -8.35284
+    ]
+  },
+  "properties": {
+    "uuid": "829d58e0-f0bb-5444-9259-2aa6370a827b",
+    "name": "Air Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669745"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

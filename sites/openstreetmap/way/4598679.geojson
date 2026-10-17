@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.816717,
+      51.484778
+    ]
+  },
+  "properties": {
+    "uuid": "a3c8a998-e959-5c6e-9b87-cff9f8465bdd",
+    "name": "Tauchersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4598679"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

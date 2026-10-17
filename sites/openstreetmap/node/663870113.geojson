@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.2205,
+      47.251339
+    ]
+  },
+  "properties": {
+    "uuid": "2707bfb4-882d-5b40-afe2-90b31565941d",
+    "name": "Mosenwäldli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870113"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

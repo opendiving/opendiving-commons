@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.576203,
+      45.242247
+    ]
+  },
+  "properties": {
+    "uuid": "de515ec2-3489-5806-a3a0-8bf247516762",
+    "name": "Caroline Rose (Schooner)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869537"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

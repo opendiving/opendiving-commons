@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.327208,
+      63.449782
+    ]
+  },
+  "properties": {
+    "uuid": "28af6661-9d48-5997-a8a8-9d0cb7dc5c0d",
+    "name": "ND31 (Oder)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4975358036"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

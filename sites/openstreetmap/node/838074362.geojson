@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.8092,
+      51.6842
+    ]
+  },
+  "properties": {
+    "uuid": "ba837a49-002c-570a-a957-0e4d99223146",
+    "name": "Schelphoek",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074362"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

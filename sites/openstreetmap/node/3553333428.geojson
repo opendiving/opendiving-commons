@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.605218,
+      61.496691
+    ]
+  },
+  "properties": {
+    "uuid": "676a80ef-81f9-5eb4-a794-b8922e477644",
+    "name": "Стенка Путсаари",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3553333428"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

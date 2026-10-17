@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.306083,
+      -34.04725
+    ]
+  },
+  "properties": {
+    "uuid": "2ba0c02c-9522-503b-b1cf-233861d99e35",
+    "name": "Stonehenge South",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41792183"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

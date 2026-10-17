@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.557785,
+      46.991199
+    ]
+  },
+  "properties": {
+    "uuid": "cb0e6611-41ac-5e6b-8f7d-834ace205797",
+    "name": "Kindli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870212"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

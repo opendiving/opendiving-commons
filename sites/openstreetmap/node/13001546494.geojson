@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.816748,
+      54.262992
+    ]
+  },
+  "properties": {
+    "uuid": "89dfcc52-b0e2-5c0d-9c6b-68b09496c013",
+    "name": "Platform with mirror",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13001546494"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

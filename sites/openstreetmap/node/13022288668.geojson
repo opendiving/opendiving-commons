@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.546133,
+      -1.489952
+    ]
+  },
+  "properties": {
+    "uuid": "f0444f60-ad56-5e73-923a-cbcfe64d3d20",
+    "name": "Long beach ⛱️",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13022288668"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

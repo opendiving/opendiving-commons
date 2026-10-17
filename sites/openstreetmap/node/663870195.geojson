@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.57508,
+      46.47674
+    ]
+  },
+  "properties": {
+    "uuid": "0b92e3e2-ce74-505e-ad38-8e5e0a5826bb",
+    "name": "Diga del Narèt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870195"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

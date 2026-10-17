@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.495949,
+      47.121141
+    ]
+  },
+  "properties": {
+    "uuid": "9d6a7399-5676-516f-9d4e-b6a2251dda4a",
+    "name": "Wand im Nüüt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6054028415"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

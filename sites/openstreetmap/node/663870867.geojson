@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.514584,
+      50.611903
+    ]
+  },
+  "properties": {
+    "uuid": "7396163d-09a2-5e3b-8dd1-6f0413febede",
+    "name": "Hohenwarte-Stausee - Totenfelsen (Wrack)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870867"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

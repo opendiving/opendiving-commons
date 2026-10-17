@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.874762,
+      51.179455
+    ]
+  },
+  "properties": {
+    "uuid": "477ac816-ab33-52d1-b7bf-9151003361f8",
+    "name": "9m platform (klein)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9671154513"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

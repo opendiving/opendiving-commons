@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.817419,
+      33.295255
+    ]
+  },
+  "properties": {
+    "uuid": "46e493c1-9f5c-590b-afa4-d9318977742c",
+    "name": "Blue Water Park",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/643470454"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

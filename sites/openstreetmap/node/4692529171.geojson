@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.072,
+      9.949117
+    ]
+  },
+  "properties": {
+    "uuid": "54bbec20-7a4c-5198-8f7c-474c25a1d257",
+    "name": "Adrian's Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4692529171"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

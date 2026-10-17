@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.732659,
+      1.619029
+    ]
+  },
+  "properties": {
+    "uuid": "dc8cbb21-cfe9-5417-88fe-55979ad77bd3",
+    "name": "Tengah",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293855286"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

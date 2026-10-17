@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.064,
+      58.207033
+    ]
+  },
+  "properties": {
+    "uuid": "05aa392f-16f3-5d47-ae97-16c983eb76c6",
+    "name": "Dornier DO-24",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871177"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

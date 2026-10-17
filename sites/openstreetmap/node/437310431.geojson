@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.580756,
+      47.923496
+    ]
+  },
+  "properties": {
+    "uuid": "a3ef5f68-1cd0-5cf4-84ec-34917872ef93",
+    "name": "Unterwasserwald",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310431"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

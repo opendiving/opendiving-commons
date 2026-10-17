@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.492577,
+      -16.826288
+    ]
+  },
+  "properties": {
+    "uuid": "cded133e-d820-578d-bf11-a4b87dbbcfc8",
+    "name": "Te Tuatiare",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869253"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

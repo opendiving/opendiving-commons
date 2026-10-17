@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.788333,
+      16.166704
+    ]
+  },
+  "properties": {
+    "uuid": "dcb3f878-c2dd-5302-849a-77fc6384905c",
+    "name": "Buste du Commandant Cousteau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11564342982"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

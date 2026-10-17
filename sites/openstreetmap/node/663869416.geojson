@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.222453,
+      12.103217
+    ]
+  },
+  "properties": {
+    "uuid": "1e8cc3e7-69be-5a72-824f-5cfed00f177e",
+    "name": "Cai",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869416"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

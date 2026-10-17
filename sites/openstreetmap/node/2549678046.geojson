@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.368483,
+      43.178067
+    ]
+  },
+  "properties": {
+    "uuid": "6908a585-6657-545d-989f-d5cd66e902db",
+    "name": "Moyadons",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678046"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

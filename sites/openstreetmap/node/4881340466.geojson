@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.755994,
+      1.617484
+    ]
+  },
+  "properties": {
+    "uuid": "2df7d2c7-8ef0-5302-9136-8642ae5550b4",
+    "name": "Alung banua",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4881340466"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

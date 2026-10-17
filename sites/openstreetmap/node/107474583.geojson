@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.598121,
+      47.294031
+    ]
+  },
+  "properties": {
+    "uuid": "50b69512-b083-5373-99d5-0ce4cb82a022",
+    "name": "Kleiner Parkplatz Erlenbach Schipfe",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/107474583"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

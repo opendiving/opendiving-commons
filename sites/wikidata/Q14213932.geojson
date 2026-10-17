@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.829083,
+      -34.178083
+    ]
+  },
+  "properties": {
+    "uuid": "4c5f4314-f450-5be4-95b3-eaf19c3dce93",
+    "name": "Tony’s Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213932"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.651202,
+      55.655048
+    ]
+  },
+  "properties": {
+    "uuid": "dd2e4015-69a3-589a-b3c9-e1e722c08de3",
+    "name": "Havheksen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/343369125"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

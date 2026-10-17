@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.251126,
+      -0.543523
+    ]
+  },
+  "properties": {
+    "uuid": "d2ffec0c-1385-5720-bd1e-9d5fd152aea9",
+    "name": "Anita's Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12185383593"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

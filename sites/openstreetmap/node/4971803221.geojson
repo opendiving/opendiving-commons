@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.037203,
+      11.988341
+    ]
+  },
+  "properties": {
+    "uuid": "128df773-7f42-5558-a3a0-f46d508e17a1",
+    "name": "Morazan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4971803221"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

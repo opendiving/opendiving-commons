@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.811771,
+      50.83756
+    ]
+  },
+  "properties": {
+    "uuid": "c2316706-a702-5ed5-a954-e0a593d68122",
+    "name": "Stausee Rabenstein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870904"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.730178,
+      34.675513
+    ]
+  },
+  "properties": {
+    "uuid": "afbf89a7-62d0-5cbd-abed-7b6236c0acc3",
+    "name": "Madison Quarry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/475101298"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.039767,
+      11.979967
+    ]
+  },
+  "properties": {
+    "uuid": "e6163b73-2eb2-533f-b544-8533bc7478ff",
+    "name": "Kogyo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871192"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

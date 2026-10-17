@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.879535,
+      51.742893
+    ]
+  },
+  "properties": {
+    "uuid": "78190e30-9123-540a-ac61-bfa2d14a9c2f",
+    "name": "Nieuwe Kerkweg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074374"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

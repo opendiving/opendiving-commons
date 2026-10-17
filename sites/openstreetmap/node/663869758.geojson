@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.249262,
+      23.564438
+    ]
+  },
+  "properties": {
+    "uuid": "42000cb6-7df9-5c4a-b862-a6e9baa7d0ff",
+    "name": "Rocky East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869758"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.299168,
+      52.156771
+    ]
+  },
+  "properties": {
+    "uuid": "3f7afc2c-121b-57db-adba-0ed0a5ce7683",
+    "name": "Übunsplatform",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4424290676"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Training Platform"
+      }
+    }
+  }
+}

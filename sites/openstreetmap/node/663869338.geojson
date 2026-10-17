@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.040558,
+      20.384538
+    ]
+  },
+  "properties": {
+    "uuid": "7bc44950-3724-5542-ad15-af0ed740bc66",
+    "name": "Las Palamas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869338"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

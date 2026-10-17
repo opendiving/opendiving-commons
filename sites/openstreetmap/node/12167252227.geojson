@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.702522,
+      -0.546595
+    ]
+  },
+  "properties": {
+    "uuid": "ba6afbfc-82af-5d0c-af11-95e0b0ca70f3",
+    "name": "Chicken Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167252227"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

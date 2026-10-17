@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.974983,
+      20.259298
+    ]
+  },
+  "properties": {
+    "uuid": "0e56a796-5781-5613-91dd-7498c7a26642",
+    "name": "El Islote",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869357"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

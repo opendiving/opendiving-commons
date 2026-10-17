@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13103,
+      53.698846
+    ]
+  },
+  "properties": {
+    "uuid": "cee229ed-2adf-539c-897c-1971094ca6e1",
+    "name": "Pflasterstraße",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450047"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

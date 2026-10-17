@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.68509,
+      43.310284
+    ]
+  },
+  "properties": {
+    "uuid": "ed503597-92c7-5297-943c-fa799ada65e6",
+    "name": "Sèche à l'Huile (les Sardinaux)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6690818908"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

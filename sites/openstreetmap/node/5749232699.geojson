@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.690931,
+      47.555462
+    ]
+  },
+  "properties": {
+    "uuid": "243a2411-7695-515c-bb58-c247fc91f95c",
+    "name": "Sportpension Schober",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232699"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

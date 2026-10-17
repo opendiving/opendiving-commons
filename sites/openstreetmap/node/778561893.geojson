@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.267369,
+      50.854184
+    ]
+  },
+  "properties": {
+    "uuid": "9533bec6-061e-5cf2-adf5-7afa2d37cf08",
+    "name": "Blausteinsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/778561893"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

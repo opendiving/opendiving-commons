@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.500604,
+      47.114057
+    ]
+  },
+  "properties": {
+    "uuid": "afaf7031-013a-5222-8823-493ca955f617",
+    "name": "Rabenmättli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870269"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

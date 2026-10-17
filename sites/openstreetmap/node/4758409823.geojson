@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.476582,
+      15.581608
+    ]
+  },
+  "properties": {
+    "uuid": "83e2d338-d15f-534d-9725-2a58dbf92b18",
+    "name": "sharks mouth",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4758409823"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

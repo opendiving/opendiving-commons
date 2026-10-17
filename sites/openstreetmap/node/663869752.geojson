@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.203767,
+      23.618633
+    ]
+  },
+  "properties": {
+    "uuid": "bd0722ce-039d-55fe-8c5a-e5dbd09fc8c4",
+    "name": "Big Stone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869752"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

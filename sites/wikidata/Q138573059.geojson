@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0775,
+      25.848333
+    ]
+  },
+  "properties": {
+    "uuid": "c6e4be32-c81f-5ce9-852f-355f8548d560",
+    "name": "USCGC Lotus",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q138573059"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

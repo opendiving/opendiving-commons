@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.157207,
+      -35.481055
+    ]
+  },
+  "properties": {
+    "uuid": "00bdce81-5025-5afc-9196-221cbf3e438f",
+    "name": "HMAS Hobart (D 39)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2272727169"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

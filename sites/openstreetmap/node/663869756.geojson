@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.245492,
+      23.565826
+    ]
+  },
+  "properties": {
+    "uuid": "1cad622c-814e-56e6-9cf7-c0e20f977363",
+    "name": "Rocky North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869756"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

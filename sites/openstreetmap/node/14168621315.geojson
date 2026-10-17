@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.552927,
+      -6.332341
+    ]
+  },
+  "properties": {
+    "uuid": "f20bd210-0fb4-5b49-92ff-45ae00368a69",
+    "name": "Manta coast divers",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14168621315"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

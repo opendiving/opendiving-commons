@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.978944,
+      21.806062
+    ]
+  },
+  "properties": {
+    "uuid": "b30bd10f-ee1a-5373-ac2e-218c3e373175",
+    "name": "Sweet Potato",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9720985772"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

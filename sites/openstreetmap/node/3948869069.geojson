@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.636102,
+      -8.558126
+    ]
+  },
+  "properties": {
+    "uuid": "83f8d1d3-42dd-5414-8bd9-a0caad86538a",
+    "name": "Mawan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3948869069"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

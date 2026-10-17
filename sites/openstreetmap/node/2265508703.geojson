@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.294253,
+      -33.822591
+    ]
+  },
+  "properties": {
+    "uuid": "b62cb67a-3081-5041-8987-9a350dbaffb0",
+    "name": "Waterfall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2265508703"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.575883,
+      29.081301
+    ]
+  },
+  "properties": {
+    "uuid": "b7bc88e8-4974-5e90-8272-a71e1e7478af",
+    "name": "Alexander Springs",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3167938698"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.481063,
+      3.909867
+    ]
+  },
+  "properties": {
+    "uuid": "c5857ada-b5a0-5dcd-b99d-154f6c50aa44",
+    "name": "Cocoa Corner",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869949"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

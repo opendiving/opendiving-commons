@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.10942,
+      47.06667
+    ]
+  },
+  "properties": {
+    "uuid": "45b58c3b-b423-584d-9eec-0f366882ea31",
+    "name": "St. Joux",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870036"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

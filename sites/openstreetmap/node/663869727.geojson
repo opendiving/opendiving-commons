@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.746011,
+      44.813196
+    ]
+  },
+  "properties": {
+    "uuid": "3766e12a-eb63-50c5-bdff-70fdff2f39e2",
+    "name": "Medova Buža",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869727"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

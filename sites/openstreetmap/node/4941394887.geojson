@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.105648,
+      11.346771
+    ]
+  },
+  "properties": {
+    "uuid": "9ba836aa-7048-554e-8ecb-1507da12695a",
+    "name": "North Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4941394887"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

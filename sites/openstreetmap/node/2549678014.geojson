@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.3328,
+      43.210567
+    ]
+  },
+  "properties": {
+    "uuid": "e3b1a768-6e36-5c20-897b-e0059ca4d6a1",
+    "name": "Grotte à corail",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678014"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4515,
+      35.820029
+    ]
+  },
+  "properties": {
+    "uuid": "ac0a3337-e0ff-5d5c-bc62-33c438f19a09",
+    "name": "Wied iż-Żurrieq",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614878292"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Żurrieq Valley"
+      }
+    }
+  }
+}

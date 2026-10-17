@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.763876,
+      7.68692
+    ]
+  },
+  "properties": {
+    "uuid": "d300ac0d-9d3b-53e2-9913-f9872eacbbcc",
+    "name": "หินเต่า",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9428585696"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Turtle Rock"
+      }
+    }
+  }
+}

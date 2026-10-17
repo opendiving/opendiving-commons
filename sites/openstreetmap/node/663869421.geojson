@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.414088,
+      12.28223
+    ]
+  },
+  "properties": {
+    "uuid": "2b11e6f3-38a9-5c45-bbc1-52331a047f64",
+    "name": "Playa Funchi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869421"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

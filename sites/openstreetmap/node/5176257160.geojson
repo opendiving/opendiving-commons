@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      150.395376,
+      -35.505387
+    ]
+  },
+  "properties": {
+    "uuid": "46d1ded3-f400-50d8-b49f-8987efa22bb8",
+    "name": "The Gantry",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5176257160"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.158953,
+      42.4612
+    ]
+  },
+  "properties": {
+    "uuid": "1b22990d-d8df-5a42-90d8-2ae3291850f6",
+    "name": "Sentier sous-marin de Banyuls-Cerbère",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/824227244"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

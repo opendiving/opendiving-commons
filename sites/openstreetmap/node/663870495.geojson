@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.508119,
+      49.128156
+    ]
+  },
+  "properties": {
+    "uuid": "20a56933-86b4-5b62-ae82-c9a85a862185",
+    "name": "Baggersee Spöck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870495"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

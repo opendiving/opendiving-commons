@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.996124,
+      54.468441
+    ]
+  },
+  "properties": {
+    "uuid": "83dd7fa8-da8b-5b24-b6b3-79aea59ff438",
+    "name": "Noer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870649"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

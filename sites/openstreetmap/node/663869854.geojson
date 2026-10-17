@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.433307,
+      28.353708
+    ]
+  },
+  "properties": {
+    "uuid": "ca5d5957-9385-542a-a971-eb08927d566f",
+    "name": "Gabu El Bint",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869854"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

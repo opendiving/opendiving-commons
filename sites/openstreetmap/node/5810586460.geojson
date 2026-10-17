@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.885629,
+      52.450931
+    ]
+  },
+  "properties": {
+    "uuid": "2e46def2-821e-5ddc-9b07-a3df350ad284",
+    "name": "Duikplatform",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5810586460"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.48183,
+      54.846918
+    ]
+  },
+  "properties": {
+    "uuid": "453145e2-21ab-5151-9a5d-843938a21bb5",
+    "name": "Christa (wrak)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3487751753"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

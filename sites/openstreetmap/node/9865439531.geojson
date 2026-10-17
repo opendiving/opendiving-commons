@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.6033,
+      -0.58978
+    ]
+  },
+  "properties": {
+    "uuid": "13280076-013a-524e-bd19-38d5436f9312",
+    "name": "Sawandarek Jetty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9865439531"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

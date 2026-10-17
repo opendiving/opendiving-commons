@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.345833,
+      -33.9855
+    ]
+  },
+  "properties": {
+    "uuid": "bc187c2a-5803-5ee1-892b-aa7a89d927a8",
+    "name": "Groot Pannekoek",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213768"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

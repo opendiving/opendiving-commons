@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.51712,
+      24.2613
+    ]
+  },
+  "properties": {
+    "uuid": "a7f0d004-95fa-51b4-b181-cee8f9d9f4da",
+    "name": "Shaab Hamam",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701364666"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

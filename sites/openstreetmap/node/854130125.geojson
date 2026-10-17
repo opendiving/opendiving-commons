@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.412745,
+      12.230709
+    ]
+  },
+  "properties": {
+    "uuid": "1db7def3-1b20-53b4-b61a-44602cddd1b5",
+    "name": "Carel's Vision",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/854130125"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

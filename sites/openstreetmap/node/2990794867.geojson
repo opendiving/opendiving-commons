@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.396136,
+      43.170968
+    ]
+  },
+  "properties": {
+    "uuid": "6034324a-6293-5b17-86ec-09a5fb8198b3",
+    "name": "Bosse du Chameau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2990794867"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

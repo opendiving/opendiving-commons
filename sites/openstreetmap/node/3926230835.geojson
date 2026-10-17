@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.293126,
+      2.048548
+    ]
+  },
+  "properties": {
+    "uuid": "79240762-16e4-51a3-9561-2cb655f35801",
+    "name": "Shark Diving Indonesia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3926230835"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

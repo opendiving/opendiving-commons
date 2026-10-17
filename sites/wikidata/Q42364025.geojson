@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.483333,
+      -34.255833
+    ]
+  },
+  "properties": {
+    "uuid": "93de2141-eb2e-54b4-a6a3-6a5870485e3f",
+    "name": "Deep Partridge",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42364025"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

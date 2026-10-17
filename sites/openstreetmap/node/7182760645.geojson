@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.496087,
+      -8.652062
+    ]
+  },
+  "properties": {
+    "uuid": "e9941f1b-a636-5b4e-b3d9-f88459c20e8b",
+    "name": "Indihiang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182760645"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.760728,
+      9.891153
+    ]
+  },
+  "properties": {
+    "uuid": "6f290f7c-3ea8-5f6c-98ef-1ecabd699e27",
+    "name": "Lighthouse West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871187"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

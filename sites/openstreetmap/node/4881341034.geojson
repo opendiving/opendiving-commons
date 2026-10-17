@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.773877,
+      1.594443
+    ]
+  },
+  "properties": {
+    "uuid": "432d549f-eda7-5efa-9c09-d94af33ba541",
+    "name": "Muka kampung",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4881341034"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Turtle City"
+      }
+    }
+  }
+}

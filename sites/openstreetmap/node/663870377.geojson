@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.84245,
+      47.66325
+    ]
+  },
+  "properties": {
+    "uuid": "b8c75eb5-1db7-5de2-8604-95f89749d0fa",
+    "name": "Camping-Hemishofen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870377"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

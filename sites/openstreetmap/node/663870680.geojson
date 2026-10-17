@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.345817,
+      47.617667
+    ]
+  },
+  "properties": {
+    "uuid": "b8b889c3-d035-5113-beac-2908bd37fb1c",
+    "name": "Walchensee - Bootssteg Urfeld",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870680"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

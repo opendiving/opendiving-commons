@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.303253,
+      -17.828779
+    ]
+  },
+  "properties": {
+    "uuid": "ad35e5f2-1598-56cf-8570-3591b6529f84",
+    "name": "Le tombant Gorgognes",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869230"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

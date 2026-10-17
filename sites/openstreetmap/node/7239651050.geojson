@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.611247,
+      4.002248
+    ]
+  },
+  "properties": {
+    "uuid": "27b11533-3577-5868-a692-58c1304c081b",
+    "name": "La Nevera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239651050"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

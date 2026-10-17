@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.654453,
+      13.4593
+    ]
+  },
+  "properties": {
+    "uuid": "ef12ec6b-a36b-5c51-9c04-e1d8b29a00e4",
+    "name": "SMS Cormoran",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6515042462"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

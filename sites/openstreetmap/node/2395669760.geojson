@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.065643,
+      -8.334708
+    ]
+  },
+  "properties": {
+    "uuid": "6757c764-beb3-5d1c-8e42-59d6b9942647",
+    "name": "Simons Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669760"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

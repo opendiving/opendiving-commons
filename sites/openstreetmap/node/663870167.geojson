@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.706759,
+      46.251101
+    ]
+  },
+  "properties": {
+    "uuid": "5fecb997-2d49-54a4-9c74-47571ce7af38",
+    "name": "Cascata Riale Salto",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870167"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.810935,
+      23.387818
+    ]
+  },
+  "properties": {
+    "uuid": "ea0693eb-e9c6-5fff-a0bb-dbead4377853",
+    "name": "Abu Bassala",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/16662755"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

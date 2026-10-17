@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.564917,
+      -34.180533
+    ]
+  },
+  "properties": {
+    "uuid": "939b277e-f018-57ab-ada0-73d95783353b",
+    "name": "SAS Fleur",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213867"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

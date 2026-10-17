@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.760983,
+      50.735183
+    ]
+  },
+  "properties": {
+    "uuid": "06b52371-4d93-5870-a205-954f7478f949",
+    "name": "Lütschestausee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870591"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

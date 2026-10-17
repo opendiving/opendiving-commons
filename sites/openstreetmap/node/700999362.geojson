@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.98408,
+      27.19829
+    ]
+  },
+  "properties": {
+    "uuid": "1bf157d3-2fe8-5aeb-8f07-42265659f49d",
+    "name": "Erg Somaya Drift",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999362"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

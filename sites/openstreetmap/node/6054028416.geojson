@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.467429,
+      47.02361
+    ]
+  },
+  "properties": {
+    "uuid": "9b34bd2e-fcb6-5f65-82bb-3f48e7f3c097",
+    "name": "Bildstock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6054028416"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.612326,
+      57.642154
+    ]
+  },
+  "properties": {
+    "uuid": "95ec010b-d649-5420-b340-39b51903a0d2",
+    "name": "Nieman",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12569811096"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

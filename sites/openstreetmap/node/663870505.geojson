@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.445916,
+      48.292037
+    ]
+  },
+  "properties": {
+    "uuid": "84af067f-a601-5858-be6d-dd6691a5ec70",
+    "name": "Bade- und Surfsee Thannhausen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870505"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

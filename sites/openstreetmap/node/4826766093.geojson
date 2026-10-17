@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.334821,
+      6.485813
+    ]
+  },
+  "properties": {
+    "uuid": "aff653ff-4586-5746-8f2e-992f70b36894",
+    "name": "Stone Henge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4826766093"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

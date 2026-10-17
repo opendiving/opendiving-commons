@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.906806,
+      51.083764
+    ]
+  },
+  "properties": {
+    "uuid": "40e79cfd-e708-5091-9a09-6100cbb86079",
+    "name": "Kleiner Krämersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4753974"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

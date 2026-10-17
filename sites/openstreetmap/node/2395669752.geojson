@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.070186,
+      -8.329617
+    ]
+  },
+  "properties": {
+    "uuid": "d92b35d6-6584-5f71-bb51-f9ed3d6d4238",
+    "name": "Malang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669752"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

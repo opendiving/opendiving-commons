@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.121548,
+      5.183747
+    ]
+  },
+  "properties": {
+    "uuid": "fa4d4ccc-2641-5d9a-806a-7b7da0f8fac4",
+    "name": "Kuda Gaa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9180047750"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.316667,
+      43.230333
+    ]
+  },
+  "properties": {
+    "uuid": "1dcbb271-11c5-5f0f-8639-a576d40b47ae",
+    "name": "Ker-Bihan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5806730179"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

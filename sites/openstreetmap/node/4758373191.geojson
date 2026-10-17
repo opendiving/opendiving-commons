@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.481291,
+      15.536309
+    ]
+  },
+  "properties": {
+    "uuid": "c71047e0-e17c-5b9a-8608-ef2ee1d5fbae",
+    "name": "plume plateau - shallow",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4758373191"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

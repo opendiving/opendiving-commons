@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.666441,
+      43.232746
+    ]
+  },
+  "properties": {
+    "uuid": "102ea35e-4561-5ac5-94a1-97361385e234",
+    "name": "Sèche Salagru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4290467468"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

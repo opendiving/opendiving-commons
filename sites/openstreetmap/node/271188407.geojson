@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.862318,
+      27.399211
+    ]
+  },
+  "properties": {
+    "uuid": "52566ee0-7256-5ed0-b380-313ceedbe9b9",
+    "name": "Poseidon Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271188407"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

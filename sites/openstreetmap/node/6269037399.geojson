@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.565934,
+      -3.786088
+    ]
+  },
+  "properties": {
+    "uuid": "b93079a2-9ed8-55f7-b536-35418db23316",
+    "name": "Terumbu Karang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6269037399"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

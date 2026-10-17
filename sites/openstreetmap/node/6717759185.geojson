@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.741374,
+      5.885122
+    ]
+  },
+  "properties": {
+    "uuid": "c57e8bbd-d08f-543b-8b0d-69d8f6394575",
+    "name": "K.K Bay",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6717759185"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

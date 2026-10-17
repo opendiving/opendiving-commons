@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.79728,
+      47.863727
+    ]
+  },
+  "properties": {
+    "uuid": "a80b72f0-e87d-5d30-95e4-a011946a2c3b",
+    "name": "Traunsee - Beim Löwen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870849"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

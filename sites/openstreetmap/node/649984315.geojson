@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.019762,
+      12.22371
+    ]
+  },
+  "properties": {
+    "uuid": "29ad163c-9283-5ef4-92f3-ad50600bb538",
+    "name": "South Button",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/649984315"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

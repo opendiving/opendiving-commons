@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.413105,
+      25.902585
+    ]
+  },
+  "properties": {
+    "uuid": "05f029ba-5646-5456-98e9-e6211bc1de57",
+    "name": "Maheleg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1493107203"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

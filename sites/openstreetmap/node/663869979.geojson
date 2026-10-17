@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.784832,
+      46.473539
+    ]
+  },
+  "properties": {
+    "uuid": "6ff645c9-59dc-5d3d-9709-2c5edf1e675e",
+    "name": "Lac Léman-Rivaz Gare",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869979"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

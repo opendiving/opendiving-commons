@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.333547,
+      41.597852
+    ]
+  },
+  "properties": {
+    "uuid": "b277b592-d0ca-53f8-957c-159038052541",
+    "name": "Secche di Tor Paterno",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2411843653"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

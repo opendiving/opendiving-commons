@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.230078,
+      36.081085
+    ]
+  },
+  "properties": {
+    "uuid": "c18d5708-ee2d-55ea-b8ee-03dd00cc48d1",
+    "name": "Għar ir-Riħ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/384935638"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Cathedral Cave"
+      }
+    }
+  }
+}

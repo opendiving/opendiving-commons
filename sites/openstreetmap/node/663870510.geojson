@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.247375,
+      48.487025
+    ]
+  },
+  "properties": {
+    "uuid": "b8d29fd3-854f-5dc0-80b4-15a8a0636eb5",
+    "name": "Südlicher Mooswaldsee (West)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870510"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

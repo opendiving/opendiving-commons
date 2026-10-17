@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.327763,
+      36.010089
+    ]
+  },
+  "properties": {
+    "uuid": "ae61d504-41ec-53c0-b118-abbfd4a69311",
+    "name": "Il-Bejta tal-Fenek",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831392"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Crystal Lagoon"
+      }
+    }
+  }
+}

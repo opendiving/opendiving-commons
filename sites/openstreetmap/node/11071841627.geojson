@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.362216,
+      43.371238
+    ]
+  },
+  "properties": {
+    "uuid": "c738d88a-f528-53f9-9336-a4d3e8ef436f",
+    "name": "Wrack Ribolovc",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11071841627"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

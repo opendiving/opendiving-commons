@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.577778,
+      44.940278
+    ]
+  },
+  "properties": {
+    "uuid": "45524874-0d45-50a5-91af-55066d5090fd",
+    "name": "Baron Gautsch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869712"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

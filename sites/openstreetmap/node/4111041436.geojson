@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.596105,
+      -5.758523
+    ]
+  },
+  "properties": {
+    "uuid": "6737177d-4f32-58cd-91d4-988817638369",
+    "name": "Noodles",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041436"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

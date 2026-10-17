@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.30885,
+      44.4972
+    ]
+  },
+  "properties": {
+    "uuid": "d4ced87f-6607-583e-b5b9-9fdf66612753",
+    "name": "Margarina (Sanddüne)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869723"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

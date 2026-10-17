@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.758999,
+      -32.124263
+    ]
+  },
+  "properties": {
+    "uuid": "4ba01e9a-d7d4-55ab-9de5-9051851768c6",
+    "name": "Ammunition Jetty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4131919424"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

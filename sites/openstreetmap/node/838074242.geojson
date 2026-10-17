@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.88907,
+      51.632
+    ]
+  },
+  "properties": {
+    "uuid": "4e342e72-b181-57ba-9479-73b49ab4c67b",
+    "name": "Havenhoofd West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074242"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

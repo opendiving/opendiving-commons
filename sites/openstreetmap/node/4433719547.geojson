@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.968667,
+      22.305
+    ]
+  },
+  "properties": {
+    "uuid": "b6beb3e8-eff2-55cd-9774-f99d4e91579d",
+    "name": "Al Fahal North",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4433719547"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

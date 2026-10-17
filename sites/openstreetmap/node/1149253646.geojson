@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.388299,
+      27.946547
+    ]
+  },
+  "properties": {
+    "uuid": "c7556f99-e2f3-5313-9ca0-7b386ce9bbd3",
+    "name": "خليج القرش",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1149253646"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Shark's Bay"
+      }
+    }
+  }
+}

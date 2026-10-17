@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.202208,
+      44.303015
+    ]
+  },
+  "properties": {
+    "uuid": "3b8b7f70-4c28-560c-8a74-229098517abe",
+    "name": "Casa del Sindaco",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504286710"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.505427,
+      47.145561
+    ]
+  },
+  "properties": {
+    "uuid": "38ddd0d6-f3fe-52dc-a149-52f7337446f2",
+    "name": "Rigiblick",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870268"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

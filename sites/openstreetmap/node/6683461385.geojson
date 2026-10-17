@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      95.251348,
+      5.894651
+    ]
+  },
+  "properties": {
+    "uuid": "dc15a60d-9902-5bbd-beb9-8f07a01feb32",
+    "name": "Seulaku",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6683461385"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

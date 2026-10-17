@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.184185,
+      53.495185
+    ]
+  },
+  "properties": {
+    "uuid": "16f855ef-6578-59c2-9732-72cf00092021",
+    "name": "Tauchspot Alt Rhese, Altmeiershof",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2601272559"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.975007,
+      43.543275
+    ]
+  },
+  "properties": {
+    "uuid": "f1e81a20-9a23-53bc-9b38-15fd851fbd7c",
+    "name": "Andromède",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11987051367"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.931817,
+      3.944517
+    ]
+  },
+  "properties": {
+    "uuid": "24a1f31e-2a11-5fa3-aaa3-c35e2df54354",
+    "name": "Fish Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869884"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.641202,
+      8.882061
+    ]
+  },
+  "properties": {
+    "uuid": "a23d0ec8-bfc7-5379-a78b-bb4762b85d7e",
+    "name": "Marita Shoals",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1475405905"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

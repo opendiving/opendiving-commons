@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.703327,
+      12.499935
+    ]
+  },
+  "properties": {
+    "uuid": "1c3399fb-2ab0-5105-a9dc-5ba69485e0d8",
+    "name": "Las Piedras de Carlitos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748287"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

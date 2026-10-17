@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.775278,
+      47.939444
+    ]
+  },
+  "properties": {
+    "uuid": "70172fda-ffdb-50fc-a943-74c30c3b6c8b",
+    "name": "Waginger See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870801"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

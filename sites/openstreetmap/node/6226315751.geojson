@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.227818,
+      14.841536
+    ]
+  },
+  "properties": {
+    "uuid": "f34576a8-7f5c-58d1-84ae-1609823f5878",
+    "name": "Site de Plongée La Perle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6226315751"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

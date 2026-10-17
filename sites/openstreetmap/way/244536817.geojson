@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.107902,
+      11.341246
+    ]
+  },
+  "properties": {
+    "uuid": "08d7199d-cf8b-5720-8651-e2b55cd10f2e",
+    "name": "Japanese Ship Wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/244536817"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

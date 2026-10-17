@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.482719,
+      41.230393
+    ]
+  },
+  "properties": {
+    "uuid": "ab3d16ea-1f0a-5713-bf3f-dbfe05a68727",
+    "name": "Grotta di San Francesco",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11086005030"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

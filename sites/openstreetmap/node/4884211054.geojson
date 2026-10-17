@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.675913,
+      31.693632
+    ]
+  },
+  "properties": {
+    "uuid": "28ee83ce-33a9-5238-9f6a-aae83f017166",
+    "name": "Arbolitos",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4884211054"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

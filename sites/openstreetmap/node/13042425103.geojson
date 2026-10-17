@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.733018,
+      8.757505
+    ]
+  },
+  "properties": {
+    "uuid": "9013cfd9-6e85-5ca6-8fd3-e00ba34f8227",
+    "name": "ER-2 Coral Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042425103"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

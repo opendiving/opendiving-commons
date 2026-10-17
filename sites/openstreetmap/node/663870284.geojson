@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.581917,
+      47.278585
+    ]
+  },
+  "properties": {
+    "uuid": "75c66951-d338-5d3b-8239-e0d9e0d5d949",
+    "name": "Key West",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870284"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

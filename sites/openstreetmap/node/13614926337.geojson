@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.426197,
+      35.9591
+    ]
+  },
+  "properties": {
+    "uuid": "805659fb-3d55-5758-999b-41aaef811460",
+    "name": "Qawra Nofsinhar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614926337"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Qawra South"
+      }
+    }
+  }
+}

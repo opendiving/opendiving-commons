@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.556415,
+      -6.294392
+    ]
+  },
+  "properties": {
+    "uuid": "38f19ad5-6890-56aa-8184-2c45594c3ea6",
+    "name": "Lagoon Mounding",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10224583145"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.712701,
+      47.480263
+    ]
+  },
+  "properties": {
+    "uuid": "2ceff872-a787-56b4-b426-b7ff6b3e7f81",
+    "name": "TCI-Parcours",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870691"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

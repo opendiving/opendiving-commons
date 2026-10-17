@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13458,
+      53.700358
+    ]
+  },
+  "properties": {
+    "uuid": "d33d967a-f4df-53af-b39f-c40fd23fadb9",
+    "name": "Wald",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518341"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.539388,
+      50.621715
+    ]
+  },
+  "properties": {
+    "uuid": "a4d67b27-9c0d-5434-b74d-f26c55be68a5",
+    "name": "Hohenwarte-Stausee - Schwarze Wand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870868"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

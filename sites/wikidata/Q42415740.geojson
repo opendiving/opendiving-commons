@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.562917,
+      -34.248117
+    ]
+  },
+  "properties": {
+    "uuid": "22e7f1fe-7477-5ab9-b4a9-c84a294cc2b1",
+    "name": "Whittle Rock South-east Pinnacle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42415740"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.62313,
+      43.157696
+    ]
+  },
+  "properties": {
+    "uuid": "8b370f0a-b01b-53be-b1ff-eddf73aadb3d",
+    "name": "Petit Sec",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6691289323"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.653552,
+      58.200866
+    ]
+  },
+  "properties": {
+    "uuid": "0b39a691-1345-58f6-a2c2-2f9dad62c62b",
+    "name": "Austgavlen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/457550393"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

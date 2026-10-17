@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.795697,
+      27.325622
+    ]
+  },
+  "properties": {
+    "uuid": "874ac8d6-c821-5467-923c-1a2ec29b5621",
+    "name": "Sachua Abu Galawa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11093005830"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

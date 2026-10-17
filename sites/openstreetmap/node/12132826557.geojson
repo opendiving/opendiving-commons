@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.235663,
+      41.953346
+    ]
+  },
+  "properties": {
+    "uuid": "a0898b8f-f86d-59d0-bb29-d52b3c004b55",
+    "name": "Barda de Pere el Flaquer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12132826557"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

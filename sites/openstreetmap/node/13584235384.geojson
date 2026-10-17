@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.417312,
+      59.989997
+    ]
+  },
+  "properties": {
+    "uuid": "d56daac0-3e28-5909-81d3-6fcf75008a79",
+    "name": "Vetokannas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13584235384"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

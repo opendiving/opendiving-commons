@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.68752,
+      4.805722
+    ]
+  },
+  "properties": {
+    "uuid": "f019203f-935d-5dd7-b7bd-0504b509ba57",
+    "name": "Coral Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3033956553"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

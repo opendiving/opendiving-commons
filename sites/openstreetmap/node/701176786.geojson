@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.91144,
+      27.02569
+    ]
+  },
+  "properties": {
+    "uuid": "2b68f43f-3fbd-55ba-9f5f-97374d05dbb4",
+    "name": "Tofa Abu Hashish",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701176786"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

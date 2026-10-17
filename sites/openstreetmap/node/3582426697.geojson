@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.841103,
+      10.067682
+    ]
+  },
+  "properties": {
+    "uuid": "658a488d-26fd-5714-822f-46189be68905",
+    "name": "อ่าวหินงาม",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3582426697"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ao Hin Ngam"
+      }
+    }
+  }
+}

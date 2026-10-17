@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.99241,
+      26.774009
+    ]
+  },
+  "properties": {
+    "uuid": "c8a2bd7f-f479-52e8-8f3c-524ba4404131",
+    "name": "Safaga Soraya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1396277160"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

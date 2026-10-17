@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.867054,
+      22.118294
+    ]
+  },
+  "properties": {
+    "uuid": "638835fc-f3ca-5a18-81ec-7afc0f87a978",
+    "name": "Shaab El Shaga",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045073421"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

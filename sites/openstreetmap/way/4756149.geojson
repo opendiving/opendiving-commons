@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.552366,
+      52.760086
+    ]
+  },
+  "properties": {
+    "uuid": "04293d28-a8db-5b98-8bda-df24b7ed32bf",
+    "name": "Obersee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4756149"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

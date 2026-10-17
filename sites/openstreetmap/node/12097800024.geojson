@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.843128,
+      51.741377
+    ]
+  },
+  "properties": {
+    "uuid": "2a701626-7cc4-5ffa-b2d9-e9ecae3353eb",
+    "name": "Le Serpent, bow",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12097800024"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

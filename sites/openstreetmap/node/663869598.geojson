@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.338889,
+      50.789722
+    ]
+  },
+  "properties": {
+    "uuid": "fa0fb266-c4f2-5e92-b2a1-eb5687c449f8",
+    "name": "Barn Hill",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869598"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

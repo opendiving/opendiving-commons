@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.836039,
+      46.260009
+    ]
+  },
+  "properties": {
+    "uuid": "f68c87b2-5759-532e-a8fb-ad2a35c21c82",
+    "name": "Römerbrücke / Ponte dei Salti",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870185"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

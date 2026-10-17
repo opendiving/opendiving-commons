@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.115421,
+      53.435717
+    ]
+  },
+  "properties": {
+    "uuid": "8b9a98f2-936a-5b5c-abc1-b6715f8edad3",
+    "name": "Hohendeicher See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870616"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

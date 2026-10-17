@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.43929,
+      7.340286
+    ]
+  },
+  "properties": {
+    "uuid": "879224b5-2675-5a0d-8e96-6a53528bc5a1",
+    "name": "Chuyo Maru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031041874"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

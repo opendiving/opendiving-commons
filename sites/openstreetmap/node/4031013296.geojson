@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.112534,
+      9.592963
+    ]
+  },
+  "properties": {
+    "uuid": "2da78046-c5ac-5c55-9a7d-0c5ca8cd7b35",
+    "name": "Vertigo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031013296"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

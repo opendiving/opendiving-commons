@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.773417,
+      44.869933
+    ]
+  },
+  "properties": {
+    "uuid": "e1b97924-2405-5ae5-9c1f-d6a4f7a437de",
+    "name": "Kap Zašorga",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869742"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

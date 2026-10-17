@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.153609,
+      37.540948
+    ]
+  },
+  "properties": {
+    "uuid": "39dda46e-945c-5f29-ab7d-9bb52900a5a3",
+    "name": "Cala Cerrada",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869530"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

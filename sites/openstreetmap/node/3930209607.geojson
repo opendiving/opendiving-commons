@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.500983,
+      45.344719
+    ]
+  },
+  "properties": {
+    "uuid": "20fa3c56-12b7-5c4a-96c0-bdf746443c2b",
+    "name": "Дайв-центр \"Одесский стан\"",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3930209607"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

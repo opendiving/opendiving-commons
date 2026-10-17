@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.427543,
+      47.05383
+    ]
+  },
+  "properties": {
+    "uuid": "3247e9d3-6c2c-522c-ae9a-84b64e70320b",
+    "name": "Holzlager",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870078"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

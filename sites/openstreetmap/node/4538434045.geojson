@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.383924,
+      47.868891
+    ]
+  },
+  "properties": {
+    "uuid": "097974ae-70cd-5d16-bd51-3c6ad06e6f07",
+    "name": "Tauchsport Vienna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4538434045"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

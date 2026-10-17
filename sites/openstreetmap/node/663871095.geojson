@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.401481,
+      52.860711
+    ]
+  },
+  "properties": {
+    "uuid": "42d1f527-035d-5745-a3fe-b9cf0fb8d157",
+    "name": "Jezioro Moryn - Moryn",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

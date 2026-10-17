@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.14607,
+      24.691382
+    ]
+  },
+  "properties": {
+    "uuid": "ae844726-595c-5dfe-bb72-6c2b166acf6e",
+    "name": "Gota Wadi Gamal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/765971224"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.811868,
+      10.117008
+    ]
+  },
+  "properties": {
+    "uuid": "aeafc05b-ebbb-5dea-8ab2-583fec03ba4d",
+    "name": "Buoyancy",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5993275432"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Buoyancy World"
+      }
+    }
+  }
+}

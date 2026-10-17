@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.112425,
+      52.578707
+    ]
+  },
+  "properties": {
+    "uuid": "6b8a9ca3-bc16-51ea-9b7c-ffb2b704f2f4",
+    "name": "Heidesee Holdorf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870571"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.854431,
+      52.058576
+    ]
+  },
+  "properties": {
+    "uuid": "f129fc72-7e2f-58a0-8183-ed54b7ce8f89",
+    "name": "Plattensee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/168361423"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

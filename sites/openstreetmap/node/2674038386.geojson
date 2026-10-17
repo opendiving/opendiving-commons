@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.540833,
+      12.690056
+    ]
+  },
+  "properties": {
+    "uuid": "89a8194c-1ff8-5433-88ff-6ea868feb6a6",
+    "name": "Sir Daniel Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038386"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

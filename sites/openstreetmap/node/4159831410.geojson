@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.327559,
+      35.988745
+    ]
+  },
+  "properties": {
+    "uuid": "4300d625-eece-56b0-9b4c-c445320e241a",
+    "name": "Statwa tal-Madonna",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831410"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Madonna Statue"
+      }
+    }
+  }
+}

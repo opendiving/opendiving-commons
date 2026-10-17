@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.95633,
+      45.98656
+    ]
+  },
+  "properties": {
+    "uuid": "950c3a24-61b6-5306-a2e0-db233495e9c5",
+    "name": "Lago di Lugano-Acquedetto",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870140"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

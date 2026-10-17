@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.681648,
+      12.586876
+    ]
+  },
+  "properties": {
+    "uuid": "6be70569-617d-5997-a5ea-68992a2f1949",
+    "name": "La Piramide",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618762608"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

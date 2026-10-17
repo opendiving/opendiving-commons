@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.430848,
+      63.449734
+    ]
+  },
+  "properties": {
+    "uuid": "2dd0450b-d77a-51ce-af4c-6485d91e4805",
+    "name": "Korsvika",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5146122936"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

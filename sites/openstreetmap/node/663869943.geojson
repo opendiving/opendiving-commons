@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.400468,
+      4.099112
+    ]
+  },
+  "properties": {
+    "uuid": "b41a74b8-8ab0-5154-bf2a-34398f808729",
+    "name": "Bolifushi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869943"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

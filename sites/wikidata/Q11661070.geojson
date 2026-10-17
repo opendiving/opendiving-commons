@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.773333,
+      26.4425
+    ]
+  },
+  "properties": {
+    "uuid": "bf342a6f-2f0c-5019-bb58-7fe0a1cd491e",
+    "name": "Blue Cave",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q11661070"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

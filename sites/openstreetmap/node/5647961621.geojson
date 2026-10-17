@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.870216,
+      45.761507
+    ]
+  },
+  "properties": {
+    "uuid": "df0bcb09-95ed-55cc-b815-0dda3c2d3b68",
+    "name": "Site de plongée de Challière",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5647961621"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

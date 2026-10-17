@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.43415,
+      53.286217
+    ]
+  },
+  "properties": {
+    "uuid": "79b2e1a5-9d65-5632-ac53-c4c208a6b2aa",
+    "name": "Dreetzsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871074"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

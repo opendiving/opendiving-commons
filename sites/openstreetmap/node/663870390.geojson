@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13939,
+      47.7696
+    ]
+  },
+  "properties": {
+    "uuid": "172b9b5e-3ac3-5fe3-bedc-6e63fa2f1af1",
+    "name": "Überlingen Uferpark",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870390"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

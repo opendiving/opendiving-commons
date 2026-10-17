@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.50404,
+      -16.727947
+    ]
+  },
+  "properties": {
+    "uuid": "867d4408-cd39-57a2-a06b-c9745efd8637",
+    "name": "Les Roses",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869251"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

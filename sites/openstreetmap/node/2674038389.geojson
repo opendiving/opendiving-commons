@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.462115,
+      12.735891
+    ]
+  },
+  "properties": {
+    "uuid": "a658c7d4-57b8-5753-8cfe-ad146ce77a8c",
+    "name": "Prado Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2674038389"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

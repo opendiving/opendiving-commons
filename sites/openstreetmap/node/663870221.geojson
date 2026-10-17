@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.482365,
+      47.012486
+    ]
+  },
+  "properties": {
+    "uuid": "9e78d4a5-d8ec-5264-955a-3b021b33da3c",
+    "name": "Vitznau",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870221"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

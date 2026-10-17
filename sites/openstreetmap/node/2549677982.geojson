@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.297254,
+      43.266369
+    ]
+  },
+  "properties": {
+    "uuid": "0e28a8fa-577d-5a69-b0e0-ba9a9ef4f365",
+    "name": "Amphores du frioul",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549677982"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

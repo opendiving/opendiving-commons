@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.90753,
+      47.34119
+    ]
+  },
+  "properties": {
+    "uuid": "a7308149-9fbc-560b-9d7b-b986fc74b995",
+    "name": "Badi Schützenmatt",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870105"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

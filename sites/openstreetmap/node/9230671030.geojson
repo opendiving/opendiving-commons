@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.259786,
+      27.731056
+    ]
+  },
+  "properties": {
+    "uuid": "d8de539e-fbf8-5d3c-96df-441f16322b6f",
+    "name": "Shark Observatory",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9230671030"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

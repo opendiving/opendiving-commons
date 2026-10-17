@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.949813,
+      4.01525
+    ]
+  },
+  "properties": {
+    "uuid": "4d1f6b65-fe31-55bf-8862-bbdb2b98612e",
+    "name": "Ellaidhoo house reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584458549"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

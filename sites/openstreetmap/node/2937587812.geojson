@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.20687,
+      47.65973
+    ]
+  },
+  "properties": {
+    "uuid": "456c9303-74ab-5bd3-a099-7a8890672ce6",
+    "name": "Club subaquatique",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2937587812"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

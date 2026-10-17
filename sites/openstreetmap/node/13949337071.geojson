@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.533915,
+      50.333649
+    ]
+  },
+  "properties": {
+    "uuid": "cb06e17c-91c5-5a01-9821-e1847a79af21",
+    "name": "Dartmouth Mewstone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13949337071"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

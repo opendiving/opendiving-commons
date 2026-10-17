@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.460833,
+      -34.199167
+    ]
+  },
+  "properties": {
+    "uuid": "26c8468f-1e43-57bf-a6c1-2c963fd145cc",
+    "name": "Dangerous Doug Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42051891"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

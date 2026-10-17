@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.285003,
+      36.016828
+    ]
+  },
+  "properties": {
+    "uuid": "e55b7242-aac0-5864-a852-f3e69696c13b",
+    "name": "MV Xlendi",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4159831403"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.24522,
+      -15.525512
+    ]
+  },
+  "properties": {
+    "uuid": "c64b09c5-dd5a-5e6f-8bb2-98d5a4abd6cc",
+    "name": "Million Dollar Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1874302192"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.862351,
+      9.94623
+    ]
+  },
+  "properties": {
+    "uuid": "6e1866f7-e2d8-53cd-a8b7-2583409adddb",
+    "name": "seafan forest",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/602929120"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

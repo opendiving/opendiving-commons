@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.285293,
+      12.099804
+    ]
+  },
+  "properties": {
+    "uuid": "2c4fcd41-9081-5dcd-9c08-57474857fbf0",
+    "name": "Alice in Wonderland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/635881804"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

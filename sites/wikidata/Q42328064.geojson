@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.48,
+      -34.24
+    ]
+  },
+  "properties": {
+    "uuid": "2b553d26-a0f8-5d9d-90d7-219e9113675f",
+    "name": "Castle Rocks Point Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42328064"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.310279,
+      -0.589452
+    ]
+  },
+  "properties": {
+    "uuid": "f843130d-70dc-54c0-8c37-aba89ad542e2",
+    "name": "Seamount",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045665466"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

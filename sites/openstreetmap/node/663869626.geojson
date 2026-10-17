@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.151917,
+      58.897233
+    ]
+  },
+  "properties": {
+    "uuid": "ca516ec0-a841-5a17-b359-fa29b5281ef3",
+    "name": "SMS Brummer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869626"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

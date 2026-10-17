@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.287126,
+      12.166688
+    ]
+  },
+  "properties": {
+    "uuid": "64608e5b-ac27-5b82-aee9-5e8e609f4436",
+    "name": "Front Porch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/639106013"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

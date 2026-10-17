@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.743323,
+      12.517079
+    ]
+  },
+  "properties": {
+    "uuid": "20271e7a-d18d-5920-9e41-79cced4a12b4",
+    "name": "Wild Life",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748294"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

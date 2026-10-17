@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      177.170046,
+      -17.174428
+    ]
+  },
+  "properties": {
+    "uuid": "2fa91aa8-eead-5f10-9bc6-ffa51f9f8f60",
+    "name": "Malolo Reef Dive Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13788911670"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

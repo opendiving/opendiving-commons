@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      24.061572,
+      60.738283
+    ]
+  },
+  "properties": {
+    "uuid": "0d0aada0-db2c-5950-9cb6-268f173e21ac",
+    "name": "Iso-Melkuttimen sukellustukikohta",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3037521469"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.102787,
+      11.351223
+    ]
+  },
+  "properties": {
+    "uuid": "389bece9-fbea-51a5-9672-e968e95793df",
+    "name": "Bogtong Bato",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4941394890"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Deep Rock"
+      }
+    }
+  }
+}

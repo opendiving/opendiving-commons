@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.760274,
+      -36.782702
+    ]
+  },
+  "properties": {
+    "uuid": "0fce7426-0e0c-5165-ab55-9e831741abbf",
+    "name": "Dolphin Underwater Club",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7165116725"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

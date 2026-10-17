@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.71425,
+      12.497474
+    ]
+  },
+  "properties": {
+    "uuid": "b797a184-54c2-5629-9285-122ede4ce8af",
+    "name": "Blue Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748286"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

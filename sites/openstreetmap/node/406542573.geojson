@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.194552,
+      58.845491
+    ]
+  },
+  "properties": {
+    "uuid": "8e159c7c-fdba-53b0-b229-24c0cac5dc35",
+    "name": "F2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/406542573"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

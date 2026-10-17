@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.458283,
+      -34.20595
+    ]
+  },
+  "properties": {
+    "uuid": "3812793a-36bb-5e23-afb9-a09e249df0b0",
+    "name": "Fisherman’s Beach",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213755"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

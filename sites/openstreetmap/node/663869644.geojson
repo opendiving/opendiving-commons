@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.713389,
+      -38.318444
+    ]
+  },
+  "properties": {
+    "uuid": "8414c343-769b-5c0d-aa86-bcf6ce0c10cf",
+    "name": "Portsea Pier",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869644"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.927001,
+      29.514507
+    ]
+  },
+  "properties": {
+    "uuid": "a43814bb-d662-5ec6-a325-d7a2751886d0",
+    "name": "סטי\"ל",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8577535117"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

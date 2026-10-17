@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.618968,
+      47.254219
+    ]
+  },
+  "properties": {
+    "uuid": "5b199d9e-337d-5e0e-bbf9-1a2e98a58571",
+    "name": "Seegüetli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870293"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

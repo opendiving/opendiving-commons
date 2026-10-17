@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.972398,
+      46.716179
+    ]
+  },
+  "properties": {
+    "uuid": "ba651a39-4172-54ef-98f3-84766d952de9",
+    "name": "Schneckeninsel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870040"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

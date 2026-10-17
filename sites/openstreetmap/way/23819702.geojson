@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.81641,
+      48.405892
+    ]
+  },
+  "properties": {
+    "uuid": "bf5ea00d-a81e-583c-9ccf-d68a438b17ee",
+    "name": "Matschelsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/23819702"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

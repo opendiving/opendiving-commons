@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.547744,
+      59.220707
+    ]
+  },
+  "properties": {
+    "uuid": "9a1b674f-0dff-5bb1-aeb0-cde43abdd428",
+    "name": "Snorkelled",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5002097913"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

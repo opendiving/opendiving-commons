@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.685276,
+      46.720536
+    ]
+  },
+  "properties": {
+    "uuid": "7dc6127d-cb2a-569b-b6db-7d31a96cf38e",
+    "name": "Längenschachen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845643676"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

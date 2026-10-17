@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.332033,
+      -33.991433
+    ]
+  },
+  "properties": {
+    "uuid": "75349c31-2f6e-59df-a19b-368735dfbf77",
+    "name": "13th Apostle",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213677"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

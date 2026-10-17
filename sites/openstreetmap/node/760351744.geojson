@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.195996,
+      49.226438
+    ]
+  },
+  "properties": {
+    "uuid": "4f7cd3aa-c537-531a-bbb9-4b47a823ed3c",
+    "name": "Rothsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/760351744"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

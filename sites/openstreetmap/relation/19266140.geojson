@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.995093,
+      26.810319
+    ]
+  },
+  "properties": {
+    "uuid": "ca987927-67f7-52a8-b3db-57cece5f5382",
+    "name": "Tobia Kebir",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/19266140"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

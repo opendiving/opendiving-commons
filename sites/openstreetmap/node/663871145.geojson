@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.934525,
+      53.755577
+    ]
+  },
+  "properties": {
+    "uuid": "3b88cca7-74fe-5c7a-9725-93f1ca73e8f7",
+    "name": "Jezioro Czarnoglowy Male",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871145"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

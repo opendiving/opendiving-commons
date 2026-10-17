@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.386867,
+      38.431469
+    ]
+  },
+  "properties": {
+    "uuid": "acc8d2f4-747e-5112-9727-24e007b4a4d4",
+    "name": "CB Costa Campello",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/299665756"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

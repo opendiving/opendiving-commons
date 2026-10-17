@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.641415,
+      47.106404
+    ]
+  },
+  "properties": {
+    "uuid": "31841331-2b79-5035-9254-32247bbbd455",
+    "name": "Morgarten Denkmal",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663452015"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

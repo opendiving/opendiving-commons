@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.338842,
+      35.958839
+    ]
+  },
+  "properties": {
+    "uuid": "bf6742c3-5f31-52c5-a929-21f4f48c1d9c",
+    "name": "Għar l-Iskorpjun",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614926339"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Scorpion Cave"
+      }
+    }
+  }
+}

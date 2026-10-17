@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.420357,
+      -16.744432
+    ]
+  },
+  "properties": {
+    "uuid": "25987fa3-db63-5eb8-95f9-17683b89db66",
+    "name": "Te Ava Piti",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869255"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

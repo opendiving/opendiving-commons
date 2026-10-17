@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.286667,
+      48.67
+    ]
+  },
+  "properties": {
+    "uuid": "7feb2482-f620-5a17-bbc8-12f53da424dc",
+    "name": "G.B. Church",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869306"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

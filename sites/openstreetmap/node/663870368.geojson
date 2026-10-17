@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.62694,
+      47.69194
+    ]
+  },
+  "properties": {
+    "uuid": "3682cef5-16d1-5b34-9054-6a74ec431153",
+    "name": "Alte Brücke-Flurlingersteg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870368"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

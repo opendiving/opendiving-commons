@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.718836,
+      43.41118
+    ]
+  },
+  "properties": {
+    "uuid": "e612e1d8-b83e-502e-8d9a-84233fbfaadb",
+    "name": "Belharra-Perdun",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/967839148"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

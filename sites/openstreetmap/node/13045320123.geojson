@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.256569,
+      -0.561568
+    ]
+  },
+  "properties": {
+    "uuid": "23385cbf-f493-5736-8295-0339419d4e0d",
+    "name": "West Penemu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045320123"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

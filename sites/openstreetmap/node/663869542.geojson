@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.68082,
+      45.254884
+    ]
+  },
+  "properties": {
+    "uuid": "7b24582d-b3aa-5af2-8cff-e7a589784b68",
+    "name": "City of Grand Rapids (steamer)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869542"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

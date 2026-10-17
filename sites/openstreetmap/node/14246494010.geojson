@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.432525,
+      14.660906
+    ]
+  },
+  "properties": {
+    "uuid": "2d43b375-b5a3-5c63-a1b6-31bc9e6e7821",
+    "name": "Océanium",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14246494010"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

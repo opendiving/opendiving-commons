@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.110479,
+      46.99829
+    ]
+  },
+  "properties": {
+    "uuid": "1b032017-c6b4-5e58-99e1-e37921978169",
+    "name": "Bow",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/847727578"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

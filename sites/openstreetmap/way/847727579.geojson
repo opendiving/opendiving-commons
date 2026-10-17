@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.109254,
+      46.999601
+    ]
+  },
+  "properties": {
+    "uuid": "e859f8a8-dbe3-5af8-8444-1802d8a68329",
+    "name": "Overturned Stern",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/847727579"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

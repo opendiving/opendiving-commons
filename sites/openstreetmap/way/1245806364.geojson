@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.645199,
+      13.463097
+    ]
+  },
+  "properties": {
+    "uuid": "27094e40-46b6-5926-8150-f168a8ad3918",
+    "name": "Dogleg Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1245806364"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

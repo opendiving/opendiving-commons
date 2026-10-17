@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.331766,
+      6.48892
+    ]
+  },
+  "properties": {
+    "uuid": "0fad3bd5-cfc8-5aba-97d2-15b207d26e78",
+    "name": "Koh Talak Steps",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9533630905"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.721399,
+      3.572937
+    ]
+  },
+  "properties": {
+    "uuid": "1c677053-7f82-50a3-97cf-a26afe0655a5",
+    "name": "Hukurudhoo reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9620859251"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

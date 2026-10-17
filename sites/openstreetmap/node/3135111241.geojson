@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.386034,
+      43.100726
+    ]
+  },
+  "properties": {
+    "uuid": "d775d844-e6f1-529a-b32a-982d6e136662",
+    "name": "Wildcat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3135111241"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

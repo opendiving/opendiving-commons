@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.228633,
+      30.183417
+    ]
+  },
+  "properties": {
+    "uuid": "683cf3d9-171a-5105-9a2a-b4580acc7ff2",
+    "name": "Sylvia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869452"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

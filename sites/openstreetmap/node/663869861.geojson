@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.469712,
+      28.44322
+    ]
+  },
+  "properties": {
+    "uuid": "1a87a41f-2595-5e1c-b7b0-cf5e2b2c2475",
+    "name": "South Oasis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869861"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

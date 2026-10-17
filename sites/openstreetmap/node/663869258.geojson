@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.50404,
+      -16.758276
+    ]
+  },
+  "properties": {
+    "uuid": "08a57283-13df-5130-9e7c-b5feef485017",
+    "name": "Rauto’Anui",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869258"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

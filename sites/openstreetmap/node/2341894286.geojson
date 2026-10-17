@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      152.322886,
+      -32.601447
+    ]
+  },
+  "properties": {
+    "uuid": "68642166-3901-5f8f-bc8f-1664d96a2fb4",
+    "name": "North Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2341894286"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

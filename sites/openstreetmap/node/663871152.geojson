@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.558342,
+      54.693334
+    ]
+  },
+  "properties": {
+    "uuid": "e2c9d385-4391-5b9c-a5df-664622282f6d",
+    "name": "ORP Kujawiak",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871152"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.539728,
+      42.338359
+    ]
+  },
+  "properties": {
+    "uuid": "e60c5c18-9deb-55f8-8ef1-544151ec0625",
+    "name": "Costa Verde Loisirs",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6723676879"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.41414,
+      12.245742
+    ]
+  },
+  "properties": {
+    "uuid": "2b7294cf-4568-55fb-90ca-83c73da7a19c",
+    "name": "Playa Frans",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1420984806"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

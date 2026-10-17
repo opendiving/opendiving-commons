@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.080089,
+      26.752984
+    ]
+  },
+  "properties": {
+    "uuid": "a629f098-688f-51ee-8cd3-22c9b46130b7",
+    "name": "Panorama Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/197754194"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

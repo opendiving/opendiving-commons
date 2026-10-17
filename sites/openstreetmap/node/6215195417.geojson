@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.221856,
+      11.251956
+    ]
+  },
+  "properties": {
+    "uuid": "87308a2e-c004-5b6f-938a-b1117acc1779",
+    "name": "Barcazas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6215195417"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

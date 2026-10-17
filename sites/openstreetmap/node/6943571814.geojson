@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.086699,
+      -13.393134
+    ]
+  },
+  "properties": {
+    "uuid": "99e924fe-2be1-51e4-82c3-9958e6f839f7",
+    "name": "Rosado",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6943571814"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.78332,
+      1.708793
+    ]
+  },
+  "properties": {
+    "uuid": "0ab40a74-7991-5d84-b228-f229e0894f19",
+    "name": "Buhias",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293786943"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

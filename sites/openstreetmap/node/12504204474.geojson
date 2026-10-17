@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.146291,
+      44.322381
+    ]
+  },
+  "properties": {
+    "uuid": "0ce6ae55-5cbc-5ea4-8ec5-f0a8720ddf84",
+    "name": "Punta Chiappa Levante",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504204474"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

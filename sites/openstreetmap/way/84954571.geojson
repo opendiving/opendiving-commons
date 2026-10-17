@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.958503,
+      42.859177
+    ]
+  },
+  "properties": {
+    "uuid": "7753a770-9946-53ec-a9ab-e73068163e6f",
+    "name": "Font Estramar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/84954571"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

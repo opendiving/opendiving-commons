@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.322611,
+      54.433522
+    ]
+  },
+  "properties": {
+    "uuid": "036530e5-9c2d-5292-a3c3-ecebab8f2522",
+    "name": "Dock-Tor",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/296860179"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

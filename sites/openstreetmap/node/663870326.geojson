@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.57242,
+      47.29199
+    ]
+  },
+  "properties": {
+    "uuid": "a8207b0e-70be-5710-a2f5-5e97a390f377",
+    "name": "Zentenhof",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870326"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

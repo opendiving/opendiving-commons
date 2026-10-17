@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.280402,
+      53.142415
+    ]
+  },
+  "properties": {
+    "uuid": "557a771c-0bf0-5688-9bf7-da239dddaebe",
+    "name": "Blankenburger See - Süd",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870575"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

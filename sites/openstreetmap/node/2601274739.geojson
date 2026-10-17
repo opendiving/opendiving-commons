@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.245246,
+      53.532145
+    ]
+  },
+  "properties": {
+    "uuid": "e0f2b967-39f1-548d-9b25-573eb4eeb8df",
+    "name": "Tauchspot Augustabad am FKK Strand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2601274739"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

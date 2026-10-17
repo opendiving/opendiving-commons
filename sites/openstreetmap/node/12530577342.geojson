@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.134377,
+      53.697678
+    ]
+  },
+  "properties": {
+    "uuid": "c83f59e6-4fbf-56e5-8b8d-142f8117313d",
+    "name": "Brückenkonstruktion",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530577342"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

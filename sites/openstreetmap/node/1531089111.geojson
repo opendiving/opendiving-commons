@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.6325,
+      57.596667
+    ]
+  },
+  "properties": {
+    "uuid": "00c60b06-cd93-53f4-88f1-46dff0c76d5c",
+    "name": "Trubaduren fyr",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1531089111"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

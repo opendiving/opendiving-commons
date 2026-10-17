@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.6888,
+      43.199767
+    ]
+  },
+  "properties": {
+    "uuid": "e8e94528-6933-51cc-afbb-50e35d386b57",
+    "name": "Roche Fouras",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6690818912"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.89276,
+      -8.748698
+    ]
+  },
+  "properties": {
+    "uuid": "e5b56c60-4721-579b-9339-0a187ccba26c",
+    "name": "Snorkelling reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6703093158"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

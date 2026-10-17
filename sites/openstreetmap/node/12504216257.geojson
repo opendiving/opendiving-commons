@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.147391,
+      44.321142
+    ]
+  },
+  "properties": {
+    "uuid": "7ccff50d-9059-5c70-a407-954389cb1623",
+    "name": "Punta della Targhetta",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504216257"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

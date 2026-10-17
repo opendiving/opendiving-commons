@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.539121,
+      48.300677
+    ]
+  },
+  "properties": {
+    "uuid": "5555bb4e-f822-5f68-bf72-583233bb011b",
+    "name": "Race Rocks - West and Central",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869266"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.817672,
+      54.262982
+    ]
+  },
+  "properties": {
+    "uuid": "516e6a3a-1a90-55e6-ac2d-54edc386820d",
+    "name": "Platform",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13001546493"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

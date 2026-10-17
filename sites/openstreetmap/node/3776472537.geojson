@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.492643,
+      22.638997
+    ]
+  },
+  "properties": {
+    "uuid": "e53eda7e-1965-5903-9c08-dc05ab516c86",
+    "name": "大白沙潛水區",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3776472537"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Dabaisha"
+      }
+    }
+  }
+}

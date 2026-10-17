@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.289386,
+      12.171676
+    ]
+  },
+  "properties": {
+    "uuid": "652041ab-53d3-5c28-9a47-53ae680d7929",
+    "name": "La Machaca",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/635094207"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

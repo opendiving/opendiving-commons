@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.352722,
+      59.919487
+    ]
+  },
+  "properties": {
+    "uuid": "0c8ab0fd-1822-5d19-9c9b-c6392c9aa06e",
+    "name": "Белый тюлень",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5969020241"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

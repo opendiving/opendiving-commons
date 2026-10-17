@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.79268,
+      53.048864
+    ]
+  },
+  "properties": {
+    "uuid": "1bd1fdaa-6f43-547f-a547-520ddf977a69",
+    "name": "Kalksee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/25912993"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.254761,
+      -8.70632
+    ]
+  },
+  "properties": {
+    "uuid": "f015c29e-a70a-59bd-aa81-12cf83952fbe",
+    "name": "Bali International Diving Professionals (BIDP)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4101520318"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

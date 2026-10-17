@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.992026,
+      26.795825
+    ]
+  },
+  "properties": {
+    "uuid": "37164b12-37bc-502c-980c-c9158404e2fc",
+    "name": "Gamul Soraya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/19266049"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

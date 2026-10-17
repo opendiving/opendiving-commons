@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.638919,
+      47.118242
+    ]
+  },
+  "properties": {
+    "uuid": "266b88b2-a410-58ca-820e-3ea8966ced8e",
+    "name": "Chappeli",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870290"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.541408,
+      48.31211
+    ]
+  },
+  "properties": {
+    "uuid": "67bcba03-a192-54fb-b4b7-c77dca61a80f",
+    "name": "Barnard Castle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869269"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

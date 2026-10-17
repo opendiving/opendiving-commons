@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.5951,
+      24.218233
+    ]
+  },
+  "properties": {
+    "uuid": "f63a0552-9476-516a-b8f1-180d976b5a1c",
+    "name": "Shaab Ini",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869771"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

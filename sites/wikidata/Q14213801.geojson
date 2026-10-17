@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.356167,
+      -33.984333
+    ]
+  },
+  "properties": {
+    "uuid": "519ac583-2754-5b2e-a78a-5cd6da7d6880",
+    "name": "MV Antipolis",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213801"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

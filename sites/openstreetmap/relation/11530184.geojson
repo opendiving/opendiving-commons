@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.609045,
+      57.634836
+    ]
+  },
+  "properties": {
+    "uuid": "32340f48-fc1e-56ab-87b8-f7faad5f53f9",
+    "name": "Midsommarviken",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/11530184"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

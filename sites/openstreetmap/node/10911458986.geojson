@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.692849,
+      45.437121
+    ]
+  },
+  "properties": {
+    "uuid": "88f5ef86-d30a-5549-b0fc-d1cc92d772a9",
+    "name": "Sub Club Peschiera del Garda",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10911458986"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

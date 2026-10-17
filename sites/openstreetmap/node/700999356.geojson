@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.92363,
+      27.01056
+    ]
+  },
+  "properties": {
+    "uuid": "c011d7a1-c755-5ea3-9e53-96864c638c20",
+    "name": "Erg Abu Hashish",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999356"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

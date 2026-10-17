@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.495267,
+      20.633144
+    ]
+  },
+  "properties": {
+    "uuid": "6a37c691-1b34-5eff-b829-9b5e5c71cc2f",
+    "name": "Enenue",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3480272730"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

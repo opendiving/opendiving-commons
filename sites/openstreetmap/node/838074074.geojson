@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.85073,
+      51.676606
+    ]
+  },
+  "properties": {
+    "uuid": "c413d264-fea0-52c9-90a3-51ee28ec8c7b",
+    "name": "Flauwers Heerenkeet",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074074"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

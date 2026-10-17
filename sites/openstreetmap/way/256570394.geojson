@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.43673,
+      47.441009
+    ]
+  },
+  "properties": {
+    "uuid": "2c982382-f78b-5560-a96e-1fd4e8264f74",
+    "name": "Étang de la Carrière du Mont Juillet",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/256570394"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.806852,
+      -8.39267
+    ]
+  },
+  "properties": {
+    "uuid": "756de5c0-8038-59ae-9701-dc4f6e7c4e75",
+    "name": "Sabolon besar dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8022562467"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.920333,
+      54.4435
+    ]
+  },
+  "properties": {
+    "uuid": "d915de27-90bd-531a-b89e-f71a9e0e2785",
+    "name": "Arbeitsponton",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870620"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.461033,
+      -34.208067
+    ]
+  },
+  "properties": {
+    "uuid": "4091c486-671b-5c50-b1af-d722058c8920",
+    "name": "A-Frame",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213678"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

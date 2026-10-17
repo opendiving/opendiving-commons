@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.24306,
+      46.88769
+    ]
+  },
+  "properties": {
+    "uuid": "121f30b0-e1e0-5286-bd02-76f9624841a8",
+    "name": "Hafen Sust",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870061"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

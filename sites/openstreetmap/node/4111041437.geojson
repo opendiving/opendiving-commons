@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.606427,
+      -5.735075
+    ]
+  },
+  "properties": {
+    "uuid": "cd0ffddf-377f-5d45-b4a5-1826d4c871b0",
+    "name": "Sea Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4111041437"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

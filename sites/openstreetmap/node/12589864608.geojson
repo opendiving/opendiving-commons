@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.235175,
+      49.560273
+    ]
+  },
+  "properties": {
+    "uuid": "85a1ce70-114f-54eb-8339-49258ee45523",
+    "name": "Porteau Cove Diving Area",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12589864608"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

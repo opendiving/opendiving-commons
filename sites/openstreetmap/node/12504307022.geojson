@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.21842,
+      44.297943
+    ]
+  },
+  "properties": {
+    "uuid": "f2e36364-0dae-547f-9256-6eab1783d4a5",
+    "name": "Punta del Faro di Portofino",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504307022"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

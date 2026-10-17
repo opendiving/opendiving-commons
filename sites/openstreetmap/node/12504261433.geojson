@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.178793,
+      44.308736
+    ]
+  },
+  "properties": {
+    "uuid": "1844d20f-7788-5089-bfa0-46441fc23693",
+    "name": "Targa Gonzatti",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504261433"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

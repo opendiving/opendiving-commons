@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      97.640827,
+      8.619623
+    ]
+  },
+  "properties": {
+    "uuid": "992ba12f-a90d-5308-87cf-30e85cca2dff",
+    "name": "Elephant Head",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270980993"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

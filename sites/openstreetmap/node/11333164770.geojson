@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.293004,
+      26.215463
+    ]
+  },
+  "properties": {
+    "uuid": "edd971f1-455a-54b2-93cc-0dec6025bc7b",
+    "name": "アダン前",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333164770"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Adan Mae"
+      }
+    }
+  }
+}

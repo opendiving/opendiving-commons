@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.03651,
+      35.049774
+    ]
+  },
+  "properties": {
+    "uuid": "a62a70cd-6b28-5028-9ffe-e888c987b022",
+    "name": "Nemesis III",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9467256654"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.21543,
+      49.452655
+    ]
+  },
+  "properties": {
+    "uuid": "9149645a-e352-5659-a824-1368fa523256",
+    "name": "Plongeurs Masqués",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13898107791"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

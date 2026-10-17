@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.855314,
+      23.340197
+    ]
+  },
+  "properties": {
+    "uuid": "7584fbf5-b381-5264-a8b1-dd7c1e06c62c",
+    "name": "Dangerous Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701364652"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

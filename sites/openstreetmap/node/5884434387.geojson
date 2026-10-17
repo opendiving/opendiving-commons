@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.935276,
+      27.227837
+    ]
+  },
+  "properties": {
+    "uuid": "e8269037-fbec-5e58-ac77-c9b12ac2c266",
+    "name": "Shaab Nenad",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5884434387"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

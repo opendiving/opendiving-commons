@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.611931,
+      43.179505
+    ]
+  },
+  "properties": {
+    "uuid": "af0097fa-6091-5783-95f3-b67b8d70f210",
+    "name": "Abyss Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5697651513"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.306123,
+      11.141273
+    ]
+  },
+  "properties": {
+    "uuid": "2a17d245-29b0-56fe-84ba-21a7c8b5d991",
+    "name": "Biet Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/236001016"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

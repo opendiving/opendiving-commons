@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.35683,
+      46.92028
+    ]
+  },
+  "properties": {
+    "uuid": "099401ca-3738-5e8e-9f21-cd5c364efd0d",
+    "name": "Bacheinlauf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870259"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

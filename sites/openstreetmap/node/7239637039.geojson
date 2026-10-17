@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.614718,
+      3.997325
+    ]
+  },
+  "properties": {
+    "uuid": "10a37c29-2ce7-5398-8047-a0da7cd107b8",
+    "name": "Saul",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239637039"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

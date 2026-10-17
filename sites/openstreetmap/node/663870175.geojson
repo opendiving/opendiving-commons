@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.80553,
+      46.16158
+    ]
+  },
+  "properties": {
+    "uuid": "03384754-4088-595c-a483-3329ce2c3383",
+    "name": "Lido Locarno",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870175"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

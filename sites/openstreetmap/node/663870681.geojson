@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.538155,
+      47.576308
+    ]
+  },
+  "properties": {
+    "uuid": "32c40a31-7865-5041-9a7b-08e4fdbb6305",
+    "name": "Sylvensteinsee / Sylvensteinspeicher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870681"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

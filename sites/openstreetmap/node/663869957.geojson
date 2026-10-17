@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.81925,
+      46.38856
+    ]
+  },
+  "properties": {
+    "uuid": "0d2ed8d7-d9d0-574c-84f3-e700161a7a16",
+    "name": "Falaise Bikini",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869957"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

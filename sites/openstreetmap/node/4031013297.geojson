@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.116896,
+      9.592687
+    ]
+  },
+  "properties": {
+    "uuid": "621250df-1fd3-5e16-a7f0-a7edb8bc5014",
+    "name": "Zero plane",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031013297"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

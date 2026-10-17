@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.987162,
+      26.786413
+    ]
+  },
+  "properties": {
+    "uuid": "96f374e4-f28a-5ae4-85ee-873a6bc25081",
+    "name": "Gamul Kebir",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/19266162"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

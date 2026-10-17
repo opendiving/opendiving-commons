@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.777406,
+      25.344182
+    ]
+  },
+  "properties": {
+    "uuid": "45d9b23d-5daf-56c0-9dd2-c322abd88767",
+    "name": "East Abu Dabab 3",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271180017"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

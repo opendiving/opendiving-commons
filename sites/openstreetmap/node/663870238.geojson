@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.08767,
+      46.8171
+    ]
+  },
+  "properties": {
+    "uuid": "11e0176b-ec7d-5462-8f49-3aa109ae443e",
+    "name": "Seehorn Wand",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870238"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

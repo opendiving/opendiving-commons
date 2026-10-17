@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.927226,
+      -36.898923
+    ]
+  },
+  "properties": {
+    "uuid": "cab4c6df-1b2d-5a82-a63b-924ea2b8360e",
+    "name": "Merimbula Wharf",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/202925288"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

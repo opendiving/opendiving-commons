@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.138354,
+      53.698393
+    ]
+  },
+  "properties": {
+    "uuid": "2b679642-6c51-52ea-8501-490af04438a5",
+    "name": "Gullyschacht",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530518334"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

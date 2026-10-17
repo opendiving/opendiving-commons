@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4542,
+      -34.1925
+    ]
+  },
+  "properties": {
+    "uuid": "663081e9-90dc-5380-ab20-ec1345065d4d",
+    "name": "Noah's Ark and the Ark Rock wrecks",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213825"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

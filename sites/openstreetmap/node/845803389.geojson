@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.704018,
+      46.682547
+    ]
+  },
+  "properties": {
+    "uuid": "f770f3a6-90d9-5bdc-9376-fe28d669d0ed",
+    "name": "Seezeichen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/845803389"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

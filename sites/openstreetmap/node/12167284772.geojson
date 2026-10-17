@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.638551,
+      -0.529774
+    ]
+  },
+  "properties": {
+    "uuid": "c6db5220-10a4-57bd-a195-0b3d92023c4d",
+    "name": "Ot Di Ma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12167284772"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.409545,
+      50.086579
+    ]
+  },
+  "properties": {
+    "uuid": "3d0b6bd6-03f7-5f71-9752-43c0d8ab63ad",
+    "name": "Vltava Pod Karlovým mostem",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5749232706"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

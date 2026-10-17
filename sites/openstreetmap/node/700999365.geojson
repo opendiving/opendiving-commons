@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.85376,
+      27.40791
+    ]
+  },
+  "properties": {
+    "uuid": "68b57771-c164-531f-a11d-dfec0101ee9c",
+    "name": "Dolphin House",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999365"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

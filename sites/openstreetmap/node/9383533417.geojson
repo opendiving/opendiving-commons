@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -61.65551,
+      15.901017
+    ]
+  },
+  "properties": {
+    "uuid": "ebc9ff6d-3e2b-5ca7-9db3-66c4235ceb40",
+    "name": "Le Sec Pâté",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9383533417"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

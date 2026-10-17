@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.230215,
+      36.081354
+    ]
+  },
+  "properties": {
+    "uuid": "fe828d5c-a5e9-51eb-90a5-07d2c1fe7d9b",
+    "name": "Għar ta' Ras il-Qamħ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13348045172"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Cave of Wheat"
+      }
+    }
+  }
+}

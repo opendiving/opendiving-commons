@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.604381,
+      22.441857
+    ]
+  },
+  "properties": {
+    "uuid": "6c5b7f91-6c98-559d-b5ad-32ae69e2ad36",
+    "name": "Habili Dibia",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045053326"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

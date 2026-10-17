@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.28031,
+      50.841839
+    ]
+  },
+  "properties": {
+    "uuid": "aee15ead-ef1c-576a-8ba5-1de062adb616",
+    "name": "Adventure Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6763214022"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

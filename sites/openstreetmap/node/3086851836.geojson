@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.113655,
+      63.326197
+    ]
+  },
+  "properties": {
+    "uuid": "45344447-c071-562f-aea8-4d64cf7a7c66",
+    "name": "Lektern",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3086851836"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

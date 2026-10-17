@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.211616,
+      50.433337
+    ]
+  },
+  "properties": {
+    "uuid": "2f0d805c-807b-5bd0-b586-75acfb648e3f",
+    "name": "Barrage à Bütgenbach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9857663706"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.75822,
+      47.706054
+    ]
+  },
+  "properties": {
+    "uuid": "a54dd0c6-cccf-5bc4-a610-45b2c45cc7c2",
+    "name": "Tegernsee - Tegernsee Yachtclub (Fischerei)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870695"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

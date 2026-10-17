@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.56325,
+      -34.246383
+    ]
+  },
+  "properties": {
+    "uuid": "d2af80c6-bcfa-5be3-ad5c-846c1765aa4c",
+    "name": "''Euphrates'' anchors",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42415894"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

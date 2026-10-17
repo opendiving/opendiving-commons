@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.814854,
+      10.123445
+    ]
+  },
+  "properties": {
+    "uuid": "1d84c3ac-e65a-5607-bc4f-92b0f34da6b1",
+    "name": "Red Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/859428812"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

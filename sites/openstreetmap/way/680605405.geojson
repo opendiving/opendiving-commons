@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.412598,
+      48.319389
+    ]
+  },
+  "properties": {
+    "uuid": "8f596630-0092-58e6-8248-5591c672b846",
+    "name": "Amphithéâtre",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/680605405"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

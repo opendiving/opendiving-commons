@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4446,
+      -34.1382
+    ]
+  },
+  "properties": {
+    "uuid": "83bc7a8e-cb3c-5db6-8d4c-ce3bcaa25a70",
+    "name": "Fish Hoek Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213754"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

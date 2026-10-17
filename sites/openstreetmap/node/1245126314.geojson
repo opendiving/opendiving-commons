@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.515598,
+      35.902662
+    ]
+  },
+  "properties": {
+    "uuid": "ea6df8a7-2b79-5831-83ed-7db1858af399",
+    "name": "HMS Maori",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1245126314"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

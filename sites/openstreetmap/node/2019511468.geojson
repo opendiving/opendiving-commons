@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.574095,
+      51.230145
+    ]
+  },
+  "properties": {
+    "uuid": "a400811b-a44e-5a6b-ad5d-7df9acd112c3",
+    "name": "Tauch-Sport-Club Kaarst",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2019511468"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

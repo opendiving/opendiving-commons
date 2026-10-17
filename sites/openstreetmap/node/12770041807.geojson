@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.771593,
+      -0.761006
+    ]
+  },
+  "properties": {
+    "uuid": "481831e3-94e1-5a35-8bde-0dd73ef753ab",
+    "name": "Survival",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12770041807"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

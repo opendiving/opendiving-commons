@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.222498,
+      9.330807
+    ]
+  },
+  "properties": {
+    "uuid": "ffb01c1e-8a1f-5bae-81f0-40d88de24772",
+    "name": "Barco Hundido",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12639496075"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

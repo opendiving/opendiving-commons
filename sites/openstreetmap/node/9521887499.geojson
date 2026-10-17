@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.436522,
+      -0.300132
+    ]
+  },
+  "properties": {
+    "uuid": "735bbe63-19cc-5528-a593-d947e6c650f3",
+    "name": "Seafan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9521887499"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

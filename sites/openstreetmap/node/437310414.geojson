@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.556823,
+      47.853979
+    ]
+  },
+  "properties": {
+    "uuid": "643f490b-e09c-5313-b87f-c07131171a5b",
+    "name": "Schwarze Brücke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/437310414"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

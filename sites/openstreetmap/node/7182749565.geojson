@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.695278,
+      -8.510979
+    ]
+  },
+  "properties": {
+    "uuid": "c22a26dd-429e-5e20-a361-4aa8ad909dbb",
+    "name": "Sabayor Kecil",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7182749565"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

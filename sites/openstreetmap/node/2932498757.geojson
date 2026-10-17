@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.551094,
+      55.216327
+    ]
+  },
+  "properties": {
+    "uuid": "7f5f247c-e50c-5deb-926e-7f50b53053fa",
+    "name": "Kamužės stovyklavietė",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2932498757"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.36315,
+      -33.930783
+    ]
+  },
+  "properties": {
+    "uuid": "85e64620-bb54-5fb3-9800-595e308dd23c",
+    "name": "North Paw Cave Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41741217"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.153867,
+      12.341558
+    ]
+  },
+  "properties": {
+    "uuid": "3e49af80-0a55-51c2-aed1-15fd7227c49e",
+    "name": "Kleine Knip",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/447928252"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

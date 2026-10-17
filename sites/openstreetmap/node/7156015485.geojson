@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.718926,
+      3.595454
+    ]
+  },
+  "properties": {
+    "uuid": "8444428c-57b6-513d-9646-ad54b4e67241",
+    "name": "Rangali Madivaru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7156015485"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.777359,
+      18.797937
+    ]
+  },
+  "properties": {
+    "uuid": "a32ddc24-1eeb-5d5e-bf20-e4f1e36ff7fa",
+    "name": "Karam Marsmarit",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9721031082"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.220978,
+      55.592755
+    ]
+  },
+  "properties": {
+    "uuid": "cdf084fc-c618-5ab3-9a83-493a556a8086",
+    "name": "Bridvaišis",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13034066920"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

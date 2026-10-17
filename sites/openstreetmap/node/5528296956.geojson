@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.129645,
+      40.053461
+    ]
+  },
+  "properties": {
+    "uuid": "f954872e-10fb-5e6e-927b-ded961defd0a",
+    "name": "Diving Menorca",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5528296956"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.988518,
+      5.785254
+    ]
+  },
+  "properties": {
+    "uuid": "b1b52b12-c5cf-52dc-80d3-b95031f2e223",
+    "name": "Redang - Tanjung Lebah",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735154906"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

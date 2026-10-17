@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.991234,
+      26.656831
+    ]
+  },
+  "properties": {
+    "uuid": "e9919e5d-5e01-5786-be12-a5e9871f121c",
+    "name": "الإسم العربي ؟",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/19266691"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Cannon Reef"
+      }
+    }
+  }
+}

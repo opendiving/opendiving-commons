@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.500928,
+      22.392313
+    ]
+  },
+  "properties": {
+    "uuid": "2a567aba-9b6d-5b91-a0bb-2ad73a58d0bd",
+    "name": "Wreck of Grumman HU-16 Albatros Aircraft",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13044982099"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

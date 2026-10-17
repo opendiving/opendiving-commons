@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3773,
+      -34.270283
+    ]
+  },
+  "properties": {
+    "uuid": "ec5a71ad-8fe6-5516-9342-1da04c093bb1",
+    "name": "SS Bia",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213875"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.333911,
+      47.933182
+    ]
+  },
+  "properties": {
+    "uuid": "2d98ccb2-07b1-5702-b508-3e6f6fc77992",
+    "name": "Allmannshausen: Seeburg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5238915101"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

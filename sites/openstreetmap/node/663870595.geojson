@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.959781,
+      51.727756
+    ]
+  },
+  "properties": {
+    "uuid": "9c8609c1-3c07-577c-9758-a6ab6a63cc15",
+    "name": "Northeimer Seenplatte",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870595"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.56255,
+      -34.248617
+    ]
+  },
+  "properties": {
+    "uuid": "39855964-5370-5385-9a62-7a1995f32e6c",
+    "name": "South-east Pinnacle chain",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42416257"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

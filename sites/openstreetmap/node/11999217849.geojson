@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.268027,
+      50.85451
+    ]
+  },
+  "properties": {
+    "uuid": "9661ae5e-d2c6-591a-a832-9864e2c2bb23",
+    "name": "Plattform 6m",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11999217849"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

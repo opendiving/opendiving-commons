@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.270272,
+      48.463861
+    ]
+  },
+  "properties": {
+    "uuid": "72bf9c6e-0028-5943-94ad-4ab6a7028684",
+    "name": "Telegraph Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869279"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.969517,
+      12.0176
+    ]
+  },
+  "properties": {
+    "uuid": "17abfec3-a11e-5d91-b864-89a66121b915",
+    "name": "Taiei Maru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871190"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

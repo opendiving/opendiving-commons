@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.219866,
+      41.919109
+    ]
+  },
+  "properties": {
+    "uuid": "cfa01ad5-b90e-573e-8282-6cc65149520d",
+    "name": "Furió d'Aigua Xelida",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1310714019"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

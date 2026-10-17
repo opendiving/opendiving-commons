@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      21.761196,
+      54.156127
+    ]
+  },
+  "properties": {
+    "uuid": "54fe752a-5377-51a0-8d21-ad8e90b999a7",
+    "name": "Jezioro Harsz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871169"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

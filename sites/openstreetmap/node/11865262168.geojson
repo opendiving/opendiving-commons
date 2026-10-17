@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.243616,
+      38.276297
+    ]
+  },
+  "properties": {
+    "uuid": "42aa4d5a-6eb7-57cf-b0f6-5e2e5194eeee",
+    "name": "Secca di Levante",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11865262168"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

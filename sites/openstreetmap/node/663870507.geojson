@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.076667,
+      48.22
+    ]
+  },
+  "properties": {
+    "uuid": "b6f4d6a4-d487-5c6c-a227-49ad18724f87",
+    "name": "Dietenheimer See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870507"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.679014,
+      -27.540823
+    ]
+  },
+  "properties": {
+    "uuid": "b5fa306d-65ac-5aa1-bac6-aa093a82bd67",
+    "name": "Pisces Diving",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3270398763"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

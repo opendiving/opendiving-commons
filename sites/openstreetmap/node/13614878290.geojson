@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.450183,
+      35.819586
+    ]
+  },
+  "properties": {
+    "uuid": "a21fe957-a9f1-5411-978a-ca1acb700d28",
+    "name": "Sikka Leminija Żurrieq",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13614878290"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Żurrieq - Right Reef"
+      }
+    }
+  }
+}

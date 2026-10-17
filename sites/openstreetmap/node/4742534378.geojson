@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.516029,
+      -8.675691
+    ]
+  },
+  "properties": {
+    "uuid": "478b51e3-2ea0-5a5a-b77d-54056473fc17",
+    "name": "Ped",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4742534378"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

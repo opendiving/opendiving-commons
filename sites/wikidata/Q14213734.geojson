@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4666,
+      -34.2063
+    ]
+  },
+  "properties": {
+    "uuid": "be21d52e-0534-5dcc-80ff-70a8f7c0e32c",
+    "name": "D-Frame",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213734"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.952334,
+      -0.453701
+    ]
+  },
+  "properties": {
+    "uuid": "2bfd6a98-6173-5a73-a321-8e15052de6e3",
+    "name": "Saddleback Reef",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270671152"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

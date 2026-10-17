@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.18395,
+      23.60178
+    ]
+  },
+  "properties": {
+    "uuid": "474e4e68-84b4-58c2-86bc-4dbbc15cbdd4",
+    "name": "Habili Zabargad",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/701364655"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

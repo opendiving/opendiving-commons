@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.235242,
+      -15.523082
+    ]
+  },
+  "properties": {
+    "uuid": "c3b1a914-4f3a-5a36-9b0e-aa46369c975a",
+    "name": "SS President Coolidge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1873948248"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

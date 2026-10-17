@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.036196,
+      51.075651
+    ]
+  },
+  "properties": {
+    "uuid": "767006bf-2ea0-5d78-91fc-e4006339ad34",
+    "name": "Alperstedter See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "relation/2513413"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

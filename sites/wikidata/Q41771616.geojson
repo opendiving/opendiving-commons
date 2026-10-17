@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.3125,
+      -34.026667
+    ]
+  },
+  "properties": {
+    "uuid": "e1f11c29-5331-5925-afff-740a01f4a2b6",
+    "name": "MFV Harvest Capella",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41771616"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.483096,
+      53.444601
+    ]
+  },
+  "properties": {
+    "uuid": "dd70837e-5f98-5721-a559-fbde384fd8e8",
+    "name": "Jezioro Insko - Westspitze",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871138"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

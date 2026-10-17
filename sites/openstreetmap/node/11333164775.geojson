@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.309979,
+      26.217288
+    ]
+  },
+  "properties": {
+    "uuid": "4b4e25ae-7b14-58ce-ba88-ca4e16f3639c",
+    "name": "シル東",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11333164775"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Shiru Higashi"
+      }
+    }
+  }
+}

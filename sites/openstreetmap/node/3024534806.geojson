@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.76501,
+      44.540113
+    ]
+  },
+  "properties": {
+    "uuid": "28e75dbd-d80f-5467-8cd6-e402d756df3d",
+    "name": "Marche-Pied",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3024534806"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

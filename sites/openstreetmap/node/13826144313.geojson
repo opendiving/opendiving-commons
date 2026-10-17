@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.673306,
+      56.37909
+    ]
+  },
+  "properties": {
+    "uuid": "0e8e9ab6-ec7e-59ae-8d9f-ee70de49bed9",
+    "name": "Bjerringbro Dykkerklub",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13826144313"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

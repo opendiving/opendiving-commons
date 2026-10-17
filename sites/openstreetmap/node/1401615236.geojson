@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.295627,
+      42.987975
+    ]
+  },
+  "properties": {
+    "uuid": "8cb3e102-f2d2-5982-bfab-4623b137d226",
+    "name": "Haut Fond de Centuri",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1401615236"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

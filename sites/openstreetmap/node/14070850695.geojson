@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.431502,
+      41.142256
+    ]
+  },
+  "properties": {
+    "uuid": "369eff42-95b7-5d6d-a380-d046e8eb9933",
+    "name": "El Brut",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14070850695"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

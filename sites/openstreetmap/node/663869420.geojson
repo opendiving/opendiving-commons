@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.411981,
+      12.290242
+    ]
+  },
+  "properties": {
+    "uuid": "09e1f935-50e7-5c8f-af56-7eea9f27e2e3",
+    "name": "Playa Benge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869420"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.394121,
+      43.171525
+    ]
+  },
+  "properties": {
+    "uuid": "6ca1335c-6291-54ff-9f6e-c5b0f421b05d",
+    "name": "Impérial du Milieu",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2990794870"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

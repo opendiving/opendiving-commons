@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.67728,
+      -14.92808
+    ]
+  },
+  "properties": {
+    "uuid": "2907c399-636f-513c-8c64-4ee840930bb5",
+    "name": "Pixie Gardens",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270802346"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

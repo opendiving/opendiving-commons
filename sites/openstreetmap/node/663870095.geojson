@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.4216,
+      47.17286
+    ]
+  },
+  "properties": {
+    "uuid": "8f45a62c-d61c-50fb-9aea-52628daef15f",
+    "name": "Neue Brücke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

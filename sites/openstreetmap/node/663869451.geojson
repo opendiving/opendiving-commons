@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.21825,
+      30.188417
+    ]
+  },
+  "properties": {
+    "uuid": "a6458756-37d4-5cf9-9ab9-e3b454916a6d",
+    "name": "San Pablo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869451"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

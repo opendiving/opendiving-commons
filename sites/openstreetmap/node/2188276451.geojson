@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.654532,
+      9.255341
+    ]
+  },
+  "properties": {
+    "uuid": "8186b046-86a4-58e7-ad08-447689d52889",
+    "name": "White Island Black Forest",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2188276451"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

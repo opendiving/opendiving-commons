@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.677643,
+      6.960628
+    ]
+  },
+  "properties": {
+    "uuid": "ad3a1390-26e6-5935-87b9-49b5358c27c0",
+    "name": "Angel's Cove",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1235385234"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

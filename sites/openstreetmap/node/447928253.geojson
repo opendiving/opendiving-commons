@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.153211,
+      12.351434
+    ]
+  },
+  "properties": {
+    "uuid": "86c030b9-363d-56b1-a93a-625eb5fed1d8",
+    "name": "Grote Knip",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/447928253"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

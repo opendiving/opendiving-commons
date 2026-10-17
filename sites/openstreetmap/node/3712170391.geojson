@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.68395,
+      -14.95076
+    ]
+  },
+  "properties": {
+    "uuid": "205c000e-bc67-5a17-8552-6f09dabbf4af",
+    "name": "Goggle Gardens",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3712170391"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

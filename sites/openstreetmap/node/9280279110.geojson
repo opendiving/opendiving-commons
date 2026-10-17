@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.163257,
+      24.866662
+    ]
+  },
+  "properties": {
+    "uuid": "a5ec0420-f8a7-5bcd-94f5-27e22ebcf324",
+    "name": "L字アーチ",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9280279110"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "L-Achi"
+      }
+    }
+  }
+}

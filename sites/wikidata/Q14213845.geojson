@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.457283,
+      -34.19745
+    ]
+  },
+  "properties": {
+    "uuid": "b33343ef-2a2f-5885-9241-4e7c122e2512",
+    "name": "Photographer's Reef",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213845"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

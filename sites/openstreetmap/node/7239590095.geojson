@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.616337,
+      3.994088
+    ]
+  },
+  "properties": {
+    "uuid": "34896f42-ccda-53ff-8358-58abb88bbd7a",
+    "name": "La Gringa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239590095"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

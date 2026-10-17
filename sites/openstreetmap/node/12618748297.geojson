@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.736517,
+      12.526471
+    ]
+  },
+  "properties": {
+    "uuid": "e08b1b53-c03e-5134-a284-a15adbb73a8a",
+    "name": "West View",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12618748297"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

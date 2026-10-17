@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.305267,
+      -34.0473
+    ]
+  },
+  "properties": {
+    "uuid": "b4ef1681-6898-5447-9dc9-5ca333c8ff33",
+    "name": "Stonehenge Blinder",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41792189"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

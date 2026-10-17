@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.923183,
+      27.5774
+    ]
+  },
+  "properties": {
+    "uuid": "b574c323-9d36-5698-ac88-ad589fb84cb8",
+    "name": "Giannis D",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869812"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.82515,
+      -34.180467
+    ]
+  },
+  "properties": {
+    "uuid": "1859f5a7-4f11-5d6e-984c-844ce25b366c",
+    "name": "Troglodyte’s Cove",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213935"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

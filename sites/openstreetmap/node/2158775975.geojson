@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.26977,
+      9.071157
+    ]
+  },
+  "properties": {
+    "uuid": "b45a2e54-dffd-5825-94cd-925a37c6509e",
+    "name": "Rock point East",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2158775975"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.475978,
+      -34.231319
+    ]
+  },
+  "properties": {
+    "uuid": "0e0aa2d4-bf8c-525e-9f0b-2eb0d6177463",
+    "name": "Miller’s Point",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213821"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

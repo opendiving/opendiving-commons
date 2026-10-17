@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.487392,
+      53.611806
+    ]
+  },
+  "properties": {
+    "uuid": "8b7955c9-03da-5813-9d21-13cb7fb92661",
+    "name": "Lastensegler",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3494799485"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

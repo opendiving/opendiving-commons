@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.13459,
+      53.697446
+    ]
+  },
+  "properties": {
+    "uuid": "619819b5-f8cd-50ec-9732-e60ffab92655",
+    "name": "Versorgungsleitungen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14079446339"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

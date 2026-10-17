@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.729254,
+      53.629219
+    ]
+  },
+  "properties": {
+    "uuid": "fb59dae5-55ac-5f94-b3cb-7da876e8fc89",
+    "name": "Eccleston Delph",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/141329817"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

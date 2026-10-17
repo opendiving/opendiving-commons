@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.248144,
+      41.443934
+    ]
+  },
+  "properties": {
+    "uuid": "be4b2aa7-b52b-5179-8b10-ca73fd11f7d0",
+    "name": "Club d'Escafandrisme Sasba",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12020533809"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

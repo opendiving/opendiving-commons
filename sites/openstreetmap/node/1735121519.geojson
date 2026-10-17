@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.916396,
+      6.505334
+    ]
+  },
+  "properties": {
+    "uuid": "f3bcc9c5-8fd4-5196-af12-5203bd9cbb30",
+    "name": "Lankayan - Jetty Dive",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1735121519"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

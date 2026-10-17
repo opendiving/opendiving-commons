@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.198419,
+      44.304112
+    ]
+  },
+  "properties": {
+    "uuid": "1d38d7bc-6a40-596c-ab1f-401ae8c35bd0",
+    "name": "Punta Vessinaro",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12504296525"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

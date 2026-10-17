@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      93.150724,
+      12.06185
+    ]
+  },
+  "properties": {
+    "uuid": "0a6ee3ae-a84c-5df3-85e7-ba2831eecac0",
+    "name": "Minerva Ledge",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/649984303"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

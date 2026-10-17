@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.266667,
+      48.421667
+    ]
+  },
+  "properties": {
+    "uuid": "efc0e111-e1c9-50fe-a44b-38b4a69360bc",
+    "name": "Chain Islet",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869285"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

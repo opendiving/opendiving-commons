@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.603983,
+      4.001824
+    ]
+  },
+  "properties": {
+    "uuid": "05c8c234-3e56-59fe-8232-57b302f5c028",
+    "name": "El Arco del Tropic",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7239667403"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

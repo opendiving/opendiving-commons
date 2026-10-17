@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.37486,
+      46.57066
+    ]
+  },
+  "properties": {
+    "uuid": "8406e303-efce-5dcb-b3e6-d40b14eba54e",
+    "name": "Im Gufer",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870255"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

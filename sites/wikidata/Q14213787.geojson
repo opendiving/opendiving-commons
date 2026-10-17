@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.845433,
+      -34.169883
+    ]
+  },
+  "properties": {
+    "uuid": "0591d5a7-b211-5b42-a4c4-0cfd7d9d4fd5",
+    "name": "Ledges",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213787"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

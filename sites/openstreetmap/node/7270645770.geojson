@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.837214,
+      -0.35285
+    ]
+  },
+  "properties": {
+    "uuid": "09883845-7154-5330-ba82-13e23916d056",
+    "name": "Chinatown",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270645770"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

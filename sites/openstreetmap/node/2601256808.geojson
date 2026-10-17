@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.304153,
+      53.245167
+    ]
+  },
+  "properties": {
+    "uuid": "77aac321-ef20-5f93-87d7-212370a01839",
+    "name": "Tauchspot Großer Krohnsee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2601256808"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

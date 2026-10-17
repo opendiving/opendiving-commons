@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.654657,
+      51.295566
+    ]
+  },
+  "properties": {
+    "uuid": "902b1fd3-8e44-577f-8b2b-4de70b652a12",
+    "name": "Großer Ammelshainer Steinbruch",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/28399081"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

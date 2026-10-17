@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130584,
+      53.699114
+    ]
+  },
+  "properties": {
+    "uuid": "6553f592-0ed4-5d29-839e-51ad01b6c3f6",
+    "name": "Skywalk",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530450042"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

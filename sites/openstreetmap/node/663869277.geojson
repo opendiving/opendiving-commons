@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -123.384114,
+      48.41487
+    ]
+  },
+  "properties": {
+    "uuid": "abfe7608-83c5-5d3d-a94f-786e94ba7a40",
+    "name": "Ogden Point (The Breakwater)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869277"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.696468,
+      23.661742
+    ]
+  },
+  "properties": {
+    "uuid": "5556d69f-71b9-59bc-824f-30943ecbfefb",
+    "name": "Abu Fendira",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11271483160"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

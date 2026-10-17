@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.518613,
+      -0.563415
+    ]
+  },
+  "properties": {
+    "uuid": "99c43d40-4505-55b9-8dfb-41b472aa7565",
+    "name": "Aerborek Jetty",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9865449636"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

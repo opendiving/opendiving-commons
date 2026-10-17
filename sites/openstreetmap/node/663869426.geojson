@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.296732,
+      12.188411
+    ]
+  },
+  "properties": {
+    "uuid": "00156713-b3f1-5e66-85cd-045d57c12215",
+    "name": "Andrea I",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869426"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

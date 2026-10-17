@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.392852,
+      45.98174
+    ]
+  },
+  "properties": {
+    "uuid": "4ffdfb66-ba43-5596-bdd3-2a2d1ca548b1",
+    "name": "Les Joyeux Corsaires",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/322672765"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

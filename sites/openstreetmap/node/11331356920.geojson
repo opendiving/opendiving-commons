@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.776784,
+      25.346865
+    ]
+  },
+  "properties": {
+    "uuid": "52781d99-6f74-5c48-a2c6-14e2a950c923",
+    "name": "Heaven",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11331356920"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

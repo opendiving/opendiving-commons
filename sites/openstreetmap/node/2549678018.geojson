@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.370333,
+      43.176733
+    ]
+  },
+  "properties": {
+    "uuid": "4046d513-3f3d-52ee-8200-5b39a35cd03a",
+    "name": "Iles des moyades",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2549678018"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.808083,
+      27.681283
+    ]
+  },
+  "properties": {
+    "uuid": "b5d031ed-c6b4-59c4-bde3-f3dd87ca7059",
+    "name": "Bluff Point",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271196006"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

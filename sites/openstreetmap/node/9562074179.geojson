@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.915094,
+      3.540018
+    ]
+  },
+  "properties": {
+    "uuid": "b6d9da5a-7b29-56a6-a47c-f131198a52af",
+    "name": "Dhigurah Arches",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9562074179"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

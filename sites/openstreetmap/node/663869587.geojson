@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.011944,
+      50.726111
+    ]
+  },
+  "properties": {
+    "uuid": "3e304a7c-6b0e-5c46-9b6c-fa989702c562",
+    "name": "Clan Macmillan",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869587"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.532382,
+      55.213632
+    ]
+  },
+  "properties": {
+    "uuid": "23d3ec00-1047-5dd0-b040-9df849ff1488",
+    "name": "Lakajai 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13034066922"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

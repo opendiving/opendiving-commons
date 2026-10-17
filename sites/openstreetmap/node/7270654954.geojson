@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.646054,
+      -0.207893
+    ]
+  },
+  "properties": {
+    "uuid": "206c268d-b227-5a0f-a228-009fefd32b78",
+    "name": "Menara 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7270654954"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

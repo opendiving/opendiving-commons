@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.885983,
+      57.058653
+    ]
+  },
+  "properties": {
+    "uuid": "21f628ca-4d08-56c1-ba03-858a198f9017",
+    "name": "Aalborg Svømmeklub Sportsdykkerafdeling",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13800467648"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

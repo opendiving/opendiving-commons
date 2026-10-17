@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.219589,
+      9.321947
+    ]
+  },
+  "properties": {
+    "uuid": "c8b9ace7-605f-5380-89dd-969388ced381",
+    "name": "Casa Verde",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12601627187"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.929451,
+      34.605012
+    ]
+  },
+  "properties": {
+    "uuid": "e34d6298-b6fd-568f-8347-602e8491de84",
+    "name": "MAV Achaios",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1607029659"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

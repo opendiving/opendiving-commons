@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.471903,
+      -5.416545
+    ]
+  },
+  "properties": {
+    "uuid": "7f4decf6-9769-550a-a5ec-4fa594aa06ae",
+    "name": "Agus dream",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4104620512"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

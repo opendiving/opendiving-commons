@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.602685,
+      40.263359
+    ]
+  },
+  "properties": {
+    "uuid": "8b77774d-1d8d-5a67-be85-5f60a6704e1d",
+    "name": "котор терак",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/754960519"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

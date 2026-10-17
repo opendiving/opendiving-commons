@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.602572,
+      45.250026
+    ]
+  },
+  "properties": {
+    "uuid": "bd36d89d-58f5-522a-8d8e-dd16389f74bd",
+    "name": "Niagara II (sandsucker)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869538"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

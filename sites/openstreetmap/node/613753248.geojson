@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.510636,
+      46.963783
+    ]
+  },
+  "properties": {
+    "uuid": "afd8f633-9849-5345-98c2-2fcc7053f078",
+    "name": "Beckenried Rütenen Einstieg 2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/613753248"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.43375,
+      52.767433
+    ]
+  },
+  "properties": {
+    "uuid": "ed888cf8-f71e-5dce-a4d2-c37b37819184",
+    "name": "Stolzenhagener See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871030"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

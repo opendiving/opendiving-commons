@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -40.390973,
+      -20.685343
+    ]
+  },
+  "properties": {
+    "uuid": "107c5f1d-14b5-50f8-bcb9-611b7bd85ecf",
+    "name": "Victory B8",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/317545423"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

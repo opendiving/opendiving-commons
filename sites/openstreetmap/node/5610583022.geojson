@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.844268,
+      26.313039
+    ]
+  },
+  "properties": {
+    "uuid": "1e393f03-8232-5589-8bf4-66932c266ef3",
+    "name": "موقع الغوص - جزيرة الأخ الأكبر",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5610583022"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Big Brother Dive Site"
+      }
+    }
+  }
+}

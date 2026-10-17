@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.105598,
+      12.245422
+    ]
+  },
+  "properties": {
+    "uuid": "8f30b2bc-6e53-5753-be6e-fe06c8737329",
+    "name": "Playa Manzalina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869383"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

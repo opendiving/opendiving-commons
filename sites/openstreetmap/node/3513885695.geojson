@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.301638,
+      37.849538
+    ]
+  },
+  "properties": {
+    "uuid": "fd57cfae-c2d9-5f0a-ab2f-a55e3c04593a",
+    "name": "Canyon del Diablo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3513885695"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

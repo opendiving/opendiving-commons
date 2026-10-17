@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.398917,
+      44.551917
+    ]
+  },
+  "properties": {
+    "uuid": "e1af7f7b-b624-559e-aea9-0d5902d15163",
+    "name": "Zabodaski",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869726"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

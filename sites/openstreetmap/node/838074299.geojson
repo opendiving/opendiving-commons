@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.10079,
+      51.6435
+    ]
+  },
+  "properties": {
+    "uuid": "ced462f7-deaf-5be9-be32-ede81d76e3da",
+    "name": "Anna Jacobapolder",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/838074299"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.384656,
+      24.37843
+    ]
+  },
+  "properties": {
+    "uuid": "6778410c-e789-506e-8daf-09614d22ea9b",
+    "name": "Siyal South",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6920738903"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -63.042539,
+      17.982768
+    ]
+  },
+  "properties": {
+    "uuid": "1ef7312d-29d8-54bd-9845-b0f47fc7e593",
+    "name": "Teigland",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869443"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

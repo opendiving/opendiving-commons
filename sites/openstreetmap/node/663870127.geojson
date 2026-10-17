@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.39994,
+      47.578
+    ]
+  },
+  "properties": {
+    "uuid": "c6c32906-4227-5533-bd36-2be07d37fbe3",
+    "name": "Wasserstelz",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870127"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

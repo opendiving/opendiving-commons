@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.753592,
+      5.913863
+    ]
+  },
+  "properties": {
+    "uuid": "d05a089e-1dad-53b3-ae50-583a6a2666ce",
+    "name": "Tiga Ruang",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12278833512"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

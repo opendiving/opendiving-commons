@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.168284,
+      40.591738
+    ]
+  },
+  "properties": {
+    "uuid": "ff332a23-e829-5c60-8bdb-5d19a0998a80",
+    "name": "Diving Archimete",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10537548720"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.904883,
+      43.422183
+    ]
+  },
+  "properties": {
+    "uuid": "b216d9f0-0819-506f-acbf-186858858dc6",
+    "name": "Pinassen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869698"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

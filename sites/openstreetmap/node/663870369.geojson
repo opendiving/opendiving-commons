@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.64319,
+      47.69425
+    ]
+  },
+  "properties": {
+    "uuid": "95d5a783-cda2-5133-8ad7-8844a75a69b1",
+    "name": "Brücke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870369"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

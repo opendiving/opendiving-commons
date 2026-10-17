@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.288983,
+      44.66365
+    ]
+  },
+  "properties": {
+    "uuid": "7cac1f53-d83e-5d45-af9d-fc6303c2cf9b",
+    "name": "Misnjak (Sanddüne)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869729"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

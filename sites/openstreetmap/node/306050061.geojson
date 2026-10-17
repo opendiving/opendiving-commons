@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.151741,
+      17.008755
+    ]
+  },
+  "properties": {
+    "uuid": "ede5825c-84d0-5d9d-bea4-2e099f7ee2a0",
+    "name": "ABT Salalah",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/306050061"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

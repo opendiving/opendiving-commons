@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.546711,
+      47.812675
+    ]
+  },
+  "properties": {
+    "uuid": "9129586c-6447-5710-a56d-1dbebedb3d0f",
+    "name": "Tauchplatz Hinkelsteine",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870743"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.011734,
+      22.018038
+    ]
+  },
+  "properties": {
+    "uuid": "f5b001e0-e0d4-536e-83dd-01fdc225cf48",
+    "name": "Elba Reef East (North-Plateau)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13045044599"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

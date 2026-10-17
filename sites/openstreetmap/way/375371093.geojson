@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.522731,
+      28.975456
+    ]
+  },
+  "properties": {
+    "uuid": "1d035ce2-8b74-5465-b60c-85bfc1e686f8",
+    "name": "Telamon",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/375371093"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

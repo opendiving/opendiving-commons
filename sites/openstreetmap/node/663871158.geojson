@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.333333,
+      54.933333
+    ]
+  },
+  "properties": {
+    "uuid": "3cf9feb1-4934-5cba-8689-5ad48c34f5c0",
+    "name": "Month Veron",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871158"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

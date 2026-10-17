@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.665867,
+      -34.24425
+    ]
+  },
+  "properties": {
+    "uuid": "750ef28b-8d7e-5315-8380-6251bee172bb",
+    "name": "SAS Bloemfontein",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213864"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

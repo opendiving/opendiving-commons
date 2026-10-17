@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.78216,
+      46.12069
+    ]
+  },
+  "properties": {
+    "uuid": "78feff1d-4777-5fd7-b023-d87f8394b3fc",
+    "name": "Lago Maggiore-Sud",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870159"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

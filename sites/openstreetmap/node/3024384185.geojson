@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      60.199592,
+      57.716006
+    ]
+  },
+  "properties": {
+    "uuid": "2ca3e27a-44f2-5b54-840d-f5b49336121d",
+    "name": "Автобус",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3024384185"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

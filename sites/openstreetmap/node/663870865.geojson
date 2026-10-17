@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.516597,
+      50.595376
+    ]
+  },
+  "properties": {
+    "uuid": "a292a942-3437-54b8-802b-64697dd7a932",
+    "name": "Hohenwarte-Stausee - Lothrabucht Fußgängerbrücke",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870865"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

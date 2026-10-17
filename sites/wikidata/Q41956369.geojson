@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.453267,
+      -34.1945
+    ]
+  },
+  "properties": {
+    "uuid": "187ac79f-6410-597f-9036-3ec5f5a8c85b",
+    "name": "Boiler wreck #2",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q41956369"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

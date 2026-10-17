@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.012829,
+      4.288961
+    ]
+  },
+  "properties": {
+    "uuid": "55d3d577-016b-522d-b2eb-4c80566c8f96",
+    "name": "Veligandu east",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584208532"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.449141,
+      -0.325971
+    ]
+  },
+  "properties": {
+    "uuid": "d4d3900f-15ca-5a2c-b075-37c437091025",
+    "name": "Farikede Faru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9516447813"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

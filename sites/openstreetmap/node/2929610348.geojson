@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.495056,
+      51.741428
+    ]
+  },
+  "properties": {
+    "uuid": "b1a38175-87a1-58dc-81d1-bccef81d0902",
+    "name": "Duikvereniging de Waterman",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2929610348"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

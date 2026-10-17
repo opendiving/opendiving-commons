@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.99035,
+      58.394983
+    ]
+  },
+  "properties": {
+    "uuid": "d173e8ad-b86c-5aeb-b3a9-61d81ee2afe7",
+    "name": "Argentina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871178"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.486591,
+      29.387947
+    ]
+  },
+  "properties": {
+    "uuid": "391ffc27-c724-5b15-91cd-62a38f7833bb",
+    "name": "Blue Grotto Spring",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1464163058"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

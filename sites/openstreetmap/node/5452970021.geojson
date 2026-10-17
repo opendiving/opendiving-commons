@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.609988,
+      -2.194366
+    ]
+  },
+  "properties": {
+    "uuid": "53bd7204-f549-5743-9be8-6c0c5fb554e4",
+    "name": "Yilliet Kecil",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5452970021"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

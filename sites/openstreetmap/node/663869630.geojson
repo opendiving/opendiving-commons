@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.145833,
+      58.898052
+    ]
+  },
+  "properties": {
+    "uuid": "d07d641b-51bc-5d8c-b0fc-cbdf58b977ec",
+    "name": "SMS Cöln",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869630"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.130964,
+      53.7025
+    ]
+  },
+  "properties": {
+    "uuid": "ddb570ff-329c-5ac9-854f-a2f2c79600d7",
+    "name": "Taucher E5A",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12530326431"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.097496,
+      27.731648
+    ]
+  },
+  "properties": {
+    "uuid": "c78331ad-819a-57b9-a571-93f21c6dd492",
+    "name": "Small Crack",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869817"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

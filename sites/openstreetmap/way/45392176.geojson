@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.059334,
+      51.204324
+    ]
+  },
+  "properties": {
+    "uuid": "b038376a-e20c-5af2-8f5e-8c508d20551f",
+    "name": "Steinbruch Haustein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/45392176"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

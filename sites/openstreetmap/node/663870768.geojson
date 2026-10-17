@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.673367,
+      45.08265
+    ]
+  },
+  "properties": {
+    "uuid": "aba8741f-b180-5890-8395-de75ecc5c0b2",
+    "name": "Grotte Vrbnik",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870768"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.906674,
+      27.041134
+    ]
+  },
+  "properties": {
+    "uuid": "1f432299-9880-5637-a84b-a81e5cc427b4",
+    "name": "Ras Disha",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700934169"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

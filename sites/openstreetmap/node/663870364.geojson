@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.59688,
+      47.63786
+    ]
+  },
+  "properties": {
+    "uuid": "5665fe66-f7cc-535c-8988-90bee6caac93",
+    "name": "Rheinau-Ellikon am Rhein",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870364"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

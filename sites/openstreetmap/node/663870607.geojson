@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.961987,
+      53.075196
+    ]
+  },
+  "properties": {
+    "uuid": "a6efe40f-502b-5287-9c75-c8d7e7daea61",
+    "name": "Bultensee",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870607"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

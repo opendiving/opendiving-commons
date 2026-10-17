@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.675888,
+      45.07849
+    ]
+  },
+  "properties": {
+    "uuid": "8d522c24-ac1e-5615-b463-77525a557d41",
+    "name": "Secret beach",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3776941828"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

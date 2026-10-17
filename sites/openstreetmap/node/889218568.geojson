@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.12922,
+      53.699485
+    ]
+  },
+  "properties": {
+    "uuid": "5b8a89c7-5e28-5165-93d6-3a563b06149a",
+    "name": "Taucher E1",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/889218568"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

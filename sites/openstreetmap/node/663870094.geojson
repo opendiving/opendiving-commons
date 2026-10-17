@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.48634,
+      47.19441
+    ]
+  },
+  "properties": {
+    "uuid": "004c028f-9d52-50dd-a03d-67bce7f41c77",
+    "name": "Insel",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870094"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

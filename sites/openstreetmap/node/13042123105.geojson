@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.440504,
+      -0.513824
+    ]
+  },
+  "properties": {
+    "uuid": "fee02eea-10d7-58ad-95d5-429b91c2e095",
+    "name": "Deep Rock",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042123105"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

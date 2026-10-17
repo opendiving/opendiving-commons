@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.301749,
+      52.154375
+    ]
+  },
+  "properties": {
+    "uuid": "57177f7e-83ad-525a-890e-a98f6ce949a0",
+    "name": "Salzgitter See",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870613"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

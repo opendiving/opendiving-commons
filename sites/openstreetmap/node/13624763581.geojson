@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.251167,
+      36.07925
+    ]
+  },
+  "properties": {
+    "uuid": "501a906d-2db4-5af9-ab31-8d7dcc6218a4",
+    "name": "Is-Sikka tal-Qbajjar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13624763581"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Qbajjar Reef"
+      }
+    }
+  }
+}

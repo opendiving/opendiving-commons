@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.614427,
+      58.199953
+    ]
+  },
+  "properties": {
+    "uuid": "39b4cc0f-86c1-57f3-b2a9-616a00e2412a",
+    "name": "Ytre Kalven",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/457550395"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

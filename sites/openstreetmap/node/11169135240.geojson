@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.744517,
+      5.912281
+    ]
+  },
+  "properties": {
+    "uuid": "80744503-d645-5b49-9596-920ccf441fa7",
+    "name": "Batu Layar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11169135240"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Batu Layar Rock"
+      }
+    }
+  }
+}

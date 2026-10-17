@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.188916,
+      53.601956
+    ]
+  },
+  "properties": {
+    "uuid": "279c4c7a-8142-5f74-8597-e1207b3b37f0",
+    "name": "Jezioro Drawsko - Stare Drawsko-Kleofas",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871137"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

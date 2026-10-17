@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.396632,
+      50.590006
+    ]
+  },
+  "properties": {
+    "uuid": "a66948ef-d34b-5264-8077-702131438cac",
+    "name": "Ancienne carrière de Barges - Delwart",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/88235119"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

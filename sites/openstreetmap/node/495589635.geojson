@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.278921,
+      45.102526
+    ]
+  },
+  "properties": {
+    "uuid": "0192b49e-b52d-5ba3-8408-046a02c5ef75",
+    "name": "Lina wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/495589635"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

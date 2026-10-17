@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.558406,
+      -6.301495
+    ]
+  },
+  "properties": {
+    "uuid": "8d30ad8e-ff41-5f24-a8ac-c3213c865bf7",
+    "name": "Stingray city",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10224583146"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

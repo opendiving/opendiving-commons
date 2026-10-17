@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      73.124589,
+      5.183365
+    ]
+  },
+  "properties": {
+    "uuid": "7f2103f4-4469-502b-88f3-8a9d9b39ed37",
+    "name": "Bodu Gaa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9180047751"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

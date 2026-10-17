@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.648361,
+      50.501477
+    ]
+  },
+  "properties": {
+    "uuid": "d39a9a0f-06d9-5d3c-8a5e-026d6445a903",
+    "name": "Ancienne carrière de Lillé",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/116066272"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

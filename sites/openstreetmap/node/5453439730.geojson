@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      130.315207,
+      -0.589869
+    ]
+  },
+  "properties": {
+    "uuid": "42adbf81-6ecd-59f3-a6a8-90afa21e6e16",
+    "name": "Melissa's Garden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5453439730"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

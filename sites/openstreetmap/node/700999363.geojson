@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.95421,
+      27.21621
+    ]
+  },
+  "properties": {
+    "uuid": "c83e14a1-b877-5efb-80ee-aaba20b7a54b",
+    "name": "Erg Sabina",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/700999363"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

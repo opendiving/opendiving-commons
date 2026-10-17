@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.616706,
+      48.315647
+    ]
+  },
+  "properties": {
+    "uuid": "b55b76a3-c773-5db9-aa78-2e39f68807ea",
+    "name": "Echinger Weiher",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/4469716"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

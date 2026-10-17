@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.261943,
+      27.789444
+    ]
+  },
+  "properties": {
+    "uuid": "7046bf75-49b4-5e79-b9b8-15e3c38fc349",
+    "name": "Ras Ghozlani",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/278086479"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

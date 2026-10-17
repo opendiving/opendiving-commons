@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.540784,
+      24.252039
+    ]
+  },
+  "properties": {
+    "uuid": "e79c4be3-61ae-56ce-a915-491f62914be2",
+    "name": "Abu Galawa Soraya",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271180625"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

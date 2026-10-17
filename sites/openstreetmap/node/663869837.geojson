@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.33006,
+      27.898308
+    ]
+  },
+  "properties": {
+    "uuid": "65a471eb-4c3f-555a-96ac-a6f99bf254cf",
+    "name": "Sodfa",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869837"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

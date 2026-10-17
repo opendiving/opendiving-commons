@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.364833,
+      -33.938467
+    ]
+  },
+  "properties": {
+    "uuid": "23275724-39b7-5f82-82d0-582797bd355b",
+    "name": "South Paw",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213903"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

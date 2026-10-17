@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.700747,
+      1.609165
+    ]
+  },
+  "properties": {
+    "uuid": "ecd6bf12-8df5-59f3-8eeb-43137f1d8ec9",
+    "name": "Bualo",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7293804572"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

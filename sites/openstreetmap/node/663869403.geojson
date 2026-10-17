@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.280686,
+      12.079695
+    ]
+  },
+  "properties": {
+    "uuid": "1e2e8dd4-8f9b-55e0-8c9a-ca0f5a7314b6",
+    "name": "Salt City",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869403"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

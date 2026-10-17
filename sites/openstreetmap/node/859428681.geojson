@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      99.841088,
+      10.071068
+    ]
+  },
+  "properties": {
+    "uuid": "460642bc-b427-5988-8086-9345171dbbbb",
+    "name": "อ่าวลึก",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/859428681"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17",
+        "name_en": "Ao Luek"
+      }
+    }
+  }
+}

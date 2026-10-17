@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.473998,
+      37.190425
+    ]
+  },
+  "properties": {
+    "uuid": "4716c995-1cc8-5873-9ab5-8e6d440e157c",
+    "name": "Blue Water Lake",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869263"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

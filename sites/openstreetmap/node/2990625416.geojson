@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.593273,
+      44.790908
+    ]
+  },
+  "properties": {
+    "uuid": "2c49186e-670c-5f0c-95fa-09ce0a28f3b1",
+    "name": "Gouffre de Poumayssen",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2990625416"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

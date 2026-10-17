@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.119934,
+      51.863717
+    ]
+  },
+  "properties": {
+    "uuid": "041ebd00-806b-5d4b-afa3-8685d9be344c",
+    "name": "Sub Aqua Libera",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2853836319"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

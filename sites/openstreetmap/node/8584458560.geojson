@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.781227,
+      4.281472
+    ]
+  },
+  "properties": {
+    "uuid": "2caabf0f-8691-580e-8977-dee791a432c7",
+    "name": "Gangehi North Kandu - manta cleaning station",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8584458560"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

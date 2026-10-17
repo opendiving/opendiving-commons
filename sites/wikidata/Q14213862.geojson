@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.46,
+      -34.181167
+    ]
+  },
+  "properties": {
+    "uuid": "1aeed455-e00c-5858-8df6-ef8908e5873c",
+    "name": "Roman Rock",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q14213862"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

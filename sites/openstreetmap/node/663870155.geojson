@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.71011,
+      46.11792
+    ]
+  },
+  "properties": {
+    "uuid": "0ff0cf23-410f-523b-8d0b-d7ed993ff6f5",
+    "name": "Porto",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870155"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.0499,
+      -8.345203
+    ]
+  },
+  "properties": {
+    "uuid": "4640863d-1674-57f5-967b-dcbc01b39b97",
+    "name": "Meno Wall",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2395669756"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

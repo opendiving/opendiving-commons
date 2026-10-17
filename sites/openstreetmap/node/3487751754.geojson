@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.638903,
+      54.682162
+    ]
+  },
+  "properties": {
+    "uuid": "67f1ca94-1490-5c1c-94a1-f8058adb55cb",
+    "name": "Kuter rybacki 1 (wrak)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3487751754"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

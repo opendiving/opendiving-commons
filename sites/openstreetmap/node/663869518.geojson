@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.33478,
+      44.549508
+    ]
+  },
+  "properties": {
+    "uuid": "604fc591-254c-583f-a173-9505a53a80cd",
+    "name": "Phoenix",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869518"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

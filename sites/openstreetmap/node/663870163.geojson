@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.749569,
+      46.185599
+    ]
+  },
+  "properties": {
+    "uuid": "726352f7-1342-5f87-8b41-3641562132a8",
+    "name": "Tegna Ponte Brolla",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870163"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

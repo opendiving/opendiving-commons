@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.291865,
+      46.641473
+    ]
+  },
+  "properties": {
+    "uuid": "a3738bca-8a71-5e9a-9bcb-1ccc09a36742",
+    "name": "Plan d'eau des Fouthiaux",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/129357363"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

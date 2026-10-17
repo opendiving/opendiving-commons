@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.230858,
+      11.984477
+    ]
+  },
+  "properties": {
+    "uuid": "ecef5a34-2bd0-5266-97e0-f977177f2ebb",
+    "name": "7 Islands Reef, Diving (NDC)",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5117131823"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

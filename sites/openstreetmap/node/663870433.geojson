@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.261236,
+      47.696953
+    ]
+  },
+  "properties": {
+    "uuid": "68907e69-195b-5668-8052-619ab9af7e32",
+    "name": "Meersburg s’Plätzle",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870433"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

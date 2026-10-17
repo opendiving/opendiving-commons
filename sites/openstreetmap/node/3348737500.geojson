@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.20776,
+      19.294475
+    ]
+  },
+  "properties": {
+    "uuid": "b35a33ff-e137-5b62-9762-4805a5f91b26",
+    "name": "Playita",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3348737500"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.977162,
+      17.862771
+    ]
+  },
+  "properties": {
+    "uuid": "d66917a9-24e9-543d-9e81-94ef571926c2",
+    "name": "Hol Chan Cut",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1574464135"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

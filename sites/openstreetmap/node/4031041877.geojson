@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.244837,
+      7.27077
+    ]
+  },
+  "properties": {
+    "uuid": "c1de7569-6716-5d5b-834e-a6795e5b53c0",
+    "name": "Sand Bar",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031041877"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

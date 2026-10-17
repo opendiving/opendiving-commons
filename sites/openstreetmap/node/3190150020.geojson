@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.86195,
+      12.067948
+    ]
+  },
+  "properties": {
+    "uuid": "0ac715b3-3958-5c62-8a9e-cc1a0253a0fc",
+    "name": "Ship Wreck Tugboat",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3190150020"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

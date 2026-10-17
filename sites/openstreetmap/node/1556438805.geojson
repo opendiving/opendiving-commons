@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.996412,
+      26.838267
+    ]
+  },
+  "properties": {
+    "uuid": "409931f5-e5dc-5b35-85bf-caf4f249430a",
+    "name": "Soma Gatden",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1556438805"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.767124,
+      23.506943
+    ]
+  },
+  "properties": {
+    "uuid": "15762325-6419-53b2-b0fe-aa5a3524364a",
+    "name": "Dive Exuma",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3483175598"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

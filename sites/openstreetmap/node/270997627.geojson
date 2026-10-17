@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.513566,
+      19.772793
+    ]
+  },
+  "properties": {
+    "uuid": "94f9a232-dc5e-5d51-b7d8-a58977ebc926",
+    "name": "3 Rocks",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270997627"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

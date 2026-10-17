@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.043991,
+      20.342695
+    ]
+  },
+  "properties": {
+    "uuid": "59003cc7-4dce-5bcc-8fac-a3b4af023f6e",
+    "name": "Cardona",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663869335"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

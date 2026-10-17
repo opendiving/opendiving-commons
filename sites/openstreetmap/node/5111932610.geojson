@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.977226,
+      2.434669
+    ]
+  },
+  "properties": {
+    "uuid": "3bf91326-f2eb-5ecc-93e2-1e0e825fb772",
+    "name": "Bamboo SeaSport",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5111932610"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

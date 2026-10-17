@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      178.018007,
+      -18.301175
+    ]
+  },
+  "properties": {
+    "uuid": "52538c32-7f9c-5c1e-993c-50f6781f2111",
+    "name": "Shark Reef Marine Reserve Feeding Site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13769793344"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

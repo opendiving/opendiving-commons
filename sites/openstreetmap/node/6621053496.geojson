@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.043599,
+      47.595863
+    ]
+  },
+  "properties": {
+    "uuid": "65f29988-430c-5867-9fd4-d57265b62db4",
+    "name": "Immersion56",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6621053496"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

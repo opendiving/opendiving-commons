@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.458398,
+      53.342399
+    ]
+  },
+  "properties": {
+    "uuid": "3680c6e1-7ca5-57d8-9514-727264c00006",
+    "name": "Erddamm",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2601218659"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

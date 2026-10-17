@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.707889,
+      -8.504631
+    ]
+  },
+  "properties": {
+    "uuid": "f6e56b06-79fd-566c-b4f7-8d930c3c4ed9",
+    "name": "Sebayur dive site",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8022733115"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

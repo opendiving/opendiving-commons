@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4815,
+      -34.248083
+    ]
+  },
+  "properties": {
+    "uuid": "a2fa7d8a-44dd-5a41-8902-cdf51ff217e1",
+    "name": "The Jambles",
+    "external_ids": [
+      {
+        "registry": "wikidata",
+        "identifier": "Q42351155"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "wikidata",
+        "license": "CC0-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.00236,
+      47.03627
+    ]
+  },
+  "properties": {
+    "uuid": "f2d895fc-80e9-54fc-a9b5-448eccb62240",
+    "name": "Restaurant Rhodannenberg",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663870240"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

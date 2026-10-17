@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      72.819302,
+      3.46232
+    ]
+  },
+  "properties": {
+    "uuid": "0dbdfe4b-6933-5bbd-8cd9-ffd3794fa01a",
+    "name": "Maamigili Beyru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7156015285"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

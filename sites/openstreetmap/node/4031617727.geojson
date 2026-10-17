@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      151.778927,
+      7.400096
+    ]
+  },
+  "properties": {
+    "uuid": "da830576-025d-530b-8cd5-fa7383aa4f6c",
+    "name": "Shinkoku Maru",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4031617727"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

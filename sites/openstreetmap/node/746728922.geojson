@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.113139,
+      52.578019
+    ]
+  },
+  "properties": {
+    "uuid": "c75a284f-c183-54d6-9d64-45dee3bf1868",
+    "name": "diving zone",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/746728922"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}

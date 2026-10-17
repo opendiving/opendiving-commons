@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -156.498579,
+      20.630825
+    ]
+  },
+  "properties": {
+    "uuid": "2a886718-f1d7-54e7-b7c2-02226034f8e6",
+    "name": "Edge of the World",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3480272729"
+      }
+    ],
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-10-17"
+      }
+    }
+  }
+}
