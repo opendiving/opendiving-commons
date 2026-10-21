@@ -28,7 +28,7 @@ jobs:
 
       - uses: actions/setup-python@v7
         with:
-          python-version: "3.13"
+          python-version: "3.15"
 
       - run: pip install -r requirements.txt
 
@@ -74,7 +74,7 @@ jobs:
       - uses: actions/setup-python@v7
         if: steps.changes.outputs.run == 'true'
         with:
-          python-version: "3.13"
+          python-version: "3.15"
 
       - if: steps.changes.outputs.run == 'true'
         run: pip install -r requirements.txt
