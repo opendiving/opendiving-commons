@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "67bcba03-a192-54fb-b4b7-c77dca61a80f",
     "name": "Barnard Castle",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

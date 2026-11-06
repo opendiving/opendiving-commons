@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ea4ccf97-45db-52ab-ba4f-809a53ae7e29",
     "name": "Rubly Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

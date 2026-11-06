@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bb57d2c6-0767-5f3b-ad4a-9c0f5c090665",
     "name": "Sorpesee - Wintertauchplatz",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28b24847-e652-5e1d-9e7e-b198a3279d4e",
     "name": "Altersheim Breiten",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

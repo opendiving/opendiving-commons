@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30223e7e-ec55-5686-a7f3-b5a303c81bc4",
     "name": "Lac de Taney",
+    "location": {
+      "name": "Valais, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "78e9e532-1922-503e-b4c6-b58e9d81c0b2",
     "name": "Fam Wall",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

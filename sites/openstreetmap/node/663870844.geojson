@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "10476137-57b5-566b-b741-b3a973902244",
     "name": "Attersee - Ebenmann-Aufsatz",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

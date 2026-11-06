@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2fc70488-ff74-547e-9a6f-9e40a6869c67",
     "name": "Badi",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

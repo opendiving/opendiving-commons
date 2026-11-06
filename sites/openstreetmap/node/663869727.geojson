@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3766e12a-eb63-50c5-bdff-70fdff2f39e2",
     "name": "Medova Buža",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

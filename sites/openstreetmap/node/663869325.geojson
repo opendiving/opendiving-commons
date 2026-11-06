@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d618b9de-be82-5314-a88a-899f62d38f07",
     "name": "Punta Sur Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

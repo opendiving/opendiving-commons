@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8165b029-0b51-5dbc-ae19-ecba2bd5585b",
     "name": "Abu Nugar",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

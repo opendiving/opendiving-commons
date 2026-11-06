@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a7bbd2e-326c-5a81-85a9-9326c250de50",
     "name": "Alte Badanstalt",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2ca3e27a-44f2-5b54-840d-f5b49336121d",
     "name": "Автобус",
+    "location": {
+      "name": "Sverdlovsk, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

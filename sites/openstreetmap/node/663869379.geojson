@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3bdc3394-e630-5930-879d-1eb9f3dfaf29",
     "name": "Snake Bay",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

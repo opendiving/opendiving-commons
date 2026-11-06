@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d661fab-fce8-561b-afd0-d9c0ea9d0ec5",
     "name": "Vaišvydavos karjeras",
+    "location": {
+      "name": "Kaunas, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

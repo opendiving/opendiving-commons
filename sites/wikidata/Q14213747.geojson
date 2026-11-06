@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dbf2e55f-552a-5fc9-803f-37462fd3ae71",
     "name": "East Shoal",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

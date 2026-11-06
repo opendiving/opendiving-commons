@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "102dc69b-8e36-54da-87b7-bfa44f145f53",
     "name": "Klacklboden",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

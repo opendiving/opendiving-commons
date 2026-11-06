@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "41dff87f-9567-58ac-ba40-b32bae439feb",
     "name": "Nursery Bommie",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

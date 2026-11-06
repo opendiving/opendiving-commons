@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1874b10e-0369-52b4-a798-b019234847b1",
     "name": "Mike's Point",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

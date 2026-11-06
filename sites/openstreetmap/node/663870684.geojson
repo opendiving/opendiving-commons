@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a21caa0-cbdc-5541-a1c1-c6703de4efb3",
     "name": "Walchensee - Katzeninsel",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

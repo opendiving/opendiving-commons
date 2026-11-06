@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ee95d57-a059-5108-90b9-4a4459f1cc26",
     "name": "Carlingford (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

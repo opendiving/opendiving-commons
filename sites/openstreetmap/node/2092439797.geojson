@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "87e3fc36-4812-553f-9a23-6bf62bce1111",
     "name": "fighter plane wrack world war II",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

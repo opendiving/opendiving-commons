@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aeaf273c-5e5b-51f8-9c0d-45c6585843c9",
     "name": "HMS Moldavia",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

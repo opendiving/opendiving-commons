@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8d30ad8e-ff41-5f24-a8ac-c3213c865bf7",
     "name": "Stingray city",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

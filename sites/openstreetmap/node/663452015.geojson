@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31841331-2b79-5035-9254-32247bbbd455",
     "name": "Morgarten Denkmal",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

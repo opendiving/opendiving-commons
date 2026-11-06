@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d775d844-e6f1-529a-b32a-982d6e136662",
     "name": "Wildcat",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

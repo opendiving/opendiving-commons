@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "84b3df66-9dcf-5a59-b6d3-e86dd6e4a583",
     "name": "Bommerstein Hafen Ost",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

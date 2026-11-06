@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86c19738-36df-57fd-aa83-a1551c5ccbd5",
     "name": "Banner Reef",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

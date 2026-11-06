@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fe4c2d2-9210-5f55-a610-361541601425",
     "name": "Bätterichhöhle",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

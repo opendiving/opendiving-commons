@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6fb243c7-1b6e-5579-866e-0396e5970d65",
     "name": "Boat Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

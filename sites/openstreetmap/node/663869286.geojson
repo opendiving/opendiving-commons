@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "051c0ff3-9f94-53ff-bad5-8a0b488c86bf",
     "name": "Brinn Rock",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

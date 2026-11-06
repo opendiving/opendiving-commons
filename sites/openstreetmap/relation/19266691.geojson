@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e9919e5d-5e01-5786-be12-a5e9871f121c",
     "name": "الإسم العربي ؟",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

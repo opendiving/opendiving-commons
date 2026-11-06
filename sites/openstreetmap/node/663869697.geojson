@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "63873dd5-5235-5313-bc1d-4f0f7acda8d8",
     "name": "Rubis",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

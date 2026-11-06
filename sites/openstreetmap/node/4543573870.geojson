@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a95534ab-8adf-5b7c-b799-34af909638f2",
     "name": "Source de Marnade",
+    "location": {
+      "name": "Gard, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "723e6fb5-8f94-5477-9dbe-1ebb92a857be",
     "name": "Tombant de David",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

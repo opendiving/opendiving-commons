@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1102d51c-6dba-5408-bf53-6b7328604203",
     "name": "Marta Dive",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

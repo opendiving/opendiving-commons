@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f07feefe-4a5b-5fc7-958f-5d5eb5afe7df",
     "name": "Épave Chasseur N° 107",
+    "location": {
+      "name": "Vendée, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

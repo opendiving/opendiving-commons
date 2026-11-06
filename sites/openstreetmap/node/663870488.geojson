@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "baf7bbf6-800e-5514-b3e4-1972446a8f40",
     "name": "Losheimer Stausee",
+    "location": {
+      "name": "Saarland, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

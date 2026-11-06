@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "516b46cb-ba72-5414-9368-367fb2894878",
     "name": "Walchensee - Galerie",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

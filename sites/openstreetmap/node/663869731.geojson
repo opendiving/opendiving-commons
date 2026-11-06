@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "88d0e682-2523-5609-873a-d533ba3c9ec7",
     "name": "Kap Selzine",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

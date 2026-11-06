@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de84298b-a0dc-54e0-804f-0036e8b8ed75",
     "name": "Arendsee",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

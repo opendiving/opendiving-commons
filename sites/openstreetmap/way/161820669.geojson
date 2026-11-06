@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99916ca7-48f3-5774-b801-f442be730adf",
     "name": "Praia Azeda",
+    "location": {
+      "name": "Rio de Janeiro, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

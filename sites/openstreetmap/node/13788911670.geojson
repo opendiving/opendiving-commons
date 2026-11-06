@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2fa91aa8-eead-5f10-9bc6-ffa51f9f8f60",
     "name": "Malolo Reef Dive Site",
+    "location": {
+      "name": "Western, Fiji"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

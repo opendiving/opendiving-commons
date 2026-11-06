@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31b9f59d-980d-5eaf-97e5-79bf307ca27b",
     "name": "Edenwood",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

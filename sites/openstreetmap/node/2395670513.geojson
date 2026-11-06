@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d32431ae-e420-5649-b40b-5f863dfbc4bd",
     "name": "Teluk NBoro",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

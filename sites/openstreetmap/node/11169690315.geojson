@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "708a0964-9eba-5ce7-ae34-e0097c659b5d",
     "name": "Halverwege",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2dcedb93-fb73-5ed3-98fa-0993018141fb",
     "name": "Irish Underwater Council",
+    "location": {
+      "name": "Dún Laoghaire–Rathdown, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

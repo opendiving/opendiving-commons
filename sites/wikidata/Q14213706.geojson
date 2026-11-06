@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "838607cd-cea3-53e5-b21d-c246fe690aef",
     "name": "Blousteen Ridge",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

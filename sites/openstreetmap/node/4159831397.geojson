@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fa87bd95-260e-5942-b221-36ef759fb3eb",
     "name": "Anchor Reef (Dive Site)",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

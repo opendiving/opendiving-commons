@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7690655b-508b-52ef-9a75-06c02e6a2e59",
     "name": "MT Hephaestus",
+    "location": {
+      "name": "Għajnsielem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

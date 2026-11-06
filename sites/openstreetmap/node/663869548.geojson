@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0702485a-8ab2-51ae-9b75-c8e68b78729a",
     "name": "North Wind (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

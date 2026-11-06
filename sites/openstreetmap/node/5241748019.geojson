@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1d432cf-a22d-5e0e-8906-631f1ab36aa2",
     "name": "Matschelsee3",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

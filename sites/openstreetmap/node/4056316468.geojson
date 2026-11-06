@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c86a0a2-54b4-595f-9875-4908e17c7d1f",
     "name": "Le Jardin de Corail",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

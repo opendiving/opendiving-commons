@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "419d183e-42c9-5e7f-b9a6-1097eb7ba3b0",
     "name": "Inner Castle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

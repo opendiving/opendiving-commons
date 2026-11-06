@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b6c4a5b-2cf8-5fed-80f5-2ccf518870f4",
     "name": "GA's Flash",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

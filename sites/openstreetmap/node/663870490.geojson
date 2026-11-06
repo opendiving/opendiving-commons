@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9780ba16-5393-5dc5-9c16-a773a00fcc2d",
     "name": "Baggersee Diez",
+    "location": {
+      "name": "Rhineland-Palatinate, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

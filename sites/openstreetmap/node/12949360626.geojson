@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e2a7a31-09c3-547f-84bc-569a4e80a199",
     "name": "Hechenberg Süd",
+    "location": {
+      "name": "Tyrol, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

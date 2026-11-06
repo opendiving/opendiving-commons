@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1eab7664-88c5-5f8c-a9c0-5595463b2833",
     "name": "Matterhorn",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

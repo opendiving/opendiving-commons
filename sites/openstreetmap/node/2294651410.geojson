@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d50253e7-19ef-5b4c-8489-98a2915a3f0c",
     "name": "Ploum'Aqua",
+    "location": {
+      "name": "Côtes-d'Armor, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

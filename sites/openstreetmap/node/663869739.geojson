@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e163ce7c-4f84-5e09-92d4-587f0335d705",
     "name": "Holzsegelschiff mit Geschützen",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

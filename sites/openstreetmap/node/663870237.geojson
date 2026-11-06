@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "58152c54-4cee-5a21-a64c-542387507360",
     "name": "Seehorn Felsblöcke",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "18b36c51-05df-5ebe-bdb3-ebc575b47da2",
     "name": "Alaušas",
+    "location": {
+      "name": "Utena, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

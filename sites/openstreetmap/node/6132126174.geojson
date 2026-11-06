@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b9cf4f1-e421-5bd3-b45e-67491c09f2d9",
     "name": "Arborek shark point",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

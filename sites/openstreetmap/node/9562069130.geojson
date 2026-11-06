@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e1388fd-05c2-599a-9b21-c4a657af5606",
     "name": "Holiday Beyru",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

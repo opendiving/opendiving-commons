@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8caf5c66-9e30-56a2-8342-3cd48006f354",
     "name": "Zenobia Shipwreck",
+    "location": {
+      "name": "Larnaca, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

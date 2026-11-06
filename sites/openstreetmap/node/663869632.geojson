@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2bef3b36-eefa-5894-a9d3-6c5e82bdeba9",
     "name": "SMS Kronprinz Wilhelm",
+    "location": {
+      "name": "Orkney Islands, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0086f917-2386-5331-9169-a22482730336",
     "name": "L-Aħrax",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

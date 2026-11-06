@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8fdc6038-84c1-5cfd-be76-fde669c00f07",
     "name": "Vivian Quarry",
+    "location": {
+      "name": "Gwynedd, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

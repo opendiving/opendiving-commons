@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7535c970-720a-595b-9b2d-d86c6ee50d9f",
     "name": "Steenbras Deep South Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

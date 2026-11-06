@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31ba35e1-3dab-500f-98fc-eb145ce5e112",
     "name": "Nidaukanal",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

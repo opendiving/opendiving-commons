@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8409ce6a-43d3-59a4-a797-23437e89e381",
     "name": "Attersee - Alexenau",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac9ece87-5d77-5435-862d-9738a67d8238",
     "name": "Alex's Cave Dive Site",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

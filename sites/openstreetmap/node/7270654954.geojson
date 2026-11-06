@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "206c268d-b227-5a0f-a228-009fefd32b78",
     "name": "Menara 2",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

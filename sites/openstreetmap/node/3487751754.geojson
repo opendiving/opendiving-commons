@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "67f1ca94-1490-5c1c-94a1-f8058adb55cb",
     "name": "Kuter rybacki 1 (wrak)",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

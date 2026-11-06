@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "44da5714-7238-562c-94d4-cbcf745344ac",
     "name": "Kleine Höhlen",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

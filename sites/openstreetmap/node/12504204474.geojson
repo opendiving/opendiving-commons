@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ce6ae55-5cbc-5ea4-8ec5-f0a8720ddf84",
     "name": "Punta Chiappa Levante",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

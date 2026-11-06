@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8957cc06-ada1-55ad-a142-d48765d97fd1",
     "name": "Landungssteg Aesch",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe0bdcb0-fc0a-5dba-bd6d-07df0f948c9b",
     "name": "Murphy's",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

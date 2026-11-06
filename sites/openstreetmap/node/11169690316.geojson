@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b27849f-abdd-5983-a2b6-528d98c2e85a",
     "name": "Goudzwaardeg",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

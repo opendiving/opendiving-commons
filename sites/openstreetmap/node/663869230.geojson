@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad35e5f2-1598-56cf-8570-3591b6529f84",
     "name": "Le tombant Gorgognes",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ac512a9-aafe-5f4d-9337-c784dfa563fe",
     "name": "Karpata",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

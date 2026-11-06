@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83ec7f2d-1427-5e03-8a9f-907c8e388dad",
     "name": "Louis Sheid",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

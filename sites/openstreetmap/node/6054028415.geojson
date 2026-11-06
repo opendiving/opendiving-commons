@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d6a7399-5676-516f-9d4e-b6a2251dda4a",
     "name": "Wand im Nüüt",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

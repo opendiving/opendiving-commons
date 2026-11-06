@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "643f490b-e09c-5313-b87f-c07131171a5b",
     "name": "Schwarze Brücke",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

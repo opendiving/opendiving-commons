@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c35fffdf-2e62-5066-b194-bf5414396bd0",
     "name": "Gdański Klub Płetwonurków Rekin",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

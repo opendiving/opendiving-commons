@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "60479a5b-d559-542f-ae07-94590cd5b948",
     "name": "Wreck Wee Hawk",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

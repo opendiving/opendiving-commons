@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b24c7a03-aeb7-51bc-a6e7-2e4a66174491",
     "name": "Lago di Lugano-Il Deserto",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

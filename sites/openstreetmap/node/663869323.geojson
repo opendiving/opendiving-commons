@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38ec4d3f-ddd3-52ca-824f-f625c98331fa",
     "name": "Palancar Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

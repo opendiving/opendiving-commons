@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e118624-6cab-5d10-9262-0eb9a3509783",
     "name": "El Arco",
+    "location": {
+      "name": "Puntarenas, Costa Rica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

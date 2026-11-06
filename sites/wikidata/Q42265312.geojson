@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d53c248a-ad18-5d6e-841d-dc1f9562c518",
     "name": "Festival Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

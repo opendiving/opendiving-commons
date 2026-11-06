@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bd5d2375-371f-5f2e-8dde-dc182d3d5322",
     "name": "Plan d'eau de Chamagnieu",
+    "location": {
+      "name": "Isère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2aaf163b-a916-515d-a395-22d02c744b89",
     "name": "Matz Einstieg",
+    "location": {
+      "name": "Vorarlberg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

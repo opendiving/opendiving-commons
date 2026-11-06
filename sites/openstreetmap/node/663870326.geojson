@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a8207b0e-70be-5710-a2f5-5e97a390f377",
     "name": "Zentenhof",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb798951-16b8-56da-89ff-361780858407",
     "name": "Fly Point",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

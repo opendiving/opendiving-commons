@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cbb0e34e-e7ae-552a-a046-0436710b7c12",
     "name": "Valley of the tubes",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

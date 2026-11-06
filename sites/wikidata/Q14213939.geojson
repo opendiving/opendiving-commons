@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a41b48a8-e823-536d-8f65-6d2a51625e17",
     "name": "Vulcan Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

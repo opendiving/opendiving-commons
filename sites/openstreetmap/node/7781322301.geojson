@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8b027fa8-f43f-5298-8d81-b11725c5e16c",
     "name": "Presepe degli Abissi di Albisola",
+    "location": {
+      "name": "Savona, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c7e39735-3d5e-5f59-b4bb-8182e96a9b37",
     "name": "Dahwlak Pokie",
+    "location": {
+      "name": "Pohnpei State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

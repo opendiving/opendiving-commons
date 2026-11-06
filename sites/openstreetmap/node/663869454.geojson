@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e24721e5-63bf-5329-9740-4a8e3820f03c",
     "name": "Fort Pickens Jetties",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

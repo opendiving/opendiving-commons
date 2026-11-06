@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4098d967-ea06-5bed-b0de-e1342b36f3d5",
     "name": "Tauchbasis Kiessee Leuben",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

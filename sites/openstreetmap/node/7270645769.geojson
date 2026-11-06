@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50f9fe8d-537e-5116-851a-1d516b7c9163",
     "name": "Mushroom Rock",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

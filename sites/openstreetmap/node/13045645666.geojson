@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71c938d6-5d6a-5155-9c66-33ae63617859",
     "name": "Swarm",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

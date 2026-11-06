@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bd274b2f-c371-5b30-bece-ebe84a264ae2",
     "name": "Lapus-Lapus",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f66508bc-5462-54e6-9a43-5f3aa3227954",
     "name": "Aarebecken",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

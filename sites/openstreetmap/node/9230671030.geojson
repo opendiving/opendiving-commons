@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d8de539e-fbf8-5d3c-96df-441f16322b6f",
     "name": "Shark Observatory",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

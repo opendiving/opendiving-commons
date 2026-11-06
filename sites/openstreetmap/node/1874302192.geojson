@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c64b09c5-dd5a-5e6f-8bb2-98d5a4abd6cc",
     "name": "Million Dollar Point",
+    "location": {
+      "name": "Sanma, Vanuatu"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4048d554-86c9-5a23-9bc4-797c854efb34",
     "name": "Lady Thetis",
+    "location": {
+      "name": "Limassol, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

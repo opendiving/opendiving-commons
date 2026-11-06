@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3f51a258-f58d-5d32-a2cd-7f88e113856c",
     "name": "Deliverance",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

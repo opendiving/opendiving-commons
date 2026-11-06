@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ab42bff-996c-54fe-90de-c34100294604",
     "name": "Umm Gamar",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

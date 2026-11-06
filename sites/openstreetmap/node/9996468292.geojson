@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2eb5d926-e4b7-5b3a-acc1-4f3b189258ae",
     "name": "Kuhunter (Taucheinstieg Süd)",
+    "location": {
+      "name": "Rhineland-Palatinate, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

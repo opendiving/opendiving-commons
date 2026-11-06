@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "735bbe63-19cc-5528-a593-d947e6c650f3",
     "name": "Seafan",
+    "location": {
+      "name": "Gnaviyani Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "88f5ef86-d30a-5549-b0fc-d1cc92d772a9",
     "name": "Sub Club Peschiera del Garda",
+    "location": {
+      "name": "Verona, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

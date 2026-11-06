@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "faddf7d5-3571-5cbd-be8f-f9c97c0abb2e",
     "name": "Ngerechong Drop-off",
+    "location": {
+      "name": "Peleliu, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

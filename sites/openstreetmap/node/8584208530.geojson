@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23a94076-3ed2-5907-8acb-f8c753aa3f78",
     "name": "Kuramathi house reef",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

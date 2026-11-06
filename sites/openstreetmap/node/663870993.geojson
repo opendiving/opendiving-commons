@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7d85900b-038c-5bce-8f33-e666ab57a34e",
     "name": "Stechlinsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

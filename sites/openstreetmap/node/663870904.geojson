@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2316706-a702-5ed5-a954-e0a593d68122",
     "name": "Stausee Rabenstein",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

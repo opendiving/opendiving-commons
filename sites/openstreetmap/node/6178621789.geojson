@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb76ca65-7127-5713-8be7-d6870bdeabff",
     "name": "Scuba Club langkawi",
+    "location": {
+      "name": "Kedah, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

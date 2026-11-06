@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bfe732fc-2c37-5e68-868b-63cd990f2fb2",
     "name": "Bita-ug",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

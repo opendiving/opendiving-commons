@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7fc04bc-bb6b-5a63-82d6-c5cf0ef342f1",
     "name": "Lock 21 Dive Site",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

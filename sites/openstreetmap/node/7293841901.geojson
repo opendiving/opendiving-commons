@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fbdb4cf2-3f5a-5221-88e5-d132dc91e48e",
     "name": "Barracuda Point",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

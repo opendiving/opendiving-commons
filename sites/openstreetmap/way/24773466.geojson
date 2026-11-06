@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7db370a7-d801-5db2-b77f-294e3a3e7c96",
     "name": "Steinbruchsee Prelle",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

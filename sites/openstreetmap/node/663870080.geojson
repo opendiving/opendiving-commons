@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0444b650-fc77-5c7d-a0f6-8642be816afc",
     "name": "Lopper Känzeli",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

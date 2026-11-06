@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "10d24b2d-2c3d-5c2d-ac7e-488e54ec1a28",
     "name": "L-Għerien tal-Imnieri",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3ceef08-5734-5435-95d8-a66c7b286b64",
     "name": "Cedar Pride",
+    "location": {
+      "name": "Aqaba, Jordan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

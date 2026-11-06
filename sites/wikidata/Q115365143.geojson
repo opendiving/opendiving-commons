@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4cc23e75-b391-567e-8e8c-5899c2fbc47d",
     "name": "Blairgowrie Pier",
+    "location": {
+      "name": "Victoria, Australia"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

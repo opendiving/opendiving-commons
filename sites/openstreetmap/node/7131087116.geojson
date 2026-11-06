@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f142f69b-0b01-56da-994b-44825b48c985",
     "name": "Zona de Buceo 2",
+    "location": {
+      "name": "Bolívar, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

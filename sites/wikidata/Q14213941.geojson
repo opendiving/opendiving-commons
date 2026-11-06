@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6dff7be-4a36-5be5-9270-958f5d45b8de",
     "name": "Whirlpool cove",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

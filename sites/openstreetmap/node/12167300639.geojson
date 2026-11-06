@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff1edd83-85b1-591c-9beb-6a0b7b531695",
     "name": "Cross Over",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c22f6928-0c9d-5288-ae07-fe6e7ad4e133",
     "name": "S. Utara",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

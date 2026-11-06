@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "70172fda-ffdb-50fc-a943-74c30c3b6c8b",
     "name": "Waginger See",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

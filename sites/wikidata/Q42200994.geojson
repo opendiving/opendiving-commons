@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6576d79a-9d36-511d-a093-0620b68d0a74",
     "name": "Inner Caravan",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

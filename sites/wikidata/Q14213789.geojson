@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a97cc2cb-f178-5449-bc6b-c78a7dff2623",
     "name": "Livingstone Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

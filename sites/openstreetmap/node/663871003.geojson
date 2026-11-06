@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f5d19a83-4f09-581e-8310-8c1f8fce7352",
     "name": "Rheinsberger See",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "10a850b2-a8b4-5784-a957-27d13df009e3",
     "name": "Wetro",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

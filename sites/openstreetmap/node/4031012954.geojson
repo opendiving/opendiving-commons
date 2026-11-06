@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1bf6d0f-ae02-5c71-9320-263bffdfa27c",
     "name": "Mill Channel: Ridge",
+    "location": {
+      "name": "Yap State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

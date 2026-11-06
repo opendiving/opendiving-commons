@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c109b708-f371-5a7e-87e7-78b3b9194f6a",
     "name": "Eckernförde - Riff",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

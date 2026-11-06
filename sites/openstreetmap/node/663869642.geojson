@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "04fff5df-6bee-5044-b7a4-40d00e1a5ff5",
     "name": "Portsea Hole",
+    "location": {
+      "name": "Victoria, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

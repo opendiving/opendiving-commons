@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31cac214-81a1-508f-b916-2f39b110e240",
     "name": "Geldkis",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

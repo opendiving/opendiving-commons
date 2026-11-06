@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06ef417f-aa71-5de0-9419-3b38ebecc980",
     "name": "Mangrove Point",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d4a0d84-cf9c-5abe-a575-3e5e409261e7",
     "name": "la Ferriola",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "010f4e8e-debc-511f-94d6-3b351d720264",
     "name": "Pumpwerk Meilen",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

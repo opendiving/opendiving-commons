@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "21fc54d3-2908-5218-9423-a23a011d70c4",
     "name": "HMS Pine",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

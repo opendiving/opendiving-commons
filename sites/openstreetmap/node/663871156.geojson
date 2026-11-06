@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f7c7f6f-5f5f-5a8d-aa7d-03cebd3dec0b",
     "name": "MV Goya",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

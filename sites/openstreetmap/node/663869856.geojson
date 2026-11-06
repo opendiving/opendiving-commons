@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "392a3648-9f6b-5dac-823e-4ebff7cc8d7d",
     "name": "7 Pinnacles",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

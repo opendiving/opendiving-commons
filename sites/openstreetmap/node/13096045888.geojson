@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8236b78c-88e3-53b0-b6cf-83c79bd99a55",
     "name": "potapěčský klub Lachtan Brno",
+    "location": {
+      "name": "South Moravian, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

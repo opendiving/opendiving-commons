@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ea4fb3c5-84cd-5614-ace4-025b591f9c97",
     "name": "Sven's Caves",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

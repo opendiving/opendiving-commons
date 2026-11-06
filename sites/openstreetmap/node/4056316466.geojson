@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3e6b13ad-295e-5098-9a52-f8141bbd0600",
     "name": "La Piscine",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

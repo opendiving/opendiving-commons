@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3a41872-ff70-5704-bdd2-d91939bf360e",
     "name": "North Loi Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

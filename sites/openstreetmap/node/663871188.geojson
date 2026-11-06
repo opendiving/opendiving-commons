@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc433128-c8cd-592b-8670-44e29fc9707c",
     "name": "Manta Bowl",
+    "location": {
+      "name": "Masbate, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

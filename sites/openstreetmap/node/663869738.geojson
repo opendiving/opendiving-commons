@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46577549-6026-50dc-956b-706c51dd621b",
     "name": "Mali Plavnik",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

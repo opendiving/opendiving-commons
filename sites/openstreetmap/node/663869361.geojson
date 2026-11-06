@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28c064bd-0994-531a-8a78-2e25c4cfef62",
     "name": "El Mirador",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

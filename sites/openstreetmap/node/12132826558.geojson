@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0599dae-b3e4-5ef8-8179-699c0abf7d4e",
     "name": "Cap de Begur (Buceig)",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d319006-06dd-529f-9376-6e87f54ce3d9",
     "name": "Noordbout",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

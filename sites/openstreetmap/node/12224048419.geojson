@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12a0efbf-4d53-5fa2-83d1-baffcad8078c",
     "name": "Nudi Falls",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "17d53209-75c8-5841-be01-1e349b518bc4",
     "name": "Vila Almarick Biorock",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

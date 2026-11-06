@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5907a050-5181-580d-a4e7-0a094cb90884",
     "name": "Taucheinstieg 4",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

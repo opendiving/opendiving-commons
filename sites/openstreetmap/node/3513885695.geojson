@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd57cfae-c2d9-5f0a-ab2f-a55e3c04593a",
     "name": "Canyon del Diablo",
+    "location": {
+      "name": "Messina, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

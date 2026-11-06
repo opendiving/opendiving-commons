@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f4e100d-6d61-5c57-8493-c88bd4750526",
     "name": "Willis Point",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

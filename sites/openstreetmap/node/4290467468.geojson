@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "102ea35e-4561-5ac5-94a1-97361385e234",
     "name": "Sèche Salagru",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

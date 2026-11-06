@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c74cf043-52da-5eff-a7c6-8417a96948aa",
     "name": "Punta Padi",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

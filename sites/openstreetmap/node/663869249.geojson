@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74e0efa5-9ed4-5355-9979-ce8c7fa21c59",
     "name": "Papa Whisky",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

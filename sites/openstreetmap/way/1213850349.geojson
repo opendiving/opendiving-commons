@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a029ebf-79fe-5f2a-9b6c-50137ab0c04a",
     "name": "St John's Small Gota",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

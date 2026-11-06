@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e63ba541-7795-5049-bec4-4db881f05461",
     "name": "Seal Island",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

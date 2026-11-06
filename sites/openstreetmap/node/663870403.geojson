@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e1ff2973-5617-5e66-b65b-fad720dc7cd2",
     "name": "Teufwinkel",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

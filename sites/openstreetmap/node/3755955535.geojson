@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aab9b1ba-a87d-50e6-a476-b78b34c33f38",
     "name": "Banana Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

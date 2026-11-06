@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "473c0879-d349-535d-a182-3d2bec05242b",
     "name": "Blue Luve",
+    "location": {
+      "name": "Aube, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

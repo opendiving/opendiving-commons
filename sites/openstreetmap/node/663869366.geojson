@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "01a47fea-3e75-5987-a49a-37c702a6ac50",
     "name": "Villa Blanca Wall",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

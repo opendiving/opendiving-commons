@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d073091a-ff00-5040-818f-c2f9d6e08f26",
     "name": "Attersee - Weißenbacheinlauf (Leitplanke)",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

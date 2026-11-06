@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9149645a-e352-5659-a824-1368fa523256",
     "name": "Plongeurs Masqués",
+    "location": {
+      "name": "Moselle, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

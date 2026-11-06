@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d963f5c-e784-53a2-9be0-961ca7e8cb3d",
     "name": "Thumsee - Parkplatz Ost",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

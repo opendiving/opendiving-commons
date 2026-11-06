@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8c6d712b-4118-5398-be9b-ebd4b0a4e5cf",
     "name": "Wengibrücke",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

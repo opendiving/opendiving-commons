@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fceb887-5cba-54ba-84b2-cc4cf3872333",
     "name": "Myoskon",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

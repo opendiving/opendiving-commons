@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "172b9b5e-3ac3-5fe3-bedc-6e63fa2f1af1",
     "name": "Überlingen Uferpark",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

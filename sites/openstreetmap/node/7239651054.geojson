@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4552440c-27bc-5ffa-a3a8-e927a2ab3d6a",
     "name": "La Pared del Náufrago",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

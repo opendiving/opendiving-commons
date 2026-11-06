@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2e7a6b87-3b4a-592c-8dfb-cc31bb6aab6a",
     "name": "Wexford (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2da78046-c5ac-5c55-9a7d-0c5ca8cd7b35",
     "name": "Vertigo",
+    "location": {
+      "name": "Yap State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

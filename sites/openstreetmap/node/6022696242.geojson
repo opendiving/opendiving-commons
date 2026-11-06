@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee89c2fa-a8ba-5f38-a5f9-9e253fc61bfc",
     "name": "Le Tromblon",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

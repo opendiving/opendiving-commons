@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad4f12ed-b217-5262-9593-76826acdbada",
     "name": "C. B. Benson (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

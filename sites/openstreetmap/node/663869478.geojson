@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4e57ea98-7d38-58e3-82d5-9fc1ab0f9bbb",
     "name": "Atlantic (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dcc893f5-d8cc-5111-b575-79352ce6a0e7",
     "name": "La Roche Bleue",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

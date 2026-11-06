@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "44895113-dbd1-5f27-bbb8-8dda69c5b6b5",
     "name": "Cuckoo",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

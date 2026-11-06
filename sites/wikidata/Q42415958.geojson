@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b8c24486-4237-5577-a202-03f3defac582",
     "name": "JJ's anchor",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

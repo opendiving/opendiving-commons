@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e91940d3-d16d-5c41-b762-03f238d2b1d1",
     "name": "Hin Luk Bath",
+    "location": {
+      "name": "Trat, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

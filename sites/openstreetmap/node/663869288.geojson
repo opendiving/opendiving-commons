@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13007c69-37fa-519a-b54b-494ee411dc8e",
     "name": "Virtue Rock",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

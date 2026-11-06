@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "703e7d45-3b6d-5f83-af85-79c05bae2864",
     "name": "The Dome",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1b47ea6-996e-50ea-a592-f4c1e1801fbe",
     "name": "Pinnacle Point",
+    "location": {
+      "name": "Davao del Norte, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

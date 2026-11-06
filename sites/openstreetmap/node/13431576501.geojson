@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3126fac7-3f63-52cd-a2e9-2b402b0d03ec",
     "name": "Tank rock",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

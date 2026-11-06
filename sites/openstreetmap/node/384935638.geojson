@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c18d5708-ee2d-55ea-b8ee-03dd00cc48d1",
     "name": "Għar ir-Riħ",
+    "location": {
+      "name": "Għasri, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

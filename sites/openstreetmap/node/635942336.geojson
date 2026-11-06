@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d2564e02-d980-59d2-b0b4-8468b492492b",
     "name": "Something Special",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

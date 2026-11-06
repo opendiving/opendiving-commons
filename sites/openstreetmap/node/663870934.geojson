@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46540983-2de2-5006-bf9c-d2ff5015fcce",
     "name": "Brettin II",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

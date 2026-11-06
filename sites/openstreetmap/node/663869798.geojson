@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "97444a83-9a7e-585c-b230-8e7ead20b73a",
     "name": "Abu Ramada Plateau",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

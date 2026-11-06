@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2907c399-636f-513c-8c64-4ee840930bb5",
     "name": "Pixie Gardens",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

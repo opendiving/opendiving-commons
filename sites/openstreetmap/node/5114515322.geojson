@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3183025f-474d-560a-b7a7-0575d6db7d7f",
     "name": "Pengah Kecil",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

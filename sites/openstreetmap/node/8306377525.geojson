@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46f788f9-79eb-58e4-8c04-6d7c702d8a9f",
     "name": "Grafenmatt",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

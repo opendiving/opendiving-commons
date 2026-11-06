@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "350c1a98-81c0-5f8a-8a78-42d2ba2e00c1",
     "name": "Thomas reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

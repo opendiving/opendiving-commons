@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3057b6a-35d1-50be-9d6d-1b71e5284f99",
     "name": "Westbruch",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

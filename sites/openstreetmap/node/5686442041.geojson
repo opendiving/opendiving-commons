@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e2f105f-ba14-5563-ba20-25254d3248b5",
     "name": "North Wall",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

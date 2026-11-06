@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d81fdcc4-13dc-5115-9f3b-db37ae331bc7",
     "name": "Meno Slope",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

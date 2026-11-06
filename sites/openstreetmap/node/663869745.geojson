@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7267646e-fe57-524b-a22a-9b7df76f4e08",
     "name": "Kap Silo",
+    "location": {
+      "name": "Lika-Senj, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

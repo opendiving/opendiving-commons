@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad50e6b4-872c-5fd6-a001-67e3de3de782",
     "name": "Horizon Plongée",
+    "location": {
+      "name": "Haute-Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

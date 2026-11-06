@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91ec1558-9458-5b70-a1dc-29a693e0391f",
     "name": "Little Wissahickon (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

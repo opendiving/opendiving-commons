@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0dd3e818-bbe2-547f-984d-798f9edd18e2",
     "name": "Dive site",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

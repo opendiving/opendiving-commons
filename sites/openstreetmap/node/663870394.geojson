@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "df80031c-0948-504d-a880-392544fd52c4",
     "name": "Tauchplatz Sipplingen",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7b873f4-cbe0-5d9f-be75-6202163c24c6",
     "name": "Member Diving",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

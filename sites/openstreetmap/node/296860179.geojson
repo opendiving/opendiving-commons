@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "036530e5-9c2d-5292-a3c3-ecebab8f2522",
     "name": "Dock-Tor",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

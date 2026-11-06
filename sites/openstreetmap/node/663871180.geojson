@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "755b6b07-5996-5c57-96c7-332e05d34590",
     "name": "MS Hamburg",
+    "location": {
+      "name": "Nordland, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

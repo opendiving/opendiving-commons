@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9eac4a74-ece8-5213-9f3d-704a6e190b58",
     "name": "Mioskun",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

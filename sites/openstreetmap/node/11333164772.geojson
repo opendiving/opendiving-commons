@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5cd3785d-e4c4-524e-9223-953d8cca6a76",
     "name": "佐久原",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

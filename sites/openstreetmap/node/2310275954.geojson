@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2aef7433-087b-54b0-8a20-1a596114b388",
     "name": "Cemetery Reef",
+    "location": {
+      "name": "Cayman Islands, Cayman Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

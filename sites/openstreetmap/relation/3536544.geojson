@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "03767e0a-deb6-58d4-bc29-d7405becd67e",
     "name": "Cavité de Fontaine Noire de Cize",
+    "location": {
+      "name": "Ain, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64608e5b-ac27-5b82-aee9-5e8e609f4436",
     "name": "Front Porch",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7046bf75-49b4-5e79-b9b8-15e3c38fc349",
     "name": "Ras Ghozlani",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11e0176b-ec7d-5462-8f49-3aa109ae443e",
     "name": "Seehorn Wand",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00619b4a-83c9-5858-bc6d-36c691410808",
     "name": "Burlington Bay Horse Ferry",
+    "location": {
+      "name": "Vermont, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

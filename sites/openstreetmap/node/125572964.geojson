@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b2fe7c6f-e571-5a71-93b6-05ce81f1be26",
     "name": "Svendborgsund",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

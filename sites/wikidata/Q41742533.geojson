@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "be79fb0a-ea4b-5f45-b9da-39dfb487ac35",
     "name": "Barry's Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

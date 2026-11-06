@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "247402ed-d001-50cf-8c77-87f8cd992405",
     "name": "Затопленные обломки",
+    "location": {
+      "name": "Krasnodar Krai, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

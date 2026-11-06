@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f44530cf-962a-57cc-843c-dc7d5c568012",
     "name": "Whytecliff Park Dive Site",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

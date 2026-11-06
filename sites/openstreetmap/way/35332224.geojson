@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3af96117-b7dd-568a-bcae-a9a5f15104ee",
     "name": "Dutch Springs",
+    "location": {
+      "name": "Pennsylvania, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3fadfe57-c4fe-5ca6-bbcb-813fcdeca97e",
     "name": "Parana wreck",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

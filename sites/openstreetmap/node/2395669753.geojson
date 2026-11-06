@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "832338f4-d21d-51af-b7d3-88f2f5965550",
     "name": "Manta Point",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

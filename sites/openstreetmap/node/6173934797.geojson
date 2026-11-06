@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d8b02d3-1926-50c6-bc7a-921205e115a6",
     "name": "Orca Diveclub Lovina",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

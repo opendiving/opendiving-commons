@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "84c744c7-5a58-581d-a0ce-bb30d39abed7",
     "name": "Ludwigshafen",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

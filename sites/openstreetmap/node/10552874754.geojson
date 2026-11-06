@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5ded1b9-d511-5153-a1f4-daa07ad48d30",
     "name": "Snorkel trail",
+    "location": {
+      "name": "Southern Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

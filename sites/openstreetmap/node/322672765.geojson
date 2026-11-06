@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ffdfb66-ba43-5596-bdd3-2a2d1ca548b1",
     "name": "Les Joyeux Corsaires",
+    "location": {
+      "name": "Charente-Maritime, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

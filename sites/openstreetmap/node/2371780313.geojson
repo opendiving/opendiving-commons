@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "134b50e8-9880-5489-acc1-3601f09403d6",
     "name": "The Cortez Club",
+    "location": {
+      "name": "Baja California Sur, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

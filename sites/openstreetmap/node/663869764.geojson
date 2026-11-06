@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "19462b73-69a2-56e5-b47d-21495221b891",
     "name": "Shaab Sataya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

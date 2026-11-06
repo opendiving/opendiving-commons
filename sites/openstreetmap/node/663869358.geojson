@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c3499d12-a3d0-52e4-ada8-b01ebbe25239",
     "name": "Chun Chacaaab Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

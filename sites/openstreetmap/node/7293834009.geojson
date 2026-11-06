@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "feb3f5fc-65b2-55c5-b197-c2925f2ebfee",
     "name": "Raymond's",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

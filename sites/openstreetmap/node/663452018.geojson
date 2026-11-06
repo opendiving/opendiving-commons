@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "adfc9d0c-94e7-5e65-807e-3f35f20a14bd",
     "name": "Lothenbach",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

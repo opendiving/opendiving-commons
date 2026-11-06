@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23673c81-2f71-5c87-b02d-a865ad3e57e2",
     "name": "Pilaitė",
+    "location": {
+      "name": "Vilnius, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

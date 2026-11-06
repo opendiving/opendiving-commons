@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8f45a62c-d61c-50fb-9aea-52628daef15f",
     "name": "Neue Brücke",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

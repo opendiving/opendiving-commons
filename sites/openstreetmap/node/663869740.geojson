@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d09890ae-ae24-577c-9a0c-a523ea84c6cf",
     "name": "Bucht Mrzlanovica (Wrack)",
+    "location": {
+      "name": "Lika-Senj, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

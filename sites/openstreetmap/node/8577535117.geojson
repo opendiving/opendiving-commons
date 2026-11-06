@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a43814bb-d662-5ec6-a325-d7a2751886d0",
     "name": "סטי\"ל",
+    "location": {
+      "name": "Southern, Israel"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

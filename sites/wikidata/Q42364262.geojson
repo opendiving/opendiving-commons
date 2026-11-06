@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "beeaa2e0-631d-5298-b078-58157c217b4c",
     "name": "Fish Tank",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

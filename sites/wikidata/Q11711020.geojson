@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37b62e6c-dfb1-51e2-b837-4b1561ce8eac",
     "name": "P31",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

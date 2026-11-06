@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc69f55d-8892-5b3a-9c57-e9ce3b9e36db",
     "name": "Santorini Dive Center",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

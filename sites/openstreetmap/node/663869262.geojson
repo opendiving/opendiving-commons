@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ab6d084c-da5f-5131-a145-3d069abd0d64",
     "name": "Tao-tao",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

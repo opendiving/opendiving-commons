@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "177dc49f-2199-56cb-85de-ab4596203488",
     "name": "Aggertalsperre",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

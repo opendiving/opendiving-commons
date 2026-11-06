@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4802127b-c97d-5b27-b53e-d96c2c513c72",
     "name": "Lac de Moiry-Rochers de Paris",
+    "location": {
+      "name": "Valais, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

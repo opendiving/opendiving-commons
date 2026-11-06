@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e612e1d8-b83e-502e-8d9a-84233fbfaadb",
     "name": "Belharra-Perdun",
+    "location": {
+      "name": "Pyrenees-Atlantics, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

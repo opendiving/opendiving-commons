@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "33296b0e-e783-5037-bd10-6f0b5d860e5e",
     "name": "Jezioro Insko - Damm süd",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

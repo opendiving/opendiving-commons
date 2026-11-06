@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef9a62a1-6f11-5e9b-8a5a-a379c6e359c4",
     "name": "Batu Belah",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

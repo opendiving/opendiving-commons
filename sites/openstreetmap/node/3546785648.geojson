@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "028a9a23-13ef-5f9a-a10c-d15b86b97006",
     "name": "Bali Aqua Diving",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

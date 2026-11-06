@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a8a4fb49-c20d-5b41-9ada-21710e9ce5c3",
     "name": "Shaab Said North",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

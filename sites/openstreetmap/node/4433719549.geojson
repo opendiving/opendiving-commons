@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c753042-41c0-5cf6-b3e2-a3463631c658",
     "name": "Al Fahal vis Wreck",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

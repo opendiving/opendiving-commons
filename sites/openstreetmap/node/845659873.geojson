@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f21541e-04ed-588e-a0db-5a92d1dde9fc",
     "name": "Niesen",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

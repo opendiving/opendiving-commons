@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "661a02e9-ff6d-5632-9bea-bd0d02bc91e8",
     "name": "Club Narval",
+    "location": {
+      "name": "Gironde, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

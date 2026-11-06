@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13893d48-42e9-5cbc-87c9-b62d50cb72c5",
     "name": "Lac Léman - Hirondelle",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

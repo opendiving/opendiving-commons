@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68e6fcba-830c-53a8-a199-74c195cbadd7",
     "name": "Three Coal Barges",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

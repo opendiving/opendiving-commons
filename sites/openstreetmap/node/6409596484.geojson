@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fee50ad5-12aa-5072-b271-122979f289a2",
     "name": "Grottoni",
+    "location": {
+      "name": "Uri, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

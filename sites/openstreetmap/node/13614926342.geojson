@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac8268ca-0e2c-58f9-8683-272e4942f826",
     "name": "Iċ-Ċirkewwa - Għar u Sikket Susie",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

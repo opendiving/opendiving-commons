@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "08bb52a1-7f52-5c69-aaaa-0f51bc45f6c0",
     "name": "Salt Pier",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

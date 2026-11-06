@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d65b3339-cfe1-5ff2-92ee-6a548224be6d",
     "name": "Bale Sampan Biorock",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

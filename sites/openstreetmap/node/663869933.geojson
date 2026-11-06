@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2edef2a-716a-50d6-ab9b-b67cc26c01ae",
     "name": "Guradoo South",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

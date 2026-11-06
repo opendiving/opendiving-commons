@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cad64b32-ac91-51ef-b92b-04d547ea7611",
     "name": "Entenecke",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

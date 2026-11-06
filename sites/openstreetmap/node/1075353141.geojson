@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "860d8b33-313e-5b4c-8415-a9ef12e96311",
     "name": "Arus Balee",
+    "location": {
+      "name": "Aceh, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

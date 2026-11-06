@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "55cea071-1575-508a-aa70-8e0078fd02fe",
     "name": "Anemone City",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

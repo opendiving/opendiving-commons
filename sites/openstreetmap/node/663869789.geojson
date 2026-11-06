@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b8f6d2ad-23a7-5509-b896-3fa238c06412",
     "name": "Tobia Hamra",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

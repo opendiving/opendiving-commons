@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3fc3d43e-1ad9-57da-838e-17d045844305",
     "name": "La Reggia",
+    "location": {
+      "name": "Lecce, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

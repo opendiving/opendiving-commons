@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7d93f84-c36a-59f9-8f1e-03c6f966abe6",
     "name": "Porto alla Ressiga",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

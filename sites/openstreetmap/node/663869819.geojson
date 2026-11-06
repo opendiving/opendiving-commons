@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5c943919-470b-5a79-a222-31d0a8e1f6c0",
     "name": "Dunraven",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

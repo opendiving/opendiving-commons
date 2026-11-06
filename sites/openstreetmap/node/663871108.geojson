@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71ff392f-fa8d-5a10-bcd7-a1a78f07d7e1",
     "name": "Penzliner See",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

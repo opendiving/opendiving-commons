@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "22c5c2ae-7358-5148-8d75-d0f5da1cf331",
     "name": "Arroyo",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

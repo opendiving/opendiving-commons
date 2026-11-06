@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b914ac3-16e4-5f9a-9874-4491eb8d328b",
     "name": "Slapy Ždáň",
+    "location": {
+      "name": "Central Bohemian, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

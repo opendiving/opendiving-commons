@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5f9334a-76bf-55a3-b3f2-b139b527b745",
     "name": "Kisternol",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

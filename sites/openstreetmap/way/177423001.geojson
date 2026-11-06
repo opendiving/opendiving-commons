@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd69abfc-bf91-58d4-bf82-b870d9ce325a",
     "name": "De Grote Hegge",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

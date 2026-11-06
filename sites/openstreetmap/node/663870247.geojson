@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a34c00fb-b5dd-5429-a13e-5bc6e7f6f19c",
     "name": "Lej da Champfèr",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

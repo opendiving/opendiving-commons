@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2123c5cb-3a95-51e4-96f4-a271476e1db9",
     "name": "Alter Kahn",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

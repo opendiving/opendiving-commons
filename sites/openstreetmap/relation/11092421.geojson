@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c86ac0e-32d2-57fd-8faf-fb185ce9db01",
     "name": "Île Moucha جزيرة موشا",
+    "location": {
+      "name": "Djibouti, Djibouti"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

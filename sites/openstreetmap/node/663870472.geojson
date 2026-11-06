@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d55ad882-bde2-5765-9686-17d49f98336c",
     "name": "Immenhofener Weiher",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

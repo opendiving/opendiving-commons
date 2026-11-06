@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4170376c-22f5-551f-ab5d-1afe999c95a2",
     "name": "Eckernförde - Südstrand",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77484821-4fe7-5743-bc0a-9aacbb4860fb",
     "name": "Dive Abaco",
+    "location": {
+      "name": "Central Abaco, The Bahamas"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

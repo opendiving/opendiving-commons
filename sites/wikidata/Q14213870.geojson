@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "695b1b4e-e982-5721-ab94-c63d43e5cf74",
     "name": "SAS Good Hope",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

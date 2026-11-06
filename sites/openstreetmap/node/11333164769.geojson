@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2e39423-5d3e-5589-941f-4eecf8a060a1",
     "name": "阿真ビーチ前・あまびーちまえ",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

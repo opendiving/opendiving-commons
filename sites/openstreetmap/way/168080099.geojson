@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd0704a7-0682-5386-83aa-9d43bd1df7e3",
     "name": "Lac des Graves",
+    "location": {
+      "name": "Cantal, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

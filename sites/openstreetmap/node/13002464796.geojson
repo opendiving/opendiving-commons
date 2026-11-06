@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d979073-7303-59d0-b897-2e518c2ad9ac",
     "name": "Tree",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

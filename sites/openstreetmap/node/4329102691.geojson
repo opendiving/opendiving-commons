@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e034328-521a-5ac0-b270-d5ae822ab15e",
     "name": "Cedar Pride Shipwreck",
+    "location": {
+      "name": "Aqaba, Jordan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

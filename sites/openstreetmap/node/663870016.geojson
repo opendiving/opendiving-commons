@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b78aa294-06c2-5cf3-9824-abe586560853",
     "name": "Churchillplatz",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

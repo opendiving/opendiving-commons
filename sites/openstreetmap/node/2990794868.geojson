@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a87e49f1-fa1d-589c-a2ac-171f27f262f3",
     "name": "Impérial de Terre",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

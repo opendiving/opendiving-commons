@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1c9f6015-5b5a-5db4-8e7f-8049b10205c3",
     "name": "Wrack 'Prosper Schiaffino' (Alias Donator)",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

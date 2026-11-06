@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5534e22b-c698-507e-b813-344a584b0283",
     "name": "Abu Ramada Cave",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

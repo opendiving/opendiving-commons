@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1df89383-90ae-5585-8477-5a77b880acc5",
     "name": "Kiyosumi Maru",
+    "location": {
+      "name": "Chuuk State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "17e4dabe-2880-5ef4-9b57-a16e33385e65",
     "name": "Galijola",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

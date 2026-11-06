@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d64267a2-be78-51ad-966d-544b2cbabff7",
     "name": "Rangali manta point",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

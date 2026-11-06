@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68815aac-8297-520b-b05a-cec6798f8b4e",
     "name": "Tank",
+    "location": {
+      "name": "Aqaba, Jordan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

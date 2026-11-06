@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b453565-0800-58b5-af1d-9863470e0ef9",
     "name": "Quarry",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

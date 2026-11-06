@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9c0f3e23-df77-53f2-9b90-97108cc933c1",
     "name": "Post I Jetty",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

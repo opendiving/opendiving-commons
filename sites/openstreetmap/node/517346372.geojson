@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7ffddfa0-da20-5084-a3d7-74fb2851ad23",
     "name": "Dahayla South",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

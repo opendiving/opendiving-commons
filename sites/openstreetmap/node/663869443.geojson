@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1ef7312d-29d8-54bd-9845-b0f47fc7e593",
     "name": "Teigland",
+    "location": {
+      "name": "Sint Maarten, Sint Maarten"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

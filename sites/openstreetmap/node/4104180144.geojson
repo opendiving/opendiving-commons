@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9055e375-39ab-5b94-aef2-5afac1d3dc00",
     "name": "Jevry's Drop",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

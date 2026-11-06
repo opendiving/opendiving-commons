@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "39e0adaf-89b7-54cd-8eb2-f5b842a39719",
     "name": "Plattform 21m",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

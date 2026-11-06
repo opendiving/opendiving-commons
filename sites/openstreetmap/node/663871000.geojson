@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0bba87d8-4998-561e-8814-4198e632e9f4",
     "name": "Rochowsee",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

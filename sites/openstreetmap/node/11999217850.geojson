@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83274715-54c2-5e30-aab4-97dbf3a7503b",
     "name": "Plattform 2m",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

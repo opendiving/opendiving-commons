@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e617a6fa-89c0-5a39-9e52-96c0ae07355c",
     "name": "Punta dell'Indiano",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

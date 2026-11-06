@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a1727dc-fd59-549c-b8fe-14136b26020e",
     "name": "La Parguera",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

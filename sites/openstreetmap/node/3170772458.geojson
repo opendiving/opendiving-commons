@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05eae5ce-d81d-52de-978d-b35324d89a04",
     "name": "Madison Blue Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

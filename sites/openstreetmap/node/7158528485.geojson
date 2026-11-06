@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9727bcd1-027c-515c-a01a-e37f9b76fadb",
     "name": "Maaya Lagoon",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

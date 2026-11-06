@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3c4c4bd-2111-50e4-a9de-f73a23332d0f",
     "name": "Brouwersdam",
+    "location": {
+      "name": "South Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

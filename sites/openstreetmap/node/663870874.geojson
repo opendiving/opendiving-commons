@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bdc8e160-526a-59ab-805c-4305a7780641",
     "name": "Lomeček",
+    "location": {
+      "name": "Plzeň-, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

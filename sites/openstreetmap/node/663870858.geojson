@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b0baa5d4-8c10-5098-9db8-3dd9c8b329c7",
     "name": "Klausensee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

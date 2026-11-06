@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bec83728-62fb-5e45-8539-ed86207a7127",
     "name": "Apostelsee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

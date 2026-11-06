@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "000dd117-55ac-5e60-a539-14247bf179b5",
     "name": "Gnome",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

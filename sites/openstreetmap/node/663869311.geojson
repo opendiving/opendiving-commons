@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "985044f6-9047-5f11-bdb8-2604d9826919",
     "name": "Joan Rock",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

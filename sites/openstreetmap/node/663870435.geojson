@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "92d437dc-bb75-5c9b-9cdc-4dcb5e9360bf",
     "name": "Überlingen Tennisplatz",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

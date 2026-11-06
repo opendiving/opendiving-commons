@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d995316-54f8-56f5-bc9c-46e400e12a39",
     "name": "Laguna Reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

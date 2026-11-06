@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8c69bfa8-0340-5bae-bdd1-d95dfbd7efb1",
     "name": "Curtiss C-46A-45-CU Commando",
+    "location": {
+      "name": "Black Point, The Bahamas"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

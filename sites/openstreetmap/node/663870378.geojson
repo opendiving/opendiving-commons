@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c1dd3fa8-a626-5ce6-ba9e-9624977358d8",
     "name": "Brücke-Schifflände",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

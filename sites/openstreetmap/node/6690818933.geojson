@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2fb8f630-108f-50d6-b2cc-5aeb8474dfe0",
     "name": "Dattier",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

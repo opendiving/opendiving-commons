@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b0cf8ca5-9dd6-5005-a657-29c58c405a54",
     "name": "WZT;Luftverbund",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

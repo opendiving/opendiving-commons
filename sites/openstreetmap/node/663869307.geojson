@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3b002ab-9b5c-5829-a986-a2b16aa643e8",
     "name": "Graham`s Wall",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

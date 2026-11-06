@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ffc013c-c36f-50da-b132-bb78852e6e4f",
     "name": "Wai FPW",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

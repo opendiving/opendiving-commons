@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d39fbf09-833a-5bc3-afee-67df647de187",
     "name": "Dhigu Thila",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

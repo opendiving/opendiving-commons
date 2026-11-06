@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "19777d4d-0cf8-5111-b197-1de918b50f6b",
     "name": "White Slave",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1dcc577-eed0-540d-89c3-5b354363ce19",
     "name": "RMS Athens",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

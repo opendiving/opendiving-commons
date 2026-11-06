@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "edb840b1-6e28-53c2-85c4-5f413b6ce4ca",
     "name": "Frau Tschanz",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

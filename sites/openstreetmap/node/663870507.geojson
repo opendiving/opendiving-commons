@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b6f4d6a4-d487-5c6c-a227-49ad18724f87",
     "name": "Dietenheimer See",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

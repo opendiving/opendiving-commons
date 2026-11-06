@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f08cadb-b9f8-51eb-9bda-ba389797a8bb",
     "name": "Nukove",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

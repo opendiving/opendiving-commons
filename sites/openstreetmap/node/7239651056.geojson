@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5d504dd-62f4-52d1-afb8-05a8834640e7",
     "name": "Los Tres Mosqueteros",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

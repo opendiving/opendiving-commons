@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "48612cc8-7018-572c-8540-e186af34b807",
     "name": "Justins Caves",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

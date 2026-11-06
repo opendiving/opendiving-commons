@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3dd8eb1d-ad63-5c0d-a30d-e6a2831cedb9",
     "name": "Annie Falconer (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

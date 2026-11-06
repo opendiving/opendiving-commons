@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b199d9e-337d-5e0e-bbf9-1a2e98a58571",
     "name": "Seegüetli",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

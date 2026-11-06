@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e981b59-2127-5c66-9c10-f917863be3e4",
     "name": "Perth Sub Aqua Club",
+    "location": {
+      "name": "Perth and Kinross, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

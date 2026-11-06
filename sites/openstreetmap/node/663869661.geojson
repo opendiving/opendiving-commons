@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4a432e1e-94fe-5df8-a38c-287239cb0505",
     "name": "Coogee",
+    "location": {
+      "name": "Victoria, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

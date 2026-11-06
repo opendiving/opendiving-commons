@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c447e856-d619-5359-9521-9ab68a8e8ca7",
     "name": "Rannalhi Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

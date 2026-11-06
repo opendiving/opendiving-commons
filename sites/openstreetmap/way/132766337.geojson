@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77bde139-e31f-5991-ba26-82aec2f6c93a",
     "name": "Dosthill Quarry",
+    "location": {
+      "name": "Staffordshire, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

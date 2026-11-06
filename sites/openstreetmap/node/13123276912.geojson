@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5a3c0e19-5fe3-508b-8768-01d82dd2d34c",
     "name": "Plazas",
+    "location": {
+      "name": "Galápagos, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

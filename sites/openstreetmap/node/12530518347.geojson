@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c9a82574-3085-5301-991e-92bfa9ddd6a0",
     "name": "Weißer Hai",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

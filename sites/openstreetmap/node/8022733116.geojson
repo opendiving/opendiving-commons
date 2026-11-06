@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7151b93e-0735-597f-900a-69d9604721bd",
     "name": "Seraya kecil dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

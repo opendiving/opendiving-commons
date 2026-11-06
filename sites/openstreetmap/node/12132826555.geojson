@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc49b4a9-066a-5b7e-9a74-a658b2b63be8",
     "name": "Canons de Tamariu",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "506daa51-011e-522f-8c08-5666e0f59152",
     "name": "Shark Airport",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

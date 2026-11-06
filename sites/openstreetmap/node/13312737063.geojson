@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a23018a0-377b-5ca1-b588-a3240c6c3f81",
     "name": "Sec Pâté",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23b7a373-20cd-5f28-9cfd-12f67c2d892b",
     "name": "شعب توماس",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

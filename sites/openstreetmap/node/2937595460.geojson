@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50933a92-2c66-5753-b343-817e74a5f55f",
     "name": "Antonos Stratos",
+    "location": {
+      "name": "Loire-Atlantique, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

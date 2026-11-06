@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "52781d99-6f74-5c48-a2c6-14e2a950c923",
     "name": "Heaven",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cee229ed-2adf-539c-897c-1971094ca6e1",
     "name": "Pflasterstraße",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

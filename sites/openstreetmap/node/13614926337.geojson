@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "805659fb-3d55-5758-999b-41aaef811460",
     "name": "Qawra Nofsinhar",
+    "location": {
+      "name": "St. Paul's Bay, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "44d4698b-c6ba-5458-8a5c-4e36d9b73b40",
     "name": "Le Dalton",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

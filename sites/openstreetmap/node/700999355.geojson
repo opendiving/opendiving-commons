@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "210382d5-7cb6-555d-b563-aa80e08d1d34",
     "name": "Abu Hashish Drift",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

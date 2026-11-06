@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2714bb43-32e5-5adc-8d77-7f57d49e289e",
     "name": "Stadtwaldsee (Uni-See)",
+    "location": {
+      "name": "Free Hanseatic Bremen, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

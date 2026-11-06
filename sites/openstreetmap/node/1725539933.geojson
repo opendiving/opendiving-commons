@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a1cff43-bb1c-526c-96f8-9908b8daae84",
     "name": "Rochedos dos Calhaus",
+    "location": {
+      "name": "São Paulo, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

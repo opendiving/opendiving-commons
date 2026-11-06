@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ecd6bf12-8df5-59f3-8eeb-43137f1d8ec9",
     "name": "Bualo",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

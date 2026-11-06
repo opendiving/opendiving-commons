@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1360649-d7b8-5a2a-8f07-8f473ae731e8",
     "name": "Gorgon 1",
+    "location": {
+      "name": "Aqaba, Jordan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

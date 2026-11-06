@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1b22990d-d8df-5a42-90d8-2ae3291850f6",
     "name": "Sentier sous-marin de Banyuls-Cerbère",
+    "location": {
+      "name": "Pyrénées-Orientales, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

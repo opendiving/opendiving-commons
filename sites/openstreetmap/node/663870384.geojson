@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c1000f85-46d8-5a9c-a49f-d5742fa40823",
     "name": "Restaurant Schloss",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

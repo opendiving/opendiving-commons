@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aff653ff-4586-5746-8f2e-992f70b36894",
     "name": "Stone Henge",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

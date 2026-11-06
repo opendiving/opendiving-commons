@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d138e11f-a9ae-5e44-a3cd-2e0360b28502",
     "name": "Mondsee - Kienbergwand",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

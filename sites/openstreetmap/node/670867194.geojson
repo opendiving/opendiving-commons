@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b712aa24-7782-570d-a8e1-f398721cef7e",
     "name": "Punta dello Zenòbito",
+    "location": {
+      "name": "Livorno, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

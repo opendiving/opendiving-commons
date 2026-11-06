@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a84a56e4-a81d-50ad-b291-9e4ec2b9146a",
     "name": "Φαρι",
+    "location": {
+      "name": "East Macedonia and Thrace, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

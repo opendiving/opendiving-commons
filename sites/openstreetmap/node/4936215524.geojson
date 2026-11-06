@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37b4332b-95dd-5cdb-bae2-989950bb09f1",
     "name": "Lanzarote Non Stop Divers",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

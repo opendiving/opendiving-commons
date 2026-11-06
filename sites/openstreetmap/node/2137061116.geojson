@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "244001bb-2c59-5a80-a232-ecefed354717",
     "name": "Sutta zà Lisa",
+    "location": {
+      "name": "Palermo, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

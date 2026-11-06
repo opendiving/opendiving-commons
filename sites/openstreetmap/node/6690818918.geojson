@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6e8c270-b549-549b-b98c-45c808e48b38",
     "name": "Roche Michel",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

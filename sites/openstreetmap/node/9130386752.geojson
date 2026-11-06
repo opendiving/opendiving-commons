@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "21e9a9e4-98a1-5558-87c3-9cfc6dcce003",
     "name": "Punta des Murter",
+    "location": {
+      "name": "Balearic Islands, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

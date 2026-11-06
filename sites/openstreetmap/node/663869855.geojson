@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e7ad141-bc3c-5b14-96f9-b15aa13277d7",
     "name": "Moray Garden",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

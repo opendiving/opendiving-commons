@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1121056c-a364-5d90-9c35-dac39139dac3",
     "name": "Cala Mariolu",
+    "location": {
+      "name": "Ogliastra, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "70b35a40-c2fa-5e1d-a1ff-e27eee41da25",
     "name": "Beton-Trümmerfeld",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

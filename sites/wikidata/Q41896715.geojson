@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ebf6e843-64ad-5756-9bdb-ca212a8a1b91",
     "name": "Castor Rock Central Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

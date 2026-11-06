@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37148237-6230-57ba-a74b-010725a1d364",
     "name": "Dedos de Morgan",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

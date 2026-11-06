@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6e1866f7-e2d8-53cd-a8b7-2583409adddb",
     "name": "seafan forest",
+    "location": {
+      "name": "Tanintharyi, Myanmar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3e442f01-dfb8-5f34-beac-19596bef3491",
     "name": "Dolfintje",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

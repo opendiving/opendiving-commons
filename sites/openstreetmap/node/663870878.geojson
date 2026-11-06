@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f40de1d8-4856-5143-854c-1388081fbdfe",
     "name": "Cospudener See",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d50e9b8-1cf6-57b3-aceb-f9270f11fe1e",
     "name": "Mapledawn (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

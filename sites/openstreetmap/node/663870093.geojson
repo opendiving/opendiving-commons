@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "809f0413-b669-5212-8dc6-09c4f61c4487",
     "name": "Leuzigen",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

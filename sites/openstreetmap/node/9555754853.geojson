@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0cbe7c94-ad81-5c57-bb20-dfd22bf852b5",
     "name": "Fish Bank",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

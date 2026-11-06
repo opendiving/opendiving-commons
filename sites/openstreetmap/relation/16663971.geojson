@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "908f4433-3520-523d-a6eb-c55a84c2054e",
     "name": "Farewell Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

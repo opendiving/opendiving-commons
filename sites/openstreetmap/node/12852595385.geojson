@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57eb8d11-28d7-5d29-9823-326c69bb10cc",
     "name": "Sundi",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

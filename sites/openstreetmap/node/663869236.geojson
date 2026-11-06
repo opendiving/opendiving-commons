@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50e2e2f7-c035-5e0a-bf33-8cfad6fe6846",
     "name": "Temaruata",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

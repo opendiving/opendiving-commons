@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98e6b1c3-f56c-5aa4-87b5-29fa33837939",
     "name": "Scuba 6 Eco Diving",
+    "location": {
+      "name": "comarca Ngäbe-Buglé, Panama"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

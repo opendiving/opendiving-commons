@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3b65e44-4eb9-5251-955b-5bf58314c725",
     "name": "Fesdhoo thila",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

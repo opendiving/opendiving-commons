@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7396163d-09a2-5e3b-8dd1-6f0413febede",
     "name": "Hohenwarte-Stausee - Totenfelsen (Wrack)",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

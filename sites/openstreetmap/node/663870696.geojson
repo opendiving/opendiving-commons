@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4b41746-6ed6-5758-8471-f95a575588ac",
     "name": "Tegernsee - Hotel Guggemoos",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

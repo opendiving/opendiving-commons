@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe6e6586-b6f8-5f38-85e8-b0ca3efe78aa",
     "name": "Leon's Bikini Bottom",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

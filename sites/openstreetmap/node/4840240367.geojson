@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5bfd799-4ab7-581b-acb8-cca0bbeb5684",
     "name": "MuMart (museo sommerso)",
+    "location": {
+      "name": "Olbia-Tempio, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6dee56e8-3f95-5133-990b-e5f8b4a0e9d1",
     "name": "Tauchclub Triton e.V.",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6be70569-617d-5997-a5ea-68992a2f1949",
     "name": "La Piramide",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

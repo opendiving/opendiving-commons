@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6a58fff8-a69a-5561-90d9-19fcab011263",
     "name": "Anemone Bay",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

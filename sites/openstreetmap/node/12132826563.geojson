@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f3a03e33-f863-5de8-a62b-7004ec2e1857",
     "name": "Barda de Fitor",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

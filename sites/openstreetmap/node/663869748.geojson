@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5e758f67-1f5b-5ec6-b9f1-481bc8e6e7f9",
     "name": "Kricin",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

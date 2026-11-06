@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86710428-b4fd-5f03-9b1a-bb6c0ff5575e",
     "name": "Strandbad Feldmeilen",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

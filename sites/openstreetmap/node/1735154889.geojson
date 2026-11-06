@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bcc826d5-c572-507d-a9e5-d2945b96bff7",
     "name": "Redang - Che Isa",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

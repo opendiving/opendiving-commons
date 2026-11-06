@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ddbbe133-affe-52cf-bd3f-d0c65cc690d4",
     "name": "ORP Wicher II",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

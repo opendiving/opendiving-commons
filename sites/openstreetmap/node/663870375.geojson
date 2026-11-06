@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ffbc7f1-a64a-56fc-a4d8-73d9ad214939",
     "name": "Hemishofen-Rheinklingen",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

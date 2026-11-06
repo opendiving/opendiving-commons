@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "929ef434-240c-57d8-b3e8-aac28e2c389d",
     "name": "Klein Pannekoek",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

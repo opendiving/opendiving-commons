@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "001a6e95-0019-597c-9976-08a14e87f115",
     "name": "Cali Ship Wreck",
+    "location": {
+      "name": "Cayman Islands, Cayman Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

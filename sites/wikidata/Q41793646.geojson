@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "035e35e4-2714-53d1-b002-7a1feba9d3ea",
     "name": "Tafelberg Deep Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

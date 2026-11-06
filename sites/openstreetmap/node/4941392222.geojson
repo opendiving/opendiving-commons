@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74b889ab-ecf9-547e-b039-564440a55429",
     "name": "Exotic House Reef",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

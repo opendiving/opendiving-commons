@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "69551359-ee2f-5213-95e7-571be68f961b",
     "name": "Lopper Acheregg",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

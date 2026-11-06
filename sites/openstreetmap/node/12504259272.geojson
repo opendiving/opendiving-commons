@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4a8f18f-6eb8-5b05-be8d-9a8f660d149e",
     "name": "Dragone",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1669669-7489-5574-ac4b-2e7ebb56eb28",
     "name": "Traunsee - Karbach",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c40ba5e7-1e09-59ca-a777-ca73ae499e4d",
     "name": "Cimbria",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

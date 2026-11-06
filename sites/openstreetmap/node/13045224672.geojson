@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c823ac8-5577-572f-b730-80e232abeeaf",
     "name": "The Lagoon",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

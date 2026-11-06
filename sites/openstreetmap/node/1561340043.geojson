@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a4ba11a-eee2-5e8b-b2e8-26212ce1d75f",
     "name": "Aquarium",
+    "location": {
+      "name": "La Romana, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

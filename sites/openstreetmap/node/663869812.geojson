@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b574c323-9d36-5698-ac88-ad589fb84cb8",
     "name": "Giannis D",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

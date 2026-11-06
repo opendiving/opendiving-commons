@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "abc76e6e-061b-5a5c-aa00-00cdc8d8d98e",
     "name": "Outer Castle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

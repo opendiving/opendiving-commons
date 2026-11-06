@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "19c27cbc-5c4a-5367-8711-e93a41f25d7d",
     "name": "Carrière de la Rochefontaine",
+    "location": {
+      "name": "Namur, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

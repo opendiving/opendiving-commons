@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5526bcad-742a-5d80-8789-bf50f6185731",
     "name": "Glenlyon",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

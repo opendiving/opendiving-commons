@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a0898b8f-f86d-59d0-bb29-d52b3c004b55",
     "name": "Barda de Pere el Flaquer",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

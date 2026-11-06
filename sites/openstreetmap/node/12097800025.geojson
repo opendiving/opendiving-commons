@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6d1ea2e0-4112-5c56-bd77-fa185ff3d8a7",
     "name": "Le Serpent, stern",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

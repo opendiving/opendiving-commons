@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f94ce745-f492-5a72-b988-12e7c98f88f9",
     "name": "SS Oakland",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

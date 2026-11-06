@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b3954bf-33f7-5844-ba41-80dfa4ad028e",
     "name": "Banana Bay",
+    "location": {
+      "name": "Phuket, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

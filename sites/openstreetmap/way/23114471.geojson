@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b0e8565-7c94-5d81-a1bc-174a97df2220",
     "name": "Steinbruchsee Ratssteinbruch Hartmannsdorf",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

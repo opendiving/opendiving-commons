@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ab2431b1-37e6-5924-8222-6926612f30c3",
     "name": "Shab Sataya N-W",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b79fecb-5052-522f-a6d1-54e0021c5fdf",
     "name": "Coconut Point",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

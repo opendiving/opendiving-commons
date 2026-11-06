@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "09bb97e8-b185-58e0-bbb9-317bf9667afe",
     "name": "Bomba atoll",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

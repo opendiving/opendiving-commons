@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0daa37bc-6980-5ba8-a2e3-deee75cc812d",
     "name": "Sportsdykkerklubben Ægir",
+    "location": {
+      "name": "Southern Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

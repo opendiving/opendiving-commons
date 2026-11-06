@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b02102b7-8547-5170-aa63-b80f76bc701e",
     "name": "Sophie",
+    "location": {
+      "name": "Southern Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "569e4749-8351-57ea-b569-e7407deb2efc",
     "name": "Fantastic Reef",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

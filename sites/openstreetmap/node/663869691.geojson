@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c39cad5f-1beb-59af-aef1-a9e1be4f9f20",
     "name": "Vickers Viking",
+    "location": {
+      "name": "Corse-du-Sud, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

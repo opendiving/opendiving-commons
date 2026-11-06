@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b5d031ed-c6b4-59c4-bde3-f3dd87ca7059",
     "name": "Bluff Point",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ad20dfd-d37d-519e-abbe-9af1a2e582c6",
     "name": "Aquamarina",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

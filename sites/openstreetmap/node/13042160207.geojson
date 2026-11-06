@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8dd2d414-c556-5ac0-8d56-663347d7c9da",
     "name": "Batu Laut",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce8ddfe2-e238-58fc-b9a1-28c145cff7cc",
     "name": "Hügellandschaft",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

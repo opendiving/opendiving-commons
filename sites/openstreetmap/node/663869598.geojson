@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fa0fb266-c4f2-5e92-b2a1-eb5687c449f8",
     "name": "Barn Hill",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

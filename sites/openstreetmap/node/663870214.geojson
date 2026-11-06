@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83d24689-b2fd-56ac-abf3-2be88b23f3ba",
     "name": "Eichwald",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

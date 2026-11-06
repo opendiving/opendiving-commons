@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f715c237-d66e-5c1b-978f-cdd0167f7a34",
     "name": "Chlausenegg",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

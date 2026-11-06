@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a677b1d2-ae66-5d61-88e3-ec97f100e66b",
     "name": "Jezioro Krzywa Kuta",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1f552c9-0b0b-58c2-a6a2-fb6ef1bc9f30",
     "name": "Patersriff",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

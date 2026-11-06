@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a08573b7-caf9-5c24-96d4-a152c56e19cb",
     "name": "Diver entry point",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

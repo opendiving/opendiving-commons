@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0074ce2b-a8e0-5444-9e24-b5db00bba8ff",
     "name": "Old Jetty Wreck",
+    "location": {
+      "name": "Koh Kong, Cambodia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

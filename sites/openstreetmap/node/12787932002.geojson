@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e755175e-4034-5bb9-923e-7af2ec52adb3",
     "name": "Circus",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

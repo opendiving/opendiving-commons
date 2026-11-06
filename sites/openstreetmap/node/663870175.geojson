@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "03384754-4088-595c-a483-3329ce2c3383",
     "name": "Lido Locarno",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b4ef1681-6898-5447-9dc9-5ca333c8ff33",
     "name": "Stonehenge Blinder",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

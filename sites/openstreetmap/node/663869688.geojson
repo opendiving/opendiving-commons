@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6188fe1b-afea-52ec-b4a7-7ef92a5255b1",
     "name": "Le Liban",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

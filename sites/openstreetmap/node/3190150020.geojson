@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ac715b3-3958-5c62-8a9e-cc1a0253a0fc",
     "name": "Ship Wreck Tugboat",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

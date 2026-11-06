@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "106f2678-1047-5928-bec8-cfcc39b80cf1",
     "name": "Tauchen",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

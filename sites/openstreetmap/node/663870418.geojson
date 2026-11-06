@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "04f81d8f-40a2-51b6-b066-b5beee871292",
     "name": "Mole Ost",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee9d3169-4953-50e1-93bb-ce213ce48ad3",
     "name": "U-85 (Wrack)",
+    "location": {
+      "name": "North Carolina, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

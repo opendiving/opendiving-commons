@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "52214441-fed7-5d45-899a-a2cba5c38f40",
     "name": "Boiler wreck #3",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

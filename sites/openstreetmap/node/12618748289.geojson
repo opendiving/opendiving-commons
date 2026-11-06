@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13390d89-b0b8-5978-ab07-8cb7c8006058",
     "name": "West Point",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

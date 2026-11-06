@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "984bc591-108d-5519-bc4c-66af8d8a805a",
     "name": "SpaceX",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

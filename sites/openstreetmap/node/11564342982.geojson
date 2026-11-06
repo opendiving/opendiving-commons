@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dcb3f878-c2dd-5302-849a-77fc6384905c",
     "name": "Buste du Commandant Cousteau",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

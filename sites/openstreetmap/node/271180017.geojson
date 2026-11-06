@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "45d9b23d-5daf-56c0-9dd2-c322abd88767",
     "name": "East Abu Dabab 3",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

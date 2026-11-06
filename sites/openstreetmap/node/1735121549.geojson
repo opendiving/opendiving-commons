@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba8d089b-bdd1-52e0-b9a3-03d3399c3c8d",
     "name": "Lankayan - Malu Malu",
+    "location": {
+      "name": "Sabah, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

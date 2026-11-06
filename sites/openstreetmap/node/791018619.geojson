@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c81e7c8d-f08e-56c2-9985-caa369e90d19",
     "name": "Carall Bernat",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bfb1eb09-4654-5e25-8c1b-8ed9776dd176",
     "name": "Mangrove",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57f9d589-889b-5065-b6f6-76cfad5d7a91",
     "name": "Landungssteg Rüschlikon",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

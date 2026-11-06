@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c49186e-670c-5f0c-95fa-09ce0a28f3b1",
     "name": "Gouffre de Poumayssen",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

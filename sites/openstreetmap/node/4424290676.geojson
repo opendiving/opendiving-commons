@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3f7afc2c-121b-57db-adba-0ed0a5ce7683",
     "name": "Übunsplatform",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

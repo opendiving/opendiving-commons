@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7b24582d-b3aa-5af2-8cff-e7a589784b68",
     "name": "City of Grand Rapids (steamer)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

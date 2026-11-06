@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fa4d4ccc-2641-5d9a-806a-7b7da0f8fac4",
     "name": "Kuda Gaa",
+    "location": {
+      "name": "Baa Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

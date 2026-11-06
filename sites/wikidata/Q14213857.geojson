@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90f2b8fe-9bae-5352-b903-44d3110ef4d4",
     "name": "Rocklands blinder",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

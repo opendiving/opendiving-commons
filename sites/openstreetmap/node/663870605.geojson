@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7527a6aa-7291-5506-9342-1d36e573c0d3",
     "name": "Mahndorfer See",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

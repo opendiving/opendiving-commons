@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "edac019e-4115-5a87-b9af-5fdb6ea0129c",
     "name": "Bos 400",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ec0f17d6-8c4c-5efa-922d-06786e6e90e8",
     "name": "Atlantis",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

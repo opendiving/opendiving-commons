@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0815b26a-5900-59e5-bdbc-5fdb581e8bb5",
     "name": "Far Garden",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

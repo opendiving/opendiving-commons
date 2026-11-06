@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6dbecb60-5c5d-5083-b7a7-549e9b7f375d",
     "name": "Marie Pampoen",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

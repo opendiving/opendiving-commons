@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b37b9eeb-e6ee-5b65-a126-739dcf2799e9",
     "name": "Abu Hashish Lagoon",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

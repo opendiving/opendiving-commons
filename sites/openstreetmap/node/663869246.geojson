@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c89e10a4-032a-5794-889a-2bf66d5758dc",
     "name": "Faille d'Arue",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

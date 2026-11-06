@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93be0293-e7f5-5df2-bb60-40498c48f348",
     "name": "Pulau Memyai",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

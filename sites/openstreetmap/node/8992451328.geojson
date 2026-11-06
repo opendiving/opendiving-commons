@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ef72658-ea2a-5b47-aa43-77a02c0a0809",
     "name": "Sottolonda",
+    "location": {
+      "name": "Livorno, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

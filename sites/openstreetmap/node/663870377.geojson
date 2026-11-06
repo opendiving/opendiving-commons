@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b8c75eb5-1db7-5de2-8604-95f89749d0fa",
     "name": "Camping-Hemishofen",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

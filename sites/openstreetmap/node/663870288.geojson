@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f89111eb-7e10-55e0-a2ba-7db9597e51bb",
     "name": "Eierhals",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

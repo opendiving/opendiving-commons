@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74ba58ff-f759-530b-a97d-7c1e1ff766a2",
     "name": "Ras Ghamila Reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

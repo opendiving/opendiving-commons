@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d26c8b6e-509f-588c-a305-ae532455aa6e",
     "name": "Tawala Sanctuary",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

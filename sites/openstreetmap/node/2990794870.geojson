@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ca1335c-6291-54ff-9f6e-c5b0f421b05d",
     "name": "Impérial du Milieu",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

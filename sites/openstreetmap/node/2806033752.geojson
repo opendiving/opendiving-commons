@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "608e60d8-ba70-5f86-8adf-66ac01fe0a42",
     "name": "Clifton Gardens",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

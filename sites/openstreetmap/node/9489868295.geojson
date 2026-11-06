@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc94448b-aef8-59d6-a770-7f9f4aae272f",
     "name": "Anija e mbytur SS Probitas",
+    "location": {
+      "name": "Vlorë, Albania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

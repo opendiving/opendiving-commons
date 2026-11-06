@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05e81151-e471-5e1d-9c13-7ac82f10728a",
     "name": "Vilamendhoo Housereef",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

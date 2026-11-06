@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94634ff8-d8a9-51d6-a8ba-e99e2e414723",
     "name": "Dhigu thila",
+    "location": {
+      "name": "Baa Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

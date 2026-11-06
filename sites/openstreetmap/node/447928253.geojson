@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86c030b9-363d-56b1-a93a-625eb5fed1d8",
     "name": "Grote Knip",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

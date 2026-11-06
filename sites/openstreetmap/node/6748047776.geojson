@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e61a875-cdf3-5ed5-a0a6-4fb9784c0aa7",
     "name": "U-1105",
+    "location": {
+      "name": "Maryland, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

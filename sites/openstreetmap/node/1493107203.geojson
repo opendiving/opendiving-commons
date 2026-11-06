@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05f029ba-5646-5456-98e9-e6211bc1de57",
     "name": "Maheleg",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

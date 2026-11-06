@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fae9c862-1732-5d62-b562-7785ba5e9173",
     "name": "Severnside Sub-Aqua Club",
+    "location": {
+      "name": "Bristol, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

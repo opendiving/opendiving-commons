@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9def1bf3-8b28-5689-9e95-18faa1ff65bb",
     "name": "Calabas Reef",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

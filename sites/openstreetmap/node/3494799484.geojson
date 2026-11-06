@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "02d1dc70-dbba-5b05-b393-d2f71e107308",
     "name": "Görslower Ufer",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1d6b473-4f05-5d88-bae0-bcacee79c4f2",
     "name": "Ras Umm Sid",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

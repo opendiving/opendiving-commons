@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2e3d6f03-f461-5bfe-aa79-e384d9b1c4bd",
     "name": "Klauser See",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

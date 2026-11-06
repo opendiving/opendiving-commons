@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ab40a74-7991-5d84-b228-f229e0894f19",
     "name": "Buhias",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

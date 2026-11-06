@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3444290b-9fee-5244-8259-c71d23169e78",
     "name": "Jägerweiher",
+    "location": {
+      "name": "Rhineland-Palatinate, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

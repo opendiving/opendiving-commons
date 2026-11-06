@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e04fd2ef-3a17-553f-88c4-d0d8bdd9a83e",
     "name": "Badesee Düren-Echtz",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

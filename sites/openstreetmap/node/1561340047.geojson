@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9088b5b0-1bbd-5f73-a615-69b5cb3a22bb",
     "name": "The Wall",
+    "location": {
+      "name": "La Romana, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "391ffc27-c724-5b15-91cd-62a38f7833bb",
     "name": "Blue Grotto Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

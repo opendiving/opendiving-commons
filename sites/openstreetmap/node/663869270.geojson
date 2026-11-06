@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e625ad4b-17bf-5b78-b1ee-30e272e235ee",
     "name": "Swordfish Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

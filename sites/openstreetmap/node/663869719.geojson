@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "35633d0a-e547-56a6-a8d9-962070cffe82",
     "name": "Golac",
+    "location": {
+      "name": "Zadar, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

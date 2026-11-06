@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20cdac1d-8bd1-5fb9-9b8a-5d3a8848ad28",
     "name": "Corporal Meiss",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

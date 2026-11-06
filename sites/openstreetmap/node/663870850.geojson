@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "39a2acdf-33c1-5911-a745-386b8a4bd117",
     "name": "Traunsee - Hotel Traunsee",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

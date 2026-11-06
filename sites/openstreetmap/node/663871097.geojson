@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3eb7c328-15f9-530d-a250-6df864d878cd",
     "name": "Jezioro Moryn - Przyjezierze",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

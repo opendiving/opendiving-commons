@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d744ec47-6e37-5036-837a-f4f3cffff810",
     "name": "หินบิดา",
+    "location": {
+      "name": "Krabi, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

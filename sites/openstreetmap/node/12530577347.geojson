@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "62578602-98d2-5caf-a6b9-042d55581872",
     "name": "Ultraleichtflieger",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

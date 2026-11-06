@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ee950cd-173a-5088-be74-38afbed663a7",
     "name": "Three Anchor Bay",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

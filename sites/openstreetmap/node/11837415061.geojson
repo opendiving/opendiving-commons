@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f31180b0-20da-50ff-81be-b5bd12c555ca",
     "name": "Aquablue",
+    "location": {
+      "name": "Pyrénées-Orientales, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

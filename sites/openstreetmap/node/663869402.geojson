@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd76b26b-119f-5839-8b22-d45d01762d3d",
     "name": "Invisibles",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

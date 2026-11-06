@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "737f0fe9-40bf-5b78-83cd-71601a5f7b14",
     "name": "Cristo redentore",
+    "location": {
+      "name": "Savona, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

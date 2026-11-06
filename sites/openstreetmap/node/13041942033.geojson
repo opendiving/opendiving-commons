@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00eaa8e9-6c31-59fd-b26f-e1e805235d4c",
     "name": "West Reef's End",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

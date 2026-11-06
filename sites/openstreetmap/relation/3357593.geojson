@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3a64436c-6c53-5051-a89d-357b54d12890",
     "name": "Snoopy Island Reef",
+    "location": {
+      "name": "Emirate of Fujairah, United Arab Emirates"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

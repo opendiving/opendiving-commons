@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9aa80327-7524-5c99-adfd-81169466b40f",
     "name": "Skiffs",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

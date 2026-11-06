@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "08d93f42-240f-539c-a36e-507d0dce36c3",
     "name": "Dhonfanu thila",
+    "location": {
+      "name": "Baa Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

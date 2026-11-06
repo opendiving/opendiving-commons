@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2c2525c-6c3b-5f78-bfa6-a57720648499",
     "name": "Indiana",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f3d09c0b-e0f9-559d-87ce-e28ea9f0f6e6",
     "name": "Olympia",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

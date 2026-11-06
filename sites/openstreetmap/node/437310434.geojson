@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc433b48-bd94-5643-b399-3292836b48e3",
     "name": "Nöhmer",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e071353f-4499-5535-9e89-07bc94ffb2fd",
     "name": "El Andia - Jureles",
+    "location": {
+      "name": "Puntarenas, Costa Rica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

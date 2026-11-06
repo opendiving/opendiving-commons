@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "066aa8ea-33ea-50f0-9f00-6202b910161a",
     "name": "ハナダイの根",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "308c4ea4-ea14-55ef-b16d-4fae738a77ef",
     "name": "Troy Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

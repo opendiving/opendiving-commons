@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "284aed27-637e-5f6e-ac08-1d0746bb0bdc",
     "name": "Nykorallene",
+    "location": {
+      "name": "Sør-Trøndelag, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

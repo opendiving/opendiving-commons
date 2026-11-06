@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72739caa-fee2-5ddb-ace2-5660edcd1d0b",
     "name": "Allmannshauser Steilwand",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

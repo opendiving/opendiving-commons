@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a59208d8-e4ee-52c6-89ff-f3c57915c838",
     "name": "Tozier Rock",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

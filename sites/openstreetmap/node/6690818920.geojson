@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c03e8f1c-0934-51d6-8b7c-101d02c6b0e2",
     "name": "Rabiou, La Cathédrale",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

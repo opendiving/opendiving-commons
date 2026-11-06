@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "48c8f4d3-07a3-5494-9277-caac7ee7cb11",
     "name": "Ukon Denchi",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

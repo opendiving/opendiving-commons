@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d5f0db80-a0bd-5425-8e00-6040d5c6699c",
     "name": "Bucht Bobina (Wrack)",
+    "location": {
+      "name": "Istria, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

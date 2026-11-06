@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2c9778e-c665-5e42-a30e-337a5f355b2c",
     "name": "Goule de Marcenac",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

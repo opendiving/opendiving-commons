@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c1a22ee-6d87-51b8-8021-106b43ee5784",
     "name": "Britsum",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

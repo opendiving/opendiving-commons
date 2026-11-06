@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c375d734-e4c2-5cbf-a4fb-8cffd2bf0fb4",
     "name": "Golden Blocks",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

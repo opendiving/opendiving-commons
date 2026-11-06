@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d62e4163-3108-5d18-8967-11b7c13aea2a",
     "name": "Pangalisan",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

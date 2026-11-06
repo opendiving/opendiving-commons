@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6eb91833-0107-5f4a-ba91-a0a09c3fc995",
     "name": "Red Beryl",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

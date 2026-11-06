@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fed73d7e-bf24-50e1-b36e-31378ab14d18",
     "name": "Noomas Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cba59b64-1455-5ecb-bfce-c3f8dd56d964",
     "name": "Timur 1",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

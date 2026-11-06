@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37bbb4c9-a095-5141-af0b-e23196992b50",
     "name": "Main jetty exit",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

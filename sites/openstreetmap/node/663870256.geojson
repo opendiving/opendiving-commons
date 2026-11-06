@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8c21c8e4-d34a-5b1c-9114-d45c70b1cca1",
     "name": "Gul",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

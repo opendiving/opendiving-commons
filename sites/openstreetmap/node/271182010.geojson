@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "516eab1a-7f0a-5d98-a6ff-ba9f8bfa5881",
     "name": "Shark Reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

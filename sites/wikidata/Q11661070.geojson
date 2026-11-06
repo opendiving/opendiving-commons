@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bf342a6f-2f0c-5019-bb58-7fe0a1cd491e",
     "name": "Blue Cave",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

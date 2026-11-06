@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9fe20bdf-73d7-5cff-9616-cc44962c8a50",
     "name": "Fiabacet Corner Dive Site",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

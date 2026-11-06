@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a83ab15-b5d4-58b1-a0c3-ee9e63667b5f",
     "name": "SMS Markgraf",
+    "location": {
+      "name": "Orkney Islands, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

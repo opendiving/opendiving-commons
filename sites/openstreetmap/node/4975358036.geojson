@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28af6661-9d48-5997-a8a8-9d0cb7dc5c0d",
     "name": "ND31 (Oder)",
+    "location": {
+      "name": "Sør-Trøndelag, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

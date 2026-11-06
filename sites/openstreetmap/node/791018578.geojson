@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "62d57ab7-5214-5fe9-b8d3-fef6285bd575",
     "name": "el Medallot",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

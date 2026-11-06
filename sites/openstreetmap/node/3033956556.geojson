@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3d155370-41f6-51f8-a46d-a8cdaf7d0838",
     "name": "Amazing Grace",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

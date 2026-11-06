@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "df4abc28-a6d5-5924-b0d3-237c502227ec",
     "name": "Tafelberg Reef North",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

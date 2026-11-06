@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0c605f9-0f48-5c17-be2e-346309b8bb61",
     "name": "Sharm Rashid",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

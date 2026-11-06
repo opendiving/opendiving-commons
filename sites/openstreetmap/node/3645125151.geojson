@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d21bcdf9-fad0-5a3b-b53a-e5b18cf4f677",
     "name": "Avalon Dive Park",
+    "location": {
+      "name": "California, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

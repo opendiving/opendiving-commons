@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d593334f-3c7c-542e-ad4f-e03916706da5",
     "name": "Gordon Rocks",
+    "location": {
+      "name": "Galápagos, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

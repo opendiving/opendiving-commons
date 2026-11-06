@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0123b573-59df-5507-a2ac-15f220ca2427",
     "name": "Émergence du Bestouan",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

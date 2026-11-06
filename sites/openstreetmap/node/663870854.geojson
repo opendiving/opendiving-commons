@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91a6f25a-fad2-545c-a865-39bdbb877476",
     "name": "Traunsee - Madonna",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

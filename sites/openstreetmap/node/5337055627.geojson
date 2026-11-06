@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "214d4b1d-32f7-5910-a736-9288af061534",
     "name": "Scuba Madeira",
+    "location": {
+      "name": "Madeira, Portugal"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

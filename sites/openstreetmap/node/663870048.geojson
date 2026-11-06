@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d3760365-ceec-55e1-b0fd-5f6280ee1b27",
     "name": "Grosse gelbe Wand",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

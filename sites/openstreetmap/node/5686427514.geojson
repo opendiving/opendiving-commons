@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8291f911-dae8-5104-bf7a-b17dda44a4d1",
     "name": "Andres Reef",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

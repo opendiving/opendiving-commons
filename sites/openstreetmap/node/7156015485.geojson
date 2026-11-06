@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8444428c-57b6-513d-9646-ad54b4e67241",
     "name": "Rangali Madivaru",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

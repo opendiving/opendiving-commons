@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ecef5a34-2bd0-5266-97e0-f977177f2ebb",
     "name": "7 Islands Reef, Diving (NDC)",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

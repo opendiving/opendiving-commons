@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d30f3771-8035-5197-b97d-abec8bd7192e",
     "name": "Waltraud Behrmann",
+    "location": {
+      "name": "Zealand, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

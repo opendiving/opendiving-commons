@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "09a3c59a-7bee-594f-bbd3-2b0d78cb220a",
     "name": "Abu Seif",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "163d579e-0812-5f99-8d78-7e0f49c6f11e",
     "name": "Raleigh (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

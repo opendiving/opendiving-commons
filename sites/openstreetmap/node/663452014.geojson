@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4834eb31-47e6-5065-918e-40b8b5dd0b25",
     "name": "Baumgärtli",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

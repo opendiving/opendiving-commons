@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31be4ab5-ebed-5d54-b384-41346d91601e",
     "name": "Abu Dabbab Thalata",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

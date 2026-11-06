@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "902b1fd3-8e44-577f-8b2b-4de70b652a12",
     "name": "Großer Ammelshainer Steinbruch",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

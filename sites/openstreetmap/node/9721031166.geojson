@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "69d9cc34-3ae4-5c13-9775-032c0051dd10",
     "name": "Sanganeb Plauteua N",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

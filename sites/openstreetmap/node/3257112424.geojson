@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ef32b9f-0f1e-5ec2-acba-0913523fc47f",
     "name": "María La Gorda: Centro International de Buceo",
+    "location": {
+      "name": "Pinar del Río, Cuba"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

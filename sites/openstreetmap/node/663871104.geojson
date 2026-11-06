@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "228eb10d-639f-5dbc-bbf6-fbd5908538fd",
     "name": "Woseriner See",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

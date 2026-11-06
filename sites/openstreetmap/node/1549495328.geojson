@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d121746-d3bb-5163-bc5b-b1a08e1660a9",
     "name": "Falkenstein",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

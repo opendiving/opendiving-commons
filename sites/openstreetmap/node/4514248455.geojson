@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e494ce29-478a-54a0-86cb-2b2eab9a76c4",
     "name": "DECO International hyperbaric chamber",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

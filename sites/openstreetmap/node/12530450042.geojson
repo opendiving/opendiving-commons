@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6553f592-0ed4-5d29-839e-51ad01b6c3f6",
     "name": "Skywalk",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

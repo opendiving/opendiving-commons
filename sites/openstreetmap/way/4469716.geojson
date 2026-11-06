@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b55b76a3-c773-5db9-aa78-2e39f68807ea",
     "name": "Echinger Weiher",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

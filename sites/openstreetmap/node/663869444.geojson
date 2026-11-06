@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e84280df-873b-58c1-b7bc-fc1c6fc9a890",
     "name": "USNS General Hoyt S. Vandenberg",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

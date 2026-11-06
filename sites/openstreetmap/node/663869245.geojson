@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46727912-ffdf-5684-b00e-de67e08a7e74",
     "name": "Grottes du Tahara",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

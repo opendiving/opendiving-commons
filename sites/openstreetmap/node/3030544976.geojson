@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96ae9c4c-0e2d-5cc9-bc83-3d5f00c6dfae",
     "name": "Site de Plongée de Locum",
+    "location": {
+      "name": "Haute-Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

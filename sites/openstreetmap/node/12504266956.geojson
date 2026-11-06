@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bf3fdf54-85af-5970-911c-bad9d6929cd9",
     "name": "Secca Gonzatti",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

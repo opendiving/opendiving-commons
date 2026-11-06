@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77027f2a-5aaa-598a-bd3d-70e2d4876d86",
     "name": "Broder",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0444f60-ad56-5e73-923a-cbcfe64d3d20",
     "name": "Long beach ⛱️",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

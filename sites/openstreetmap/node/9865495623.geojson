@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98f6c26d-33c1-52ca-af7d-806844b81a62",
     "name": "Bikanayos Rock",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

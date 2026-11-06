@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1b24b4d6-65e9-5378-a352-4b469fd2fb7b",
     "name": "Lac Léman-Le Boesch",
+    "location": {
+      "name": "Geneva, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

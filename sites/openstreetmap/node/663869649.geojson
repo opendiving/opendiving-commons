@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "32a263ed-a325-5374-bdc5-d9d9875c060b",
     "name": "Portsea Pier West Reef",
+    "location": {
+      "name": "Victoria, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

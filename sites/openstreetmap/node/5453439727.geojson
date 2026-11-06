@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da499bf1-9c16-5172-b8a8-b1697c4ed563",
     "name": "Pele’s Playground",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

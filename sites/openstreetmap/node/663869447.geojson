@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac5ecedf-4581-5cfa-a6c7-2e7484006397",
     "name": "USS Massachusetts",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

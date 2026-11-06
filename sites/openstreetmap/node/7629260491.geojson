@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "25f10148-21de-5a1e-9316-5cebbc13215b",
     "name": "Carrière des trois fontaines",
+    "location": {
+      "name": "Walloon Brabant, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

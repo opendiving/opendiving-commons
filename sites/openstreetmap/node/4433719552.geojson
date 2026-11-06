@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "802c5b7b-e82b-5e21-a15c-a6199227b2bd",
     "name": "Cement Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

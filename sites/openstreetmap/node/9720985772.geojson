@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b30bd10f-ee1a-5373-ac2e-218c3e373175",
     "name": "Sweet Potato",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

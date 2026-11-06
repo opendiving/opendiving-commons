@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46618842-ef26-5608-b911-9826a6798e4c",
     "name": "Chandelier Cave",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

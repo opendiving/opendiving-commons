@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b8b889c3-d035-5113-beac-2908bd37fb1c",
     "name": "Walchensee - Bootssteg Urfeld",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

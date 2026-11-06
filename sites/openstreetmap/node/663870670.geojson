@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72f431e3-3c1b-5105-a6c2-8767630ad7a8",
     "name": "Riff Pal",
+    "location": {
+      "name": "Istria, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

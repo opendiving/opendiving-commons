@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94dddafe-25f9-57d6-a380-f1b89057895e",
     "name": "Coral Gardens Offshore Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

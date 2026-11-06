@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f302f73c-3553-5610-8a2a-7cb3e5bb93ed",
     "name": "Mouat Reef",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

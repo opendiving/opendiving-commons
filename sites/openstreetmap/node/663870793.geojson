@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d05f6b7-9a47-5404-a07a-52c19821680c",
     "name": "Starnberger See - Nordbad",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

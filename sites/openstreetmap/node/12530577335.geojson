@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c8c1e99-b388-50b7-bafb-a345f1b51d22",
     "name": "LKW-Rampe",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

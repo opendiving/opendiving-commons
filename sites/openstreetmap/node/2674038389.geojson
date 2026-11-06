@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a658c7d4-57b8-5753-8cfe-ad146ce77a8c",
     "name": "Prado Point",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

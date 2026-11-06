@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8b7e63a8-6f80-5a06-a633-4fb83cd40e43",
     "name": "Lhohi Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

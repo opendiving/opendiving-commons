@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7257369-50c2-5a48-959d-2f0e729e4237",
     "name": "El Arrecife",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

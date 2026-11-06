@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "32ff48c8-c777-57bb-9248-71ab5920ad94",
     "name": "Grotta dei Gamberi",
+    "location": {
+      "name": "Palermo, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7866729-aab9-5aab-bd7d-24f690dda534",
     "name": "Sea Bell",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

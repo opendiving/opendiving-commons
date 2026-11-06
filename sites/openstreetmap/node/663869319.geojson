@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57af4e9e-d991-5807-80cd-5f31111e12ba",
     "name": "South Cod Reef",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

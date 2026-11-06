@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d9ce624e-a727-5e02-aaa7-4fd143132806",
     "name": "Wannai",
+    "location": {
+      "name": "Shizuoka Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

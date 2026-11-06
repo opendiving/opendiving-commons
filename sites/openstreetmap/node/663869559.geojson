@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c508232-c99a-5f69-84d8-5daf8f757fca",
     "name": "S.S. Hourtien",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

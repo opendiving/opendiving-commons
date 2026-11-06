@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c094923c-8abd-5ce2-b6a4-03e851d71b4c",
     "name": "Charlotte IV",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

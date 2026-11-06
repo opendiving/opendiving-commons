@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6be9bc4-a56e-5b8d-b8ab-c5937d54836e",
     "name": "Vaageli Faru Tila",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

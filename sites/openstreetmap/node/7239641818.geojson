@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b08cf70d-c96d-53e8-a60f-8cd21b882ea7",
     "name": "Los Gemelos",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

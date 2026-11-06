@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d3d71a4d-c7b2-5781-8314-c72973d5e9b2",
     "name": "Ahe Dive Resort",
+    "location": {
+      "name": "Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

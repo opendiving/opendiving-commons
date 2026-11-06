@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9785953-3143-527d-a103-e0f9cb50c9e2",
     "name": "Mayhem Dive Site",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

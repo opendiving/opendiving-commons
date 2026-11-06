@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74ca3b7e-a99a-5120-9114-c44b66cfc75a",
     "name": "Rio de janeiro Maru",
+    "location": {
+      "name": "Chuuk State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

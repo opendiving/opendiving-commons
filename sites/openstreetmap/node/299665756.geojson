@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "acc8d2f4-747e-5112-9727-24e007b4a4d4",
     "name": "CB Costa Campello",
+    "location": {
+      "name": "Alicante, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

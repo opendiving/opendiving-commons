@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f4721c35-5e5e-5f0e-bd97-600f596606ea",
     "name": "Rottkuhle Arbergen",
+    "location": {
+      "name": "Free Hanseatic Bremen, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

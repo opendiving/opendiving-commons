@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aaac578d-daa5-571d-8f2d-f41b91b7686f",
     "name": "Scoglio del Diamante",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68098368-8f52-51d7-a51d-52a0c6c53f55",
     "name": "Sea Point Ridge Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

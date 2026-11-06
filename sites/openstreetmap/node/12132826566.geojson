@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "84469860-9d4a-5f2f-a28b-71e21847aaf7",
     "name": "Boia dels Ulls de Llop",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

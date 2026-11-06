@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fd8da22-233e-5457-90f4-292dbc7ad583",
     "name": "Blinde Dam",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

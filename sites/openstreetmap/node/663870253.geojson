@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5f1ac079-edb0-53b1-b63c-816a10f7289f",
     "name": "Alte Julierbrücke",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

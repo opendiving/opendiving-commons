@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "26e27926-a331-5b92-a7dc-2403dd971830",
     "name": "Diepoldsau Strandbad Einstieg 1 Badebetrieb",
+    "location": {
+      "name": "Vorarlberg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

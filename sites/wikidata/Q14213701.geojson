@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b4f8eaed-31b8-55d2-b824-0ae4fd9027ef",
     "name": "Bikini Beach",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ea5898d2-c66a-5c0f-94d1-1194a9665a51",
     "name": "Target Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

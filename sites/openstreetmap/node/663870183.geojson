@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b73707b-01bf-5a16-8678-06267afcf295",
     "name": "Pozzo San Rocco",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "887b78ca-4d39-52a7-9847-851a49355ab7",
     "name": "Les Quairolles",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

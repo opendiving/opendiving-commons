@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7dc6127d-cb2a-569b-b6db-7d31a96cf38e",
     "name": "Längenschachen",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

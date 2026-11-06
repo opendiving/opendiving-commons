@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "276f7810-93d7-564e-b677-1de39ee94ab8",
     "name": "Vertical Wall",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

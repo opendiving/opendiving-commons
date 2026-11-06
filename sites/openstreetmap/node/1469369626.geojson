@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5fb2c665-19d5-520c-abc0-f2c8ab587c1e",
     "name": "Twann",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

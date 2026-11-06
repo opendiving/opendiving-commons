@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "205c000e-bc67-5a17-8552-6f09dabbf4af",
     "name": "Goggle Gardens",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

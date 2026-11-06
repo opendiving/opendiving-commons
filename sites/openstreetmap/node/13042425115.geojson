@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "66c936c1-1a50-5f27-bf0f-801afef77140",
     "name": "Twin Peaks Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

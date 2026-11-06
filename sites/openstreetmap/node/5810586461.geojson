@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "39a90927-1622-511a-b22f-5c4a8a466778",
     "name": "Zeecontainers",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

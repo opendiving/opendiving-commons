@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "35b4d8f0-3467-5a24-ad54-0f81cc57d5b7",
     "name": "S.S. Inchulva / Delray Wreck (Wrack)",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

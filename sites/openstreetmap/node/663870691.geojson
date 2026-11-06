@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2ceff872-a787-56b4-b426-b7ff6b3e7f81",
     "name": "TCI-Parcours",
+    "location": {
+      "name": "Tyrol, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

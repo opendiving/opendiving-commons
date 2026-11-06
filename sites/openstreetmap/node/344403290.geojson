@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "84578217-9e4b-5aab-9e69-f3eba7d52358",
     "name": "Bocchiaplatz",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

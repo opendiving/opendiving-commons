@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b99fd2ca-25e8-5a30-b5f8-5e2dc17d7fb8",
     "name": "Shaab Rumi, Precontinent 2",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

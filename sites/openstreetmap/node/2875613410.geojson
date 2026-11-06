@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6d05fa0-a3f5-55e5-a672-4c128932514c",
     "name": "Aqua Fun Purmerend",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

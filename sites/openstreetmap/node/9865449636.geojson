@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99c43d40-4505-55b9-8dfb-41b472aa7565",
     "name": "Aerborek Jetty",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

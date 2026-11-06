@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b41a74b8-8ab0-5154-bf2a-34398f808729",
     "name": "Bolifushi",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

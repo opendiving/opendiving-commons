@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "acad3c2e-6cd8-5771-8fa3-f5dfa00f935b",
     "name": "Brampton Scuba Instruction",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

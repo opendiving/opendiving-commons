@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f99ace61-0e7b-5aba-afd8-24f6f6bfe9fb",
     "name": "El Casra",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "88083728-ae83-5d41-bbda-ab0fcf3f4a37",
     "name": "Light House",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

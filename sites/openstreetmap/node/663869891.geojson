@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f6aaea83-bd15-55c1-8c50-f53d04d6118e",
     "name": "Coral Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

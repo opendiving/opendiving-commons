@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3ce4947-a523-5598-b375-f65c65512c90",
     "name": "Laboe",
+    "location": {
+      "name": "Paphos, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

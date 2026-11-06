@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13c34294-2f23-5cd5-ae8f-ee638d1046c8",
     "name": "MAR Fill Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "14663846-78da-5098-8044-823499066439",
     "name": "Wacholderrain",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

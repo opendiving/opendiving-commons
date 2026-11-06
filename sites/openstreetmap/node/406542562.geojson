@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0836279e-5857-58c3-b952-7aa154796dde",
     "name": "Tabarka (block ship)",
+    "location": {
+      "name": "Orkney Islands, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

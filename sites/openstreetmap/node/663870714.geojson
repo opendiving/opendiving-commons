@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6273f1eb-629b-5eb8-9516-f59aab84fe2d",
     "name": "Weißensee - Große Steinwand",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a9596135-5e42-5010-93ad-c18c53f2fce1",
     "name": "Nagoldtalsperre / Erzgrube",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e380f111-aba1-5f24-a6de-9483f2ac2623",
     "name": "Schiefernegg",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

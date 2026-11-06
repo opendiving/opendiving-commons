@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74c091ba-1ec3-5a6b-b70e-fe31c5438605",
     "name": "SS Thistlegorm",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

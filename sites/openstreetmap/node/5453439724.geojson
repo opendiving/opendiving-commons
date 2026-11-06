@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4257347c-1bd5-5ba2-a286-d0b21a5322f8",
     "name": "Barracuda Rock",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

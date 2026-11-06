@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "16d914ad-f6b7-51aa-9af8-3795dee278b8",
     "name": "B-24 Bomber Wreck",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

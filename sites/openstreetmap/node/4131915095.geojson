@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fa0de5d7-1ea4-5b6a-9240-ef11993b8a0f",
     "name": "Wreck Trail",
+    "location": {
+      "name": "Western Australia, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

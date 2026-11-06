@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e326163-5bc5-527c-a293-053131ab9f57",
     "name": "Font del Truffe",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

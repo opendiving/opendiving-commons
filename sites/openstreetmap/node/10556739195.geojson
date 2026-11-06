@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "29b75a6f-9ff5-5f1c-96dd-ae1cd1381fa2",
     "name": "わっしょいダイバーズ",
+    "location": {
+      "name": "Aichi Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

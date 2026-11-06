@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cbf258ae-41f3-5234-897a-9e336dfe87b8",
     "name": "Shi'b Nazar",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

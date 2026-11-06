@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0d9be85-47ff-5c31-bc06-fd105da13341",
     "name": "Ansell Point Dive Site",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

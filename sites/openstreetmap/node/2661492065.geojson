@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "76100829-c08e-5955-9e87-15b621a4f66e",
     "name": "ORP Bryza K-18 (wrak)",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

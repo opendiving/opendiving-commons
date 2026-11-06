@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f001a08d-5a62-526a-9560-49e2c5d29646",
     "name": "Gareenup",
+    "location": {
+      "name": "Western Australia, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

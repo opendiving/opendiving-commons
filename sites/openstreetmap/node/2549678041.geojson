@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b2949e5f-4e08-5b4a-836e-a08b0efe4e49",
     "name": "Messerschmit",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

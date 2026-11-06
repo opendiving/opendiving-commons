@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b68bd69-1708-5b64-9812-b0608b2b95ce",
     "name": "Cliff",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

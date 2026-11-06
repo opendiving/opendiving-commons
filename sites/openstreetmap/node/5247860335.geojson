@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e005aefb-03d9-5f87-bb0d-c7a010042d36",
     "name": "Paradies",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

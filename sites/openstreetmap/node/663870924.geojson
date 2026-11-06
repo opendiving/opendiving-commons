@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "caa4d714-fb34-5e14-a0dd-f3b9446fe708",
     "name": "Haasenbruch",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

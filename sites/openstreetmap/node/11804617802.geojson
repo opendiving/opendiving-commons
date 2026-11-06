@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d12d05b-ebe1-5cba-9187-929d6ecdf308",
     "name": "Go Dive Pacific",
+    "location": {
+      "name": "Marlborough, New Zealand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

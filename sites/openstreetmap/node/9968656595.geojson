@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7fb75418-9b4b-5051-9fa2-e8b6562fb099",
     "name": "Le Grande Bleu",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

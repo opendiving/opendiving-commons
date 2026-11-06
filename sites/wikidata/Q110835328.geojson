@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6fb05b21-416d-57a3-8e68-6dae82d34e42",
     "name": "Diving the Cape Peninsula and False Bay/Josh's Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "29d7bc6e-ca9a-563b-9bdd-037a6166d9b4",
     "name": "Museum of Underwater Sculpture Ayia Napa",
+    "location": {
+      "name": "Famagusta, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

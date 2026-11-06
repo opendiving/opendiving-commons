@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a2e92c4-cf08-55cb-8de0-f4cce03897b2",
     "name": "Hitdorfer See",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "59b7d2e0-def4-5942-ae15-5829b3c4ae77",
     "name": "Планета Дайвинга",
+    "location": {
+      "name": "Leningrad, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

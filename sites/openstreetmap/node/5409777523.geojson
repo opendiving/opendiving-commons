@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "043a2c37-e76c-55f1-9eef-5afd00038836",
     "name": "Tatawa Besar Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8d522c24-ac1e-5615-b463-77525a557d41",
     "name": "Secret beach",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

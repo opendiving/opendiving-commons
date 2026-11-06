@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "15903878-84b6-5467-86f6-c29865e7a61e",
     "name": "Light Reef",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

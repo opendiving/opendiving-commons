@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7c1dfa96-67af-5a81-a59b-967a1f974414",
     "name": "Wawinet (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

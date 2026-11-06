@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b5fa306d-65ac-5aa1-bac6-aa093a82bd67",
     "name": "Pisces Diving",
+    "location": {
+      "name": "KwaZulu-Natal, South Africa"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

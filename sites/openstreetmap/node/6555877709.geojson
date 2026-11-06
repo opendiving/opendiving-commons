@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "66cc35c8-64ea-5ab2-a1e9-cb0ba4651e4f",
     "name": "Church Bay",
+    "location": {
+      "name": "Paphos, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

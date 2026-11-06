@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c50eab06-5498-5fac-a629-ea2cc171fd63",
     "name": "Erens New",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

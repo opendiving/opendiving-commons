@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4722de26-9a0c-559d-81e8-934a5d84f6e9",
     "name": "Chinesisches Tor",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

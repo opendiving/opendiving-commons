@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "573ca0c1-ca90-51f7-acf7-4c3ecaa36911",
     "name": "Tauchplatz Taucheinstieg 1/ Harry's Taucherbankerl",
+    "location": {
+      "name": "Styria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

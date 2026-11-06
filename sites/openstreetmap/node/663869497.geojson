@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce83015f-1c93-53c9-b935-37b6b73f3568",
     "name": "U-352 (Wrack)",
+    "location": {
+      "name": "North Carolina, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

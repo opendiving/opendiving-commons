@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "81f67b27-b943-52a9-a873-91834e331ca9",
     "name": "Großer Krämersee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

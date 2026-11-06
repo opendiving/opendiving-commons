@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "276fbabc-0ced-5f1b-961f-e8605b89e551",
     "name": "Elsy Bar",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

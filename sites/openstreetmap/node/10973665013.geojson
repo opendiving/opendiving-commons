@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b5439302-fa86-571e-bdcd-6a45f62c30a5",
     "name": "Büyük Resif",
+    "location": {
+      "name": "Muğla, Turkey"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

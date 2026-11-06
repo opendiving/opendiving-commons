@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cf7af9f4-c150-51ea-942c-449b1427f0ed",
     "name": "Shark Alley",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11405028-91f5-5f03-b13d-187deaff18d5",
     "name": "Klausdorf",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

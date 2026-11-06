@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "528733f2-d56c-5f55-acbb-6bb4924b38e6",
     "name": "Hin Daeng",
+    "location": {
+      "name": "Krabi, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

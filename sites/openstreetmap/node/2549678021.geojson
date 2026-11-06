@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28b7831c-5eb7-5a58-bbf6-65635c8d98f8",
     "name": "Junker 88",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "221cc149-93f3-5de6-b018-a6790376ce79",
     "name": "Baernkogl",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

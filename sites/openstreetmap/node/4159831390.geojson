@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90a2cd0c-dc0f-5ea2-bc76-9ad7c51c3253",
     "name": "P31 - Patrol Boat",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

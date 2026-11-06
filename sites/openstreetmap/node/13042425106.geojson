@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "73a47b16-9c88-5c99-a2fb-cadee1dc6e03",
     "name": "Junkpile-1",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

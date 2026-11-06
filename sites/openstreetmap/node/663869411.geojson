@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "edac8d1a-ca0f-5c7e-9c3f-16d0d56d8891",
     "name": "White Hole",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

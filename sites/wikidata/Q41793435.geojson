@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1b143471-472d-5e20-8bf1-d8c7997d7627",
     "name": "Klein Tafelberg Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

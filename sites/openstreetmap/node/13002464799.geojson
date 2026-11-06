@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4af1361d-b0eb-5a46-b92c-cb0586fa9a8c",
     "name": "Bomb",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

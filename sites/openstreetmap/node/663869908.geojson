@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6583455-93eb-5fbc-85ad-91a05a17a6df",
     "name": "Fihalhohi Hausriff Nord",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3a17a7a-2813-5213-aaaa-d875827cdc98",
     "name": "GochNess",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

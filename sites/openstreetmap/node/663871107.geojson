@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0da23634-e055-5a80-8277-acebef596566",
     "name": "Tiefer See",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

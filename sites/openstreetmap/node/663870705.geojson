@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0cf6e51b-630b-59fd-aad5-79a11d7a3d3a",
     "name": "Ossiacher See - Gemeindebad St. Andrä",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

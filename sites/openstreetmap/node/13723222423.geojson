@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57520919-11f9-5dbd-969b-7141a42e3c3c",
     "name": "Nautilus-SUB",
+    "location": {
+      "name": "Setúbal, Portugal"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

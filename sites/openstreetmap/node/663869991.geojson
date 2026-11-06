@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c4f20ce-b51d-5ebf-acd2-3c69bff189e5",
     "name": "Lac Léman-Lutry Plage",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1f859aa-5626-5708-92f3-102cfdf0a7eb",
     "name": "Kalkbruchsee Hunsfels",
+    "location": {
+      "name": "Rhineland-Palatinate, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

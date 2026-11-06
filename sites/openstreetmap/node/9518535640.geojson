@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8c8e8646-bed8-5d7e-a5a2-c32ef91b202f",
     "name": "Neregando reef",
+    "location": {
+      "name": "Gnaviyani Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

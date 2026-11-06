@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "61503fef-9136-5524-bead-ebc46969e0ea",
     "name": "Restaurant Waaghaus",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

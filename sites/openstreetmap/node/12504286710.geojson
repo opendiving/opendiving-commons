@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b8b7f70-4c28-560c-8a74-229098517abe",
     "name": "Casa del Sindaco",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

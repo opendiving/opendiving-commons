@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90b09d95-57bb-59f9-ac8a-e6848385fd06",
     "name": "Cap Llebeig",
+    "location": {
+      "name": "Balearic Islands, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

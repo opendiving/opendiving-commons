@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad6caedb-4f70-5d40-b908-cdd38a3ea01d",
     "name": "Flamenco Hausriff",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

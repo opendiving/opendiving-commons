@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0f93e22a-19e6-576e-98b3-7e185552f6fd",
     "name": "Förstergrube",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

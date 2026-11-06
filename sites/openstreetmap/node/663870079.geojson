@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95330738-a140-5b1f-ad98-1946cc37329b",
     "name": "Lopper Rote Route 1",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

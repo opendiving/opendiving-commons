@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "acc35b44-ea1c-5ede-b267-5f5f483082a5",
     "name": "HNMS Bato",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

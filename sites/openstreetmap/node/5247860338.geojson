@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7b8505e6-503b-5848-bab1-0bca2abafd2a",
     "name": "Kempfenhausen",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

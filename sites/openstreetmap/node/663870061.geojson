@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "121f30b0-e1e0-5286-bd02-76f9624841a8",
     "name": "Hafen Sust",
+    "location": {
+      "name": "Obwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

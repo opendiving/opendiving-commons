@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11d298a6-411d-531d-ab16-815c3c569c80",
     "name": "Vallée aux Murènes",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

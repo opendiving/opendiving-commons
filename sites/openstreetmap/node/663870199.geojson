@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6aeb8325-e312-5b60-a0ce-07dbc90f18f8",
     "name": "Scheggia",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

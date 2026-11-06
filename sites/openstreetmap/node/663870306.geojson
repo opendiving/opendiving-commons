@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00d3bc04-0ab5-56c6-bcc7-fb5baf857316",
     "name": "Landungssteg Obermeilen",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

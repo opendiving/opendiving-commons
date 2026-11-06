@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c53b2b09-2612-5039-b30f-f04d6819e4b2",
     "name": "Brunswick",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7924aff-f70f-5b40-928d-ce878ab6bc7f",
     "name": "House Reef",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

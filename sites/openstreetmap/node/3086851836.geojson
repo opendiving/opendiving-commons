@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "45344447-c071-562f-aea8-4d64cf7a7c66",
     "name": "Lektern",
+    "location": {
+      "name": "Sør-Trøndelag, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

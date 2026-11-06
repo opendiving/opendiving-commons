@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "81c07921-bc63-563f-aef8-89c491e51963",
     "name": "Apogon",
+    "location": {
+      "name": "Messina, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

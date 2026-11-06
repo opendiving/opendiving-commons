@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "63a0ea97-e442-5a5c-bc35-0da4da112600",
     "name": "Wreck of SS Margit",
+    "location": {
+      "name": "Birgu, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

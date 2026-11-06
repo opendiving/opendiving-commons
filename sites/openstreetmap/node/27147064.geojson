@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e7fdbf2-2407-54ed-be80-ff9cdbb6dc1d",
     "name": "Shark Sculpture",
+    "location": {
+      "name": "Antalya, Turkey"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

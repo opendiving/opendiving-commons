@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a20c486-39de-5a4b-a632-13fa498e1f67",
     "name": "Barracuda Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8479ed1a-b79e-5673-b12b-bb9bd0cc74dd",
     "name": "Good Hope Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

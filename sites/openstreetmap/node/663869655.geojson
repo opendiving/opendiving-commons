@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5255f84-f339-5be9-b286-f6c6743322ca",
     "name": "Eliza Ramsden",
+    "location": {
+      "name": "Victoria, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

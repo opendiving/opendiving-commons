@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e6163b73-2eb2-533f-b544-8533bc7478ff",
     "name": "Kogyo",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

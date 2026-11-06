@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f183c6db-816b-5cbd-9abf-ae13d16ac623",
     "name": "New Drop-Off",
+    "location": {
+      "name": "Peleliu, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

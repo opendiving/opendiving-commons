@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b0dbd43-61bd-5200-8b5c-a1f7a23dafbe",
     "name": "Stampach",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

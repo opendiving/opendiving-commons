@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5b56c60-4721-579b-9339-0a187ccba26c",
     "name": "Snorkelling reef",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

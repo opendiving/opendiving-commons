@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "913662fd-9f77-5ce3-9097-f2e63f34a832",
     "name": "Mairie II",
+    "location": {
+      "name": "Tuamotu Archipelago, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

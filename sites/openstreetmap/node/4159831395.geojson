@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f2a47b7-6be5-5871-aba6-8ca322a4c00f",
     "name": "Ras l-Irqiqa",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

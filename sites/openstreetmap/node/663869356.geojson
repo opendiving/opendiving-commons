@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f30cc7e3-856b-5fa7-8094-3857837d7046",
     "name": "Maracaibo Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "63abc5b6-6754-5b22-a4c7-32a510fc079a",
     "name": "ORP Grozny",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

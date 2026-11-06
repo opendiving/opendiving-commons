@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f1c0708-7d91-53f4-a262-835dc7f4a589",
     "name": "Tauchspot Dolgener See Koldenhof",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

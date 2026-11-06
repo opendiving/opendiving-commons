@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1f7847a7-f9ff-5d94-88d6-6ce39d328afc",
     "name": "Autobahnsee Elchingen",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

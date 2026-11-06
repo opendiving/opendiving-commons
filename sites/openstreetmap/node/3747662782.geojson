@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc9347ed-33c8-56b3-a059-33f8a029ad26",
     "name": "Blue Hill Dive Site",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

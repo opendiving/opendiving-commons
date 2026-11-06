@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94ed259c-b385-5b64-8afd-c5370fa29aeb",
     "name": "شعب جاكسون",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

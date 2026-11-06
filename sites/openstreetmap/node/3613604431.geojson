@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ced89b3e-5bb1-5be1-95b8-7d9d0dd54822",
     "name": "École de Plongée",
+    "location": {
+      "name": "Seine-Saint-Denis, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

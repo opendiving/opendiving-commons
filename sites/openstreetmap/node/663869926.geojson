@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "81eb965b-aa1d-5059-a2e2-6c55d8f42008",
     "name": "Vaageli Caves",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

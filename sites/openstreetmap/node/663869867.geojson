@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9459a6d2-abd5-5142-b1d0-e853ca7a93cc",
     "name": "Reeks Reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

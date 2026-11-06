@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31059479-a4ef-5f0d-b4bf-c4fddfac5805",
     "name": "Cueva de los peces",
+    "location": {
+      "name": "Matanzas, Cuba"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

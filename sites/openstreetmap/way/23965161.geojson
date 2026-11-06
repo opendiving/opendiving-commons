@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0bd2c848-98c9-5e3e-9da4-3fa666306624",
     "name": "See im Berg",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "501a906d-2db4-5af9-ab31-8d7dcc6218a4",
     "name": "Is-Sikka tal-Qbajjar",
+    "location": {
+      "name": "Żebbuġ, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

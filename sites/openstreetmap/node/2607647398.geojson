@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "753f3ec2-676b-5b9b-9f65-a4a6e833024f",
     "name": "Tauchspot Flacher See",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

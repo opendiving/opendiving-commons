@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d38d7bc-6a40-596c-ab1f-401ae8c35bd0",
     "name": "Punta Vessinaro",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

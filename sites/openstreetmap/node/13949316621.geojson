@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e92c6fe-6516-5c4c-9052-c017b47fdcaf",
     "name": "Peronne",
+    "location": {
+      "name": "Torbay, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

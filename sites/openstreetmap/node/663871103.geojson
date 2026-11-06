@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75099a73-375c-5c6d-af49-85e7b7417c5b",
     "name": "Jezioro Jelenin - Badeanstalt",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

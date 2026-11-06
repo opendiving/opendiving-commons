@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "834fd4ff-2d8d-5b72-ad5e-50c25a2c2f0d",
     "name": "D'Artagnan",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

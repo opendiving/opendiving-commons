@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5f901834-cc8d-506f-b14d-4598abe7bcf2",
     "name": "MV Daeyang Family",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

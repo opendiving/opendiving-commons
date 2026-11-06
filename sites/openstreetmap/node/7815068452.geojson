@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6493bf7-39ba-540a-b580-917d75f87f06",
     "name": "Lock 27",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9992387e-4bfe-5ebc-8c65-fffbc1a1afc0",
     "name": "Gudrun",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

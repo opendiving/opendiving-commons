@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "adb90dd6-db42-5867-94ce-86338a5dad12",
     "name": "Strandbad Niederuster",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

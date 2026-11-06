@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d454ebe-44ef-5644-9904-2fb33b52ed46",
     "name": "THGI Nungwi",
+    "location": {
+      "name": "Unguja North, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

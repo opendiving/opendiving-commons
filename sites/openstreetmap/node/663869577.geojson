@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ae9bc162-01e0-5d6f-b22f-51330ea8e2ce",
     "name": "Gascogny",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

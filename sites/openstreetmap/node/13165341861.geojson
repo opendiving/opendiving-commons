@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5a5450a0-0cb9-5b1a-9705-5dcd981a92d8",
     "name": "Napoleon Wall",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

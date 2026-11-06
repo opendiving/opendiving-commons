@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "43d917d8-4676-5f11-bbd9-e3cec172bf76",
     "name": "Lace Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

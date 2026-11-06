@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a984aa68-7948-542c-821a-a99561e0863d",
     "name": "Hartlepool Divers Club",
+    "location": {
+      "name": "Hartlepool, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b0435a70-d9cf-56e6-ae6f-2a60cf9190f1",
     "name": "Olhuveli Kuda Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

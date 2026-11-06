@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37720f73-ab89-5cfe-a13b-3c08db90b86c",
     "name": "Lac Léman-Falaise de Glaise",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

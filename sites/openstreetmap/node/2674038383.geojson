@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f8650fbe-874f-58bc-8a1e-56db1c94d192",
     "name": "Shark Encounter",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

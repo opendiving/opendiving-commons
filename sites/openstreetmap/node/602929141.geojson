@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "34dbb50a-f33e-5882-8af1-c74329e2ba4b",
     "name": "South Rock",
+    "location": {
+      "name": "Tanintharyi, Myanmar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

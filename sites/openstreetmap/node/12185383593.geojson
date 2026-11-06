@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d2ffec0c-1385-5720-bd1e-9d5fd152aea9",
     "name": "Anita's Garden",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

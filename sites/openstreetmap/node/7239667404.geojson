@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7473670e-8a97-527e-89bd-0c671f26dc4f",
     "name": "Vagamares",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

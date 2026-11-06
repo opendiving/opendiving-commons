@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c55414b2-a476-5a5c-9a02-500ca83ab1f6",
     "name": "Baulu Reef",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

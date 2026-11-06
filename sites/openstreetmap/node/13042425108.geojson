@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7e40548-cc74-5b85-96a5-ecd5a25d25d7",
     "name": "SAR Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

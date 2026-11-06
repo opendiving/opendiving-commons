@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f91f99dc-da64-5959-8619-097e2949ee04",
     "name": "The Cathedral",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

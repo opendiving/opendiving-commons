@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e8034219-9815-56ab-8dd1-445b10e10bdb",
     "name": "Cave Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f4689bc7-fa43-554d-ab67-6afeb7815961",
     "name": "Mirror",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

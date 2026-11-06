@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e8169301-f0be-5185-bedd-9383bc199602",
     "name": "O.J. Walker",
+    "location": {
+      "name": "Vermont, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

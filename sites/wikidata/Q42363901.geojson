@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d7438585-211b-5647-862f-9eb37e8e93f3",
     "name": "Peter's Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

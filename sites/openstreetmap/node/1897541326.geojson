@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b08a5997-1cf8-5193-aec3-fbeaafd9a211",
     "name": "Coral Gardens",
+    "location": {
+      "name": "Davao del Norte, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e812c17-b308-5d6f-a5a3-147ea593b981",
     "name": "Traunsee - Fledermausbucht",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb2d69e0-8b07-53a2-9a24-e4f867a91f12",
     "name": "Sub Aqua",
+    "location": {
+      "name": "Phuket, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

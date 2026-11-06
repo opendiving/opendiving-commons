@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96cb9657-657a-58e5-abe8-991ecd11751d",
     "name": "Steinberger See - Rutsche",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

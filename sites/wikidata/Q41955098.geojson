@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "996882bb-8f93-5ab2-8a70-ecf961188671",
     "name": "Noah’s Ark Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

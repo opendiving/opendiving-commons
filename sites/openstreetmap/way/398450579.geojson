@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0124928-081d-5f86-a649-7dfa081cf1b2",
     "name": "Fairyland",
+    "location": {
+      "name": "Soufrière Quarter, Saint Lucia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

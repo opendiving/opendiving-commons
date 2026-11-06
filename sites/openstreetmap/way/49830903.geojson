@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "763c0e26-7119-5a36-833e-ef91b07fd231",
     "name": "Seacrest Park",
+    "location": {
+      "name": "Washington, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93b8ec3c-3861-5e06-b8fe-fdce8912fe16",
     "name": "La Cara del Fantasma",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

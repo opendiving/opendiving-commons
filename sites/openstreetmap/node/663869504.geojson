@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d2e9cb8-c7f7-5597-ac90-2949fe26d657",
     "name": "Frontenac (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

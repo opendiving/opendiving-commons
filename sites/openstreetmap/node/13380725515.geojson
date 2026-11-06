@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "689e9d61-0417-5fb4-8eb9-fd4549f0e87b",
     "name": "Sentan",
+    "location": {
+      "name": "Shizuoka Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

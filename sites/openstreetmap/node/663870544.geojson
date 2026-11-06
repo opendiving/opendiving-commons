@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2b2f21d-30e8-5caa-a24d-0bc3924a07c4",
     "name": "Heider Bergsee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

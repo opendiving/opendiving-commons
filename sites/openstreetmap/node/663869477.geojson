@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb107de7-cc9b-5918-842e-48abe3b76fc2",
     "name": "Brown Brothers (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

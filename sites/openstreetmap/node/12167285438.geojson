@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f00772fa-1286-539c-8402-4f70c3e40237",
     "name": "Selat Kabui",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

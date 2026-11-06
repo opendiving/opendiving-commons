@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "010d5e12-dc80-5168-b877-6511235db86c",
     "name": "Habili Omran",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

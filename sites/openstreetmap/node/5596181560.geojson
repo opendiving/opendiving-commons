@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "40428ff1-66df-598b-8005-444aacb96cfb",
     "name": "Cala des Tramadiu",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

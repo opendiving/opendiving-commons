@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3a5c4efa-90a1-5ac8-a697-72620ba671c1",
     "name": "Blue Water Diving Safari",
+    "location": {
+      "name": "Taitung, Taiwan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

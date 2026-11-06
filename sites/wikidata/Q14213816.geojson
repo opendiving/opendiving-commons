@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8585f49d-3c3e-51e5-adf0-80cca22d17e1",
     "name": "Maidstone Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

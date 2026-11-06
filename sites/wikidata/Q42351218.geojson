@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06c43556-7b9c-59b3-9602-797abadb34ce",
     "name": "Carnaby Street",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

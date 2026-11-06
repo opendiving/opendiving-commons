@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f0ac6b9-90a8-5d16-a298-703978ea3d7e",
     "name": "Agincourt Reef No. 1 - Trigger Fish City",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

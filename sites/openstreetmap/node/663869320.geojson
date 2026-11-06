@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "406e9bb8-c880-5a98-831f-b500335e133c",
     "name": "Imrie Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

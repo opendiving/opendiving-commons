@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e41ba50e-4282-5fe5-a0db-cb4d022a8f83",
     "name": "Rap God",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

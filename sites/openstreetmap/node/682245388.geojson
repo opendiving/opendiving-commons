@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3ef337ef-e1c4-53db-9fcf-70d98a15bb8f",
     "name": "Bungalow 78 exit",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

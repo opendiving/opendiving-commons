@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4cb691d9-4555-5b25-a5e2-9e36f2c3bdec",
     "name": "La Pared del Tangon",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

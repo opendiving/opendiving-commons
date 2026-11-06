@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8da20d96-685e-5d4a-a51e-37f948d24f30",
     "name": "Shipwreck",
+    "location": {
+      "name": "Aruba, Aruba"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

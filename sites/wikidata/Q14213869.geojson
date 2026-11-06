@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e639149-556c-5532-900b-954372b4a382",
     "name": "SAS Gelderland",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

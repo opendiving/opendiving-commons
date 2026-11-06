@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3f44058-86ec-5395-a25a-6ce54385a805",
     "name": "Kormoran",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

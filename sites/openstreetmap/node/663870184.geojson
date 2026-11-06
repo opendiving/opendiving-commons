@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "24132c6f-7a18-5fd2-a584-59a5cc67a198",
     "name": "Amslerbecken",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

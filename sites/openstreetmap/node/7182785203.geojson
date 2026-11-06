@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4b81f628-d129-51a2-bf0a-bd5d4cdf0f04",
     "name": "Gindang",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

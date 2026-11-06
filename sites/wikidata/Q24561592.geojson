@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "36a46328-bc11-5c50-b81f-2b1c3eb6cac6",
     "name": "Galleon without money",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

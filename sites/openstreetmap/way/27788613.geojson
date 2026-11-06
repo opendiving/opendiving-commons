@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5cd11f80-6bcf-518d-9cc0-e4773626bc2e",
     "name": "Deglersee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

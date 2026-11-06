@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3eea020e-eb6a-54d8-96c2-2c46dca30c29",
     "name": "M.V. Kowloon Bridge",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

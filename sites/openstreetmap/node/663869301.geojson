@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64a4e690-5d33-5198-8656-1d2c412a8af6",
     "name": "Patey Rock",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86c99537-348f-5c23-acd7-0221b665ae4d",
     "name": "Sandy Beach",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "25730006-a04d-58a7-ac82-ad012069fa85",
     "name": "Stuka / Junkers Ju 87",
+    "location": {
+      "name": "Šibenik-Knin, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

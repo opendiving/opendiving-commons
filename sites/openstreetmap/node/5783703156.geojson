@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ffd4d587-1819-5151-9bb1-f3056e5d3fd1",
     "name": "Snorkeling",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1b0db9a5-ca5b-52c1-8070-16c8df386b9d",
     "name": "Altstadt",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c562455b-6dbd-53c4-bf8f-3e166762047b",
     "name": "Jersleber See",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

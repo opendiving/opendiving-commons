@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1bf260f0-f36f-5d6b-a1b0-55e0a64d2591",
     "name": "Club de Plongée",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b6d9da5a-7b29-56a6-a47c-f131198a52af",
     "name": "Dhigurah Arches",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

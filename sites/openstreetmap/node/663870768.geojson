@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aba8741f-b180-5890-8395-de75ecc5c0b2",
     "name": "Grotte Vrbnik",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

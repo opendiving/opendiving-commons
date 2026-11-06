@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68b57771-c164-531f-a11d-dfec0101ee9c",
     "name": "Dolphin House",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

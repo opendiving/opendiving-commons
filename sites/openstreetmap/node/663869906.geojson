@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "272c9b98-adf9-503b-a2d4-7440436e6e54",
     "name": "Lhohi Faru Tila",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

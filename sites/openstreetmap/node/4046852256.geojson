@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb38e586-6a66-5305-bc47-63adaba2a4f9",
     "name": "UCD Sub Aqua Club",
+    "location": {
+      "name": "Dún Laoghaire–Rathdown, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

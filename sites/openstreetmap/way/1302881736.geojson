@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "22980872-9fc7-5534-9f8a-b294b33e8e1b",
     "name": "Tauchspot Wassersportzentrum An der Mole",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

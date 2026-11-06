@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f5857b7e-8f51-5392-a4f7-4b7c9be8c300",
     "name": "Bellerive 55",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

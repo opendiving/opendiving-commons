@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "399a32bb-712f-5a89-ab71-8db16eba4ae2",
     "name": "Umm Sid",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

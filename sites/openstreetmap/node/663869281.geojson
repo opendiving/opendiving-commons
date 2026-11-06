@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6213b86d-f4cf-59c2-b3b4-a7315d614a52",
     "name": "Ten Mile Point",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

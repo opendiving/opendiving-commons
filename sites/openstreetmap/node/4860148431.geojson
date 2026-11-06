@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff70ee55-a44b-520f-afef-6f7b6ba8390f",
     "name": "Punta Aguja",
+    "location": {
+      "name": "Magdalena, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

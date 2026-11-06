@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "160b005d-ec4c-544e-ac3e-738fa5d82b75",
     "name": "La Puerta del Cielo",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

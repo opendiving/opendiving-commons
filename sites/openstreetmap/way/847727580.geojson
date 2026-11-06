@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6f7584cd-9eec-5a72-82bd-8d70bd13e931",
     "name": "Midship",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

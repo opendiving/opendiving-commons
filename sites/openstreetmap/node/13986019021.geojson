@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e0bd196-171e-51a6-a529-0ae43df2aa2e",
     "name": "Tribe Gate",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

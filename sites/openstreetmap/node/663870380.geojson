@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cf81af26-099c-5ce5-a399-a423d31d02f4",
     "name": "Wildsau",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba651a39-4172-54ef-98f3-84766d952de9",
     "name": "Schneckeninsel",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

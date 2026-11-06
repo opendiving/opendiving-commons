@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12f8cf42-52eb-5e7f-8d77-6ffc4a3caf98",
     "name": "Reef Scientifico",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

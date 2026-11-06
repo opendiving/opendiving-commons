@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef12ec6b-a36b-5c51-9c04-e1d8b29a00e4",
     "name": "SMS Cormoran",
+    "location": {
+      "name": "Guam, Guam"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

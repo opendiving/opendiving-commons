@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a688469-1fc4-5824-b3cf-ee279e78f1c5",
     "name": "Gisela",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

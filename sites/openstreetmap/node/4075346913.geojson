@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1b19391-368b-5bdc-a0ce-25ab8b8b8a9a",
     "name": "Pierre à Bise",
+    "location": {
+      "name": "Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

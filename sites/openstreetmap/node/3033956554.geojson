@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "36b9374a-b3d7-52a1-8d28-d56295e72dca",
     "name": "Rajawali Reef",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

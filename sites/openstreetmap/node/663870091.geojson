@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "02583121-1ef6-590a-9ced-0d6f88db11c9",
     "name": "Pontonierhaus",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

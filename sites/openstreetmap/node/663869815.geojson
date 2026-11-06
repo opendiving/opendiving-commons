@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2cee882-ca66-5c64-91df-59245ad54fd9",
     "name": "Barge de Gubal",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d1d061e-986a-58e6-aaab-8f047bdf68a3",
     "name": "SS Thomas T. Tucker",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6b3cff54-c28c-5fae-962e-ca0450ef5de7",
     "name": "TANGAT (morozan maru)",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

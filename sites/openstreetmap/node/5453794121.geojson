@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "45d5f0ad-0371-50c5-b6a5-7e6e802bd0eb",
     "name": "Yan Gefo Homestay",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

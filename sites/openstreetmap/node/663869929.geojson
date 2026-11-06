@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95b8e0ea-b08c-5d35-919d-0c6fd5a5baca",
     "name": "Guradoo Kuda Kandu",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

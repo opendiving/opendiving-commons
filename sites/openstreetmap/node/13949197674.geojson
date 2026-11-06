@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0d6ce824-2431-5868-810d-0865dffbca72",
     "name": "Mew Stone",
+    "location": {
+      "name": "Torbay, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

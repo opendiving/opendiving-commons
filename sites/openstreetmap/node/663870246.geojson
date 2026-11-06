@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d95a651-f874-5f9c-8271-3d5400bff39f",
     "name": "Plan di Mort",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

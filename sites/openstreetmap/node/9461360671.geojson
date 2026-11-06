@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd3db0b4-3cf0-54b0-8ab8-41898add4efd",
     "name": "White Stars",
+    "location": {
+      "name": "Paphos, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

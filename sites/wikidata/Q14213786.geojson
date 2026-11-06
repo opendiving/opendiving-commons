@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "08477052-f2df-5e3e-bc47-a533c3375be3",
     "name": "Kruis",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "76830826-864e-5272-b154-a2aab677cb0e",
     "name": "Cystal Rock Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

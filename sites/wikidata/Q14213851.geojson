@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "414edbd1-0df0-598b-b558-8c83070ccfd2",
     "name": "Pyramid Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

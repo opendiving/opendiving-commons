@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd54f863-4532-5daa-a805-bae212e87d6a",
     "name": "Dharavandhoo thila",
+    "location": {
+      "name": "Baa Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

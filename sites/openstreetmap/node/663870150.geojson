@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c7a85118-6718-5281-a999-30bbf4af2918",
     "name": "Sentiero di Gandria",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

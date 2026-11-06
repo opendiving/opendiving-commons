@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ab5fe846-68e3-5d96-bab2-9be1c5e26f44",
     "name": "Rabiou, Arche",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f11f387c-16ee-5312-90a9-32fe83cc0c08",
     "name": "Vogelsee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

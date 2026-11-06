@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0d6b9ac-0b49-5b7b-b686-65ca01da2440",
     "name": "Diving and snorkeling point",
+    "location": {
+      "name": "Puntarenas, Costa Rica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

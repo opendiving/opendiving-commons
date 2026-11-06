@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91c834cf-3305-5cc1-be45-4ec96b035f0d",
     "name": "Crystal Bay Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

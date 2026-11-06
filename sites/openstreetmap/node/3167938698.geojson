@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7bc88e8-4974-5e90-8272-a71e1e7478af",
     "name": "Alexander Springs",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

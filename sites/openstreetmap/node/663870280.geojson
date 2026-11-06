@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9cde9733-b40d-504d-b1aa-17c379b63dc4",
     "name": "Sust",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

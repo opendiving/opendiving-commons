@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "52d8092d-0987-5fc6-af02-c245fe36770d",
     "name": "Ras Katy",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

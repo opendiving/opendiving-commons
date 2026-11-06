@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f2a04e9-3db3-58a3-b03f-bf6f31a82b5c",
     "name": "Camping-Strandbad",
+    "location": {
+      "name": "Schaffhausen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

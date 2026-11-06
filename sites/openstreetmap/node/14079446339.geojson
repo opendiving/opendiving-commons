@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "619819b5-f8cd-50ec-9732-e60ffab92655",
     "name": "Versorgungsleitungen",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

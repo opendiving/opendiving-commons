@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "899826de-6e34-5da6-9e8b-7a1b35c34e89",
     "name": "Halbinsel Sasc da Corn 1",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

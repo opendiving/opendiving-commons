@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d183385e-552e-5725-b5a1-85beca595191",
     "name": "Anglin’s Pier Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

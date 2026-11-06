@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe695a7b-cd46-599c-ad46-6d5807c43145",
     "name": "Sha'ab Mahmud",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "41ded7ab-3f36-5553-94f0-3e6f60293012",
     "name": "Lycoming (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

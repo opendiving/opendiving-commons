@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d37e3c62-39c6-5b53-b299-1a2e9ec3887a",
     "name": "Chateau Yquem",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

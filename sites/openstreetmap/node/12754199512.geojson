@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "186975f8-6b23-5514-9d3c-814285eabb29",
     "name": "Marsa Nakari South reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

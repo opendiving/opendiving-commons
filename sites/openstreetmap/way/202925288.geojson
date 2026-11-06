@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cab4c6df-1b2d-5a82-a63b-924ea2b8360e",
     "name": "Merimbula Wharf",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

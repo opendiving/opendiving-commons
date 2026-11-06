@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c1be571-3818-5b8b-97e2-3df380974752",
     "name": "Blaafjeld",
+    "location": {
+      "name": "Nord-Trøndelag, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

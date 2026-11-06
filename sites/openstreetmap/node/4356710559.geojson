@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2ab66470-eb79-58ca-8d23-a04a3f23de39",
     "name": "Calanque de Figuerolles",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a2939bc-703a-5a8f-9465-fd2c77da1f3e",
     "name": "Tunel Prvić",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e80bd90-f8e8-5216-a549-3e44550fff7b",
     "name": "Maaya Thila",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

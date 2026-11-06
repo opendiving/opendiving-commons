@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e9ba4560-54e0-5552-abc7-46719f04d3a7",
     "name": "Yolanda Reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "97cc7a29-39fa-57b5-89e5-4d459a7e77de",
     "name": "Kap Jablanac",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

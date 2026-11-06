@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb7ead15-d764-5ed1-afcc-684b83f9afdc",
     "name": "Ilsesee Taucherbasis",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

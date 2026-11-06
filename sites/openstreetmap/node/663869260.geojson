@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dfffe067-a10f-5a41-b05f-e033e6369da3",
     "name": "Te Ava Mo’a",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

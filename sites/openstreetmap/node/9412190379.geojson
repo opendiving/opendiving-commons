@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a44f8e38-b6ca-51c8-9474-0b13145a8190",
     "name": "ผาป่ะหล่อง",
+    "location": {
+      "name": "Krabi, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

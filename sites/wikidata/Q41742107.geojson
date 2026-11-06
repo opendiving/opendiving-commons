@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a7aa6e4-ca8a-540f-b119-801844ae406b",
     "name": "Monty's Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

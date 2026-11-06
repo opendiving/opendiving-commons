@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79cb45ec-8fc6-59a0-89e5-426de96cd672",
     "name": "Punta della Torretta",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

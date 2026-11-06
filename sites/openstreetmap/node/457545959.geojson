@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5e359a3c-a1c8-5acb-abed-0a0026ce3b28",
     "name": "Indre Kalven",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

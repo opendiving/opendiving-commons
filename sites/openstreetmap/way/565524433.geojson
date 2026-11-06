@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ab09e6d-91db-5d40-90ae-1bc156e1b8f5",
     "name": "Cape Mansuar",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

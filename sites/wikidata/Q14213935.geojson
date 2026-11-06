@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1859f5a7-4f11-5d6e-984c-844ce25b366c",
     "name": "Troglodyte’s Cove",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

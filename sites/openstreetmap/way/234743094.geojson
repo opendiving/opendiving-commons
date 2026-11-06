@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8a4c3941-6418-5f6f-9eac-8cf71a665d6b",
     "name": "Île Maskali جزيرة ماسكالي",
+    "location": {
+      "name": "Djibouti, Djibouti"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

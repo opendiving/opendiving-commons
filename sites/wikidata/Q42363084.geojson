@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00f4fd9f-2d55-5fc3-b5ed-9675a92ff00a",
     "name": "Santorini pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

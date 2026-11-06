@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b0dd852-d093-5a0e-aa3e-822132118c89",
     "name": "Segaluh",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

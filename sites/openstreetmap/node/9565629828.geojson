@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f46218b6-12de-5968-a561-f9830cc51e64",
     "name": "Cholplatz",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

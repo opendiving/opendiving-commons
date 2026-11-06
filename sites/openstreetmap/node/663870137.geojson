@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50d99eda-816b-5cc6-bfd2-2a549bb17703",
     "name": "Lago di Lugano-Lugano-Sub",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

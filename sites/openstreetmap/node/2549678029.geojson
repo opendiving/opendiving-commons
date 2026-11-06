@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "facb7a46-ace7-5b19-ab88-f17f7b8a2cd2",
     "name": "Le Chaouen",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

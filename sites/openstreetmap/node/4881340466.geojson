@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2df7d2c7-8ef0-5302-9136-8642ae5550b4",
     "name": "Alung banua",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

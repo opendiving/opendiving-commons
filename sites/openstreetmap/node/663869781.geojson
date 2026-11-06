@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e362b295-d986-5d77-b8c9-80ee7b79434f",
     "name": "Mövenpick Resort El Quseir Hausriff (El Quadim)",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

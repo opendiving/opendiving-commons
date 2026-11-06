@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9a30a9d2-b3d3-58f5-ab5c-99d9e191d140",
     "name": "Manchones I",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "529f72ee-c77b-5f29-8f89-56ec4782ae5c",
     "name": "Jezioro Drawsko - Zodiak",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

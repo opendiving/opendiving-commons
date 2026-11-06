@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "537786b5-9395-537d-8860-c7150f24023b",
     "name": "Constandis",
+    "location": {
+      "name": "Limassol, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

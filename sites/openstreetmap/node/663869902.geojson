@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "676ded07-b5da-57e0-8431-15c09ed15fe5",
     "name": "Ihi Reef",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

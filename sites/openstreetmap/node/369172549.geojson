@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c833b0a8-a618-580c-84bf-8647927bd86d",
     "name": "Shaws Cove",
+    "location": {
+      "name": "California, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

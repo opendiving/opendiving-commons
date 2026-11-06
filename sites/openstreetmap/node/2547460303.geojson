@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "32cf9bec-1b6d-51dc-b3af-c2d3ee0b4daf",
     "name": "Kerveli scouba diving",
+    "location": {
+      "name": "North Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

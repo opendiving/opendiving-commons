@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1bc92a2-6ed9-590d-872a-f88411749dd5",
     "name": "Torra Plongée",
+    "location": {
+      "name": "Corse-du-Sud, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

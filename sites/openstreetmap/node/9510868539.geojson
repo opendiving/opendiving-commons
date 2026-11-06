@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11dbecbd-1e7d-5500-81fc-4aa9193be7c9",
     "name": "Francesca da Rimini",
+    "location": {
+      "name": "Šibenik-Knin, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e1a6651-2402-5e64-96cc-517a4a435be2",
     "name": "Überlingen Parkplatz Post",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

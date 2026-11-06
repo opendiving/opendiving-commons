@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b72bc72-0a2e-5c45-9c5b-8702790e9dc9",
     "name": "Middle Book",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

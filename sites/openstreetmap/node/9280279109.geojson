@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "baa924c4-2fb8-5749-bbd7-27368045fdbc",
     "name": "W字アーチ",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

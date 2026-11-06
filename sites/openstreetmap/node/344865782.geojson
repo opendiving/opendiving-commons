@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3e2115f0-b1c6-540c-823c-abec47c87967",
     "name": "SC WÖRTH Taucher",
+    "location": {
+      "name": "Rhineland-Palatinate, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

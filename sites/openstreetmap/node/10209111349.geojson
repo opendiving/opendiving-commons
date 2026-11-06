@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6631b75d-77eb-51cb-8852-82525cd483d1",
     "name": "Little Wall",
+    "location": {
+      "name": "Unguja North, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

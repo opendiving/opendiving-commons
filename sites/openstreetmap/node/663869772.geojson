@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fed22c1e-e42e-5526-9d13-e16170635dcd",
     "name": "Shaab Malahi",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

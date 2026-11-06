@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e683628-03fb-587a-b0b6-6fcc6170853d",
     "name": "Einstieg E4B",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

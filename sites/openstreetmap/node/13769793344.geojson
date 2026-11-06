@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "52538c32-7f9c-5c1e-993c-50f6781f2111",
     "name": "Shark Reef Marine Reserve Feeding Site",
+    "location": {
+      "name": "Central, Fiji"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

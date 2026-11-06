@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d3c4d8c-fe21-5a3b-91b8-67a5b062fcfb",
     "name": "石朗潛水區",
+    "location": {
+      "name": "Taitung, Taiwan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

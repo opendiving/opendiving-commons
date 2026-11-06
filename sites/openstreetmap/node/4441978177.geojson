@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "315e7569-26cc-565e-97fa-5fbdf996f24b",
     "name": "Mares Diving Center",
+    "location": {
+      "name": "Azores, Portugal"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8f0b19aa-6843-5375-a734-3725b03d8135",
     "name": "SS Rosalie",
+    "location": {
+      "name": "Norfolk, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

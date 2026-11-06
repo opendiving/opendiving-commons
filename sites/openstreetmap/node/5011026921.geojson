@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11eb0571-15a5-51c4-8053-f6f6604bf1a7",
     "name": "Bubble Addict Dive Center",
+    "location": {
+      "name": "Aceh, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

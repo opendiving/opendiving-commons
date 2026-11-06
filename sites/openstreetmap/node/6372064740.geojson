@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ba9bb08-20d7-5b87-88b3-963dce178fd6",
     "name": "Kleines Muränenriff",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

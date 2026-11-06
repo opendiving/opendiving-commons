@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8471fdc1-c08d-564e-b940-8445a4afb9cb",
     "name": "Fuzzy Rock",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

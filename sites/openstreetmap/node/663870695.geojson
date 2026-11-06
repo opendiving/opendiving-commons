@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a54dd0c6-cccf-5bc4-a610-45b2c45cc7c2",
     "name": "Tegernsee - Tegernsee Yachtclub (Fischerei)",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

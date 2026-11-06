@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "52d1bb53-37dd-560d-892b-4921d117dfe5",
     "name": "Résurgence de la Landenouse",
+    "location": {
+      "name": "Aveyron, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

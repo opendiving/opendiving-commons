@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2944da3d-f674-5315-8749-37f0721877f8",
     "name": "Морской ёж",
+    "location": {
+      "name": "Sverdlovsk, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

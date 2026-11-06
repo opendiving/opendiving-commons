@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68642166-3901-5f8f-bc8f-1664d96a2fb4",
     "name": "North Rock",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

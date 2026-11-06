@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "65e0be60-6d06-584d-b642-cba64c28e30d",
     "name": "Wulfener Hals (Hausriff Tauchschule Calypso)",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

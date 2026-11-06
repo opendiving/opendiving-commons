@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8feeea84-8b2c-5fff-99fd-1d4d176fb902",
     "name": "Alte Zollbrücke",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5219e5e9-656c-504f-845a-aaa122b1b8b8",
     "name": "Säulenbucht",
+    "location": {
+      "name": "Istria, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

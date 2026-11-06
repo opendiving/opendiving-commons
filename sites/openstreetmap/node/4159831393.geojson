@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "10bebb80-3d45-5be7-a12e-9ba90af10084",
     "name": "Blue Lagoon Tunnel Dive Site",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

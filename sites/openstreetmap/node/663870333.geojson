@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a13eb02a-254c-5724-8a4a-ecd49bccd139",
     "name": "Pflegeheim am See",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

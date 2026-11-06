@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1c3399fb-2ab0-5105-a9dc-5ba69485e0d8",
     "name": "Las Piedras de Carlitos",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

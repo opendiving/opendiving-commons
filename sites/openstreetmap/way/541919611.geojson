@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d420911-c59e-596a-959c-ecbb3f5e1cfe",
     "name": "Goul du Pont",
+    "location": {
+      "name": "Ardèche, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

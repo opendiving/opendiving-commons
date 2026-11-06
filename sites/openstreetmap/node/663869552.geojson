@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "132d74f2-04ff-5fd5-871c-e49c0e2c0cbe",
     "name": "H.M.S. Martin",
+    "location": {
+      "name": "Clare, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

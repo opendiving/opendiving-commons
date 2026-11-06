@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b495a634-bb05-5ba8-aa7d-54a69cf0f3c9",
     "name": "Calypso Cave",
+    "location": {
+      "name": "Żebbuġ, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

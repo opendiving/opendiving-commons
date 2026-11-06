@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d4d3900f-15ca-5a2c-b075-37c437091025",
     "name": "Farikede Faru",
+    "location": {
+      "name": "Gnaviyani Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

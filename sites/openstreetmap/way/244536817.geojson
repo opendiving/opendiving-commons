@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "08d7199d-cf8b-5720-8651-e2b55cd10f2e",
     "name": "Japanese Ship Wreck",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

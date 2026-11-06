@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b92e3e2-ce74-505e-ad38-8e5e0a5826bb",
     "name": "Diga del Narèt",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

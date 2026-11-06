@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8de2441c-6d6b-550d-96b9-9c132fa21272",
     "name": "point of interest? rock?",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b9dc73b-86a2-5109-9bf0-105c56d2c7ca",
     "name": "Gam Ridge",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

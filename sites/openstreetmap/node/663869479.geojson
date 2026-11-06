@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13f7e0f9-71b3-5790-b411-21111bdeb37e",
     "name": "Trade Wind (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

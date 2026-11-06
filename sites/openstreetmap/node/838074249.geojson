@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "69c76568-56b0-50d2-a36a-124778856efb",
     "name": "Zuidbout",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

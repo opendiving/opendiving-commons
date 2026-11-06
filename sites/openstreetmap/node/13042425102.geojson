@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a77a2de1-f6cb-50fa-8052-9876383bb3d1",
     "name": "Emon Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

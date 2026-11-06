@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5c2e6436-5692-5685-b154-526de265fad3",
     "name": "Scuba Junction",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e7d0c0ba-f3d2-565c-bdf3-2c9e53aa1912",
     "name": "Beaver Lake Dive Park",
+    "location": {
+      "name": "Arkansas, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

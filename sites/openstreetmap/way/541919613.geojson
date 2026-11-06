@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5aa8889b-9ff2-5547-b79a-14268bc2c71d",
     "name": "Goul de la Tannerie",
+    "location": {
+      "name": "Ardèche, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

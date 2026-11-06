@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a6ee3ae-a84c-5df3-85e7-ba2831eecac0",
     "name": "Minerva Ledge",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

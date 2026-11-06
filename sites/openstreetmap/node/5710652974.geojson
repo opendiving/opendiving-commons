@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9a7a8c1c-fc3f-50cc-8b63-8a783904db9c",
     "name": "Sha'ab Bruce",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

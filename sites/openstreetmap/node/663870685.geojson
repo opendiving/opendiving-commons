@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6b5c4d58-c8b7-5b6d-bcca-6d2a08704c05",
     "name": "Walchensee - Post",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

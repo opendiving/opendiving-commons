@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b74893ec-9586-5217-84d5-49fe9a0d025c",
     "name": "Astron",
+    "location": {
+      "name": "La Altagracia, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

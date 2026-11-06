@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5bd2c599-b9db-5d82-bf5c-83d15f6a16b1",
     "name": "Dome Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

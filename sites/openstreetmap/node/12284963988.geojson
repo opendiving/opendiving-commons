@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5a8fdce2-8f9b-53d6-8d22-5235bd953eee",
     "name": "Mantigue Island",
+    "location": {
+      "name": "Camiguin, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

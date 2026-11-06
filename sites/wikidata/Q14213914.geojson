@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31e76bcf-8fc1-549e-aa87-860c13d51d2d",
     "name": "Stern Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

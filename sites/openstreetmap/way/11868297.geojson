@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b4d4ecd3-23cb-5837-8225-03a74b86691e",
     "name": "Isla Salango",
+    "location": {
+      "name": "Manabí, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

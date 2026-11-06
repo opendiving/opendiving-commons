@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e6c4fed-5a26-5b4d-914c-f913f3cf4fc8",
     "name": "George A. Marsh (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

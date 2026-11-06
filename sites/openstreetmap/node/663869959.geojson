@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe237276-0249-5611-850a-12a37a401cdb",
     "name": "Plage d'Hermance",
+    "location": {
+      "name": "Haute-Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

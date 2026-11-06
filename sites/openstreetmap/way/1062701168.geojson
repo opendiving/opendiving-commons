@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c083d128-9f8d-5186-a743-20f7d54b8973",
     "name": "Fandera Hemera",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

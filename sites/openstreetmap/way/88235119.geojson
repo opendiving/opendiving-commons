@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a66948ef-d34b-5264-8077-702131438cac",
     "name": "Ancienne carrière de Barges - Delwart",
+    "location": {
+      "name": "Hainaut, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

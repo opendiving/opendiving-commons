@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e730358d-1c59-5c77-a070-68d82a6d2410",
     "name": "Lago di Lugano-Le Macchine",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

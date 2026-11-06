@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0f2c0c6c-da6c-543d-b2c4-5b09e0cf8bec",
     "name": "Reef's End",
+    "location": {
+      "name": "Hawaii, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

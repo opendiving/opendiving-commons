@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "565feafe-b980-52e7-ab61-8c92ab0c9770",
     "name": "Mustang P51",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

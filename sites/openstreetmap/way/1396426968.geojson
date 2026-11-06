@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28895bf3-8d1a-55cf-b260-47b7e00b7045",
     "name": "Shaab Hamdallah",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

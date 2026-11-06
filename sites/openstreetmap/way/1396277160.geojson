@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c8a2bd7f-f479-52e8-8f3c-524ba4404131",
     "name": "Safaga Soraya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "409db6d1-4030-5485-b60b-341fbafbf414",
     "name": "Housereef West",
+    "location": {
+      "name": "Baa Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

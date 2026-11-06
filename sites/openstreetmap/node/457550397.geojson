@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1cd4a10-26d7-5883-947a-de4b18722ccc",
     "name": "Hunden",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

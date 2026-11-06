@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "303e693b-0318-5c0b-846c-0a3cba005e35",
     "name": "Telma",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

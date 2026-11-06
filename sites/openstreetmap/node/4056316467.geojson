@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c0ffd6f0-805d-5784-89ea-44bea2e92428",
     "name": "L'Aquarium",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "178a87b1-547e-5992-a1f0-4be82ddfd85c",
     "name": "El Fanadir Foc",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

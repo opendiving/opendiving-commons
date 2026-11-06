@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3096fc6-aa3b-5203-93f6-0e3255489005",
     "name": "Henry C. Daryaw (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

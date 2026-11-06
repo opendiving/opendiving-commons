@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd39f08c-37dd-5906-8271-5c8fac51ab27",
     "name": "Laje de Santos",
+    "location": {
+      "name": "São Paulo, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

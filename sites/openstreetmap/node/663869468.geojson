@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7d08798b-4819-5f9d-b9de-f6cd1a5031f6",
     "name": "Monarch (Wreck)",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

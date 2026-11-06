@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1a38175-87a1-58dc-81d1-bccef81d0902",
     "name": "Duikvereniging de Waterman",
+    "location": {
+      "name": "North Brabant, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

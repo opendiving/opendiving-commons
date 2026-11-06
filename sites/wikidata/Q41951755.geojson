@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "18510a7f-8481-5a1b-801a-1516039da51a",
     "name": "Hotlips Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e0aa2d4-bf8c-525e-9f0b-2eb0d6177463",
     "name": "Miller’s Point",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

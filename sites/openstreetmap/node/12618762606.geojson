@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bf128338-eba3-51d9-95c5-9221079c71b0",
     "name": "Cantil del Hospital",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

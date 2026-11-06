@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "16a6ee03-4a46-50f3-aaaa-76d679d587f7",
     "name": "HMS Pelorus",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

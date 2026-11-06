@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6dfcab99-bb24-524f-a9e8-b8d613abd5e7",
     "name": "Underwater Shrine",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

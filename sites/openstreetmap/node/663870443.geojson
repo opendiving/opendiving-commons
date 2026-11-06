@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0566fa09-f3bd-5bb6-b59a-13f39d9b0b05",
     "name": "Bootshaus",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

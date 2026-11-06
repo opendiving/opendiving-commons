@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98e3b4da-954a-5f04-aa5e-33b003225b32",
     "name": "Merlo Reef",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

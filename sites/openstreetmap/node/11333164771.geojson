@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b46da1e-68a5-51f4-a61e-bbe47767db6f",
     "name": "安慶名敷枝サンゴ・あげなしくえださんご",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

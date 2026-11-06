@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "59e350da-1f30-51df-9ad1-fe0c8ff3aeab",
     "name": "Buddenkuhle",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

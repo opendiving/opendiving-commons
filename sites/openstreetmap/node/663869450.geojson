@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8fffd8d0-42d0-5153-8225-857d33106ce7",
     "name": "Monsanto Boxes",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

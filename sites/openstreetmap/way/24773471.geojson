@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de949d2a-524a-5868-b5d4-7d851ac3937d",
     "name": "Steinbruchsee Luise",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

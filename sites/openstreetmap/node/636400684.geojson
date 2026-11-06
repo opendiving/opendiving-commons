@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ee09830-0566-59d9-b8b3-8f3591df7265",
     "name": "Jeff Davis Memorial",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a81ec64e-3850-512e-8106-4cb58d69ab91",
     "name": "Coral Garden",
+    "location": {
+      "name": "Pangasinan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

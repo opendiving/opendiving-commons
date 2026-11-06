@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d92b35d6-6584-5f71-bb51-f9ed3d6d4238",
     "name": "Malang",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

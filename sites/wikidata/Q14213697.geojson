@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3645a124-02f4-5ee9-a8b7-10bb2891e4b9",
     "name": "Bantry Bay",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

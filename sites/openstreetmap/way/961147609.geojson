@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91f49451-13fb-53cd-a61c-f216c3aa8f89",
     "name": "Sentier marin archéologique d'Olbia",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

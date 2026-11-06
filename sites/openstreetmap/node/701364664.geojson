@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "15d175de-bc75-5960-a464-2cb26d93f02f",
     "name": "Sataya East",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

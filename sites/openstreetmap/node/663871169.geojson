@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "54fe752a-5377-51a0-8d21-ad8e90b999a7",
     "name": "Jezioro Harsz",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

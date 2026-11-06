@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d4c447cd-77cb-51df-914c-6c3641fa5ca3",
     "name": "La Montanita",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

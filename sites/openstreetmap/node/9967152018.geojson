@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ad2d80c-8df1-5ecf-b8e1-ff68f7dcb4d8",
     "name": "Cars Dive",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

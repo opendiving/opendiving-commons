@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9de9bfa2-6437-57c5-95d2-d1d4b38f44b5",
     "name": "Stone Beach",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

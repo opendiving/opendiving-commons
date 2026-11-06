@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7c6e8d2c-6de0-5619-aa04-14e6f0a4d587",
     "name": "Fehmarnsund",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

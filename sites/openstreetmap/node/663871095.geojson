@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "42d1f527-035d-5745-a3fe-b9cf0fb8d157",
     "name": "Jezioro Moryn - Moryn",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

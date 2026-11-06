@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac0a3337-e0ff-5d5c-bc62-33c438f19a09",
     "name": "Wied iż-Żurrieq",
+    "location": {
+      "name": "Qrendi, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

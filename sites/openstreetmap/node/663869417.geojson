@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "255d3886-8180-5b8f-8994-f0c151d32286",
     "name": "The Lake",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

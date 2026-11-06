@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96c5667e-3cfc-5c5f-83bc-79bda0259bb6",
     "name": "Neuer Erholungssee / Mooswaldsee West - östlicher Teil",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

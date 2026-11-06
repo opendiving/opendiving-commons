@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9302b139-093c-54b8-9160-33faa8c2e61b",
     "name": "Abu Dabbab Wahid",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

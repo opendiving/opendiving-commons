@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5154701-48d8-5d0f-915b-269852c8d8fa",
     "name": "Passe de Céran - TAHAA",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "18a913fb-25cb-52a8-a8e4-248e45112f7d",
     "name": "Canyon",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

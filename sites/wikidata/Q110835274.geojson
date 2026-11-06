@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff4328f7-be17-59e0-a922-e2fcb173dbc8",
     "name": "Diving the south coast of South Africa/Twelve Mile Bank",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

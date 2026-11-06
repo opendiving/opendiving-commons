@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "609baa29-67b2-5cf9-94b1-52ddc9f9f883",
     "name": "VIII Fortas",
+    "location": {
+      "name": "Kaunas, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

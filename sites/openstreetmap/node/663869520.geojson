@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "78ab1500-1664-517a-b9be-01fc719e0e1e",
     "name": "Champlain II",
+    "location": {
+      "name": "Vermont, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

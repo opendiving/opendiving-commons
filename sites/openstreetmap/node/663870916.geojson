@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c493306-705d-5e76-badc-c7fa828f301e",
     "name": "Luise",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

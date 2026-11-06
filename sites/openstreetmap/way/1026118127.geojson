@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "970547b7-0c65-559b-8af1-56b5a97e12aa",
     "name": "Ocean Beach",
+    "location": {
+      "name": "Connecticut, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

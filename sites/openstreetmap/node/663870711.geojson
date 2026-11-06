@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e0baffc1-5a38-5b88-b262-9d2cedd8795e",
     "name": "Brennsee",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

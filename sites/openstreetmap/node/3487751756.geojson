@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d66760d0-255d-59ed-acff-102dd4809090",
     "name": "Wicher (szczątki wraku)",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

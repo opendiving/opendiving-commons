@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ed3453f4-a1a3-5ef5-9e27-ebe2b1d4804b",
     "name": "Lighthouse Point",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

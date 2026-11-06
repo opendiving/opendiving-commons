@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "80744503-d645-5b49-9596-920ccf441fa7",
     "name": "Batu Layar",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

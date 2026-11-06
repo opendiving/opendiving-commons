@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a8a50fb-a1b3-5bcb-86d6-504a27562738",
     "name": "Aquarios",
+    "location": {
+      "name": "Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

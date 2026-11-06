@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5bcaa10-6fa0-5c28-8abc-222c163832aa",
     "name": "Batu Bolong Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

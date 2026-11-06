@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9533bec6-061e-5cf2-adf5-7afa2d37cf08",
     "name": "Blausteinsee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

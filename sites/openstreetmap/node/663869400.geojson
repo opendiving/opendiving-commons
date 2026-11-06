@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd41dd9f-58dc-5f9e-8b12-b71558abacf3",
     "name": "Margate Bay",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

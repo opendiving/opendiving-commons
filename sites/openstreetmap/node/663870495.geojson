@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20a56933-86b4-5b62-ae82-c9a85a862185",
     "name": "Baggersee Spöck",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

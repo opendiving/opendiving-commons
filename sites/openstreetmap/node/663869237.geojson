@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "51106554-9de4-5023-9b8b-cb81f32f93d3",
     "name": "La source",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

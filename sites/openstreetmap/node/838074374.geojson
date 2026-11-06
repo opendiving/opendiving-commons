@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "78190e30-9123-540a-ac61-bfa2d14a9c2f",
     "name": "Nieuwe Kerkweg",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

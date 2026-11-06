@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "374931d0-0dde-5d49-91a0-29d030a80136",
     "name": "South Caravan",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

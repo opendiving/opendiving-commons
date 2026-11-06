@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8fd46f3a-6f41-5d25-b015-982f163039ad",
     "name": "柴口浮潛區",
+    "location": {
+      "name": "Taitung, Taiwan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ab24fcd-e788-52d9-8985-1f55dbb65a5a",
     "name": "Harto's Reef",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

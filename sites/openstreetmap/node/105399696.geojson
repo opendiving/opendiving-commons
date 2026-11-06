@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1c9280d4-6bde-568b-b661-1cf92d776d8f",
     "name": "Sten Trans",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "42ee26ef-03d2-58cc-9554-d6fdbf260924",
     "name": "Pecio La Dragonera",
+    "location": {
+      "name": "Tarragona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

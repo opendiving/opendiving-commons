@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e7547062-a275-5225-bb87-85138c083262",
     "name": "Jeannie's Glory",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

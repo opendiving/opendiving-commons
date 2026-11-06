@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d527216e-b0aa-5ee0-881e-9c5709be38a3",
     "name": "Sikka Xellugija Żurrieq",
+    "location": {
+      "name": "Qrendi, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1f95a035-4344-59e9-a485-52452446565b",
     "name": "Boo east",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

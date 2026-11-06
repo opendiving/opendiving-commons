@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba4e5a9d-36fd-51e8-9881-2c259c0aa85a",
     "name": "Dakit-Dakit",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "81933b4e-fc22-5c96-8cf5-d39c905bf8f6",
     "name": "Walchensee - Galerie dazwischen",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

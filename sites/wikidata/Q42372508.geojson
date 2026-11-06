@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b623830-bada-50cb-9a84-8fa1b4f365a0",
     "name": "Batsata Blinder",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

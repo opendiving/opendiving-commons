@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4f609e7-061b-56ce-a109-556c74b01764",
     "name": "Munson (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

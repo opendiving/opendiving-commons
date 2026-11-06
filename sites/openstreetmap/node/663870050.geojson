@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4803db02-051a-5c33-b5a3-46dec1170bbc",
     "name": "Kleine gelbe Wand",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

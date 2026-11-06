@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c1401f46-977e-5b8e-982f-18751a779c9b",
     "name": "Pinky Wall",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

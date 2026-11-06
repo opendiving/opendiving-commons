@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ffaccbcc-d27e-56f8-9145-173ac9ebcb3a",
     "name": "Terlinden",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

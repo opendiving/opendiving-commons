@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a6f9384-ac21-5494-88d8-47de5a2627fc",
     "name": "Abu Dabbab Ithnain",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

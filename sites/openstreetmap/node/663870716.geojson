@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0bd8f07-6327-5030-89a0-0c1043808623",
     "name": "Weißensee - Laka",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

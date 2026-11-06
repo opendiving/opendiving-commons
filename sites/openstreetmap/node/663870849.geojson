@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a80b72f0-e87d-5d30-95e4-a011946a2c3b",
     "name": "Traunsee - Beim Löwen",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

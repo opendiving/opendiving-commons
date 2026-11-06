@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "660bf8e8-2990-52ce-bf6f-2bd8a053caea",
     "name": "HTMS Chang (Wreck) - Scuba Diving",
+    "location": {
+      "name": "Trat, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

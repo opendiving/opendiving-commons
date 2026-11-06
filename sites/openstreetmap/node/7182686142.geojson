@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd3e7d4d-7046-5e96-8227-c575690ecea5",
     "name": "Batu Tiga Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

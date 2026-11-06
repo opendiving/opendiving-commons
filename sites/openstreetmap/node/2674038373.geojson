@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef41db69-84a7-5dff-a0b2-00d7073058c3",
     "name": "Bajora Cinco",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b7a12e6-cb8e-57da-93c3-1205bd00a8c5",
     "name": "Tössegg-Eglisau",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

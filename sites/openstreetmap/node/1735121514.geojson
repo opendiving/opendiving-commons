@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b5c149c6-b3e5-57c0-8581-b61505d19be5",
     "name": "Lankayan - Bimbo Rock",
+    "location": {
+      "name": "Sabah, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

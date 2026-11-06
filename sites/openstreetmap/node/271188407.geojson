@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "52566ee0-7256-5ed0-b380-313ceedbe9b9",
     "name": "Poseidon Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

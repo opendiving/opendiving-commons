@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a89aa684-ef70-5417-a240-06d5d6ecc445",
     "name": "Blue Hole",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

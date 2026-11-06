@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a0cfdc16-6eb6-5ce2-b272-47c2d32a39db",
     "name": "Smits Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

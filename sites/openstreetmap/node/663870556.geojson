@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "149b3ca4-c09b-5d16-8f04-6f9c2a2ac279",
     "name": "Wisseler See",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

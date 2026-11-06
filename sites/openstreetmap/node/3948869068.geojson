@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a5e774d-666a-5cf5-b5f3-48a19fed8122",
     "name": "Manta Point dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

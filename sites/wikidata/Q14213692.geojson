@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3fcce9e1-ecc8-59b2-a9aa-45eea07503b1",
     "name": "Bakoven Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

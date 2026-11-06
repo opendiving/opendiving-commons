@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "410c859c-5d71-5fa7-bd6d-bf26143e9fb3",
     "name": "Nußdorf Hausboot",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

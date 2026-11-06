@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eb034015-4aa8-5d73-90e9-313b344cb14b",
     "name": "White Arrow",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

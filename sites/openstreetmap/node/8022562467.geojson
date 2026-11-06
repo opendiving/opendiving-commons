@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "756de5c0-8038-59ae-9701-dc4f6e7c4e75",
     "name": "Sabolon besar dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

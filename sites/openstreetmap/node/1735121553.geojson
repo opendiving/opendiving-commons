@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28490afa-65d9-5b34-8ca5-28652abbc732",
     "name": "Lankayan - Sunnug Lair",
+    "location": {
+      "name": "Sabah, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

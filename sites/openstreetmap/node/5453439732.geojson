@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d6f8ce9a-ce00-5cd6-b511-9b0b92a28255",
     "name": "Batu Rufas Dive Site",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

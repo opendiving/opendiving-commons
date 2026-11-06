@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a8dbb921-9b3f-55e3-bcd2-b9e8bf5e0dc8",
     "name": "Erg Somaya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

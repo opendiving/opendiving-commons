@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef2a53c1-0a43-5395-a223-aa3feccf0b5b",
     "name": "Schiffli",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

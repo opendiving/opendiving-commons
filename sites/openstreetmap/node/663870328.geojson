@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9497406c-604d-5bd9-b738-1f9e88ec6e8e",
     "name": "Strandbad Erlenbach",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

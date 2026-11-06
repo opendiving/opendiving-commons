@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20556505-b1ac-5958-a0ed-d8591f3236d6",
     "name": "Roca Hundida",
+    "location": {
+      "name": "Baja California, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

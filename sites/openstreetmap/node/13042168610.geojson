@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "266eee7e-55d5-5615-8165-97e67e14d31e",
     "name": "Yeben Shallows",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "63ccd6b4-2014-507d-9c32-6a73b14d3595",
     "name": "The Mackerel Run",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

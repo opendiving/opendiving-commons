@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "62f8c22b-dbc1-5e7e-8ef5-c83515c86d1c",
     "name": "Dankernsee",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

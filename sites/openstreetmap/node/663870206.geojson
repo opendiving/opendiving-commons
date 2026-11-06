@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a265e9a8-c13a-5d5e-a660-3ca917584f99",
     "name": "Schildegg",
+    "location": {
+      "name": "Uri, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

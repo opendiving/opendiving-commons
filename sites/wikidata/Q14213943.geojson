@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7b690c86-cfc6-54db-8504-dad4ea8a1380",
     "name": "Whittle Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

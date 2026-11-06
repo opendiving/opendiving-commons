@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "61c62663-a52f-5efe-be26-f0e8038ed27c",
     "name": "Südlicher Mooswaldsee (Ost)",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

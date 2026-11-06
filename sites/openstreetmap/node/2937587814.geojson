@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "500abb71-e224-50cc-9b9d-3ed3268f23a0",
     "name": "Kemperle Activités Subaquatiques",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

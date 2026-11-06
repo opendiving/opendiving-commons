@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c216a23a-600e-58a3-ac1b-48acedbc4c71",
     "name": "Bergsee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

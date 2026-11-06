@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9597d2bf-472d-5afa-9ae7-4564b84c2ddc",
     "name": "Shark's Bay",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

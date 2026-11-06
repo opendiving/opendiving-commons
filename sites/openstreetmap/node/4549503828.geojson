@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "69937dd6-eec4-5745-8ed4-f2c6cfbabfa3",
     "name": "Blue Water House Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

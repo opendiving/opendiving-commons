@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b93b27b-c49e-569b-820c-e97a4ca3eada",
     "name": "Juniper Springs",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

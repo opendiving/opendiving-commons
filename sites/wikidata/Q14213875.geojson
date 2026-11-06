@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ec5a71ad-8fe6-5516-9342-1da04c093bb1",
     "name": "SS Bia",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

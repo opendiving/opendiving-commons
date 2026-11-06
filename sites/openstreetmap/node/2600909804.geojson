@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "62fc2b21-e9b6-5ec4-aaff-dbb8198e5991",
     "name": "Tauchspot Luzinhalle Schmaler Luzin",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

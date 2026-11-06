@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7609c83-52c7-5d03-aafa-f9c2a5061e04",
     "name": "เกาะยางใต้",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

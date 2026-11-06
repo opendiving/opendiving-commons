@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de8804c6-9d3f-5544-85e9-ce0ffab33e39",
     "name": "Ark Rock Barge wreck",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b2e9b476-f65d-5a81-b3e8-52ad7a63151f",
     "name": "Friwen Garden",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

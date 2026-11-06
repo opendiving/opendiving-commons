@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38ca0564-b8c5-54de-88f6-0f776c647918",
     "name": "Épave Laos",
+    "location": {
+      "name": "Loire-Atlantique, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

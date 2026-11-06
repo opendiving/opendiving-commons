@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ebe192e2-a3da-50e1-a501-91f6e84cef8f",
     "name": "Strandbad Thalwil",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

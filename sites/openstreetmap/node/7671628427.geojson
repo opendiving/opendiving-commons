@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "896a4c72-d4cd-5044-ab06-5ec13396a134",
     "name": "Charlotte II",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

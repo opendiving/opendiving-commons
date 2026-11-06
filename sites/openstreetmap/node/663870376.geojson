@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "170bde46-10fe-5bc5-9ccc-d61291006b3f",
     "name": "Rheinklingen-Schupfen",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

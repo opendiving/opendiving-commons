@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12c7e22b-79ca-5ec6-a5ff-6d625a90dc26",
     "name": "SS Cape Matapan",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

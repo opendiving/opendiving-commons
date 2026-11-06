@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ade0e9b2-21f1-500c-a176-fb4a6b293056",
     "name": "Wrack Coriolanus",
+    "location": {
+      "name": "Istria, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "16b2d2ac-049f-582e-ada2-295c82ed9369",
     "name": "Eagle's Nest",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f5f247c-e50c-5deb-926e-7f50b53053fa",
     "name": "Kamužės stovyklavietė",
+    "location": {
+      "name": "Utena, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

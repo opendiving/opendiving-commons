@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0cfafbb7-aa98-5743-967d-f1ee980ce545",
     "name": "Habagat Wreck",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

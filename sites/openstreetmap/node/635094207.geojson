@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "652041ab-53d3-5c28-9a47-53ae680d7929",
     "name": "La Machaca",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

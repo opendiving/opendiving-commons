@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b76e718-9341-5e32-810a-a03344ee3bf6",
     "name": "Exit 7",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

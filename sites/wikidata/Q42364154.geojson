@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93d3b4a9-f88f-5b33-8bc6-ead477934357",
     "name": "Dave's Caves",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "217f25cf-d9dd-5874-a548-64f1ced980a4",
     "name": "Walchensee - Hackl",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

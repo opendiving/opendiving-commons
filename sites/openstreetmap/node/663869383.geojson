@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8f30b2bc-6e53-5753-be6e-fe06c8737329",
     "name": "Playa Manzalina",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

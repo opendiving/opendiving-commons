@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc580ecf-99c1-5fbf-af66-171bfe726894",
     "name": "Sweepstakes (schooner)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bd854c1a-89b2-52e3-9ee6-f5c3a514fc7c",
     "name": "Friskies Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "146c1659-3594-5f29-9d56-d985ca90695b",
     "name": "Dive Center Searama",
+    "location": {
+      "name": "Kiên Giang, Vietnam"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "feaa3c84-1834-5449-a12c-06c66f7869ac",
     "name": "Landungssteg",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

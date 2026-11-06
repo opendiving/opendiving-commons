@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94e2b744-3842-5652-8ef8-6876e7ddeee9",
     "name": "Bootsplatz",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b4593265-5b29-589a-9f7c-09f0dc6abb92",
     "name": "Bimini Road",
+    "location": {
+      "name": "Bimini, The Bahamas"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

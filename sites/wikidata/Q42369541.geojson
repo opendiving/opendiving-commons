@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc2ba5a0-da30-542c-a523-d3a5c585a682",
     "name": "Batsata Maze",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

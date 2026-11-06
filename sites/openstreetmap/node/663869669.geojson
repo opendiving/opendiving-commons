@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71906557-59dc-5e73-bb56-ecbb92119569",
     "name": "Moore Reef - 5 Ways",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

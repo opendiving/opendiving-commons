@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "249b36cd-10e0-59c5-93f6-34f4be945bd1",
     "name": "panorama Reef North",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

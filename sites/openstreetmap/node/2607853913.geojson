@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "59c2688e-65b6-532d-bd0a-930b491e34b1",
     "name": "Naufrágio do Califórnia",
+    "location": {
+      "name": "Rio de Janeiro, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

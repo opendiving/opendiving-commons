@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a992bafd-e325-5001-8d32-3e6c447612c3",
     "name": "Di's Cracks Pinnacle 1",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

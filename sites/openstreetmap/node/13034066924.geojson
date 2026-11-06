@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ed81ff5-28f4-55b1-9e78-a918e786f747",
     "name": "Tauragnas",
+    "location": {
+      "name": "Utena, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

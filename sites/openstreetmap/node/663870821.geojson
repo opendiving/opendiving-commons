@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9a4ae04-63a3-5fd9-92c9-a5789157a76e",
     "name": "Attersee - Ferrari-Kapelle",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

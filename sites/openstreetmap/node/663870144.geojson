@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8db6895f-0084-593e-a4e6-535533515e2a",
     "name": "Lago di Lugano-Lido di Riva S. Vitale",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

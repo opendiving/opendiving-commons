@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6866a3cb-10ca-5b51-bb70-8afe07bb32bf",
     "name": "Dive Horizons",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

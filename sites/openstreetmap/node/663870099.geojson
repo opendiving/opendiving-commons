@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a08fd240-69aa-543b-91e4-a86b1f817774",
     "name": "Risi",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

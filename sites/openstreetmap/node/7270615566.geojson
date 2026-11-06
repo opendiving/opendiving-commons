@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5513bf1c-1ef5-5ec9-ae2e-ae11e0107912",
     "name": "Mildred's Rock",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d9bae4cc-1f3a-50b1-a704-3504e709e17f",
     "name": "Ras l-Irqiqa Punent",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

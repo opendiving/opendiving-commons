@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79473c87-acac-53bf-bc23-ea66bdd9b478",
     "name": "Crégols",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

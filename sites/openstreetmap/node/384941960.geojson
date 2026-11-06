@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a157f814-eadd-5673-932e-b51543a3666e",
     "name": "Xlendi Tunnel",
+    "location": {
+      "name": "Kerċem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

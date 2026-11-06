@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5e342473-a66b-5a8b-a5aa-fd773c628ff4",
     "name": "Katharinenhof",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

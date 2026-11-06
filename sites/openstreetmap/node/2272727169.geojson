@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00bdce81-5025-5afc-9196-221cbf3e438f",
     "name": "HMAS Hobart (D 39)",
+    "location": {
+      "name": "South Australia, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

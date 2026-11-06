@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ddebc7c2-e60e-515a-8235-f0e93264b6fc",
     "name": "el Reggio",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

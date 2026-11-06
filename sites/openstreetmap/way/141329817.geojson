@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb59dae5-55ac-5f94-b3cb-7da876e8fc89",
     "name": "Eccleston Delph",
+    "location": {
+      "name": "Lancashire, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

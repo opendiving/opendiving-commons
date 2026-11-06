@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e8f2be7-2b7e-5e74-ae05-bf64ac237aef",
     "name": "Le ponton de la bordelaise",
+    "location": {
+      "name": "Hérault, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

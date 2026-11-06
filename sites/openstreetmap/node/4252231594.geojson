@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dbb6a305-ac2f-5aed-9f17-5fa6354222de",
     "name": "Tauchsportclub Warnemünde e.V.",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

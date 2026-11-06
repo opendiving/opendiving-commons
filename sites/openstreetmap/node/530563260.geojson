@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c0e769d-6b8d-54e6-abf1-9d1023355852",
     "name": "Berry Plongée",
+    "location": {
+      "name": "Cher, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

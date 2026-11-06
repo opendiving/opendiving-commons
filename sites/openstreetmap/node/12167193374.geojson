@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96a3c3ed-e00e-50b8-9ea2-28bee7526055",
     "name": "Yembuba Diving",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

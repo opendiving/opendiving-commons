@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "abf6e01f-9681-5ae2-a645-4e2da7287d44",
     "name": "Million Hope",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

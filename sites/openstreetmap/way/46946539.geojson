@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b76a769e-b3dd-529c-9af1-5a5b6fa9e47f",
     "name": "Zur Anne",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

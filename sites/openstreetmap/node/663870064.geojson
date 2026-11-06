@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91ef1514-670b-5838-be4d-8f3c16d2adc7",
     "name": "Trübsee",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3670805c-4ca4-5565-ad93-369ea9dc8463",
     "name": "Tanjung Gurita",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

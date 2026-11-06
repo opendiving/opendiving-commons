@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cebc86ce-4103-53a2-9257-db8206ae10d8",
     "name": "Southeast Corner",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

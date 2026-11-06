@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "874bc3ee-dc67-5505-a0c6-50a0385c3042",
     "name": "Batu Lima",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc6d36f1-c4e3-5497-9ecd-d76ef0b9ec1b",
     "name": "Amalie C. Ertel",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

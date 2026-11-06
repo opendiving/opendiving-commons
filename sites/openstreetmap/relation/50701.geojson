@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "14dc9af7-826d-5ce9-a945-d67601e4aa91",
     "name": "Olbasee",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

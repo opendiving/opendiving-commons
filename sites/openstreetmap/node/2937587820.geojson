@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b02cef5-040c-5c26-bddf-7e92ba9ce87a",
     "name": "Sites de plongée de la Basse des Esclaves",
+    "location": {
+      "name": "Pyrenees-Atlantics, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d848e35a-cc33-5d7c-a612-89c2602f9bb9",
     "name": "Buckland Lake Reserve",
+    "location": {
+      "name": "Medway, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

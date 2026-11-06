@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2faff932-4fc0-51f4-9eb7-f7322257814c",
     "name": "Chachacha Beach",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

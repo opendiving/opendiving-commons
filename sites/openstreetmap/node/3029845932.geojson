@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4954ca6f-eda3-5f3b-a253-4bb74f40d9d7",
     "name": "Nek Tec Rec Diving - Νεκτάριος Κατριβέσης",
+    "location": {
+      "name": "West Greece, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

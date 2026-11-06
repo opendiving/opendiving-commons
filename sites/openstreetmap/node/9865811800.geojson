@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8376304a-bf8a-58b3-857d-6d1d2424cc28",
     "name": "Snoopy Island",
+    "location": {
+      "name": "Emirate of Fujairah, United Arab Emirates"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

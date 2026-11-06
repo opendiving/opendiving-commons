@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20f7fc81-6e41-5ab8-94cc-dfa72a027e40",
     "name": "Habili Radir",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

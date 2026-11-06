@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5fe84dec-95f0-512b-9eff-6c1083626a7b",
     "name": "Cova de la Reina",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

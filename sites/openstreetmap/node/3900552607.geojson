@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8ea85b19-dfed-57dc-b2fe-9e742682a408",
     "name": "Paradies Corner",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

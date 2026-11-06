@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee36fd12-1acc-5661-b3ab-a11b38387eac",
     "name": "Σπήλαιο Αρχαγγέλου",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

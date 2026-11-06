@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "07d07d0e-607e-56ec-bf52-3c233511b283",
     "name": "Elba Reef, West-Plateau",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

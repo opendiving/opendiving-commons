@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0652da41-1b10-5fd3-9846-502299eae94a",
     "name": "Wägitalersee",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

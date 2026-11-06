@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "49cd5bf5-d9a4-5ffb-b8cd-c3b3512be9be",
     "name": "Vaageli Corner",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

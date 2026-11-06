@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c544a23b-919c-50eb-b52f-0ebcccb2bdab",
     "name": "Wolfe Islander II (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5eb90605-ecbc-5ca7-96b7-8a03797cda47",
     "name": "A-340 Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

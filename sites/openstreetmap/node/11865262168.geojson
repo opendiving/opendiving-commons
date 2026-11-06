@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "42aa4d5a-6eb7-57cf-b0f6-5e2e5194eeee",
     "name": "Secca di Levante",
+    "location": {
+      "name": "Messina, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

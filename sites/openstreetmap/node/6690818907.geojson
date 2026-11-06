@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e9f0d2be-e664-5079-bc09-301f51aa25c3",
     "name": "Rocher de la Garde (les Sardinaux)",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "929f77f0-9f2a-53a8-92e1-0569ea01c391",
     "name": "Redang - South Tip",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

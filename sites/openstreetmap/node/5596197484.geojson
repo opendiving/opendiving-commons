@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c38c3af5-3628-5122-8c61-017c78ebddfc",
     "name": "Cala d'Aiguafreda",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

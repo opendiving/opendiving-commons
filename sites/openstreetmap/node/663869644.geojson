@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8414c343-769b-5c0d-aa86-bcf6ce0c10cf",
     "name": "Portsea Pier",
+    "location": {
+      "name": "Victoria, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

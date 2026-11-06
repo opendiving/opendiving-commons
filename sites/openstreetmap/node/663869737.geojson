@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9dccba74-035e-52bf-9468-86f5fbc47578",
     "name": "Kap Kosaca",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

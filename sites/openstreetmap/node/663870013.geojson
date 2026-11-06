@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a45b0191-265c-504a-8fc2-607d37fc7567",
     "name": "Öschinensee-West",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

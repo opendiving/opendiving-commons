@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b62e91e0-cc23-57a7-bebd-605d3b6f03d8",
     "name": "Turtle Point",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

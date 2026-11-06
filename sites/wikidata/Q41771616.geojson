@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e1f11c29-5331-5925-afff-740a01f4a2b6",
     "name": "MFV Harvest Capella",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

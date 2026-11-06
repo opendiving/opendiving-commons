@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6e7843c8-02af-5863-9929-fcb838967149",
     "name": "Kudarah",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

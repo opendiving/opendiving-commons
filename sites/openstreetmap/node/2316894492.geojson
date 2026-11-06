@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5212ad5-4d94-562d-9a2b-ff2556f3837c",
     "name": "Turuncu Dalış Merkezi",
+    "location": {
+      "name": "Istanbul, Turkey"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

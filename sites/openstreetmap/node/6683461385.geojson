@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dc15a60d-9902-5bbd-beb9-8f07a01feb32",
     "name": "Seulaku",
+    "location": {
+      "name": "Aceh, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

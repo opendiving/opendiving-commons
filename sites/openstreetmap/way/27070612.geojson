@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6f8a0755-500f-5111-8b98-4e8ee99da3af",
     "name": "Kahnawake Quarry",
+    "location": {
+      "name": "Quebec, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

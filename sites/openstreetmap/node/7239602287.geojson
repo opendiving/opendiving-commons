@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79f7fba8-6aa0-5441-aa54-63e53a4aa0ab",
     "name": "Escuba",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

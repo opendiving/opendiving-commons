@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6e017291-b634-5104-a116-193fc5c60af6",
     "name": "Wolfgangsee - Fürbergbucht/Falkensteinwand",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "783954ee-9fa5-5582-a6ac-1121db414d18",
     "name": "Doljo Point",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

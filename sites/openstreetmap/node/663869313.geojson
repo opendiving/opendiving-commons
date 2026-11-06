@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3769b2c7-796a-57a6-9307-02f4f0a71c04",
     "name": "Forest Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

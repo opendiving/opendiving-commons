@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bd4245a8-ca06-5842-baa2-deefceb777f0",
     "name": "Badeplatz",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

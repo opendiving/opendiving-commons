@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4fb762c5-08f4-5b24-bd15-3cdbff165de9",
     "name": "Kaliage Kecil Utara",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

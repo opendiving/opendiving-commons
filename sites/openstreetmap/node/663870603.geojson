@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83c5a898-744a-51e5-b9d5-e518e26daa40",
     "name": "Werdersee",
+    "location": {
+      "name": "Free Hanseatic Bremen, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

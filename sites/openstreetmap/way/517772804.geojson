@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cf3286b6-b324-5520-8dab-e331f735b3d1",
     "name": "Oolderhuuske",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

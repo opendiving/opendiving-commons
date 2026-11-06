@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cfc77610-ef07-592d-b9d4-197ed5e89814",
     "name": "Shaab Claude",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

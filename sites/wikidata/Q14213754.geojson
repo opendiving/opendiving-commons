@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83bc7a8e-cb3c-5db6-8d4c-ce3bcaa25a70",
     "name": "Fish Hoek Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

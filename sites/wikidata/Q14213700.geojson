@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a887ab1-ac56-5ea3-b628-7776990dd42a",
     "name": "Batsata Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d15f7c96-04a0-55a1-886d-c1603be45c97",
     "name": "Stonehenge Central",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

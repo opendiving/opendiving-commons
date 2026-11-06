@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6e4be32-c81f-5ce9-852f-355f8548d560",
     "name": "USCGC Lotus",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

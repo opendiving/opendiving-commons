@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37fe8eed-be85-58e3-96e3-bbabeb30fcad",
     "name": "Monad Shoal",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

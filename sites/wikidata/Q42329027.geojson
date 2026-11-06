@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "018ac168-45a6-5843-b05e-569c0830e31f",
     "name": "South Pie Rock Reef pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

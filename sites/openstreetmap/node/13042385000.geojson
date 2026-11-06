@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7030eeed-5675-5d86-a389-a14ac681bac1",
     "name": "Toilet Bowl",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c996b768-8699-54aa-bebb-a80889264350",
     "name": "Dolfi Sud",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

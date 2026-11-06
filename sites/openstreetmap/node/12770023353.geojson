@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ededeb3-017e-5e8a-95f0-963bdca6359d",
     "name": "Bima Sakti 1",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

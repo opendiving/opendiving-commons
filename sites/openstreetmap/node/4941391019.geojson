@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72ad16a3-0f0a-5d91-9dae-d103758e83cc",
     "name": "Deep Slope",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

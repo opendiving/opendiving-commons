@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cdc6a019-35ce-5f84-8ac9-1986cfd58abc",
     "name": "Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

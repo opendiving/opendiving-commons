@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5085d6e8-abad-595b-9783-cbdf7a30deb5",
     "name": "Jezioro Mamry – Upalty",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

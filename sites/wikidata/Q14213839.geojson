@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "836a799d-813b-5bd1-8bdc-59896a8ce294",
     "name": "Penguin Point",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

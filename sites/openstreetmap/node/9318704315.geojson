@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d75b1ac-767b-5643-94b3-c2a3a05d9c86",
     "name": "Etheremadivaru house reef",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

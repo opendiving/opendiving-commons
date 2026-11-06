@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d6503e52-bfdb-5661-a38e-ac22615774d9",
     "name": "Shark Point",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

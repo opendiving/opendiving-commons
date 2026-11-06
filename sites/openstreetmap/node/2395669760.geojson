@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6757c764-beb3-5d1c-8e42-59d6b9942647",
     "name": "Simons Reef",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5c8e1a26-9f7a-558e-8e22-3eed39544361",
     "name": "Paraiso Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

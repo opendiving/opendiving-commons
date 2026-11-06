@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "18a76de7-d227-5e9d-a097-3501702fb544",
     "name": "Bari Reef",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

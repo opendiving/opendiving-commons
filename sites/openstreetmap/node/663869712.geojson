@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "45524874-0d45-50a5-91af-55066d5090fd",
     "name": "Baron Gautsch",
+    "location": {
+      "name": "Istria, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

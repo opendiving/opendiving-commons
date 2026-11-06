@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8ef84e8b-1ff2-5dfd-856a-b3a809a1b49c",
     "name": "Kiesloch Zerben",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

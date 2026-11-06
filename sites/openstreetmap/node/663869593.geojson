@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a911ce95-ad0a-5240-a988-f1586e66ac90",
     "name": "City of Brisbane",
+    "location": {
+      "name": "Brighton and Hove, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

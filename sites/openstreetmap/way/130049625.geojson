@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6b8883f8-801b-5c65-a5d1-4446adde9883",
     "name": "Ruhlesee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

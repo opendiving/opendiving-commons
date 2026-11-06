@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e7d852f5-8958-57d5-8617-5a9de5522dc1",
     "name": "Grotte de la Passerelle",
+    "location": {
+      "name": "Isère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

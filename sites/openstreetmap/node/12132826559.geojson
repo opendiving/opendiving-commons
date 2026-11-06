@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a2a81144-44b7-5dc4-a6b0-4066636ba9c0",
     "name": "Punta des Plom (Buceig)",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

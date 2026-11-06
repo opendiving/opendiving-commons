@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3ccc65e9-8fc2-5060-98d4-79e7bf135412",
     "name": "Tauchpunkt VilleTaucher e.V.",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d57ba344-1ee9-5907-8829-b89ed27244b2",
     "name": "Kandoma Corner",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

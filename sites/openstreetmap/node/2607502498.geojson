@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c13df0f-514a-5b1a-b92c-da0b9eb0579a",
     "name": "Tauchspot Carwitzer See beim Fischer",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

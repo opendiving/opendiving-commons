@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98c0e1a5-5c16-51c0-b45e-29ca78003d61",
     "name": "MUSA Cancun Underwater Museum of Art",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12f8822e-2bc1-56a7-bb47-1a79f20ef8b8",
     "name": "Épave John G. Mac Cullough",
+    "location": {
+      "name": "Vendée, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

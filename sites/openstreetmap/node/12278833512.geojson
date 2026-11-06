@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d05a089e-1dad-53b3-ae50-583a6a2666ce",
     "name": "Tiga Ruang",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c83e14a1-b877-5efb-80ee-aaba20b7a54b",
     "name": "Erg Sabina",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

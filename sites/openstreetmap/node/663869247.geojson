@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "786ead80-7a89-5021-b820-a5deba421de7",
     "name": "Epave Catalina",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff332a23-e829-5c60-8bdb-5d19a0998a80",
     "name": "Diving Archimete",
+    "location": {
+      "name": "Sassari, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

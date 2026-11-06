@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b09d942-a54f-5c6c-becc-a5d19955e46d",
     "name": "Red Slave",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

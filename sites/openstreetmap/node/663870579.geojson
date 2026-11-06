@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd328dbd-fcab-5b71-8c2c-6faf8067a3a3",
     "name": "Edersee: Tauchzone II (Sitte)",
+    "location": {
+      "name": "Hesse, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

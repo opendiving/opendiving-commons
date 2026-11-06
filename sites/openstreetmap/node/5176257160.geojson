@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46d1ded3-f400-50d8-b49f-8987efa22bb8",
     "name": "The Gantry",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

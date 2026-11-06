@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "85cdf5da-25b4-56d2-b2b5-e7ad0b354abd",
     "name": "S.S. Nestorian (Wreck)",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

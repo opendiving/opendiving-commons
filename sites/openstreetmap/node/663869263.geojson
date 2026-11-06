@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4716c995-1cc8-5873-9ab5-8e6d440e157c",
     "name": "Blue Water Lake",
+    "location": {
+      "name": "Missouri, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

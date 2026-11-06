@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0591d5a7-b211-5b42-a4c4-0cfd7d9d4fd5",
     "name": "Ledges",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

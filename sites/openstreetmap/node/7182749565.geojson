@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c22a26dd-429e-5e20-a361-4aa8ad909dbb",
     "name": "Sabayor Kecil",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

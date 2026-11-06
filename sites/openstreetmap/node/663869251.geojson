@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "867d4408-cd39-57a2-a06b-c9745efd8637",
     "name": "Les Roses",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1858a613-37c6-54a5-a2b6-c0a153e033ce",
     "name": "Partridge Point",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

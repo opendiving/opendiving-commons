@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7feb2482-f620-5a17-bbc8-12f53da424dc",
     "name": "G.B. Church",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

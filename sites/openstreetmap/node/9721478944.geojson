@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57243076-46c6-541a-ab58-8dbf3f7c5f06",
     "name": "SS Umbria, Wreck",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

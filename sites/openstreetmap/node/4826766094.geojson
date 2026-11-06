@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bd6f80e9-d8bc-54b4-8ec1-d7b369473bd3",
     "name": "Koh Kra",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

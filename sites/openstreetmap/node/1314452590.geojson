@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7799eaeb-60b8-53bf-83c3-07bb2c02ae44",
     "name": "Gili Mimpang",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a649b320-1a50-51f2-906c-8a8e0a8f2e2c",
     "name": "Taipi Wall",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

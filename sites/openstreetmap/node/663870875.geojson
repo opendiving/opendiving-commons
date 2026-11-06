@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5f0dd56-634b-5f4f-86f0-d2d889a6f87f",
     "name": "Steinbruchsee Reitzenhain",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

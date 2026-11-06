@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc6f2460-7b1a-5d29-9c5d-5ae274862f20",
     "name": "嘉比前・がひまえ",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

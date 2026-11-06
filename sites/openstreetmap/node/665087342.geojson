@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bf633427-21bb-57cc-bee6-cebf833c8ad0",
     "name": "Linthkanal Ausstieg",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

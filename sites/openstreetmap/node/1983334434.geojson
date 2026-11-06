@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "237ca51c-2aa2-5ca5-a5c6-58fc271a468f",
     "name": "Carrière de Montulat",
+    "location": {
+      "name": "Haute-Vienne, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

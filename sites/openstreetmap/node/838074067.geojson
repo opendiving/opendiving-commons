@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c2fc9bb-55aa-58a3-8a20-41b753071ca2",
     "name": "Flauwers West",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

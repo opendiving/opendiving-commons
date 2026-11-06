@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b8ed47c6-f77b-5f65-b6a7-3ea54226b9cf",
     "name": "Tombant des pharillons",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

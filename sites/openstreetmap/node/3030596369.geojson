@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9247cb71-fc8e-5f9a-ad1b-75f1f632c973",
     "name": "Site de Plongée de Meillerie",
+    "location": {
+      "name": "Haute-Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

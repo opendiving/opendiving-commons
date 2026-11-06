@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba969fce-cda9-5db4-a754-8d0906993a0b",
     "name": "Centre de Plongée I.S.A.",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

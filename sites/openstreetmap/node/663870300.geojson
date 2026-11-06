@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f8a4d4b1-cd21-5cb0-9cc2-d39d3400e74d",
     "name": "Zollerbucht",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

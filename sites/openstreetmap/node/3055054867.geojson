@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "80bc0875-03fe-5819-8e08-f9be799b6066",
     "name": "Diving Centre",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

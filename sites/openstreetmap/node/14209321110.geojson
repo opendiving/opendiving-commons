@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7ddf60f-9860-5096-b977-43da39f2fbf0",
     "name": "León Dormido",
+    "location": {
+      "name": "Galápagos, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

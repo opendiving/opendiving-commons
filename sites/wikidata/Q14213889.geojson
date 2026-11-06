@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef07f6d1-bef5-521c-9052-eb73b72c5908",
     "name": "Sandy Cove",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

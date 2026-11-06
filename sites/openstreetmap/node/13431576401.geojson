@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "414d58f1-8592-595e-9830-e8494abf4519",
     "name": "Gorgonian passage dive site",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

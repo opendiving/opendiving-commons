@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "696e690d-2d44-5772-baa2-b54be440f423",
     "name": "PM-27",
+    "location": {
+      "name": "Newfoundland and Labrador, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

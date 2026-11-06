@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68c4c8f6-735f-56e3-9b99-776a0deabf7b",
     "name": "Biet Point",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

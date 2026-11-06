@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "35e23946-e853-5e36-be42-707caf3313c8",
     "name": "Ham Ham",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

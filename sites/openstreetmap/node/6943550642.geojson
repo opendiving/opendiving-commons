@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5e7c0c5d-a79d-5f31-b8f5-8d905fc6c46a",
     "name": "Shark Point",
+    "location": {
+      "name": "Diana, Madagascar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

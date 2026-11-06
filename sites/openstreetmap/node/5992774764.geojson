@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3625027e-ca60-59a1-bdf4-5908129ccd9a",
     "name": "HTMS Sattakut",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

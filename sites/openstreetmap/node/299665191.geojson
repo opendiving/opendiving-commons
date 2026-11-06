@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "af766638-1045-5519-a94a-f463259e4744",
     "name": "CB iSub",
+    "location": {
+      "name": "Almería, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

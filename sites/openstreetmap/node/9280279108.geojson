@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d192b183-3207-500f-827d-6539d8169428",
     "name": "クロスホール",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

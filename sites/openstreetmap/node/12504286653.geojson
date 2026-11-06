@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "97f92152-8872-5ca4-9814-106506aa521a",
     "name": "Testa del Leone",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

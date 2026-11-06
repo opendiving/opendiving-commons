@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c45906c8-4ecb-5cc7-a7c7-506f8762e96b",
     "name": "Eden Dive",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

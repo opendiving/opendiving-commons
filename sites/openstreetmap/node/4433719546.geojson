@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "694ac853-5527-515b-a71f-8fe0f9243185",
     "name": "Al Fahal East",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

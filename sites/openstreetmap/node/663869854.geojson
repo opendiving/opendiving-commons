@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ca5d5957-9385-542a-a971-eb08927d566f",
     "name": "Gabu El Bint",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

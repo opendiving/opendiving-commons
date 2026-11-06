@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e590d8b-36e9-5b70-a8f8-11319b6fb848",
     "name": "Shaab Marsa Alam",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "114bb895-55f5-50a4-ae5b-f418cd5865a5",
     "name": "Porto Ronco Beach Club",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

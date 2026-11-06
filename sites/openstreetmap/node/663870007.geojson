@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d13d0cad-814f-5374-9a7a-6b63436fd6de",
     "name": "Pont Thusy",
+    "location": {
+      "name": "Fribourg, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

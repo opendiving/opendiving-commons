@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "88151076-8ba6-568e-9da4-3eeffeb93616",
     "name": "Bonsai dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

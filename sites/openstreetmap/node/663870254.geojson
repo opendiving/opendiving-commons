@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8d555451-e01f-5182-9731-1a89f6cd1b93",
     "name": "Laghetto Moesola immersioni",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc5609b4-d0e5-57ef-a8c8-9c01351fb573",
     "name": "Wrack 'Sagona' (Le Grec)",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

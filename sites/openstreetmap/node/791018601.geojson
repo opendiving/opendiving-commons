@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d295b1a7-c3aa-589f-9ef3-64d769a67649",
     "name": "la Pedra de Déu",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

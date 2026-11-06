@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8df38251-4ec0-5215-951b-12ec8d58c829",
     "name": "Turtle Point",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

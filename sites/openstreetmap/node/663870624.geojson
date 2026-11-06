@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6e83557f-d109-5eba-bfc2-fb4db4e4953a",
     "name": "George H. Hastie",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee478183-f37c-5879-8006-23623dd3f442",
     "name": "Mirkos Reef",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

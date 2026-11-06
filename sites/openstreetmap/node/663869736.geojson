@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "55a2dfac-91d4-5799-b566-4c678f1f9e29",
     "name": "Fels Merag",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

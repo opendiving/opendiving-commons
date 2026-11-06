@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1554068-a56f-5865-a0d0-9ecf4f4203d5",
     "name": "Le Duzillet-Gouille Duzillet",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e85daae1-a876-5140-9aa0-47a6e9f61af5",
     "name": "The Canyons",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

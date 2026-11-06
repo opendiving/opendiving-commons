@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3890ba49-7649-5a5c-8dc7-5778ddded260",
     "name": "Carwitzer See",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

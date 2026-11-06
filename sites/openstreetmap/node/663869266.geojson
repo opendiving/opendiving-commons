@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5555bb4e-f822-5f68-bf72-583233bb011b",
     "name": "Race Rocks - West and Central",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

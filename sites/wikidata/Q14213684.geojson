@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6e5ca9ef-bacb-5be4-9ef7-3b0aeac04d10",
     "name": "Ammunition Barges",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

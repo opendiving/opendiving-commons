@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e389da0-bc6a-51df-be03-3c6b7df65b25",
     "name": "Вагон",
+    "location": {
+      "name": "Sverdlovsk, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

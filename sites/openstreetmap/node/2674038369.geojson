@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c372e698-2738-5ab6-a94f-3931cb18c874",
     "name": "Apo 29",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

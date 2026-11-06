@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "03c46030-33aa-5c95-8af9-e306250fe222",
     "name": "Puerto del Carmen (west)",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff398935-b864-5982-8224-59a53206d37c",
     "name": "Bergsee an der Ebertswiese",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

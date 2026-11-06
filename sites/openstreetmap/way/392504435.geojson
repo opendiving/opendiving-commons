@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef116630-b5e1-5689-93d2-d3dedf15a80f",
     "name": "BB 1",
+    "location": {
+      "name": "Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

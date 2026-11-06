@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f129fc72-7e2f-58a0-8183-ed54b7ce8f89",
     "name": "Plattensee",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e2f05ed8-c43b-58a1-b4ba-5bb4aa09de9d",
     "name": "House Reef",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38975830-ace6-5ca3-b05d-fd6b0dc5159a",
     "name": "Twin Reef",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

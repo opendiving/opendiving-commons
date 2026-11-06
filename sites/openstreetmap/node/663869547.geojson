@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0aa86e5-4e58-5542-8de0-45973b80bbd1",
     "name": "Waome (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

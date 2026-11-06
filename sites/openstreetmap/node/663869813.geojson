@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "faee9036-e2d2-5b00-b521-9472d508c56d",
     "name": "Manta Point.",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

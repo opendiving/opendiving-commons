@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "477d0ab4-06b4-594f-acdf-312fa42c2d65",
     "name": "Big Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

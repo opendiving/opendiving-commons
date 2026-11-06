@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e4a6ea2b-ba1a-5846-b5a8-09c123949237",
     "name": "The Back Side",
+    "location": {
+      "name": "Hawaii, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

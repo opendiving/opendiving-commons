@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7889c2f8-7d4f-5458-9c08-2ac6c6c4369a",
     "name": "SS Lord Strathcona",
+    "location": {
+      "name": "Newfoundland and Labrador, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

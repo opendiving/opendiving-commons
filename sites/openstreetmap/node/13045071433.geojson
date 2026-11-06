@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79dea05d-f1c5-57b5-b12e-9d40ccc7afea",
     "name": "Sha'ab Ohroob / Wreck of Sabri Baba 1",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

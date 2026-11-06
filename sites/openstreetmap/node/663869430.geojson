@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8a5a9306-8e55-5570-a9f3-23266b656e25",
     "name": "Windsock",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

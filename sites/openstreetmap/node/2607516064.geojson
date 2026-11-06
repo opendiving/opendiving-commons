@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a724e77-2ccb-5804-a415-e137a2b27253",
     "name": "Tauchspot Glambecker See",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

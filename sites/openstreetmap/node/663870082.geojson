@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "16ac0ae2-b751-59d6-aaaf-27c73eb878ab",
     "name": "Chrüztrichter",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

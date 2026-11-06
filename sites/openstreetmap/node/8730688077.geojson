@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2572add7-10d4-51a7-bf6e-018933f71da8",
     "name": "D1",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

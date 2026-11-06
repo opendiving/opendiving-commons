@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c30051e2-a706-56ce-adc3-d1ef1d67d8fd",
     "name": "Pink Beach",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

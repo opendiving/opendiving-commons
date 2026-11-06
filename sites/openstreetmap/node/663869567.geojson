@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7bbe5780-6c8e-5cb7-906d-df169c19a8af",
     "name": "Caulonia",
+    "location": {
+      "name": "East Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

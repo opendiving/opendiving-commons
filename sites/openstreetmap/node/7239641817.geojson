@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96125949-290d-530a-90da-82e253b48d7c",
     "name": "La Pared del Águila",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

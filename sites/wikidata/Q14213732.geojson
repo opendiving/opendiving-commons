@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a8736839-6001-5783-84db-67cd433c0a40",
     "name": "Cow and Calf",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

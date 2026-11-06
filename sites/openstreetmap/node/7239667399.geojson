@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e4b0ccf-4d34-538e-ae50-8f62f866e6ff",
     "name": "Bajo del Monstruo",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

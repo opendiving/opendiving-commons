@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "60b33f22-0318-534c-968c-a90287becb40",
     "name": "Levanzo Wreck",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

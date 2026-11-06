@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77bc96f6-d590-5ef6-96e9-251fc000ebe6",
     "name": "Abu Ramada South",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

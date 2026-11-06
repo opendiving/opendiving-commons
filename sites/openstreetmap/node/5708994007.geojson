@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05c235f6-695a-5003-b76c-547240c1ec9c",
     "name": "Balena",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

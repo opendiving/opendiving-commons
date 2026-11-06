@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "020db88c-d7f4-5b4e-b250-b174fba55007",
     "name": "Karlsminde",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

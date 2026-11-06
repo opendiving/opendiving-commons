@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "45eddb28-dca3-5b5c-ad32-4942207cf220",
     "name": "Kamieniołom Nadziejów",
+    "location": {
+      "name": "Opole Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

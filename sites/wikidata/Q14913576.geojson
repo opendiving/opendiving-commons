@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ae1faa1d-0729-5baf-afc6-305ee13b8de4",
     "name": "Kanobi's Wall",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

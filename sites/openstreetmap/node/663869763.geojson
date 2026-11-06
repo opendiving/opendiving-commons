@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7bc95cca-c8cd-5e9b-af32-11618ac9b138",
     "name": "Abu Galawa Soraya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

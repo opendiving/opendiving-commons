@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1e1a32f-02f4-5c31-a8c6-92069f11e849",
     "name": "Igl Lai (Heidsee)-Seerestaurant",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

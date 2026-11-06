@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "65fb76cf-4c25-5d77-9181-9b4bca4cabef",
     "name": "Velidhu Hausriff",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

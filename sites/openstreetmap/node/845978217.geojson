@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50360dba-f57c-5fb2-ab29-63868fc8030f",
     "name": "Reefballs",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

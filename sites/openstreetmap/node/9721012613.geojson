@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "574b942b-3835-5e8e-88a3-09749388288d",
     "name": "Shaab Jimna",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

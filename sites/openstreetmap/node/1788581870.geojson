@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fba0aa3a-7e92-52c0-8c63-d1474c34b8c3",
     "name": "el Rossinyol",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

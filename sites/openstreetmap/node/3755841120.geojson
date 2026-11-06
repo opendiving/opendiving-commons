@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05f6d99e-a007-5f99-9db1-19a7656f00d9",
     "name": "El Fanadir Dacht Dacht",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

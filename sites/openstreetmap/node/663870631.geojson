@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2752b965-ed29-5d87-a70e-54bfcd891e2c",
     "name": "Birck",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

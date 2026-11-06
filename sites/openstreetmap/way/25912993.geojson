@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1bd1fdaa-6f43-547f-a547-520ddf977a69",
     "name": "Kalksee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

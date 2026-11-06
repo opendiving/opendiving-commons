@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "709f8955-a348-5782-b431-e5a2193bf0d2",
     "name": "Shark Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b37c10e2-3e95-55d0-9efb-618fa15484b7",
     "name": "Corde Point",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

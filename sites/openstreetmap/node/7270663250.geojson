@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd90f3ca-2b77-5e51-a5b9-750216396f77",
     "name": "Lighthouse",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a4de0078-13ae-50df-aeb5-4c3fb47c5049",
     "name": "La Dent de Requin",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

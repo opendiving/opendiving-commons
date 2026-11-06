@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cce5540e-bea5-5cd8-919f-e3a13e5a9284",
     "name": "La Pichette",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

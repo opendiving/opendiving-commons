@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d9770f0-b29c-5028-83fb-90e266b93a78",
     "name": "Ελπίδα",
+    "location": {
+      "name": "Larnaca, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

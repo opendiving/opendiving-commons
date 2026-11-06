@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4aae189d-8dc5-5656-9e9b-1e99bdbb6d24",
     "name": "Abu Galawa Kebir",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

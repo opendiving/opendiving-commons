@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ab38b562-056e-55d6-b365-a7e02230073d",
     "name": "Bostalsee",
+    "location": {
+      "name": "Saarland, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

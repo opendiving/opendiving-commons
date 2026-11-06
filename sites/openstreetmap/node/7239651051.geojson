@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30c38338-e5aa-546a-a4f1-4440bef6a4aa",
     "name": "El Mirador",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7b2818b9-7926-5426-b33c-892c05f09d87",
     "name": "Chiesa di San Giorgio",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

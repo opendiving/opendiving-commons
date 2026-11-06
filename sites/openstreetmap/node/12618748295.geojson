@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dcf871c7-3964-54ba-a02e-e5fd3b6c8436",
     "name": "El Faro",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

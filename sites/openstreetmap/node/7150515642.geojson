@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "22a6c829-b880-57e1-9fbb-02e145259b5f",
     "name": "Middle tree",
+    "location": {
+      "name": "Koh Kong, Cambodia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

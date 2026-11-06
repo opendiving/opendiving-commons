@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c755d17-ae90-5b1c-a9e4-014a39eb0c94",
     "name": "Punta Dalila",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

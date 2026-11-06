@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00c28738-6fe3-5958-88ef-bf2ad933a5c2",
     "name": "Barracuda West",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

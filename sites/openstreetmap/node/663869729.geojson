@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7cac1f53-d83e-5d45-af9d-fc6303c2cf9b",
     "name": "Misnjak (Sanddüne)",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

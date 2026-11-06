@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "651abd98-9399-528f-9a6b-db13cf6f59cf",
     "name": "Steilhang",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

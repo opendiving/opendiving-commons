@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8b6a6ec3-1244-5aa6-a11b-37d1b74d1dad",
     "name": "Convention Reef",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

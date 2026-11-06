@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e859f8a8-dbe3-5af8-8444-1802d8a68329",
     "name": "Overturned Stern",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

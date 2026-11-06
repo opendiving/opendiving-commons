@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90dd5bc8-0f66-5f4d-9045-24fe5150d778",
     "name": "Lago di Tomé",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

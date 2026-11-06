@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc22f92d-ae3d-52f3-a742-1dfa7e19feee",
     "name": "Steinbruch Horka",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

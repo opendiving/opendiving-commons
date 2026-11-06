@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "54e5629f-39f3-5b3e-a1e1-e76b6dc35c70",
     "name": "Schupfen-Camping",
+    "location": {
+      "name": "Schaffhausen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

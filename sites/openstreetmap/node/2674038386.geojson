@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "89a8194c-1ff8-5433-88ff-6ea868feb6a6",
     "name": "Sir Daniel Point",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

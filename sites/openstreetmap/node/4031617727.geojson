@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da830576-025d-530b-8cd5-fa7383aa4f6c",
     "name": "Shinkoku Maru",
+    "location": {
+      "name": "Chuuk State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

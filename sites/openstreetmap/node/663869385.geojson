@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "880116b5-9d17-5102-91be-010bfd213c52",
     "name": "Daaibooi Baai",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

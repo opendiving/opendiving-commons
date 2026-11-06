@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6fe82c6-e88c-5e4f-aefa-166c4e41a63c",
     "name": "Pythéas",
+    "location": {
+      "name": "Pyrénées-Orientales, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

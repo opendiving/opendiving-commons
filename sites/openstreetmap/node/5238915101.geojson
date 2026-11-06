@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d98ccb2-07b1-5702-b508-3e6f6fc77992",
     "name": "Allmannshausen: Seeburg",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

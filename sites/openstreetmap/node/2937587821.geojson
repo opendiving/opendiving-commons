@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "27d30d61-12ed-5a8f-bee5-996346065fa1",
     "name": "Erretak",
+    "location": {
+      "name": "Pyrenees-Atlantics, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2bfd6a98-6173-5a73-a321-8e15052de6e3",
     "name": "Saddleback Reef",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

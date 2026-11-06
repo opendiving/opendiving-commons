@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6c31f75-be19-5bf5-9c96-e1d40a3ef40e",
     "name": "Park Feldmeilen",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

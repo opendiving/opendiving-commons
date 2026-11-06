@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f6e56b06-79fd-566c-b4f7-8d930c3c4ed9",
     "name": "Sebayur dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

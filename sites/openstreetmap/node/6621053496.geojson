@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "65f29988-430c-5867-9fd4-d57265b62db4",
     "name": "Immersion56",
+    "location": {
+      "name": "Morbihan, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

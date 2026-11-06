@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2a26d07-4d10-5480-b578-3a946a177658",
     "name": "Le Nordby",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

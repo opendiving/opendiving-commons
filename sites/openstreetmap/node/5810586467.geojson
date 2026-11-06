@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0890d8a6-5c70-5060-8915-c547c9c3b896",
     "name": "Zeilboot",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

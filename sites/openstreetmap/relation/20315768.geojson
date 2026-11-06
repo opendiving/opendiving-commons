@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3a8e2e10-626e-5c62-8d7a-8af47fd90ee2",
     "name": "Nordland",
+    "location": {
+      "name": "Attica, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

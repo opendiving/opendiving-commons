@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "595b0aed-6e97-5871-a7fa-fac44e2b2094",
     "name": "Les Pléiades du Sud",
+    "location": {
+      "name": "Loyalty Islands, New Caledonia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

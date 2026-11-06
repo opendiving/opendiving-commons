@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "97755ece-45e5-5453-9a6f-9697e6a3461a",
     "name": "Immelborner Kiesgrube",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

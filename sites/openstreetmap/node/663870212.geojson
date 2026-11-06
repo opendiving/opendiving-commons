@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb0e6611-41ac-5e6b-8f7d-834ace205797",
     "name": "Kindli",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

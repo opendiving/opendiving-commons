@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "42b2d241-a724-5186-bf0e-51178a33b8be",
     "name": "Long Caye Aquarium",
+    "location": {
+      "name": "Belize, Belize"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

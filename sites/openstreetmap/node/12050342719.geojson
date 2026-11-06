@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2661640-d6b3-5287-a99b-0ef5974ca4ef",
     "name": "Bank 2",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

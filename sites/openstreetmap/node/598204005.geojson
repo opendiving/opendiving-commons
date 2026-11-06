@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "73fb190f-609f-507a-b9e4-01cb2b8c5958",
     "name": "Torfmoorsee Ostufer",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

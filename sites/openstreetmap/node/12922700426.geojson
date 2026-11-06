@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f658af59-166a-5b4f-ad0d-63e85102d5d7",
     "name": "Randers Sportsdykkerklub",
+    "location": {
+      "name": "Central Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e13ec064-097f-54e7-b09d-d4bad407b5b9",
     "name": "Katedrala",
+    "location": {
+      "name": "Zadar, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

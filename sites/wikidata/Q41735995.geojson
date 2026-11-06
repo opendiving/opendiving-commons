@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ab5e8249-5837-5ec5-9cbf-b6a406604e45",
     "name": "Robben Island steamer wreck",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

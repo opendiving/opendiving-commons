@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "185148b0-e01c-5b71-bca7-f42a5ba7be53",
     "name": "Bonnie's place",
+    "location": {
+      "name": "Southern Leyte, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

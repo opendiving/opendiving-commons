@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f2103f4-4469-502b-88f3-8a9d9b39ed37",
     "name": "Bodu Gaa",
+    "location": {
+      "name": "Baa Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

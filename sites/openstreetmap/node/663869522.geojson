@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71dc69c0-0687-51b5-94d8-f9a913b500c0",
     "name": "General Butler",
+    "location": {
+      "name": "Vermont, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

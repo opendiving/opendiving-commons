@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b81745b2-ed41-5f05-8692-b38ef6ab2a70",
     "name": "Tiboulen de Maire",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

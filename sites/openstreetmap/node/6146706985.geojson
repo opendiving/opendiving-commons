@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f55eb4d8-959c-5dfa-b4fa-9245d8b37554",
     "name": "Boonsung Wreck",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

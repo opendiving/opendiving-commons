@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "097838f9-be32-5b07-a90f-c8b3f2276b94",
     "name": "Centre de plongée de Babou",
+    "location": {
+      "name": "North, New Caledonia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

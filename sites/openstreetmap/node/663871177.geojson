@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05aa392f-16f3-5d47-ae97-16c983eb76c6",
     "name": "Dornier DO-24",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

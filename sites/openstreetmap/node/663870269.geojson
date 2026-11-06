@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "afaf7031-013a-5222-8823-493ca955f617",
     "name": "Rabenmättli",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "17a1c8bc-9e85-596e-b6e7-8b5bfc43cd0e",
     "name": "Halbinsel",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

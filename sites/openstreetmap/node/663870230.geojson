@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7eced35f-9b1b-51af-a5d1-4d2ab7486ea6",
     "name": "Egg",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

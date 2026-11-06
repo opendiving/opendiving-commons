@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff098d36-0c54-52ba-a287-a5fc590e39aa",
     "name": "Big Fins TecDiving",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

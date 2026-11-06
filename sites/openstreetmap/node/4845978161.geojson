@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c08bc82-67f4-55ea-bef2-8a1aca90cbcf",
     "name": "Les Capelans",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

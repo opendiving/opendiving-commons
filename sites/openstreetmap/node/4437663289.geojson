@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "589643ef-5d25-5723-a73f-51cd6c5aede5",
     "name": "Wayaka 2",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

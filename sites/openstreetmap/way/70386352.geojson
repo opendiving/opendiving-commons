@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fbe03800-de18-57a3-9aec-77bbc1280f1e",
     "name": "Lac Sainte-Anne",
+    "location": {
+      "name": "Hautes-Alpes, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

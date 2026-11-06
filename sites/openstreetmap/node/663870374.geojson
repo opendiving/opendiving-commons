@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "61a8445c-1d26-594d-9210-631167eac7a3",
     "name": "Eschenz-Stein am Rhein",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

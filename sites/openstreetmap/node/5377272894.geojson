@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "58c3b589-c5e3-572c-8e1c-cdc4a6def529",
     "name": "Lido",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba6afbfc-82af-5d0c-af11-95e0b0ca70f3",
     "name": "Chicken Reef",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c23f03d5-1149-57db-9a77-b0f51b4a9202",
     "name": "La Croix",
+    "location": {
+      "name": "Valais, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

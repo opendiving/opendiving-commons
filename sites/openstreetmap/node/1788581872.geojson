@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9f51c91-dd89-55c4-8eda-6073c16423b0",
     "name": "Negre del Falaguer",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

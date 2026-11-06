@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06a25f42-8326-5cb0-bb68-95975ae21595",
     "name": "Mike’s Point",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

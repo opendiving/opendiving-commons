@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe23f1e8-9ca3-51bb-a93f-42ce61eadc28",
     "name": "Blank-Eck",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0bc28aaa-3126-57c0-ae94-bd68ae6c39f3",
     "name": "Lac Léman-Minoteries",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

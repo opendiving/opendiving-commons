@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "53d9b76f-4c21-5b82-b4f3-1e98ca196bc6",
     "name": "SS Clan Monroe",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

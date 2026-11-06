@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ede5825c-84d0-5d9d-bea4-2e099f7ee2a0",
     "name": "ABT Salalah",
+    "location": {
+      "name": "Dhofar, Oman"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

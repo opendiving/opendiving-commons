@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f401cfd6-c7bd-5784-9203-cab9e9efb543",
     "name": "Motzener See",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

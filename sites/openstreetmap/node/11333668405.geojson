@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d6b667ee-d749-5aab-8f14-d5ada215c04b",
     "name": "Yellow Hut (unmarked site)",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

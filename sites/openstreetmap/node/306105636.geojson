@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "046c26a5-d2d9-52e8-bd4e-9e6ab69c0e2d",
     "name": "Divemasters delight",
+    "location": {
+      "name": "Dhofar, Oman"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

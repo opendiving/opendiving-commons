@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "16cbbf07-ba71-5792-8693-b29bf738b1be",
     "name": "Duiker Island",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

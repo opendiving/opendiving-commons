@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "120bed76-0869-502f-bc7a-ed404e67882a",
     "name": "Gota Sataia 2",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

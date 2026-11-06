@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "872018c0-8a4a-519a-9b88-291edcb26a85",
     "name": "K-9 Deep Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

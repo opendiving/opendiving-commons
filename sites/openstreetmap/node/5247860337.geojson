@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a5647b7-4988-532a-9ae7-d79147a3e2e9",
     "name": "Berg",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

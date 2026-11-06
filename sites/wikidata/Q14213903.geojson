@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23275724-39b7-5f82-82d0-582797bd355b",
     "name": "South Paw",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

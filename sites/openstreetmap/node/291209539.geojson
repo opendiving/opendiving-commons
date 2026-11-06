@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ddbe45c-f74c-5eef-bc15-6feacda75113",
     "name": "Brechtsee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

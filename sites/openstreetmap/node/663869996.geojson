@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac6b3e55-35e7-5485-8b83-59335b038286",
     "name": "Pointe du Grain",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

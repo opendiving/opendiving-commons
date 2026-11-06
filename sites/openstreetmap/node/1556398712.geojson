@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95f73db5-b4b7-5b2d-9d0e-267fda107ca5",
     "name": "Gordon reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "63f8d4f6-a0df-5c5a-9e55-806ee480525e",
     "name": "Frankenstein",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7b9c776-e413-5825-b622-4cf388018b26",
     "name": "中の島チャンネル",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

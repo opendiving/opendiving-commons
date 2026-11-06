@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50c3a5b9-b1eb-5a6c-aed1-5e0e13c37285",
     "name": "Source chaude",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

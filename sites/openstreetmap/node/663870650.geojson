@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "80dd7b3d-1cea-5af8-9f92-796d6cafd440",
     "name": "Aschau",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

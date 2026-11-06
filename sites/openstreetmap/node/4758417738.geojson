@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f3e42a02-094e-52b6-8cb4-e89d18ffaa09",
     "name": "Tube Reef",
+    "location": {
+      "name": "Saint John, Dominica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13ab0df8-fc33-5672-a0b1-5a5baad9988a",
     "name": "Tornowsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

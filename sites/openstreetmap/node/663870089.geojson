@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9a00bb5c-0d1d-5b95-8e0d-f250ac778054",
     "name": "Stadt Solothurn",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

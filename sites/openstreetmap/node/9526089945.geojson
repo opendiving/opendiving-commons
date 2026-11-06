@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "308a3b3b-d52f-5113-b28a-f429a5d6af72",
     "name": "Tiger sharks feeding point",
+    "location": {
+      "name": "Gnaviyani Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

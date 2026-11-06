@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71738697-11f1-54a7-9688-8d348a489a26",
     "name": "Lalosi",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

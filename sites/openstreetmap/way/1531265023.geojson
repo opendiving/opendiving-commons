@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f3c572fa-d099-5965-b4c0-675084252bf9",
     "name": "Einstieg E0",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

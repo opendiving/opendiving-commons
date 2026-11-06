@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a7381bd-319b-5225-bc77-5894e6389c50",
     "name": "Lhohi Bodu Kandu",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

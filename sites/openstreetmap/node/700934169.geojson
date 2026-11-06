@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1f432299-9880-5637-a84b-a81e5cc427b4",
     "name": "Ras Disha",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

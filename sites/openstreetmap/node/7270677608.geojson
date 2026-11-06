@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2ef0a47-21d7-5447-99be-5b745d502136",
     "name": "Bajo",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

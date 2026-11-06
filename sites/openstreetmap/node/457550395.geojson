@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "39b4cc0f-86c1-57f3-b2a9-616a00e2412a",
     "name": "Ytre Kalven",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

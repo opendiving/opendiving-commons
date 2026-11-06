@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b1611ce-4a55-5563-859c-52874542c051",
     "name": "Mononaftis",
+    "location": {
+      "name": "Crete, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

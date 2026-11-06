@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1c16b5a-7016-5beb-b55d-cf95188ea235",
     "name": "Seealpsee Einstieg",
+    "location": {
+      "name": "Appenzell Innerrhoden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

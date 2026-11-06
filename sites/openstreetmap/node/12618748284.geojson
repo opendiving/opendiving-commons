@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2893a7e9-4fac-5c88-ae4f-74e7c574f1e5",
     "name": "Barco Hundido",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

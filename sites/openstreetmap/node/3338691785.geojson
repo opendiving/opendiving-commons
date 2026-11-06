@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f3a5ce4-f10f-5fc2-b538-7bb2ee5e8713",
     "name": "Gordons Bay Underwater Trip Start",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

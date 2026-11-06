@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aae5b5fe-471a-5672-8b1d-48fd02aef87c",
     "name": "Kastellin Plongée",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

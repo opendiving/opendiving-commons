@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "973ca10a-a26b-5c26-b753-81a7b5994c3a",
     "name": "Dresden",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

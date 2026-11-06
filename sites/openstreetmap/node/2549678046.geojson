@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6908a585-6657-545d-989f-d5cd66e902db",
     "name": "Moyadons",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

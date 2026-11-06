@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e3c5090-613f-500d-9c84-67976f7b8818",
     "name": "Kleines Bootswrack",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2aa6df42-361c-50b9-88f1-0da36e151c5e",
     "name": "Weißensee - Erker",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "440b2b9c-3d4e-5a4a-bed3-09fcf42f0435",
     "name": "S.S. Illyrian",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

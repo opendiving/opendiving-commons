@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "952317f6-747e-59b3-9e99-11c28d55cf24",
     "name": "Brbišćica",
+    "location": {
+      "name": "Zadar, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

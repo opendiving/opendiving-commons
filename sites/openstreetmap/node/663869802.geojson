@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6294abaa-35bc-5866-8c36-731f5bc9b191",
     "name": "Abu Ramada - Ost",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

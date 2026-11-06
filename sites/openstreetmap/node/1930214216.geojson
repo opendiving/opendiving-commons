@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c67749cd-f47c-5c08-945f-324e1418e901",
     "name": "Cristo degli abissi",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "342f987c-e141-554e-a3bd-135298390311",
     "name": "Zuidweg",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

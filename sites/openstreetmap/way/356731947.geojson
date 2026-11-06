@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2ca6fcfe-cc4f-5b5d-af04-cf564729a9d6",
     "name": "S'Encalladora",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

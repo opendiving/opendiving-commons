@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ccd775b9-0c79-5e57-a1a6-36d9b47945ef",
     "name": "Nimpi Dinding",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

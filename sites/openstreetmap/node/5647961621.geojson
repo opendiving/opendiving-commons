@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "df0bcb09-95ed-55cc-b815-0dda3c2d3b68",
     "name": "Site de plongée de Challière",
+    "location": {
+      "name": "Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

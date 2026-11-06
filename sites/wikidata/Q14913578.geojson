@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93c05aba-9dd4-5c02-a8eb-02ea3f1ed44b",
     "name": "Omega Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ae61d504-41ec-53c0-b118-abbfd4a69311",
     "name": "Il-Bejta tal-Fenek",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

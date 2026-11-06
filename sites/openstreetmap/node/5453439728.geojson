@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11e73871-290d-57ec-9b46-62a675bd2b6b",
     "name": "Toblerone",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

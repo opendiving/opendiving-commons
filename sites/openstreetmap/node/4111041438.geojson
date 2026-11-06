@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95486338-3f42-5b10-ad85-2f4bc41d1f35",
     "name": "Spongebob",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

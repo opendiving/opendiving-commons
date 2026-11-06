@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eb8ee1c9-be4a-55e1-a774-da1d029a9fed",
     "name": "The Tugs (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

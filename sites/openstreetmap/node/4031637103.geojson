@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6445bff-3ed6-5482-a3de-8a491a07b90b",
     "name": "Old Clam Farm",
+    "location": {
+      "name": "Kosrae, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

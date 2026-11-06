@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b25afc3-c596-5e2d-87c0-2baae9b67bea",
     "name": "Wolfgangsee",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

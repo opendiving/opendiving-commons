@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d546556d-2f96-5c54-9264-c0aec8b42a12",
     "name": "Trampa Tortuga",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

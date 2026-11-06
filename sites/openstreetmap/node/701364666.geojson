@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7f0d004-95fa-51b4-b181-cee8f9d9f4da",
     "name": "Shaab Hamam",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dc91cde6-3d30-53d8-b2af-41e40bf6b50c",
     "name": "South Bedford Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

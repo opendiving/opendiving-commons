@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a4f45e04-b278-5653-92d6-aa5d71a7bab5",
     "name": "Katterauva",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

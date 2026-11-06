@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc891ef7-ec14-508b-a2d1-4d992c4c51ee",
     "name": "CB Alphasub",
+    "location": {
+      "name": "Almería, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

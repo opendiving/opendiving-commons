@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7a1ca96-e5be-54db-8f16-8c19d45abfd2",
     "name": "Lag la Cauma",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d82413bd-2f66-5c1e-9914-d9c4a9a87164",
     "name": "Guraidhoo Channel",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

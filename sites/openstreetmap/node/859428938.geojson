@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a4bef40-90ed-560a-9838-70fc51653794",
     "name": "Twins",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

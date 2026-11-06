@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95a90ccc-803f-5749-b079-1bbda7af85f7",
     "name": "Gola di Ponte Brolla",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

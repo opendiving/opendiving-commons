@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20271e7a-d18d-5920-9e41-79cced4a12b4",
     "name": "Wild Life",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

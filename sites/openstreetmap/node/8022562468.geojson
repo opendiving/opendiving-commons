@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5348410-75a9-59f8-ab38-4534a4bb479b",
     "name": "Sabolon kecil dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

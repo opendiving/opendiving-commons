@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b553d26-a0f8-5d9d-90d7-219e9113675f",
     "name": "Castle Rocks Point Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "860e9331-44ec-5699-9054-0a3eb746df1c",
     "name": "Vaadho Caves",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

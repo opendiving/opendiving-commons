@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "25c84638-3bd8-51c7-8afa-75be043ca6fe",
     "name": "Tanguigue Reef",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

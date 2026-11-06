@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5cfb323e-0b18-5d0b-a0a0-3f69c1a27ed2",
     "name": "Plansee - Zone 1 (Schotterparkplatz Kaiserbrunnen)",
+    "location": {
+      "name": "Tyrol, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

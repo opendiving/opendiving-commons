@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "61d9d55e-88fb-5d59-a0f4-d7303ba4aa9b",
     "name": "Eingestürzter Stollen",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

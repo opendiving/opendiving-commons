@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d80a1284-a55a-5b9d-a2f0-9bee8386fc21",
     "name": "West Coral Pass",
+    "location": {
+      "name": "Ratak Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

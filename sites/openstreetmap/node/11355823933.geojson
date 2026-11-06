@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff61f2af-74be-5621-ae61-97f5575a0739",
     "name": "University of Galway Sub-Aqua Club",
+    "location": {
+      "name": "Galway, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

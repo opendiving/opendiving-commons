@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "888b735c-95a2-5925-a755-e39f29031d90",
     "name": "Shaabruhr Umm Gamar",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

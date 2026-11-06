@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "832c2706-ad61-5183-bdd6-c32742c4336b",
     "name": "Thassos scuba diving",
+    "location": {
+      "name": "East Macedonia and Thrace, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

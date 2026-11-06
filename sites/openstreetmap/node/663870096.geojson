@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc1b6f0b-95b2-5e74-9c65-d58bc2a9068c",
     "name": "Burgäschisee-Strandbad",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

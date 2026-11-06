@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1f92d72-263c-50bc-8195-000653b37909",
     "name": "Seegarten",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

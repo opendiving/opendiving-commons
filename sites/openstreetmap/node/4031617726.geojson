@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9bcc384b-bb1e-597d-97d3-e0ae2143c9e1",
     "name": "Sankisan Maru",
+    "location": {
+      "name": "Chuuk State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0128a6fb-761c-5b8e-b464-9f0cd38b9907",
     "name": "Rachel's Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

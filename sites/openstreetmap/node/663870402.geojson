@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3753460f-50e9-5163-a43a-fc1c5c4e4863",
     "name": "Schiffsstation Stralegg",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

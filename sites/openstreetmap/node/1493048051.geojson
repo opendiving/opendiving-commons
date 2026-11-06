@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0f5565f1-0b72-5fc1-bdf2-0473c8c7cca7",
     "name": "Soug Bahar",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

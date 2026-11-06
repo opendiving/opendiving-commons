@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "17990121-c7d4-5d04-ab56-ffaa08d4b38d",
     "name": "Gola del Lupo (Wolfsrachen)",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

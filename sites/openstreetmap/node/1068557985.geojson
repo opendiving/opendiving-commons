@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "18cbc0ca-4153-5adb-a996-ee9309467af2",
     "name": "Shaab Nakari",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

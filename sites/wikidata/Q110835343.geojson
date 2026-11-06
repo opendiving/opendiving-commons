@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c9c6814-3f42-5833-a6bc-e5642eccbb37",
     "name": "Diving the Cape Peninsula and False Bay/Blue Flame Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

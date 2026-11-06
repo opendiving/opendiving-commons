@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6e7ed0f0-a5bc-51e4-9aa0-83f42cd6287c",
     "name": "Bulakan",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

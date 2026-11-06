@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2cd60fff-9b50-5c28-9645-3cc801ae1057",
     "name": "Tauchspot Linowsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

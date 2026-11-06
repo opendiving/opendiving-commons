@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3eaf6f9e-d305-550a-9bc8-ca5ec272f552",
     "name": "Tête de la vache",
+    "location": {
+      "name": "Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

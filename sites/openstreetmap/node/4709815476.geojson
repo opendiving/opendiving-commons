@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "157127b5-40de-5583-b24e-d49a7ad11b60",
     "name": "Duiklocatie Boschmolenplas",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

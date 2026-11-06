@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cf994755-d23e-5e2f-9a62-fa27d5fb9859",
     "name": "Lillie Parsons (Wrack)",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d98063f-2be5-52e6-bee9-14e7170751ed",
     "name": "Boo Window",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

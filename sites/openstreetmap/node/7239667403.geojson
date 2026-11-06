@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05c8c234-3e56-59fe-8232-57b302f5c028",
     "name": "El Arco del Tropic",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

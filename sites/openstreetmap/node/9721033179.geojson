@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8865fe57-0579-550e-b2aa-55840e85e645",
     "name": "Angarosh",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

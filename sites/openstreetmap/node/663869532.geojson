@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "73a948fd-f3a8-5d77-b4b1-f86150a85d31",
     "name": "Cedarville (Wrack)",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

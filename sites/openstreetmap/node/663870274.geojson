@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f10834e4-060c-5c20-ac32-1cda8ea9ecb7",
     "name": "Wiesli",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

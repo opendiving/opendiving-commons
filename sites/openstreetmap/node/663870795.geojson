@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a667d715-4454-569e-85de-53207b84ce03",
     "name": "Starnberger See - Ambach",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

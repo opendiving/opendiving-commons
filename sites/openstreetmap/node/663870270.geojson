@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "daace828-6ed2-5d18-9a11-d16d40e98ed0",
     "name": "Pumpihüsli",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

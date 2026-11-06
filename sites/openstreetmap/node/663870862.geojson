@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3788a0b6-f32d-5fc9-9eb2-e6418f2e8bdb",
     "name": "Hohenwarte-Stausee - Eichenwäldchen (Wrack)",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

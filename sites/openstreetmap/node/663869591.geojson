@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8ffcad9e-0f30-5523-841f-eeff6a2332df",
     "name": "HMS Minion",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d3fbdc18-7ad3-5deb-b1d9-3cda655a5574",
     "name": "Krausebruch",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

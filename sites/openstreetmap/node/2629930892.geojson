@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "61d8b344-cd80-5b71-8e1a-69e86a1c89e7",
     "name": "Camp Bay",
+    "location": {
+      "name": "Gibraltar, Gibraltar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38670b6c-8a4b-5a06-8a0f-1072034fe61d",
     "name": "Einstieg E3",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

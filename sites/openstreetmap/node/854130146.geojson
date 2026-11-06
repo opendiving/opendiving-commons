@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "393479ec-a633-5cfb-a80d-1ad847764aec",
     "name": "Taylor Made",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

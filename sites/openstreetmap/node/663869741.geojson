@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5fbb80b-dd76-5171-8b80-54b2c3138c4c",
     "name": "Kap Tanki",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

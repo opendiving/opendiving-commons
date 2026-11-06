@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8ab91be0-ef5d-5cad-bccd-eca88f7ba8c2",
     "name": "North Castle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "663e97dc-31fc-53dc-badd-ed3b5e7a6257",
     "name": "Sloop Island Canal Boat",
+    "location": {
+      "name": "Vermont, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

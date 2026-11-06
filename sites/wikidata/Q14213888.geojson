@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "84e4586e-c439-5866-9da4-b9a8632c0ae4",
     "name": "SS Umhlali",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

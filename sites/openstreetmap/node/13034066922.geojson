@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23d3ec00-1047-5dd0-b040-9df849ff1488",
     "name": "Lakajai 2",
+    "location": {
+      "name": "Utena, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

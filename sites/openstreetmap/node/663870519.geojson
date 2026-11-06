@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ecea1e28-8fd4-53d1-a9e1-806a2a772f1d",
     "name": "Risskiessee Laupheim",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

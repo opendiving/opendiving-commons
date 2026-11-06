@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c79a8fde-d851-5307-a0d1-6adeeac9d84f",
     "name": "Prophète",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

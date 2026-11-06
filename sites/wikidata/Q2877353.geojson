@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12f7e335-bb63-5fea-aed3-d0309fe0dbdd",
     "name": "SS Oakburn and Bos 400",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

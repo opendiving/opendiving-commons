@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fdcc4f18-bb9d-54b1-a03f-8be504c822a3",
     "name": "Berendonk",
+    "location": {
+      "name": "Gelderland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

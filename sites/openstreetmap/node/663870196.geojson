@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "15ed5385-9209-51c1-aeaa-4da516c9dba9",
     "name": "Lago Cadano",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

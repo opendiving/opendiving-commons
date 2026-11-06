@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a4ba2b5a-e302-5b72-a110-f9efbd4d53f6",
     "name": "Urai",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

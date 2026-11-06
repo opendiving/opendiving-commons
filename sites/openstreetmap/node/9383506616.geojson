@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d181acb7-becc-51cd-8ede-426c3ec86227",
     "name": "Pain de Sucre",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

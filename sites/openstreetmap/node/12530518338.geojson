@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99019d8d-a592-55a7-a42e-81eebf7cb475",
     "name": "Förderbandgestelle",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

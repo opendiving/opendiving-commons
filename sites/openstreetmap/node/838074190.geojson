@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eb5e5754-a8eb-5334-9c3d-0629490eb94e",
     "name": "Puttis Place",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

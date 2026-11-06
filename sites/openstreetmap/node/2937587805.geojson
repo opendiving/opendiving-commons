@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1cf998c9-54ab-55b4-93e4-ebd22646c063",
     "name": "Centre International de Plongée- Saint-Nicolas",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

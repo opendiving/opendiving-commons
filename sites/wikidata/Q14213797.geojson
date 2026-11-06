@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee44923b-0aad-5459-b789-20131058d722",
     "name": "MFV Orotava",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

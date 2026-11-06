@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fed9d1cb-2719-54ee-89fa-d556a30f3b59",
     "name": "Alpha Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

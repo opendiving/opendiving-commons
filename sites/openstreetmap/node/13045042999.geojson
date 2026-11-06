@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc83a7e8-472e-515f-b7ca-c136799193a2",
     "name": "Elba Reef East (Southplateau)",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

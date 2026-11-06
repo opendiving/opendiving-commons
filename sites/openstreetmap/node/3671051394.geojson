@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "34e5a9c0-4f8c-5ca0-bbfb-2bccf6a63c97",
     "name": "Planet Ocean",
+    "location": {
+      "name": "Galápagos, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

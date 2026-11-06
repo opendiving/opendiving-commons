@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f89daa7e-9b9d-51e1-8efe-a473f6b3f43b",
     "name": "Tanjung Kopi",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

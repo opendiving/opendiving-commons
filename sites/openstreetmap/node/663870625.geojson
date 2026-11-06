@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8da28d70-6945-59e8-9533-c9ef2196a353",
     "name": "Heike",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

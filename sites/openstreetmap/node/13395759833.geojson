@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "02c7e574-9c7b-52b1-b6ce-78c7720375b9",
     "name": "Abu Soma Paradise House Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

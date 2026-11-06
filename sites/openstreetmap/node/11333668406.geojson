@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ea59a38d-abfb-5671-9dc9-99e2ccf5a7c7",
     "name": "Soft Coral Garden (unmarked site)",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

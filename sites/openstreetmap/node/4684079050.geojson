@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6a59651f-ddb5-5f3d-a945-8cb75c1af33d",
     "name": "Sebastian Inlet",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

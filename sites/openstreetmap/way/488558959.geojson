@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75a3fa95-2521-5386-b972-2fc9ea69a7df",
     "name": "Picãozinho",
+    "location": {
+      "name": "Paraíba, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

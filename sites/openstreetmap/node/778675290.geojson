@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "467f800f-25a5-5b09-baf1-ca915ff23fe7",
     "name": "Capt. K. Tibbets",
+    "location": {
+      "name": "Cayman Islands, Cayman Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

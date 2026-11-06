@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a2655d40-b4e1-5c4b-b152-37cd0da3a287",
     "name": "Shark Island",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

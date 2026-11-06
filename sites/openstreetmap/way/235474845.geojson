@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64c57e5d-118d-5486-80f8-f87bf0da866f",
     "name": "Plazhi i Manastirit",
+    "location": {
+      "name": "Vlorë, Albania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

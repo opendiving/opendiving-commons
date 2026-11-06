@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7c0b4dfc-6d30-549b-938f-2086e3b638dc",
     "name": "Saxe Point",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

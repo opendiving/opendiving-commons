@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c4da2cc-9eee-55cd-9891-2f7791a382ea",
     "name": "Äventyrsgruvan",
+    "location": {
+      "name": "Dalarna, Sweden"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

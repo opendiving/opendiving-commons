@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3c55664-f92f-5210-8f7a-8a5162b9f7b8",
     "name": "Duikplas",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

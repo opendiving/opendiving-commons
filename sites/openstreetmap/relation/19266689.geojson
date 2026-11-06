@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8ddeac19-4648-573d-8b24-935dbfe37f37",
     "name": "Shaab Sheer",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

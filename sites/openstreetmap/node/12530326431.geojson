@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ddb570ff-329c-5ac9-854f-a2f2c79600d7",
     "name": "Taucher E5A",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

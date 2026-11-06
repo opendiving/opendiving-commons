@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ca8ad5f-0e6d-5373-af22-6cbfc20b086f",
     "name": "Clifton Rocks",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c971bcee-250a-5340-b09d-03fcc7c64b85",
     "name": "MV Mars",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

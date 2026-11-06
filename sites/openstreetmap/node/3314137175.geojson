@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2ef4d614-6114-51d9-81ef-095998c3f3bb",
     "name": "Coral garden",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

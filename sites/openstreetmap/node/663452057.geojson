@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c70ac1cb-93f7-5bec-8575-7eba1f9aa30e",
     "name": "Haus am See",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

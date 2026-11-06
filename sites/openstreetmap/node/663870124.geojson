@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3cb5946b-a665-5901-9ea9-57fd230834ea",
     "name": "Alter Aarelauf",
+    "location": {
+      "name": "Aargau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1dcb73f5-f029-5627-87b6-4d7d3f86683f",
     "name": "Sur Momont",
+    "location": {
+      "name": "Fribourg, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

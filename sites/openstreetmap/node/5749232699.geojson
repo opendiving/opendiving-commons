@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "243a2411-7695-515c-bb58-c247fc91f95c",
     "name": "Sportpension Schober",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

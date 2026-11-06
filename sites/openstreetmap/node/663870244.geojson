@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a0f02c16-5045-5d33-ad0e-6f3cd4454a89",
     "name": "Talalpsee",
+    "location": {
+      "name": "Glarus, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

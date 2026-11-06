@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a01007be-7068-5486-98f7-5d6f6afd59bd",
     "name": "Bajo de Molas",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

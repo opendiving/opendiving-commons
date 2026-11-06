@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d6f53a19-69af-5ce5-8047-f14a0d0a597d",
     "name": "Jardín Medio",
+    "location": {
+      "name": "Puntarenas, Costa Rica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

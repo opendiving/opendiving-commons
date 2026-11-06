@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fce7426-0e0c-5165-ab55-9e831741abbf",
     "name": "Dolphin Underwater Club",
+    "location": {
+      "name": "Auckland, New Zealand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

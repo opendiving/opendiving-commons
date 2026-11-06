@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a16904d-0f61-5158-a1ec-ac3cd7a4769b",
     "name": "Siladen 1",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

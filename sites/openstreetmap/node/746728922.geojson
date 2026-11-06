@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c75a284f-c183-54d6-9d64-45dee3bf1868",
     "name": "diving zone",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

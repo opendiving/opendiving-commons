@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4aea0d18-2e6b-5741-91d2-090dc3a86db3",
     "name": "Kabelhaspels",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

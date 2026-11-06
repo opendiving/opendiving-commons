@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0c20c7bc-59b4-5ce4-9f57-29f9c5e65571",
     "name": "Blue Holes",
+    "location": {
+      "name": "Peleliu, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

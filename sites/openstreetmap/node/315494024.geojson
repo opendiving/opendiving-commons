@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d07f7c5e-7de9-5f2e-ac6b-bf142be5b9c7",
     "name": "Shaab Shona",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

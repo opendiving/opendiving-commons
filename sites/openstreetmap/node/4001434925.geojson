@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "047487ff-f0e4-51f9-948e-8b9d9556c9c0",
     "name": "Black Rock Dive Centre",
+    "location": {
+      "name": "North Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

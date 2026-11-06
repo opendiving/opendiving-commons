@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1f7366ae-2bee-55b1-8d44-8c83fe3280f5",
     "name": "Santa Marija Point",
+    "location": {
+      "name": "Żebbuġ, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

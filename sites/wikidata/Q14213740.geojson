@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff275e3e-1c2d-5bf3-bfe5-5d9aaf3fb410",
     "name": "Die Josie",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ebc360dc-61fb-572b-9845-c67dbb25d894",
     "name": "Mettmenalp",
+    "location": {
+      "name": "Glarus, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

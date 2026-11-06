@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47eeb844-30d8-5317-a7af-eda773799273",
     "name": "Ulong Channel",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

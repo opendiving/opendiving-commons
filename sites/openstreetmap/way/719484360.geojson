@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1297c0e-9be1-5202-a9d9-fad4cead10de",
     "name": "Lock 23",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

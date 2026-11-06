@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23f8353f-bd98-5669-ad96-b66c4b392a91",
     "name": "Maison du Plongeur",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

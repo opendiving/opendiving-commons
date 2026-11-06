@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "478b51e3-2ea0-5a5a-b77d-54056473fc17",
     "name": "Ped",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

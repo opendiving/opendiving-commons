@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c21d3e1b-becd-5166-bdb8-5123fd9d4ca2",
     "name": "Iċ-Ċirkewwa - Sikka ta' Barra",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

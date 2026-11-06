@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "44ee5968-722f-56ce-941b-06e6447ec5ca",
     "name": "Novotel House Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

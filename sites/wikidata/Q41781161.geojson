@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64d0c22a-8eab-56c9-af26-27730aacd4b6",
     "name": "M&M Cave",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

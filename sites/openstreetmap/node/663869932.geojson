@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f5724298-fbb5-59fa-9946-85dbc5b0ab5a",
     "name": "Dongmaas Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

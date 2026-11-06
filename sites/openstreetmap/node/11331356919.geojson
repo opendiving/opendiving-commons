@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ebd9f24-c048-5c9f-bef1-87b06c952ae5",
     "name": "Legend",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

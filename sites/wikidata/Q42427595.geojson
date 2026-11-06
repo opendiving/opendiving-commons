@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5fa6e1a5-5dd8-5ed9-ab4f-e3cf9a78661a",
     "name": "Stone Dog",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

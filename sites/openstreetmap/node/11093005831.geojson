@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8b605a47-a9f0-56ec-8dcc-841ff053a435",
     "name": "Jotao Abu Galawa",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "55d3d577-016b-522d-b2eb-4c80566c8f96",
     "name": "Veligandu east",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

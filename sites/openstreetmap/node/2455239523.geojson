@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0010f97-6d4c-5409-897d-300fdb72afa3",
     "name": "Stevan reef",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b307f4ca-a43b-5f54-bfcc-646f0ec9a4eb",
     "name": "Pullinger Weiher",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

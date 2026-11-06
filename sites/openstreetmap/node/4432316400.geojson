@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d5f848ae-f13c-5739-af94-9d776bc22861",
     "name": "Murex Dive",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

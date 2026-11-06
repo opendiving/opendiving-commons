@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "34bd7e7f-3f0e-56ae-8446-d73f34bc8835",
     "name": "Rotava",
+    "location": {
+      "name": "Karlovy Vary, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

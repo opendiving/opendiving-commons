@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46c5ef7f-4f84-5a27-9d05-832a2cfd386b",
     "name": "Épave Sauerland",
+    "location": {
+      "name": "Charente-Maritime, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

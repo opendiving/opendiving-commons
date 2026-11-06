@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "61c911a8-f1f8-56f4-9cca-60ce3071915d",
     "name": "Trhová Kamenice",
+    "location": {
+      "name": "Pardubice, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

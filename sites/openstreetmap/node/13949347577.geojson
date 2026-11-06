@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "14373d22-1440-5df3-9b3d-765f0ae371d7",
     "name": "Boma",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

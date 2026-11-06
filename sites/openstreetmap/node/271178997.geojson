@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "16cbb971-eb66-5710-98ea-328eceee10b0",
     "name": "St John's Caves",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

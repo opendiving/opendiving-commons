@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f9485e2-5c3a-513e-ab07-f390d08b9c81",
     "name": "Ras Abu Galum",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

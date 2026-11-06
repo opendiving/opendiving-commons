@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a9839ffc-2613-5ef4-b9a0-37cc9c680a74",
     "name": "Brackett's Landing",
+    "location": {
+      "name": "Washington, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

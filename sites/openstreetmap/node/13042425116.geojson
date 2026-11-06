@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3446347-f030-5405-ab77-871a20d214ea",
     "name": "Troys Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

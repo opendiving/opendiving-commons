@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce0f0c74-d343-5fc8-8154-a1159633155e",
     "name": "Punta Venado",
+    "location": {
+      "name": "Magdalena, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

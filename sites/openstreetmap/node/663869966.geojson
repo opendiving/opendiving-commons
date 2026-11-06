@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2efd0ac-d1fa-568b-8710-bf5755a3444f",
     "name": "Arnensee-Ost",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

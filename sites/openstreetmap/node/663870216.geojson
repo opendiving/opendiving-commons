@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8f1ca8ca-b656-5f4a-a08f-849568e8bfaa",
     "name": "Unterwilen",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

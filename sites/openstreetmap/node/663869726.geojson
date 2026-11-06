@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e1af7f7b-b624-559e-aea9-0d5902d15163",
     "name": "Zabodaski",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

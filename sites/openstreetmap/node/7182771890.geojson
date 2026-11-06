@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d7abc96a-b38b-5ebf-bbb3-bbf560e9fd84",
     "name": "Loh Sera dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

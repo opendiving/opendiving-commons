@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b32ab52-1e7b-5a56-a7b7-66ffdc33a541",
     "name": "K-9 West Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

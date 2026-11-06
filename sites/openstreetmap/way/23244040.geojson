@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f12d468f-f35d-5cd8-92c7-e810cb78167f",
     "name": "Alter Steinbruch",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

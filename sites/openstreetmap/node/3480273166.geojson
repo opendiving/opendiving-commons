@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "085909a3-2c32-516a-a45e-309a4ccd435b",
     "name": "Shark Condos",
+    "location": {
+      "name": "Hawaii, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

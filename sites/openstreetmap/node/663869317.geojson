@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94abe83a-b595-5236-8d10-713722db9942",
     "name": "North Cod Reef",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

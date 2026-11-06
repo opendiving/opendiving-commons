@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd70837e-5f98-5721-a559-fbde384fd8e8",
     "name": "Jezioro Insko - Westspitze",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

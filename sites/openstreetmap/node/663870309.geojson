@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fadf6d8c-0b26-5e8e-a2fd-e27bf270a9f9",
     "name": "Hafen Männedorf",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

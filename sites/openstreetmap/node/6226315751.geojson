@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f34576a8-7f5c-58d1-84ae-1609823f5878",
     "name": "Site de Plongée La Perle",
+    "location": {
+      "name": "Martinique, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

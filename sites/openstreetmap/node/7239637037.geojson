@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d8328df-7bcb-5eeb-82dc-8dc9a6c81541",
     "name": "La Ferreteria",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

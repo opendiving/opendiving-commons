@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "338a035f-fa4a-50eb-b180-d614d607e7d1",
     "name": "Thalassa Lyon Plongée",
+    "location": {
+      "name": "Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

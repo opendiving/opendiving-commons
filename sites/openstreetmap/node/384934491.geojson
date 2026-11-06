@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a51fa4d3-60d4-5659-9480-e4e8f0b1dc7e",
     "name": "Għar Ħanżira",
+    "location": {
+      "name": "Għasri, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

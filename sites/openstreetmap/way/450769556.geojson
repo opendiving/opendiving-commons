@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd75d58e-ee6b-5da1-9057-1fc9146a9702",
     "name": "Palestra subacquea Arenzano",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

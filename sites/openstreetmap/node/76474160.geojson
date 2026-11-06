@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c647d071-b25d-5283-8e84-c2312bf52b5c",
     "name": "Wassersportzentrum Zürich (WZT)",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

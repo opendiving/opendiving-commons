@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f01cad38-33b2-5dff-b46c-1a30b2ece30b",
     "name": "CB Almasub",
+    "location": {
+      "name": "Almería, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

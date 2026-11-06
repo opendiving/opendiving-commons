@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1c7c4e3-f56f-58b5-9177-f065e26b4de8",
     "name": "Lighthouse Channel",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3dc033b-fa49-51e9-b80c-347e8d5256d9",
     "name": "Boué Bora",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3547f08-35bf-5924-a2d7-39910420bb71",
     "name": "Adam Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

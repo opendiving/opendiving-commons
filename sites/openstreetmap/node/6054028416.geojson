@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b34bd2e-fcb6-5f65-82bb-3f48e7f3c097",
     "name": "Bildstock",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

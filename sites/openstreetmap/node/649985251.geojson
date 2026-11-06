@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1157919e-fd47-5563-a49d-f1c2eb99b52d",
     "name": "Dixon's",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

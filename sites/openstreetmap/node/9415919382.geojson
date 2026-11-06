@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b22c5cb7-55e4-557a-8911-1aaddf1ff55c",
     "name": "Kerynia",
+    "location": {
+      "name": "Famagusta, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

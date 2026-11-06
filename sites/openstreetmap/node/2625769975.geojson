@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd5aaae0-f37f-5709-b350-9c58a94a67c7",
     "name": "Windjammer",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

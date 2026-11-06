@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ff0cf23-410f-523b-8d0b-d7ed993ff6f5",
     "name": "Porto",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

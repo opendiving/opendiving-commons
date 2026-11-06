@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99e924fe-2be1-51e4-82c3-9958e6f839f7",
     "name": "Rosado",
+    "location": {
+      "name": "Diana, Madagascar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

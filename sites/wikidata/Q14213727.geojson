@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7f1f08c-db22-5af4-be6b-1dc24fa07909",
     "name": "Coral Gardens (Oudekraal)",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

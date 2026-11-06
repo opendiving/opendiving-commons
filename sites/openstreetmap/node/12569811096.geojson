@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95ec010b-d649-5420-b340-39b51903a0d2",
     "name": "Nieman",
+    "location": {
+      "name": "Västra Götaland, Sweden"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aa63b625-2337-53e4-88b7-e33bcf1ccf8d",
     "name": "Aigua Xelida",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

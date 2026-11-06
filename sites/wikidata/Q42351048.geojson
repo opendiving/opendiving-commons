@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c2d5a73-d75e-57ca-b252-5725d6db49da",
     "name": "Graeme's Spot",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

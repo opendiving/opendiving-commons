@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d38eb23-131b-58e7-992c-65d1f280940c",
     "name": "Calanque des Contrebandiers",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

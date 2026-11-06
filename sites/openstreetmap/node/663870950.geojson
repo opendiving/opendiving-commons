@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71d87b28-7f08-5f43-aa16-4b5d1640e564",
     "name": "Krumme Lanke",
+    "location": {
+      "name": "Berlin, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

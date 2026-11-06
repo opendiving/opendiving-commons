@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d23eb0d-c09c-52a0-9505-985ce9a280b8",
     "name": "Gipsunion",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

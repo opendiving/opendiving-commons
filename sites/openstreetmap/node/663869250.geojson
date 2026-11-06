@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "830299ff-82b5-5a9d-82e6-ab5ca281209e",
     "name": "Le trou de la Pieuvre",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

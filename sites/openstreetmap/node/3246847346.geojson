@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6b1e41de-71df-539b-9a65-82882c5ea920",
     "name": "Devil's Den",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

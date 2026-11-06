@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "af741713-cba5-553f-a693-e482fb3eec3b",
     "name": "Paso El Cedral Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

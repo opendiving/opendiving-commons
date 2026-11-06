@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "41ba1554-ecb0-521b-a271-3a2ad60623c8",
     "name": "Tauchspot Dolgener See",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

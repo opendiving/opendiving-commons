@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d84c3ac-e65a-5607-bc4f-92b0f34da6b1",
     "name": "Red Rock",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

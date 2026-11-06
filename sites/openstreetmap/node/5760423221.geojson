@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "467bda2b-a332-5c18-a2cf-1b6ae9d27fb4",
     "name": "Siaba Kecil Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

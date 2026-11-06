@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e80b56b5-c9d9-555f-b22c-6bbaeea2d671",
     "name": "Porche des Eaux Mortes",
+    "location": {
+      "name": "Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d8c3552a-9382-5e0f-a2b6-a53f877ce791",
     "name": "North Pie Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

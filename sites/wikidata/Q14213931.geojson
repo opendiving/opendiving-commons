@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f492a82-5009-552a-bae7-263e07457a77",
     "name": "Tivoli Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

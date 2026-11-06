@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30fd0d8e-b366-55c9-9238-8598dcae5524",
     "name": "Coral Gardens (Rooi-els)",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

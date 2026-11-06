@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "34896f42-ccda-53ff-8358-58abb88bbd7a",
     "name": "La Gringa",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "80efbf24-7ccf-5805-9d86-8bdad703af2e",
     "name": "Frank E. Vigor (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

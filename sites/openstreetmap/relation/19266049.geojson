@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37164b12-37bc-502c-980c-c9158404e2fc",
     "name": "Gamul Soraya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e34d6298-b6fd-568f-8347-602e8491de84",
     "name": "MAV Achaios",
+    "location": {
+      "name": "Akrotiri Sovereign Base Area"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

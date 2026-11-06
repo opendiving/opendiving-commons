@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "84456ea9-b50b-5f76-85f1-27333b342d09",
     "name": "Diving Area",
+    "location": {
+      "name": "California, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

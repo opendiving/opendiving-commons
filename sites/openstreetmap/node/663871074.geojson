@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79b2e1a5-9d65-5632-ac53-c4c208a6b2aa",
     "name": "Dreetzsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

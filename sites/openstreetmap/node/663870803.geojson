@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d5f8e34b-346c-5a58-a646-ecc9f9a42abb",
     "name": "Leitgeringer See",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

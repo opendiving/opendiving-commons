@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c3ec22b-8795-510f-b9c0-8aa616495db8",
     "name": "Ichetucknee Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

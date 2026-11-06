@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f393bf1-b580-5c1a-8d27-c84321a54394",
     "name": "Chen Rio",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

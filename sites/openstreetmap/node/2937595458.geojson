@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "25d82aee-d528-5f89-b418-33693e4dfe0c",
     "name": "Épave Afrique",
+    "location": {
+      "name": "Vendée, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

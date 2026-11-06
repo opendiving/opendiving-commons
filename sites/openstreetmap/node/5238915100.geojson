@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cbb0a178-7494-5aba-b061-6ea779346545",
     "name": "Allmannshausen: Naturschutzgebiet",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

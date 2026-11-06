@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99a92fe0-3c5d-5360-955d-01ffa4c09aec",
     "name": "Canadair Wreck",
+    "location": {
+      "name": "Corse-du-Sud, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

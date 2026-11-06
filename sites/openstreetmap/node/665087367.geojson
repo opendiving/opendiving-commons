@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a0d60ca-60c9-5812-b02b-b385fabf426e",
     "name": "Badi Goldach Einstieg",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

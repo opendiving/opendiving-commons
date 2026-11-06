@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4aeed787-7ac4-52c0-aee5-bf00b02e62cc",
     "name": "Ħondoq ir-Rummien",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

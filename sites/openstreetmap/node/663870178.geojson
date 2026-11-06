@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b0d82511-5bc3-5b85-8d9a-1575a26bcb1e",
     "name": "Officine Elettriche",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

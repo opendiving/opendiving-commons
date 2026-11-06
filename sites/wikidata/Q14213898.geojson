@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9fd2d1c9-1c78-5796-bf7f-c1f04d1ab1d8",
     "name": "Smits Cliff",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

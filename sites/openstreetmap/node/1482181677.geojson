@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac67c2f6-4003-5e45-a26a-6934e40ea982",
     "name": "Aiguille du Prony",
+    "location": {
+      "name": "South, New Caledonia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

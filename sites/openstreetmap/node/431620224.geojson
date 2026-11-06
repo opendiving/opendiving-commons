@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6910f9f-6f80-5480-81ce-0f064a19c071",
     "name": "Ponton",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

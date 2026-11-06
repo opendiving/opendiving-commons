@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93fc2f3d-3820-557f-8e11-120af95d004a",
     "name": "Almsee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c68a3811-83cc-5b17-ac52-f2458cb1279e",
     "name": "Maria's Heart",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

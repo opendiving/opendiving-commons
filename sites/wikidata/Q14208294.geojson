@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8fcb8750-15ee-5f9d-b0dd-c8c6a1a18455",
     "name": "Eel Garden",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

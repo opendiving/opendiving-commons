@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "711a1c97-3ac8-53b2-8e8e-8aedf6ce83b6",
     "name": "Puerto del Carmen (east)",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",
