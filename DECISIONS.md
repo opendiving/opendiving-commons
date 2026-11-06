@@ -13,37 +13,51 @@ uuid5(NAMESPACE_URL, "https://github.com/opendiving/opendiving-commons/sites/<re
 where `<registry>/<identifier>` is the record's path under `sites/` without `.geojson`, for example
 `openstreetmap/node/255316037` or `wikidata/Q14213816`. The string is fixed text
 (`SEED_UUID_PREFIX` in `scripts/pool.py`), not wherever the repository happens to live. Moving or
-renaming the repository must not change an id that divers' logbooks already hold. Because the id is
-deterministic, re-running the seed reproduces every id it wrote before.
+renaming the repository must not change an id that divers' logbooks already hold.
+
+## A seed names the entry its path was made from
+
+`external_ids` is a fact a review can change, so it cannot place a file: a record that gains a second
+entry would otherwise have two candidate paths. `seeded_from` never changes, which keeps a seed at
+one path for good and lets the publish place it without guessing.
 
 ## A Wikidata item takes its first coordinate
 
 The seed's SPARQL query returns one row per `P625` (coordinate location) claim, so an item with
-several coordinates arrives several times. On 2026-10-17, 331 rows held 312 items. The seed writes
-one record per item, at the coordinate of the first row the query service returns for it.
+several coordinates arrives several times. On 2026-10-17, 331 rows held 312 items. The seed wrote
+one record per item, at the coordinate of the first row the query service returned for it. That
+choice is arbitrary: the query sets no order.
 
-That choice is arbitrary. The query sets no order, so a later run can pick another of the item's
-claims. A refresh that does so lists the record as differing rather than moving it, because the
-seed never overwrites a record that differs from what it would write.
+## The instance holds the records, and this repository copies them
 
-## A refresh rewrites only what it wrote, and only the date
+A record has one writer, the review queue on the instance the project operates, so the database is
+the truth and the repository is what publishes it. The copy is how the pool outlives that instance,
+and with the export it is the offer ODbL 4.6 asks of whoever publicly uses a database they alter.
+Git as the truth would put a GitHub secret on the instance and show an approval only after a round
+trip.
 
-`scripts/seed.py` rewrites a file only when the file is byte-identical to what it would write from
-the new upstream data stamped with the file's own `retrieved` date. In that case the only change is
-the date. Any other difference is left in place and listed: a maintainer's coarsened position, a
-merge's added entries, or an upstream rename. With the file alone, the seed cannot tell those apart.
-`retrieved` therefore means the date the record was last confirmed against its upstream.
+## `validate` checks every record, every time
 
-## The checks scope themselves to what a pull request changes
+A publish can touch any record, and the whole tree takes seconds, so nothing scopes the check to a
+pull request's changes. That also means a rule change is tested against everything it governs, and
+one record shape is valid at any time.
 
-`validate` checks the records a pull request adds or changes, against the whole tree for the
-cross-record rules. It checks every record only when the pull request changes the rules themselves
-(`scripts/`, `requirements.txt`, the workflow). Because the `main` ruleset does not require a branch
-to be up to date before it merges, two pull requests can each pass alone and conflict once both are
-in. A contributor's pull request is not failed for a record it never touched; the next change to
-the rules surfaces such a conflict.
+## A publish never removes a file
 
-The duplicate report's thresholds are floors calibrated on the catalogue the seed came from: 20 m
-whatever the name, 200 m for similar names, and 5 km for the same non-generic name. A rule moves when
-real contributions show it is wrong, and the change says which pairs moved. The baseline in
-`README.md` is what such a change compares against.
+Nothing retires a Commons record, so a record missing from the export is a fault at the other end,
+and treating it as a deletion would let a 404 or an error body empty the repository. Whoever builds
+retiring builds its path here too.
+
+## A publish merges as an App of its own
+
+A pull request opened with a workflow's own token starts no workflow, so the required checks would
+never report; an App's token starts them, and a commit it makes through the API is verified. It is
+an App of its own because the release bot's key reaches repositories that deploy on every merge, and
+a data repository's secrets are the wrong place for that.
+
+## The heartbeat keeps the schedule alive
+
+GitHub disables a schedule after 60 days without repository activity, and a quiet month of proposals
+is ordinary. So when 30 days have passed since the last commit on `main`, whoever made it, the
+workflow merges `published.json`. It lands in a pull request of its own and goes first, because a
+publish stuck red must not stop the repository counting as active.

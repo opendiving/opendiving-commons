@@ -6,7 +6,7 @@ import os
 import subprocess
 import threading
 from collections.abc import Iterator
-from datetime import UTC, date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 
@@ -211,7 +211,9 @@ class TestTheFetch:
         assert publish.fetch(export) == _collection(_seed())
         assert _Export.agent == publish.USER_AGENT
 
-    @pytest.mark.parametrize(("status", "body"), [(404, b'{"detail":"Not found"}'), (503, b""), (204, b""), (200, b"<html>")])
+    @pytest.mark.parametrize(
+        ("status", "body"), [(404, b'{"detail":"Not found"}'), (503, b""), (204, b""), (200, b"<html>")]
+    )
     def test_anything_else_is_a_failure(self, export: str, monkeypatch: pytest.MonkeyPatch, status: int, body: bytes):
         monkeypatch.setattr(_Export, "status", status)
         monkeypatch.setattr(_Export, "body", body)
@@ -239,14 +241,14 @@ class TestTheCommandLine:
         git("commit", "-q", "-m", "base")
 
     def test_a_failed_export_exits_non_zero_and_writes_nothing(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-        self._repo(tmp_path, datetime.now(UTC) - timedelta(days=40))
+        self._repo(tmp_path, datetime.now(timezone.utc) - timedelta(days=40))
         monkeypatch.setattr(publish, "fetch", lambda url: {"detail": "Not found"})
 
         assert publish.main([], tmp_path) == 1
         assert not (tmp_path / publish.STAMP).exists()
 
     def test_it_reads_the_address_it_is_given(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-        self._repo(tmp_path, datetime.now(UTC))
+        self._repo(tmp_path, datetime.now(timezone.utc))
         asked = []
         monkeypatch.setattr(publish, "fetch", lambda url: asked.append(url) or _collection(_seed()))
 
@@ -254,18 +256,18 @@ class TestTheCommandLine:
         assert asked == ["http://localhost:8000/api/v1/commons/dive-sites"]
 
     def test_a_recent_commit_is_not_stamped(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-        self._repo(tmp_path, datetime.now(UTC) - timedelta(days=29))
+        self._repo(tmp_path, datetime.now(timezone.utc) - timedelta(days=29))
         monkeypatch.setattr(publish, "fetch", lambda url: _collection(_seed()))
 
         assert publish.main([], tmp_path) == 0
         assert not (tmp_path / publish.STAMP).exists()
 
     def test_a_quiet_month_is_stamped_with_what_the_copy_held(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-        self._repo(tmp_path, datetime.now(UTC) - timedelta(days=31))
+        self._repo(tmp_path, datetime.now(timezone.utc) - timedelta(days=31))
         monkeypatch.setattr(publish, "fetch", lambda url: _collection(_seed(), _contribution()))
 
         assert publish.main([], tmp_path) == 0
         assert json.loads((tmp_path / publish.STAMP).read_text()) == {
-            "checked": datetime.now(UTC).date().isoformat(),
+            "checked": datetime.now(timezone.utc).date().isoformat(),
             "records": 1,
         }

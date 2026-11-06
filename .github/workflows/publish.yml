@@ -87,7 +87,9 @@ jobs:
         env:
           PUBLISHER_TOKEN: ${{ steps.app.outputs.token }}
           GITHUB_TOKEN: ${{ github.token }}
-        run: python scripts/land.py --path published.json --branch publish/stamp --title "chore: stamp the published copy"
+        run: |
+          python scripts/land.py --path published.json --branch publish/stamp \
+            --title "chore: stamp the published copy"
 
       - name: Land the records
         id: records
@@ -95,7 +97,9 @@ jobs:
         env:
           PUBLISHER_TOKEN: ${{ steps.app.outputs.token }}
           GITHUB_TOKEN: ${{ github.token }}
-        run: python scripts/land.py --path sites --branch publish/sites --title "chore(sites): publish the records the instance holds"
+        run: |
+          python scripts/land.py --path sites --branch publish/sites \
+            --title "chore(sites): publish the records the instance holds"
 
       # The job summary a pull request's `validate` writes is on that run. This one is the alarm,
       # so it says the same; the tree here is the tree in the pull request.

@@ -181,7 +181,13 @@ class TestTheChecks:
 
         with pytest.raises(land.LandError, match="stays open"):
             land.land(
-                github, github, branch=BRANCH, title=TITLE, files=FILES, sleep=lambda seconds: None, clock=lambda: next(now)
+                github,
+                github,
+                branch=BRANCH,
+                title=TITLE,
+                files=FILES,
+                sleep=lambda seconds: None,
+                clock=lambda: next(now),
             )
 
         assert github.made("PUT", "pulls/7/merge") == []

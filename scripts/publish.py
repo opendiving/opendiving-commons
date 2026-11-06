@@ -23,7 +23,7 @@ import subprocess
 import sys
 import urllib.error
 import urllib.request
-from datetime import UTC, date, datetime
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -116,7 +116,7 @@ def _last_commit(root: Path) -> date:
     seconds = subprocess.run(
         ["git", "-C", str(root), "log", "-1", "--format=%ct", "HEAD"], check=True, capture_output=True, text=True
     ).stdout
-    return datetime.fromtimestamp(int(seconds), UTC).date()
+    return datetime.fromtimestamp(int(seconds), timezone.utc).date()
 
 
 def write_stamp(today: date, held: int, root: Path = ROOT) -> None:
@@ -138,7 +138,7 @@ def main(argv: list[str] | None = None, root: Path = ROOT) -> int:
         return 1
     print(f"{len(records)} record(s) in the export, {len(written)} written")
 
-    today = datetime.now(UTC).date()
+    today = datetime.now(timezone.utc).date()
     if stamp_is_due(_last_commit(root), today):
         write_stamp(today, held, root)
         print(f"{HEARTBEAT_DAYS} days since the last commit: stamped")

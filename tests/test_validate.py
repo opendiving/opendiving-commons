@@ -221,7 +221,7 @@ class TestTheProvenance:
             (SEED_PATH, _seed, {"license": "CC0-1.0"}, "licensed 'ODbL-1.0'"),
             (CONTRIBUTION_PATH, _contribution, {"license": "ODbL-1.0"}, "licensed 'CC0-1.0'"),
             (CONTRIBUTION_PATH, _contribution, {"retrieved": "2026-10-17"}, "no retrieved date"),
-            (CONTRIBUTION_PATH, _contribution, {"seeded_from": {"registry": "wikidata", "identifier": "Q1"}}, "no seeded_from"),
+            (CONTRIBUTION_PATH, _contribution, {"seeded_from": {"registry": "wikidata"}}, "no seeded_from"),
             (SEED_PATH, _seed, {"retrieved": "17 October"}, "YYYY-MM-DD"),
             (SEED_PATH, _seed, {"retrieved": "2026-02-30"}, "YYYY-MM-DD"),
             (SEED_PATH, _seed, {"seeded_from": {"registry": "openstreetmap", "identifier": "node/1"}}, "seeded_from"),

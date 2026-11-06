@@ -94,7 +94,8 @@ class GitHub:
             try:
                 return self._once(method, path, data)
             except urllib.error.HTTPError as exc:
-                failure = GitHubError(exc.code, f"{method} {path} answered {exc.code}: {exc.read().decode(errors='replace')}")
+                detail = exc.read().decode(errors="replace")
+                failure = GitHubError(exc.code, f"{method} {path} answered {exc.code}: {detail}")
                 if exc.code < 500:
                     raise failure from exc
             except (urllib.error.URLError, OSError) as exc:
@@ -144,13 +145,13 @@ def wait_for_checks(
     while True:
         runs = github.request("GET", f"commits/{sha}/check-runs?per_page=100")["check_runs"]
         concluded = {run["name"]: run["conclusion"] for run in runs if run["status"] == "completed"}
-        failed = [f"{name} ({concluded[name]})" for name in REQUIRED_CHECKS if concluded.get(name, "success") != "success"]
+        failed = [name for name in REQUIRED_CHECKS if concluded.get(name, "success") != "success"]
         if failed:
-            raise LandError(f"{', '.join(failed)} on {sha}")
+            raise LandError(", ".join(f"{name} concluded {concluded[name]}" for name in failed))
         if all(name in concluded for name in REQUIRED_CHECKS):
             return
         if clock() >= deadline:
-            raise LandError(f"{', '.join(REQUIRED_CHECKS)} had not passed on {sha} after {_CHECKS_WAIT_SECONDS} seconds")
+            raise LandError(f"its checks had not passed after {_CHECKS_WAIT_SECONDS} seconds")
         sleep(_POLL_SECONDS)
 
 

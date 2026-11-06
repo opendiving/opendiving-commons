@@ -2,9 +2,9 @@
 
     python scripts/seed.py
 
-The instance publishing to `sites/` holds the records now, so nothing this writes reaches it,
-and what it writes is not the shape the record rules accept: the English name sits in the
-extension block and the file names no `seeded_from`. Refreshing from upstream is unsolved.
+The hosted instance holds the records, so nothing this writes reaches it, and what it writes is
+not the shape the record rules accept: the English name sits in the extension block and the
+file names no `seeded_from`. Refreshing from upstream is unsolved.
 
 **The records are an ODbL Derivative Database of OpenStreetMap**, which is why this script is
 checked in beside them: ODbL 4.6 wants the method of making a derivative reachable by whoever
