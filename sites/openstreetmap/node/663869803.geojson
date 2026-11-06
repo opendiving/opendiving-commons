@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9604f02-2d7c-5577-93e2-f8fa4f909a3f",
     "name": "Sha`ab Quais",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d66917a9-24e9-543d-9e81-94ef571926c2",
     "name": "Hol Chan Cut",
+    "location": {
+      "name": "Belize, Belize"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

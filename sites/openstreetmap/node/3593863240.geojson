@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2ddbdcd-7b1c-5e8b-b695-de6c24243b70",
     "name": "Cabbage Tree Island",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

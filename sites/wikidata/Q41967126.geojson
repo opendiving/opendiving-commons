@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1b61b5be-32fa-5b64-9518-dc9207ff301b",
     "name": "Degaussing range",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

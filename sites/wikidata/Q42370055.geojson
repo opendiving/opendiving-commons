@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1ebcaf6a-138c-5b96-b15d-2f3c65bb1f19",
     "name": "Kreef Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

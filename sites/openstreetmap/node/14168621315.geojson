@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f20bd210-0fb4-5b49-92ff-45ae00368a69",
     "name": "Manta coast divers",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

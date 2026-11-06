@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3f5fd938-543e-5099-8dd9-3549d8eb8c33",
     "name": "SS Copenhagen Shipwreck",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

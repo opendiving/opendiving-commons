@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d4147847-23d6-5d5e-a1ef-142952f6d0c9",
     "name": "Dhidhoo corner (out reef)",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

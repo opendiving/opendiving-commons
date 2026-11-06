@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4a5552e8-6942-5ff0-a7aa-a33d4882660a",
     "name": "Lhohi Kandu Tila",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

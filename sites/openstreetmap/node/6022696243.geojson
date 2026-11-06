@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aa926512-3e42-5d59-8021-e0858bd64c6c",
     "name": "Tombant des Deux Frères",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

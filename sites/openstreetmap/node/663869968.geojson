@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4556facd-2edf-507f-9d9b-f50945b4cee1",
     "name": "Lac de Géronde-Plage",
+    "location": {
+      "name": "Valais, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

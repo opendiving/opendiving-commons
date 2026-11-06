@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8cb6b872-d109-548a-916a-99e08d50442b",
     "name": "Ossiacher See - Strandbad Sattendorf",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "857b8c7a-439b-51ba-910c-d1ce3d75744b",
     "name": "Kirchbruch",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

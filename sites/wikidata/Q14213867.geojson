@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "939b277e-f018-57ab-ada0-73d95783353b",
     "name": "SAS Fleur",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

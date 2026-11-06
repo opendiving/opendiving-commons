@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86437e38-a46e-5ff7-af5a-1b184962e9ba",
     "name": "Anemone Nr. 1",
+    "location": {
+      "name": "Ratak Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

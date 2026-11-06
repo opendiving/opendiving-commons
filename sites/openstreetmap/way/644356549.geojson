@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5f28629-35ac-528e-9922-17e211eb69cd",
     "name": "Elphinstone Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "04a5ed0f-d0a1-5ff2-9828-479a8e86d1d8",
     "name": "Le fer à cheval",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

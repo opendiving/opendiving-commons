@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "593c0176-f7b3-5b95-888f-d619181382f0",
     "name": "Atlantis watersport",
+    "location": {
+      "name": "Goa, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

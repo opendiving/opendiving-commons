@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b15f23d3-12aa-5acf-8cc2-c519488f155f",
     "name": "Shaab Bohar Soraya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

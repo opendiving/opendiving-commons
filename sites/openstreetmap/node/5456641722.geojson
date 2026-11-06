@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7834e4a5-e11c-54f0-bf0f-52a9f093796a",
     "name": "P-47",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

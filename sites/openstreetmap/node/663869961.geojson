@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0d266d20-987a-5ba4-bab6-3ff700712447",
     "name": "Lac Léman-Le Creux-de-Genthod",
+    "location": {
+      "name": "Geneva, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

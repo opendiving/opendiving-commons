@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "658a488d-26fd-5714-822f-46189be68905",
     "name": "อ่าวหินงาม",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

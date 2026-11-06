@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "27ea1fe4-7f29-577c-9a74-173ab306a8cb",
     "name": "Plongée - Lyon Sport Métropole",
+    "location": {
+      "name": "Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

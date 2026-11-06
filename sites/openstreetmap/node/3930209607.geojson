@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20fa3c56-12b7-5c4a-96c0-bdf746443c2b",
     "name": "Дайв-центр \"Одесский стан\"",
+    "location": {
+      "name": "Autonomous Republic of Crimea, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

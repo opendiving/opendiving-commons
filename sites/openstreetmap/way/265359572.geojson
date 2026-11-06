@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "24b72080-a652-5238-9d13-9f6cd966c9ec",
     "name": "Tauchereinstieg",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

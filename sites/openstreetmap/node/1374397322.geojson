@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e372483-757b-5300-859d-1f996171e12e",
     "name": "Echtzer See, Tauchereinstieg am DLRG-Haus",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

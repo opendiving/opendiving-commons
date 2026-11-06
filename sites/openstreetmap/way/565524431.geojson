@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3dd8c567-f3d9-5507-be24-ae4cd6a0e4db",
     "name": "Cape Kri",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

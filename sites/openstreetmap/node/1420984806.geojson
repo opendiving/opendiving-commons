@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b7294cf-4568-55fb-90ca-83c73da7a19c",
     "name": "Playa Frans",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

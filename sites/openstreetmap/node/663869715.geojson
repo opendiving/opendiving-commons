@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "150cec93-a26e-5041-94f5-082dee877932",
     "name": "Plic Sajda",
+    "location": {
+      "name": "Zadar, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

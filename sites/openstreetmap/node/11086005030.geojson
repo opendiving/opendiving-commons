@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ab3d16ea-1f0a-5713-bf3f-dbfe05a68727",
     "name": "Grotta di San Francesco",
+    "location": {
+      "name": "Olbia-Tempio, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

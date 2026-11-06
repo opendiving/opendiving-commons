@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d06c46d0-39d6-521a-97f3-4b2163c9bba7",
     "name": "Victory Wreck",
+    "location": {
+      "name": "Malé, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

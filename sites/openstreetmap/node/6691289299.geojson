@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5156fc2d-fd54-54ba-87ca-44046d8dca8e",
     "name": "Les Brisés",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

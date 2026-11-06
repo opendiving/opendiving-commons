@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f4b2e971-f3f2-59e5-81e9-2563e0e475f4",
     "name": "Zilvermeer",
+    "location": {
+      "name": "Antwerp, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d9c3a57d-56c9-5685-af7d-b3690be9b580",
     "name": "Specular (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

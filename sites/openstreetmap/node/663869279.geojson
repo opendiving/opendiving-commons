@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72bf9c6e-0028-5943-94ad-4ab6a7028684",
     "name": "Telegraph Cove",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

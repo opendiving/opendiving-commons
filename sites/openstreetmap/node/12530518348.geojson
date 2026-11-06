@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b3d45f0-0ebd-535c-a11c-c330572ee0ac",
     "name": "Überreste Steilhang",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

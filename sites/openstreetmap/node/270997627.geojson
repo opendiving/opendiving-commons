@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94f9a232-dc5e-5d51-b7d8-a58977ebc926",
     "name": "3 Rocks",
+    "location": {
+      "name": "Puerto Plata, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

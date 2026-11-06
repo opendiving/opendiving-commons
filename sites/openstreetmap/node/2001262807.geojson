@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9a1136a6-1cd0-58a6-9bab-25ea612dc0c3",
     "name": "Bohrhammer",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

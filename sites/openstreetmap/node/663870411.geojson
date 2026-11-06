@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "105f7603-7273-5515-b0b8-cd096e4bc1b0",
     "name": "Laui",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

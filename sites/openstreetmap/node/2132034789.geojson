@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20d932df-3e12-56e2-a9c4-bc4477552155",
     "name": "Diving Spot",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

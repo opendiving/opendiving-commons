@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "134362d0-7ab3-5ecb-96a0-05135aad38b2",
     "name": "Chankanaab Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

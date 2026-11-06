@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c79212d4-274c-57ae-a00e-455c8222ebf1",
     "name": "Hiroshi West End",
+    "location": {
+      "name": "Kosrae, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

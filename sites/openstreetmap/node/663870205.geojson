@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9703d697-3ea9-5e0b-8d43-665cc1257a1f",
     "name": "Seegarten",
+    "location": {
+      "name": "Uri, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bce8d856-fc54-5ea6-9f7c-4f5edbd513f2",
     "name": "Torin",
+    "location": {
+      "name": "Magdalena, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "49756832-fa2d-559e-b1ed-1c977b9ae17a",
     "name": "Nord Ratoneau",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

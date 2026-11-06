@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28ee83ce-33a9-5238-9f6a-aae83f017166",
     "name": "Arbolitos",
+    "location": {
+      "name": "Baja California, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

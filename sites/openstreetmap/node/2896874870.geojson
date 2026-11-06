@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "43d063fe-f512-5717-a96a-dc5924b73c30",
     "name": "Scuba Lanka",
+    "location": {
+      "name": "Trincomalee, Sri Lanka"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

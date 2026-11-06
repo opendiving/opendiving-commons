@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2cfae222-b3b7-5b5e-bb9e-230e1161bc6d",
     "name": "vliegtuig",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2f0d805c-807b-5bd0-b586-75acfb648e3f",
     "name": "Barrage à Bütgenbach",
+    "location": {
+      "name": "Liège, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

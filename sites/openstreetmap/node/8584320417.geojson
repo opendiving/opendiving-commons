@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c7a63fd-dd2f-5a11-8066-0e3b2ba75da7",
     "name": "Broken rock",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

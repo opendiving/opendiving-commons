@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "84f5a14b-39dd-5e0c-ad3b-3a405ed3e2ff",
     "name": "Fontaine de la Burle",
+    "location": {
+      "name": "Lozère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

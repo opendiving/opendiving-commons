@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1bc2bd11-c888-5424-8317-eae41e97cd22",
     "name": "SMS Karlsruhe",
+    "location": {
+      "name": "Orkney Islands, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

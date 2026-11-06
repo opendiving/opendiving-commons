@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f373e04-72ed-5e0b-b914-aca94a13793d",
     "name": "Lac Léman-Gare St. Saphorin",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

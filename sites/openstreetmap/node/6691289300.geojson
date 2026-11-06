@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e17b4df8-2e0d-5b50-84f6-9752c6464f4e",
     "name": "L'Enfer de Taillat",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "07517762-27de-5304-a590-5ad047a39d8d",
     "name": "Raycrew",
+    "location": {
+      "name": "Ratak Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

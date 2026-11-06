@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b6aa0d7b-2145-58b8-a299-1054661e6875",
     "name": "TSC Dortmund e.V. 1959",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

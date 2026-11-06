@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93de2141-eb2e-54b4-a6a3-6a5870485e3f",
     "name": "Deep Partridge",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

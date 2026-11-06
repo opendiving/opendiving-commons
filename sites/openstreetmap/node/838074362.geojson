@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba837a49-002c-570a-a957-0e4d99223146",
     "name": "Schelphoek",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

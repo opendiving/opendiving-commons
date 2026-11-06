@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3ac4b8d-f9b5-5a73-bda7-a63a112fe033",
     "name": "Murner See - Einstieg Rutsch'n",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

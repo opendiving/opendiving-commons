@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1c677053-7f82-50a3-97cf-a26afe0655a5",
     "name": "Hukurudhoo reef",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

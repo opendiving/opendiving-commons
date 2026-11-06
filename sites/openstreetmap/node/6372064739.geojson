@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7f4b43d-2ed7-5109-aadd-52c15ac01e38",
     "name": "Großes Muränenriff",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

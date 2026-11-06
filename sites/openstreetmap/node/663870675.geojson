@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2735180-dcc6-50cd-8af3-63aff083e4b6",
     "name": "Walchensee - Steinbruch",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

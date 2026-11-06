@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47ce0834-3a93-5aed-a641-1d6b970c55c0",
     "name": "El Biotop",
+    "location": {
+      "name": "Tarragona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

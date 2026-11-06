@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b388b831-cc98-5e0c-b8b4-ff23bcfca884",
     "name": "The Wall",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

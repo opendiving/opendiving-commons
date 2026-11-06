@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b9a77586-b318-54e7-a5d1-baadddfa9d2d",
     "name": "Il-Magna tal-Ħasil",
+    "location": {
+      "name": "Żebbuġ, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

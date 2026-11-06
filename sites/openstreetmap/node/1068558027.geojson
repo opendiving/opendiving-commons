@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9483be84-443d-5b60-b0ac-3a43af8eb0cc",
     "name": "Sirnaka Island",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

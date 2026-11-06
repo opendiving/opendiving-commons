@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d0e8d54-9918-51bd-9a9a-a5ba0e43a960",
     "name": "Thundi",
+    "location": {
+      "name": "Gnaviyani Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

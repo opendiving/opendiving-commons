@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "039f7292-c530-529e-8147-23cb62ce03e9",
     "name": "Posse 2",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

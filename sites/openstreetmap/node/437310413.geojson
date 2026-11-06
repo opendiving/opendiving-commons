@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2f253d0c-4284-5fb0-ba7b-f9dab31acbe9",
     "name": "Ofen",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "40713e56-72e8-5a24-b0cf-06821544c5fb",
     "name": "Pahleng Corner",
+    "location": {
+      "name": "Pohnpei State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

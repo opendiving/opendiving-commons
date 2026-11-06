@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4546b9dd-4256-562b-8b2b-192261c05479",
     "name": "Lorry Bay",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

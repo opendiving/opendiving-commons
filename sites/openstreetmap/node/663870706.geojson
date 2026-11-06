@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b9ec7be4-6547-5a5d-86a8-a6650ee3c3a6",
     "name": "Ossiacher See - Kessel-Strandbad Christa",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "62f82dcb-facd-5f83-a04c-399ed0206d01",
     "name": "La Llosa des Patró Pere",
+    "location": {
+      "name": "Balearic Islands, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

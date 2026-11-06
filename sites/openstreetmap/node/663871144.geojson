@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a741ead1-8618-540c-9f53-091b3db4d60c",
     "name": "Jezioro Czarnoglowy Srednie",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

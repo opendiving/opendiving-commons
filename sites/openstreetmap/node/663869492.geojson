@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3d46a9d4-354d-54fa-84f3-0520ce2f9d0f",
     "name": "Bedfordshire (Wrack)",
+    "location": {
+      "name": "North Carolina, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

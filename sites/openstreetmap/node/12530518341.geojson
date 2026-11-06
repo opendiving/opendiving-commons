@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d33d967a-f4df-53af-b39f-c40fd23fadb9",
     "name": "Wald",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

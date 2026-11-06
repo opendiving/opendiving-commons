@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad6f1290-06fa-58a9-ad1c-309ecf706bdd",
     "name": "Menjangan - Pos 2",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

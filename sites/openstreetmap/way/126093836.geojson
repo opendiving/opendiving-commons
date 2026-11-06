@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3a92181d-1c6c-59fb-b068-02bf5d512d52",
     "name": "Carrière des Frênaies",
+    "location": {
+      "name": "Maine-et-Loire, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f018f44-9a53-553d-8b4a-9b2e60307063",
     "name": "Leuenhaab",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

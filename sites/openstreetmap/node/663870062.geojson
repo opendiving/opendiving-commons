@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d6201f55-6ffe-5a48-aab2-56f8764f2a9f",
     "name": "Rechte Dammseite",
+    "location": {
+      "name": "Obwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef659640-cbd6-593b-8100-1c895d19926d",
     "name": "Elba Reef West (Fingers)",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

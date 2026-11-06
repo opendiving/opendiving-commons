@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe2198d0-e69b-5aa2-9bdb-1cc743c2d29a",
     "name": "Koh Laun - Scuba Diving",
+    "location": {
+      "name": "Trat, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

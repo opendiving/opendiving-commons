@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7045d13b-372c-5c61-abb7-0f9a7cf6d7db",
     "name": "Elba Reef, South Plateau",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

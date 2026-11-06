@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "45f3b406-5ea2-5bb7-9587-a6d41e7f6770",
     "name": "Manta Reef",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

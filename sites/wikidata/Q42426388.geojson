@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5da281af-2d96-5f49-baf1-44e88973f8c1",
     "name": "Bellows Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

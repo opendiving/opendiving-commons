@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c7470021-4ecf-51e8-a9a2-a29e3ae91226",
     "name": "IBC's",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

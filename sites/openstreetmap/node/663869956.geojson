@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "590b668a-2041-5a55-8da1-4d282654b46f",
     "name": "Ecole de Mission",
+    "location": {
+      "name": "Valais, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

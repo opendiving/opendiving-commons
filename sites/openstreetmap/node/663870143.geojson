@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "964afc06-e045-5c43-bdaf-46daac17f825",
     "name": "Lago di Lugano-Parete di Riva",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

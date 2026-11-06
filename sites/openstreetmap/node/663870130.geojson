@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f52e3b83-cdad-5afe-912a-beee73c391e0",
     "name": "Lago di Lugano-Parete di Caslano",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

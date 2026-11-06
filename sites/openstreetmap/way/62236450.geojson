@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "67dd4093-e8d2-5b5f-9c25-fd9819a30987",
     "name": "Duikvijver De Kyn",
+    "location": {
+      "name": "Limburg, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

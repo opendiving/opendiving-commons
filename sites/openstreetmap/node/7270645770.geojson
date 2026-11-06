@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "09883845-7154-5330-ba82-13e23916d056",
     "name": "Chinatown",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

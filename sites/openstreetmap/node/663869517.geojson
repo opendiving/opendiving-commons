@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "49b59f77-68cd-576e-8e6c-60ce6da67b92",
     "name": "Water Witch",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

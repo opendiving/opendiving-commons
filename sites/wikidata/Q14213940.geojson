@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d778689c-e84e-558c-90ef-73daf45ae535",
     "name": "Whale Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

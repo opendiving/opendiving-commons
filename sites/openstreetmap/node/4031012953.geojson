@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d02ad3da-201c-57f7-b6da-d5b204425d41",
     "name": "Mill Channel old cleaning station",
+    "location": {
+      "name": "Yap State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

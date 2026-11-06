@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "73f4927f-0bda-5c0a-8046-340ea7946b1a",
     "name": "Vierwaldstättersee - Tellskapelle",
+    "location": {
+      "name": "Uri, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

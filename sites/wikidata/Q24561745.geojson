@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a321608-2d6a-58d9-9848-2147ab50af15",
     "name": "Dreischor",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

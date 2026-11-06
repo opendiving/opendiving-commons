@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b797a184-54c2-5629-9285-122ede4ce8af",
     "name": "Blue Wall",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

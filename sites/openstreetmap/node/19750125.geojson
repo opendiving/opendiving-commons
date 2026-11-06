@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2a66d61-8218-5218-a4f0-4d7d38ad65b0",
     "name": "Weissenbacheinlauf",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

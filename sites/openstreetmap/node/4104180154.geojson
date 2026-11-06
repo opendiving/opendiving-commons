@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cedb6c8a-d5d3-513e-ae56-3f2394f2f503",
     "name": "The Cleavage",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b871c3a6-2671-5554-ade3-80146b07c8e5",
     "name": "Five Sisters",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

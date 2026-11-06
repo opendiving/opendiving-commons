@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f47affb6-7003-5bdf-9b25-92bfbdf7b477",
     "name": "Liebesinsel",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

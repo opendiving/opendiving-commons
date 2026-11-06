@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95d031e4-93fc-53b8-9554-e145e4e3ff77",
     "name": "Glencairn Fan Garden",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

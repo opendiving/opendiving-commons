@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c345658b-939f-5e21-be5b-4927ba722caa",
     "name": "Turtle Reef",
+    "location": {
+      "name": "Soufrière Quarter, Saint Lucia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

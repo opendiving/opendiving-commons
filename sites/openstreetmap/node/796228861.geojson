@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50d5a4d7-4c65-584a-8ae4-c68f10fd1333",
     "name": "Gouffre de Cabouy",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

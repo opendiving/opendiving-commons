@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "deaafc01-d52b-55fb-8600-69a84eabe302",
     "name": "Largahan",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

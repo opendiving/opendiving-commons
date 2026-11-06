@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dcebeb54-f504-57a9-9b51-3ddba191e698",
     "name": "Schluchsee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

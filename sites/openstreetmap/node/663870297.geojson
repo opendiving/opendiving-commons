@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9abe26d2-a3ff-542a-b463-92865410eda0",
     "name": "Meilibach",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

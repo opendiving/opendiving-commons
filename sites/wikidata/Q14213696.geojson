@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46b65276-5a53-5621-a832-400080b444b6",
     "name": "Balcony",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

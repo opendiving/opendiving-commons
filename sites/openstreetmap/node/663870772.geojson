@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77ba5e6b-e3b5-53be-9cbc-32159b1af6c6",
     "name": "Gorgonien",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

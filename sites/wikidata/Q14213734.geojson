@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "be21d52e-0534-5dcc-80ff-70a8f7c0e32c",
     "name": "D-Frame",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

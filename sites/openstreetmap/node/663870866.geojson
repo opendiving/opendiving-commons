@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "118f18ea-9f8f-5ea4-9b94-910cf619977d",
     "name": "Hohenwarte-Stausee - Drachenschwanz",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

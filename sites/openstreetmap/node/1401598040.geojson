@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d22e6e01-49fd-5695-84aa-30b1c1960d9d",
     "name": "Grosse Geröllhalde",
+    "location": {
+      "name": "Livorno, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

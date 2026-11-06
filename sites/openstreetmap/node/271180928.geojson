@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "067f6876-165a-5de5-9431-3549edb7b929",
     "name": "Ras Shona",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

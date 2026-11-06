@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "efebe30a-0e3f-5da1-a03f-9e4363e554c8",
     "name": "Dorfbach",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3cb80293-ec80-5e00-9390-a6f32a7289ab",
     "name": "West Pie Rock Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

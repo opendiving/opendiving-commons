@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d3bc9170-78a8-5c72-918f-5473280a223c",
     "name": "Habili Ali",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

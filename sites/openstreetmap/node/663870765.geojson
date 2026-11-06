@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6af3f24d-c614-5adc-9094-6a366c037636",
     "name": "Grotta",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5f82bb51-fc6c-55ea-9784-729281ee889e",
     "name": "Traunsee - Eisenau",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

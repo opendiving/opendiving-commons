@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aabc71c5-c540-5377-b451-2d68c8750857",
     "name": "Tangkasi",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

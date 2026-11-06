@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "061921ab-4c4c-554e-8686-446f0ed57145",
     "name": "Inger Klit",
+    "location": {
+      "name": "Southern Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc6385fa-ada2-53b2-82c7-4dabdd29bac8",
     "name": "Hundloch-Quelle",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

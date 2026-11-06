@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cea27c9b-e4a7-5c86-a315-7c4dc4150f63",
     "name": "Diving the Cape Peninsula and False Bay/Muizenberg Trawlers",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

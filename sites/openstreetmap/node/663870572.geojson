@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5666568c-cf8d-5944-8177-194584391506",
     "name": "Badesee Halen",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

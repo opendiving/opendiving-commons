@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b494f374-e9d6-560e-9919-a8de9683b379",
     "name": "Illa de Sa Gavina",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

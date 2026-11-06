@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f075c0cf-0a59-5aca-ae8b-dcbf4310768f",
     "name": "Park Horn",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

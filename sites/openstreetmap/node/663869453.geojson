@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c61bd93f-f85a-5448-88dc-9dd1332907be",
     "name": "P. C. Barge",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

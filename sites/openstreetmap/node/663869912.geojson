@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a09aad8d-66eb-5c6b-a3e0-fb28bdc36833",
     "name": "Ramfaru Tulu",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

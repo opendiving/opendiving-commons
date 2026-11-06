@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eca09e7c-1a5b-5f7b-a078-707c5471d3ce",
     "name": "Fulford Reef",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2a8859d-c540-5285-9869-c53af39dc026",
     "name": "Weesperstrandje",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e28a8fa-577d-5a69-b0e0-ba9a9ef4f365",
     "name": "Amphores du frioul",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

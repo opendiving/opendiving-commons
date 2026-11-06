@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "393ab82e-7654-5d4d-9f75-c8213dde7b13",
     "name": "Guoddus Garden",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

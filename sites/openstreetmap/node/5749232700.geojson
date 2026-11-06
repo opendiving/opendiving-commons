@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4e5cddec-2fe4-51ff-962a-4d47f6154f3a",
     "name": "Hallstätter See",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

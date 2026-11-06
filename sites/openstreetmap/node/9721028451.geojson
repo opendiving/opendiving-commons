@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "266719e7-e4c5-546f-af53-5c9a41198188",
     "name": "Elba Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

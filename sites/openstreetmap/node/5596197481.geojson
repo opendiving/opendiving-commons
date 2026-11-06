@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b08e485-8f5d-5739-add7-64b995fe2392",
     "name": "Cala de sa Riera",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

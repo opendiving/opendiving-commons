@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "92da0792-1185-50bc-93c1-6d5a2db5ccb0",
     "name": "Trümmerfeld",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

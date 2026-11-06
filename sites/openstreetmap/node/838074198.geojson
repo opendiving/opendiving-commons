@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6900bdad-3214-51c1-8c6e-ceb49322cbfc",
     "name": "Lokkersnol",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

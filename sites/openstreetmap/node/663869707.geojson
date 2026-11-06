@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "954a8cb8-687b-5e52-b259-472b02c0f971",
     "name": "Um El Faroud",
+    "location": {
+      "name": "Qrendi, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

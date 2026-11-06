@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "02244ce9-8c0a-5c6f-8c5b-aba66c15a1fd",
     "name": "Slapy Stará Živohošť",
+    "location": {
+      "name": "Central Bohemian, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

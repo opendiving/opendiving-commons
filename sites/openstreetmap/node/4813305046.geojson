@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0a8d4d2-bf96-536b-929e-cd0e259b3124",
     "name": "Gili Divers Biorock",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

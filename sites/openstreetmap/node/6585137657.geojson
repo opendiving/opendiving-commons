@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79144936-e299-52d1-adef-8062f7cc4937",
     "name": "Middle Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

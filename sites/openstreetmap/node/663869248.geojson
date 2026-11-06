@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "555ebfa5-86a5-5ede-a156-50518e883dff",
     "name": "Aquarium",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

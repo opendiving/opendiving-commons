@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aef9dce7-c60c-55c1-95e1-8327aa771965",
     "name": "Ballypark",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0021be2b-020e-5d72-9f2b-d12bc7cc9571",
     "name": "Doug's Ridge",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

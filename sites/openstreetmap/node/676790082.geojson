@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e7ca72c4-49a4-528a-a479-8176f0cc5438",
     "name": "Burg",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96526c05-7f8c-563f-8394-7bdb31f603ef",
     "name": "Friwen Laut",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

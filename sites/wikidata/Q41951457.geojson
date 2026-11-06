@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4734693b-a643-5b03-8e48-42ca0d3feb4b",
     "name": "Rambler Rock Southern Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

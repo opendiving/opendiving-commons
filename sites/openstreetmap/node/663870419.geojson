@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aff62fd9-dd91-5150-8a50-6a9fc18745e6",
     "name": "Lädine",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

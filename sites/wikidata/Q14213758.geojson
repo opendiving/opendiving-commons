@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "518ffff5-d726-59e2-8c09-461ff2bd7cb9",
     "name": "Froggy Pond",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

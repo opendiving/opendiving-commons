@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00ea8bb1-4eee-5693-86b6-b3cd0f788081",
     "name": "Tenno lake rent",
+    "location": {
+      "name": "Trentino, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

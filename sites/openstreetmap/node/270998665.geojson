@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4fcf8346-9052-5673-99b2-22bccd40d325",
     "name": "Five Rocks",
+    "location": {
+      "name": "Puerto Plata, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

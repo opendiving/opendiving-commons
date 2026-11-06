@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4bc6d633-0b45-52a5-b5a4-48f16e58f498",
     "name": "Baluarte",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a177d49-e36d-5878-b76a-6f83cad11d4c",
     "name": "Peltastis",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d72916c-6f6c-5ad8-ac58-f2c243782091",
     "name": "Coral Divers",
+    "location": {
+      "name": "KwaZulu-Natal, South Africa"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eccc83a2-397a-5693-bf02-fd94f5223e2c",
     "name": "Sherwood Forest",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

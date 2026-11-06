@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fd19931-14a8-544f-aa05-7560cfbfaaf8",
     "name": "Mangrove Ridge",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

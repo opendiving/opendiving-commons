@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "656c865a-2576-5f0c-a7ec-2717019aabd1",
     "name": "Invalidenvissteiger",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

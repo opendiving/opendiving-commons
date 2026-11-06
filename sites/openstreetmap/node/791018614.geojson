@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e8b6e0c5-6ba9-5778-8b05-0ac15d6b76dc",
     "name": "les Ferranelles",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

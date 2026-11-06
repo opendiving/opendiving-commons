@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d75d3048-13b7-504e-a1e2-fc7cfe2ba04f",
     "name": "Shaab Maksour North",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

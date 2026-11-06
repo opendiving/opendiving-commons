@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "202c425d-518b-53a1-b0d8-e05a6eeb2f28",
     "name": "Arche du plannier",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

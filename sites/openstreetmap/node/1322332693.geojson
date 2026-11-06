@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6800c491-9044-57ba-ada2-8b1bb4e06f3a",
     "name": "Buco della Sovaglia",
+    "location": {
+      "name": "Como, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bd36d89d-58f5-522a-8d8e-dd16389f74bd",
     "name": "Niagara II (sandsucker)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

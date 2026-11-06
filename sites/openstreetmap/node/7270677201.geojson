@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fcaf0a5c-551b-5a28-b99c-f76804335e38",
     "name": "Pinnacle",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8cb3e102-f2d2-5982-bfab-4623b137d226",
     "name": "Haut Fond de Centuri",
+    "location": {
+      "name": "Haute-Corse, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

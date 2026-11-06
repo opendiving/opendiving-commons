@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93b950ad-eb68-5b1e-a12a-e48121ec720a",
     "name": "Les Alzines",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

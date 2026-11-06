@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b4541643-e9b7-50f6-8df3-b618e2157229",
     "name": "Manta Bay",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

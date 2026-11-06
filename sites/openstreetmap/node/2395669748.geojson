@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bb0264ed-0dd4-5fba-8278-8441b6af8064",
     "name": "Deep Turbo",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

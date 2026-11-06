@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb0479ec-76b0-59b8-8eb8-192be98da061",
     "name": "イボイボサンゴ",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

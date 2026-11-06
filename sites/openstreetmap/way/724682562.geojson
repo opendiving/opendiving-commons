@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a2cb606a-fddc-5c74-8274-35d232b8836a",
     "name": "Cala Galiota",
+    "location": {
+      "name": "Balearic Islands, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

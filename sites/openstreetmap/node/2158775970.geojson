@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "393b4a8e-c3f3-510d-aba0-2ef7aec3bf20",
     "name": "Kan Uran",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

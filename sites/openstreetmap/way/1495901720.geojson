@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ddf6398-1133-5a67-8ed3-d59f8ea04470",
     "name": "1000 Steps",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b68f43f-3fbd-55ba-9f5f-97374d05dbb4",
     "name": "Tofa Abu Hashish",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

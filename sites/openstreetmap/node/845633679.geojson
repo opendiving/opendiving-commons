@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "25f7a665-0b00-5278-b495-08ccfae99fbc",
     "name": "Hotel Bellevue",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

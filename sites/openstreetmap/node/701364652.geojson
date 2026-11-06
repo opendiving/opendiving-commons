@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7584fbf5-b381-5264-a8b1-dd7c1e06c62c",
     "name": "Dangerous Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

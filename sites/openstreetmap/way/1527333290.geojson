@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9dfb3e63-de08-5beb-b003-5d5a0ef05f3f",
     "name": "Centrum Nurkowe \"Ustka\"",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

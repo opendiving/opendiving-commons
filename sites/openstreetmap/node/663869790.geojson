@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b709af5-9425-54a8-a746-b2d4913a2afe",
     "name": "Sandy Island",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

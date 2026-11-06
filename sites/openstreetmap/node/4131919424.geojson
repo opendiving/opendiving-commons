@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ba01e9a-d7d4-55ab-9de5-9051851768c6",
     "name": "Ammunition Jetty",
+    "location": {
+      "name": "Western Australia, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

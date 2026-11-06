@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2068f7ab-ce5a-5009-9520-198cd15a5576",
     "name": "Epplesee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

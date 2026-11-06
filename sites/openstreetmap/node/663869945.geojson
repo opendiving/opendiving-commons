@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4301553f-4aff-5078-b892-5fc942bcf98b",
     "name": "Digu Kuda Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7c590592-d8f4-52a6-a678-74d4e0a530ad",
     "name": "Fühlinger See 5: Sporttauchen",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

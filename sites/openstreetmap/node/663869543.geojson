@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e7117ee0-41bd-5dd7-9e33-36d52ce552fc",
     "name": "Forest City (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

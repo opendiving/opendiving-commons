@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c153771-8857-530b-8c11-924ba9a2f952",
     "name": "Long Beach Reef",
+    "location": {
+      "name": "Aceh, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

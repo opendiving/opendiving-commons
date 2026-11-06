@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e78d4a5-d8ec-5264-955a-3b021b33da3c",
     "name": "Vitznau",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

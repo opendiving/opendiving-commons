@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4aa5d13f-7234-5400-8033-2ad4472db426",
     "name": "Toolenburgerplas",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

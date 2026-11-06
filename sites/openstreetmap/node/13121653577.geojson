@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3adad88b-e63c-560c-97b5-b97ca2f67600",
     "name": "Daphne",
+    "location": {
+      "name": "Galápagos, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

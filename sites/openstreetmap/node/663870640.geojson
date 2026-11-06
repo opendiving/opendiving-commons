@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c7f7accd-c015-5d21-9d3f-cd2bed03bdab",
     "name": "Quellental",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

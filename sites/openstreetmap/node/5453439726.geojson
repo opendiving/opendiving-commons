@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3d76399-316b-5ea1-96f6-d5e4c36e3e19",
     "name": "Kaleidascope Ridge",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

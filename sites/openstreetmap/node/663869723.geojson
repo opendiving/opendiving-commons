@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d4ced87f-6607-583e-b5b9-9fdf66612753",
     "name": "Margarina (Sanddüne)",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

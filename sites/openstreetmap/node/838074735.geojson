@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac78ad01-c806-5d08-88f4-921c6f429044",
     "name": "instap 1",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

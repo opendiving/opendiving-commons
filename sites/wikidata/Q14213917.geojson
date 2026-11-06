@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc93a904-6e30-5352-8679-4071d9da952c",
     "name": "Strawberry Rocks",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f88ac89f-0955-5ab8-9702-7c9ce8cae771",
     "name": "Schulhaus",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

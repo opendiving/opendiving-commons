@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7c44edcf-932a-5754-8572-3fd6c03afd87",
     "name": "Torfi, Wadi Gamal",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

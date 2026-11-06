@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4b46f8cd-dcde-5279-b9d6-d5ff2b31e7fb",
     "name": "The Cauldron Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

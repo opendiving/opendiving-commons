@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ae844726-595c-5dfe-bb72-6c2b166acf6e",
     "name": "Gota Wadi Gamal",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

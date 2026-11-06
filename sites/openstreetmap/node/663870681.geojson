@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "32c40a31-7865-5041-9a7b-08e4fdbb6305",
     "name": "Sylvensteinsee / Sylvensteinspeicher",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

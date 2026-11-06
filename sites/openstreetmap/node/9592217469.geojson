@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6eb3c204-8bc3-501c-9199-712facdb3336",
     "name": "Abalone",
+    "location": {
+      "name": "Mayotte, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

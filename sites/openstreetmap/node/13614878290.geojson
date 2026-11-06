@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a21fe957-a9f1-5411-978a-ca1acb700d28",
     "name": "Sikka Leminija Żurrieq",
+    "location": {
+      "name": "Qrendi, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

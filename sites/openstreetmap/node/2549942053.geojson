@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9202cca6-3894-5f6a-b91c-b8cc5d183f59",
     "name": "Arbre à brochets",
+    "location": {
+      "name": "Haute-Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

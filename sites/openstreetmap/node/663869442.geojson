@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6eb1be71-a3ea-565e-9cfb-6e95d4c8ce5b",
     "name": "Boka Bartol",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

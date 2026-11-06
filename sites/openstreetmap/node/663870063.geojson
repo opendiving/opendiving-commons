@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7a45e85-66d8-58db-a7d2-ea40dce1a6c2",
     "name": "Seemitte",
+    "location": {
+      "name": "Obwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "deb6edc1-4edc-5e3b-8234-7313bef25522",
     "name": "les Salines",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

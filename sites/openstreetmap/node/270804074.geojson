@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98859858-bf75-5147-bdbf-e7ffaf6b5bee",
     "name": "Richelieu Rock",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

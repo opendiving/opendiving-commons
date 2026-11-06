@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6c85f23-8814-556e-9766-10961e77dc69",
     "name": "Spiegel Grove",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

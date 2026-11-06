@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57177f7e-83ad-525a-890e-a98f6ce949a0",
     "name": "Salzgitter See",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

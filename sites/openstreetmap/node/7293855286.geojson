@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dc8cbb21-cfe9-5417-88fe-55979ad77bd3",
     "name": "Tengah",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

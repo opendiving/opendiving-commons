@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "29b9b7da-eea4-5322-9e15-df528bd66589",
     "name": "Turtle Snorkeling Spot",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

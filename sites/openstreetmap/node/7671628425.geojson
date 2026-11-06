@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f72fd755-07cb-5804-b637-79c558e3cf69",
     "name": "Charlotte I",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

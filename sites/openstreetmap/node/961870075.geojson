@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bcd37559-7921-569d-ad26-cae678edd98b",
     "name": "Trans Divers",
+    "location": {
+      "name": "Famagusta, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

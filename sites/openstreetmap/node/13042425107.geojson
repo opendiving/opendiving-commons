@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "09305662-e2dc-51b9-a914-cb3b8ec578c7",
     "name": "Barracuda Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

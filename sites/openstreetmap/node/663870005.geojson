@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4fc5fee2-122a-5442-aa9d-867fb55062ed",
     "name": "Les Crêtes",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

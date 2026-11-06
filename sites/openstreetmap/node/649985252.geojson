@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd04694b-510e-5d56-9a23-ab33f242575e",
     "name": "Lighthouse",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

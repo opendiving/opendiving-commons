@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c355531d-2a44-5092-8d42-b8dcad663ad9",
     "name": "Baggersee Untergrombach (Metzgerallmend)",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

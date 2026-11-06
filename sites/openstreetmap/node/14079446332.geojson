@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe21c452-ab0e-51ce-8e5f-d711a2baa1c6",
     "name": "Scootermessstrecke",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

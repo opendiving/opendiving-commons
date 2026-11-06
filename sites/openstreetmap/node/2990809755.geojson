@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd9a9733-97e4-5f4a-88b5-8bd3fa5dff4a",
     "name": "Les Canons",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

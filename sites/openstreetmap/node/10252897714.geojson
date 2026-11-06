@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2f164e08-7a52-5497-83fb-4a8686cfd5dc",
     "name": "Makassar Reef (Manta Point)",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

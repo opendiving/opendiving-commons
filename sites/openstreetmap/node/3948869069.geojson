@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83f8d1d3-42dd-5414-8bd9-a0caad86538a",
     "name": "Mawan",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

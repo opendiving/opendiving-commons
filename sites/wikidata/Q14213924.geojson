@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "70fa1aa7-d6e2-5ee9-971a-999551ecf312",
     "name": "Tafelberg Deep",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

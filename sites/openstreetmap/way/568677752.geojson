@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "469eaf3a-1140-5b17-8e9b-a198a3c786fa",
     "name": "Aerborek Jetty Dive Site",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

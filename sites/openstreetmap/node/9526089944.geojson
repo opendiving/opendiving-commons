@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28daedc7-da75-59f5-b7c7-a0d0385f03d2",
     "name": "Rasgefanno",
+    "location": {
+      "name": "Gnaviyani Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

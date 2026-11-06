@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f09fc8a7-6bba-5d2c-9927-9d02d431e2c1",
     "name": "Traunfälle",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

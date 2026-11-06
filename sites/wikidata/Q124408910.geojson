@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac2db96b-ee25-5744-9ad6-864f696739cd",
     "name": "Well's Bay",
+    "location": {
+      "name": "Saba, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

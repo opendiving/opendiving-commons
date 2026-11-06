@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12df5641-b701-5c0d-9c1f-59da43a7e016",
     "name": "Tauchplatz Taucheinstieg 2 / Schwabbelland",
+    "location": {
+      "name": "Styria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

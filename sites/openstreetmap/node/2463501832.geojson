@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c2dc371-8a5e-51f8-b60b-a59d0fcfedce",
     "name": "Hin Muang",
+    "location": {
+      "name": "Krabi, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a567aba-9b6d-5b91-a0bb-2ad73a58d0bd",
     "name": "Wreck of Grumman HU-16 Albatros Aircraft",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

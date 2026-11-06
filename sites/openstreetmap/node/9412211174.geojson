@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f933024f-89fb-531f-9372-0cfe6701cdf1",
     "name": "Ao Kon Ka Re",
+    "location": {
+      "name": "Phuket, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

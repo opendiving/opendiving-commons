@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95a0a38c-9929-5728-ba20-fa1f7c5baa72",
     "name": "شعب وودهاوس",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

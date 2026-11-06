@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "338409d8-7c8a-56e1-9161-b44e27b6ed89",
     "name": "Dürener Badesee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

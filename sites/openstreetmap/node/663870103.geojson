@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ddc26042-98d1-5eab-a135-ab3b18e0569c",
     "name": "Kraftwerk",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

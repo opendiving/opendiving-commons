@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bcc1100a-628f-5986-8c9d-5651a7dfc593",
     "name": "Lac Léman-Point du Suchet",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e630d4a-5a4e-5fb0-b3eb-147b9a98d2cb",
     "name": "Wutzsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

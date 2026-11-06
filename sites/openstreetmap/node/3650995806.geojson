@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1f5bfff2-4a36-5eec-900c-b0e1a05becd5",
     "name": "Corner Bar",
+    "location": {
+      "name": "Koh Kong, Cambodia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

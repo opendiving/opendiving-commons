@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6a7c4d4b-0b72-5aef-a5d9-ea49e9ddedb4",
     "name": "Diepoldsau Strandbad Einstieg 2 Winter",
+    "location": {
+      "name": "Vorarlberg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

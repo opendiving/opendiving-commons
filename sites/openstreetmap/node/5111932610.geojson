@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3bf91326-f2eb-5ecc-93e2-1e0e825fb772",
     "name": "Bamboo SeaSport",
+    "location": {
+      "name": "Johor, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

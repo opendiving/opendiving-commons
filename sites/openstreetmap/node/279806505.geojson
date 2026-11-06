@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fde6cf81-d322-54f7-b291-2ae6c7a2c7fc",
     "name": "Jackfish Alley",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

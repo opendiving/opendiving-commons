@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64116955-2ad0-59c6-87de-b97fafc27a69",
     "name": "Diemelsee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

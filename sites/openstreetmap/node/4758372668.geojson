@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06a661ec-a10e-54df-a2eb-919faa957a98",
     "name": "Toucari North",
+    "location": {
+      "name": "Saint John, Dominica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

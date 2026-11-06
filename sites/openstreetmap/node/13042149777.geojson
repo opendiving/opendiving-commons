@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6f5d7cc0-b8a3-53cb-a995-c0a3b19a6791",
     "name": "Manta Sandy",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

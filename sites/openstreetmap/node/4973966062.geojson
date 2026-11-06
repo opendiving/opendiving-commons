@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb794638-2c58-5392-88ff-7204e8b705ac",
     "name": "Club le Rederis",
+    "location": {
+      "name": "Pyrénées-Orientales, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

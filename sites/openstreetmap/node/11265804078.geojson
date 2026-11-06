@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "574ff3ba-06a4-508f-ad76-562c1fda667c",
     "name": "Ko Thian - Scuba Diving",
+    "location": {
+      "name": "Trat, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

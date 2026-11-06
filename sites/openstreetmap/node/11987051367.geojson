@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1e81a20-9a23-53bc-9b38-15fd851fbd7c",
     "name": "Andromède",
+    "location": {
+      "name": "Hérault, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

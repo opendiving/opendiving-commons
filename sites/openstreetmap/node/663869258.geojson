@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "08a57283-13df-5130-9e7c-b5feef485017",
     "name": "Rauto’Anui",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

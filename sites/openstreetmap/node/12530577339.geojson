@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c0dc075c-86bc-5fc1-a043-9a246c270e46",
     "name": "Rüttler und Briefkasten",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72962f09-a4ab-54d7-9799-22c793415e35",
     "name": "York Shoal",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb6a4593-505b-5af3-afe4-f56bc3ad8225",
     "name": "Betonbombe II",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

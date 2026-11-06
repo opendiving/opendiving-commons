@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06381a7b-bbb7-553e-9f06-10364859478e",
     "name": "เกาะอุเสน",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

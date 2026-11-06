@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eef9fbf0-e956-542f-b351-2e2c093ca19e",
     "name": "Klub potápěčů Pardubice",
+    "location": {
+      "name": "Pardubice, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

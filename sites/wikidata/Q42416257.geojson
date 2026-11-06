@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "39855964-5370-5385-9a62-7a1995f32e6c",
     "name": "South-east Pinnacle chain",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

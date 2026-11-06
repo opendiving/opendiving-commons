@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98648d89-8100-5b0b-8b56-bb5ba9fb0395",
     "name": "Western Rocky Pinnacle",
+    "location": {
+      "name": "Tanintharyi, Myanmar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

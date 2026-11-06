@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2f8e427d-e603-52be-a4a9-fbf840252d43",
     "name": "Dive Site and Shipwreck",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

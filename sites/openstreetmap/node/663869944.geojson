@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "24134cc5-93c0-53ba-ac10-444b4afc61f8",
     "name": "Maafushi Thila",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

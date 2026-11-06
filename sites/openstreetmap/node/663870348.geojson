@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0149d5ab-d6fa-5bbc-b570-5a0c814b9982",
     "name": "Seerettungsdienst",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

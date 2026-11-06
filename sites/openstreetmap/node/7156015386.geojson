@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "debe26dc-c6a6-5855-8968-4e0f0b1ed794",
     "name": "Moofushi",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

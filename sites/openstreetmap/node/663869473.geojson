@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c504e615-3dd8-56b6-8495-8e0111cd98f8",
     "name": "Wilma (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

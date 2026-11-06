@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11acc738-0ff1-54d3-a855-3b2ae943288d",
     "name": "เกาะบิดะนอก",
+    "location": {
+      "name": "Krabi, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

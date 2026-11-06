@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "07264310-1544-588e-b291-d1b41e9b0d4e",
     "name": "el Salpatxot",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

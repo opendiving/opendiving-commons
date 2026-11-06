@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e55b7242-aac0-5864-a852-f3e69696c13b",
     "name": "MV Xlendi",
+    "location": {
+      "name": "Għajnsielem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "451d2c5e-ac39-5acf-8e50-00b7ce836e7f",
     "name": "UB-81",
+    "location": {
+      "name": "Isle of Wight, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

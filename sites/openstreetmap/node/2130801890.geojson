@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "31f1b8de-c1c4-54a8-803e-c2d1d21a1821",
     "name": "Tobri Divers",
+    "location": {
+      "name": "Bay Islands, Honduras"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

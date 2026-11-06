@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e4f2675f-4792-5386-be8a-5f60350cfad5",
     "name": "Reay Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

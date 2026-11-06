@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38672311-4a8a-5b43-a55e-1df471729bd7",
     "name": "Wreck Tihany",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

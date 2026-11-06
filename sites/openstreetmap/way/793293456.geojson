@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "525b65b9-0903-5254-9238-76ba12824c68",
     "name": "Aiseto tiltas/keltas",
+    "location": {
+      "name": "Vilnius, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

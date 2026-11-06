@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6f8c9726-bb79-5d92-ac40-496a4535cc9d",
     "name": "Laguna de la Media Luna",
+    "location": {
+      "name": "San Luis Potosí, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

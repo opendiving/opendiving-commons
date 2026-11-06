@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee945f86-36d2-5258-94cc-dd1747e1b27e",
     "name": "Lombok Dive",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

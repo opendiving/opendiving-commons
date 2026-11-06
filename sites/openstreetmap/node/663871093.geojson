@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "92121b01-5891-5d11-9b3e-37fdacf5fdcd",
     "name": "Jezioro Bielin",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

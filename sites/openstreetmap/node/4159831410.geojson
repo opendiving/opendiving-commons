@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4300d625-eece-56b0-9b4c-c445320e241a",
     "name": "Statwa tal-Madonna",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4bcf8016-23f7-5055-8677-e9858502f7a6",
     "name": "Dive Site",
+    "location": {
+      "name": "North Maluku, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

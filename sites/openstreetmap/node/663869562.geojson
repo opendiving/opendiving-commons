@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c3b62be4-5786-51d8-8448-85bb36146cf2",
     "name": "M.F.V. Mystique",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

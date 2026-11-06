@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4ceb44d-e556-5df0-8691-fb75b9f4f86a",
     "name": "Bar Reef",
+    "location": {
+      "name": "Puttalam, Sri Lanka"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

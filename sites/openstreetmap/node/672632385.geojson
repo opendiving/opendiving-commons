@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91a63927-975a-5651-a5c9-46742f7d142c",
     "name": "house reef",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

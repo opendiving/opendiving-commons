@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd7dcc70-f19d-508b-858e-3cf79b84deab",
     "name": "Wrack `Genova`",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

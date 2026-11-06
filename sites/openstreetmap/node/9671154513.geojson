@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "477ac816-ab33-52d1-b7bf-9151003361f8",
     "name": "9m platform (klein)",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

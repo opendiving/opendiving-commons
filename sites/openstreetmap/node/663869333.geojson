@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6fbf332-c589-5e92-a6d0-3e3880069bf5",
     "name": "Yucab Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

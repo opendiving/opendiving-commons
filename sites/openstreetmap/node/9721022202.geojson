@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ec706af4-5fab-592c-bbf7-c565f9763151",
     "name": "Shab Rumi, Plateau S",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

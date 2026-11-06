@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f3bd89f3-319f-5b68-b5ef-feca3ad21f56",
     "name": "Wreck C-53",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

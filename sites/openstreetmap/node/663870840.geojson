@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "def59a74-659c-56da-a913-1525a198f48a",
     "name": "Attersee - Kohlbauernaufsatz",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

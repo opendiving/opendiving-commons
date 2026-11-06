@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "24e2cafb-20d1-5b41-adc3-9d9d86ac0708",
     "name": "Mahusan",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

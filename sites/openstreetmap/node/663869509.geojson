@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d33dc5f-be0c-52c8-a0d7-feaa4ce38a5d",
     "name": "Robert Gaskin (Wrack)",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

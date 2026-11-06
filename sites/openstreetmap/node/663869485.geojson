@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7024a97c-4511-534e-a9c1-5646e686f39d",
     "name": "Michigan (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3a875b44-109a-51e0-a4df-9a233bc7ed2a",
     "name": "Cantarell Sand Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

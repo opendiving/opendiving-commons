@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e0f6b9d-6b0d-5293-a4a7-f73ee3dfeb03",
     "name": "Blouklip",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

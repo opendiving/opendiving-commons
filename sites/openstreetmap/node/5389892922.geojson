@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "42157d99-6731-5037-a4e7-c231e99f0200",
     "name": "Togeanadventures.com",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

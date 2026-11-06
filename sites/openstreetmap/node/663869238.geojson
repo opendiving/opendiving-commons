@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f872f4b1-5284-5be2-978a-db5438396448",
     "name": "Plateau aux tortues",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

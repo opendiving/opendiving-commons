@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "daae804f-e9c2-5db5-8894-b88630cc6854",
     "name": "Roche Grand Maman",
+    "location": {
+      "name": "Baie Sainte Anne, Seychelles"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

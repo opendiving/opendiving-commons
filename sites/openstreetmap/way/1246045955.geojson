@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f5b661db-faa2-53ea-84d4-07a2b78e23e5",
     "name": "Outhouse Beach",
+    "location": {
+      "name": "Guam, Guam"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

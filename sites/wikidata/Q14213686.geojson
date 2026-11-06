@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "25d962a6-7c2e-54d2-9873-837ffabaab64",
     "name": "Ankers",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

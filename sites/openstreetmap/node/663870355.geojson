@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "575b3fba-540b-57f1-a350-50592084fea3",
     "name": "Ellikon am Rhein - Rüdlingen",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

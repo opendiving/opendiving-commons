@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a2903008-9b86-5d8e-8b68-b94eff8b05c2",
     "name": "little shark",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6d521376-6d30-50dc-a6e5-25cdbd908fce",
     "name": "Gotta Hemera",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

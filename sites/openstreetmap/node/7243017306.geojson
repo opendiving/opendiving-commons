@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "280b265c-663a-5f96-b843-013bccfc2a03",
     "name": "Las Galeras Divers",
+    "location": {
+      "name": "Samaná, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

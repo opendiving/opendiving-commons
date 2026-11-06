@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "432d549f-eda7-5efa-9c09-d94af33ba541",
     "name": "Muka kampung",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

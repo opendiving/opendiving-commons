@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77a9c217-1253-518d-a919-c1332c0cc69f",
     "name": "Plate Top",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

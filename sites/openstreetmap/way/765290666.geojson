@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2598211a-6f9c-5598-9fee-e801996091a2",
     "name": "Vortex Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

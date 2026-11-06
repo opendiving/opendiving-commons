@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d92da4c-97a0-527c-afcb-eafbb803c3f3",
     "name": "SS Braunton",
+    "location": {
+      "name": "East Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9799cdd1-a6a6-5921-9395-28a0656b96e2",
     "name": "Schweriner See",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "592af4c8-2e9c-5f2e-be64-58a83bafac53",
     "name": "Hillary's Reef",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

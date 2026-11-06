@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2ebec558-c3f2-583d-a917-825569e80c2c",
     "name": "Plane wreck",
+    "location": {
+      "name": "Aqaba, Jordan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

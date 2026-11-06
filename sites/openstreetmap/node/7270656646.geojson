@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94adb6e0-8a0e-58f9-a26b-af40814438be",
     "name": "Jack Point",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

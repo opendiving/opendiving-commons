@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ffa15404-f1eb-5021-88b7-839e86dfaa81",
     "name": "Kitzeberg",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

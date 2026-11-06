@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d5332eba-eeee-5afc-b746-8ed99172f11d",
     "name": "Imbekwan wall",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

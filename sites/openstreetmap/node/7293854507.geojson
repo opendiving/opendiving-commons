@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c6a7122-609b-5741-b4f7-36621a3ec899",
     "name": "Cela Cela",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

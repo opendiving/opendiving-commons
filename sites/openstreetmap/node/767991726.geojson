@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fdbc896-c007-541d-a0f3-766c91d67f96",
     "name": "شرم الناقة",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f6091cf-d5a1-57c5-80b8-41303f4a9e07",
     "name": "La Roca",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

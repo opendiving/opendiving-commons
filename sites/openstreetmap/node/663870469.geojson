@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96381c0f-68ca-58bd-b0f7-75da66d99709",
     "name": "Plansee - Zone 2 (Hotel Forelle)",
+    "location": {
+      "name": "Tyrol, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

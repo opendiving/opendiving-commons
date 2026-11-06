@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79252a4a-fd7e-5c2a-8eb3-dfc06e3e056a",
     "name": "L'Yèvre De Mer Plongée",
+    "location": {
+      "name": "Cher, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

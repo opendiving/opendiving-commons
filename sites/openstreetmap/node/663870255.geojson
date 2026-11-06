@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8406e303-efce-5dcb-b3e6-d40b14eba54e",
     "name": "Im Gufer",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

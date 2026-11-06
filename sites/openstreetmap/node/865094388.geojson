@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6f8a2f6-7e8d-5029-9ddb-609746687191",
     "name": "หินใบ",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

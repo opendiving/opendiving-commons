@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "702dd44c-212c-5a06-b2c4-09161b0e43f5",
     "name": "Napaling Wall Dive",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

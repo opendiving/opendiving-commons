@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13a8c0e6-aee7-5df2-bd23-88fdeabfb63c",
     "name": "Rheinauer See",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a19ab48f-e95b-5161-b36d-56ee3629ad9b",
     "name": "Rose Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

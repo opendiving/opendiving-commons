@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b973537c-fdfb-56e0-8a81-db37b018aa93",
     "name": "Krüselinsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

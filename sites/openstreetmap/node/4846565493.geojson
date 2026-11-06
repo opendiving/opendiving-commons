@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fdec225-5ed6-5bf2-9826-a9737f9ab93c",
     "name": "Source de l'Esperelle",
+    "location": {
+      "name": "Aveyron, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

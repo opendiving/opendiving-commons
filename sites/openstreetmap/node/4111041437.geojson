@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd0ffddf-377f-5d45-b4a5-1826d4c871b0",
     "name": "Sea Garden",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

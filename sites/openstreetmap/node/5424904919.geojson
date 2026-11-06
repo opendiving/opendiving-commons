@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9708f207-0da9-507e-a46d-5cb7d712c349",
     "name": "Suthep Bay",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

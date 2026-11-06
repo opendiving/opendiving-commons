@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d9baaf83-8c13-5db6-8434-9625baa4512a",
     "name": "Galvės ežero maudykla",
+    "location": {
+      "name": "Vilnius, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

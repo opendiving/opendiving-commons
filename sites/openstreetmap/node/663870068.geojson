@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d881b3b2-e4ce-5535-bb7f-f1769d02765a",
     "name": "Kiesstrand",
+    "location": {
+      "name": "Obwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

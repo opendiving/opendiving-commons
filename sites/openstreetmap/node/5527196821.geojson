@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "03b99106-e511-52dd-bce0-3614961b56de",
     "name": "Nashin",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e834bd0-5af8-52d3-96bc-0e794a83d1a7",
     "name": "Dingelsdorf",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

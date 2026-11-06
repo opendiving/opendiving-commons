@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e9b748ba-9454-5f0a-a80b-a608aa53a5c1",
     "name": "Amazone",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

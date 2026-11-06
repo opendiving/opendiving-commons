@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2357b3cf-be2b-5ea3-bf7d-3fd243d19dca",
     "name": "Coral Garden",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

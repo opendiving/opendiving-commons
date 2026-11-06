@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aeafc05b-ebbb-5dea-8ab2-583fec03ba4d",
     "name": "Buoyancy",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

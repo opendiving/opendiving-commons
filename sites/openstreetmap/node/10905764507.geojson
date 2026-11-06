@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8c0e0f5d-712e-58bf-9a79-d929c80a3ca0",
     "name": "Ilha do Arvoredo",
+    "location": {
+      "name": "Santa Catarina, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

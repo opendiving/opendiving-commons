@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "17abfec3-a11e-5d91-b864-89a66121b915",
     "name": "Taiei Maru",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

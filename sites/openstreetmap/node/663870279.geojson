@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d7958f73-625b-5d95-bb5d-3ebba6c96b3c",
     "name": "Seehalde",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

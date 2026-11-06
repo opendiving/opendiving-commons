@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79e5bd86-e40d-5bf1-9aa5-0d15e73e4904",
     "name": "M.V. Bardini Reefer",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "26eecd38-168e-5d69-a9ed-685211b5ee2d",
     "name": "Tao Bay",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

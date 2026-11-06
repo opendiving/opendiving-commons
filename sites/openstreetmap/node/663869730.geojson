@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3d882c1b-abb7-5deb-bf2e-cbb94bd01172",
     "name": "Cutin",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

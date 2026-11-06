@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6778410c-e789-506e-8daf-09614d22ea9b",
     "name": "Siyal South",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

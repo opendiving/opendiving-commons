@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "16f855ef-6578-59c2-9732-72cf00092021",
     "name": "Tauchspot Alt Rhese, Altmeiershof",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

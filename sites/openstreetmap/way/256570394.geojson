@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c982382-f78b-5560-a96e-1fd4e8264f74",
     "name": "Étang de la Carrière du Mont Juillet",
+    "location": {
+      "name": "Loire-Atlantique, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "05b88f09-83d1-5d0c-937c-69bba901ec4b",
     "name": "Exsurgence du Perthuis",
+    "location": {
+      "name": "Ain, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

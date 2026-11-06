@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "53fa271a-68de-57b6-b1ea-d761f2e06a48",
     "name": "SS Maori",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

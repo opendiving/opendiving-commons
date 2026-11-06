@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "180fb8b8-c003-55db-8c1a-737a71bc24f0",
     "name": "Hin Pee Wee",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

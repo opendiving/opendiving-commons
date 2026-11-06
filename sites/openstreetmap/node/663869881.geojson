@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0c39405e-77d9-5da5-9ca7-e0c1af0f9155",
     "name": "Halaveli",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

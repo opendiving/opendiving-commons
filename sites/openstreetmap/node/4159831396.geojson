@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74ffa044-f791-5d02-a7c3-e1042785e21b",
     "name": "Cominotto Arch (Dive Site)",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

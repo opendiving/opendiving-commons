@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c96b90a-0df3-56a9-9abf-b4fb3f9b8a06",
     "name": "Olive Branch (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

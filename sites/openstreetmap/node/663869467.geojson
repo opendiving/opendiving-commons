@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b2e97e3-c687-5000-a1ec-b0eab5b16b70",
     "name": "A. R. Colborn and Crane (Wrack)",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

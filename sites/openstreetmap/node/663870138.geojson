@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79ac8e08-552c-51cf-b307-66e1f40da8f0",
     "name": "Foce del Casserate",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "676e2b8a-3359-52ee-a5c7-24e07dea27c0",
     "name": "Ermitage",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd2d4a89-5ba0-53d2-9dcb-e4ccd45fb156",
     "name": "Ras Nasrani",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

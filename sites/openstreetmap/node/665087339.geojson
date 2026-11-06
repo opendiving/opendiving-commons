@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a30c50a4-58ba-52be-9b51-77a48f5507db",
     "name": "Robinson",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

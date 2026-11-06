@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "34f1aa66-535f-5880-8b05-bb323aaa07df",
     "name": "Ammo Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "780323fb-3305-53a8-8abd-caac15abfd03",
     "name": "Likuan 1",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

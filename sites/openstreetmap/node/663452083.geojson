@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "607382ec-5a97-513b-ade8-de733c1625e2",
     "name": "Kleiner Hafen Küsnacht",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

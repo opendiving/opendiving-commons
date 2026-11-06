@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac26c1a4-242d-5a82-8ce5-0eb1f7e58136",
     "name": "Sundhäuser See",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

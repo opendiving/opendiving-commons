@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5008457e-8124-5ded-acd2-5bc414a8140c",
     "name": "Cueva El Brinco",
+    "location": {
+      "name": "Matanzas, Cuba"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

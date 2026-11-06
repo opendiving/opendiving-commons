@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ed503597-92c7-5297-943c-fa799ada65e6",
     "name": "Sèche à l'Huile (les Sardinaux)",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

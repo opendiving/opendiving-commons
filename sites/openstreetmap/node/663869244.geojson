@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "63b050ea-0eed-51c0-8478-910e6a98f3d9",
     "name": "Les Roses",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

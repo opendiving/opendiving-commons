@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e0d7a01a-fc14-5f3c-8378-fe55beb1ceda",
     "name": "Ansaugkörbe",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

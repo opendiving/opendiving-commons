@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7487a5bf-0c8c-5471-8599-afa41a50058b",
     "name": "Tombant St Etienne",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

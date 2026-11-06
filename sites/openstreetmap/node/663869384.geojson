@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5a7ea4e0-0fd3-5bf7-9bb7-299182277cbf",
     "name": "Rif Sint Marie",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

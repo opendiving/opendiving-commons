@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "154c85cd-5dc8-5458-9d52-52e76c3fb09a",
     "name": "Bisé Morto",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

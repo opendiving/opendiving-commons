@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "054c4b7c-aa18-5de8-9277-e8016fc42cae",
     "name": "Boot",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

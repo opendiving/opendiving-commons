@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1137b60f-771f-5195-88c0-7b4c2f1a3b73",
     "name": "Strandbad",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

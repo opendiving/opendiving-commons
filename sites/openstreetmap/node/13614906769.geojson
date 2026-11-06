@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1b545e6f-249b-5bb6-aea6-699efb2c4eaf",
     "name": "Sant' Iermu - Sikka Leminija",
+    "location": {
+      "name": "Valletta, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91749ce9-95e1-51f1-bc59-57bae8634dbd",
     "name": "MV Treasure",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

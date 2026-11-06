@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "db36805a-5681-5919-9f90-3817ad9af64b",
     "name": "Windmill Offshore Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

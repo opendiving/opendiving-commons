@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "676c4e3e-9b6a-5e23-ae2a-f35afeefce97",
     "name": "Gangehi Kandu",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

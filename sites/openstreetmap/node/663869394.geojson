@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aa50f215-80a1-5627-bb30-7b59c39a928c",
     "name": "Willemstoren Lighthouse",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

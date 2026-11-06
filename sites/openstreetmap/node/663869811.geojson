@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "437975c7-62b0-56c8-843a-b70038a4b838",
     "name": "Kimon M",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

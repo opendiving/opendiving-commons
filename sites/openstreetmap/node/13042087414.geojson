@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "54286b50-4984-5784-b18d-cc4c986b8e2d",
     "name": "Way Pretty Shallows",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

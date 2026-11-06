@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8de0dc85-84c8-59c8-8e4f-adf6f444c70d",
     "name": "Horse Shoe Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

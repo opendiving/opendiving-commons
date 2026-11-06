@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68cbed70-d830-5eed-aabc-9449d039695c",
     "name": "Lutzenberger See - Teil Ost",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

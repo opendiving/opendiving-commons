@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bedf1513-d0d4-59d3-bfe7-475fb58ef59a",
     "name": "Mondsee - Kreuzstein",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

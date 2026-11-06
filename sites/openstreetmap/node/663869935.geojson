@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "427aa063-5531-56e5-9ed2-e62513b103ad",
     "name": "Biyadoo Kuda Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

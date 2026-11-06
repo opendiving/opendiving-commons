@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a14dcdb8-41e6-575c-b451-3211515d4bdb",
     "name": "North Paw Northern Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bf569ceb-80a7-5829-8467-73fe403a61cb",
     "name": "Hiroshi East End",
+    "location": {
+      "name": "Kosrae, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

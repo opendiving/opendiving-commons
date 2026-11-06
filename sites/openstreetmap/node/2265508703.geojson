@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b62cb67a-3081-5041-8987-9a350dbaffb0",
     "name": "Waterfall",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

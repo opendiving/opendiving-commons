@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e446af4-c5bd-597d-aa15-ae3b294ba683",
     "name": "Nimble Rock",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

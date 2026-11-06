@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "710f59e1-4328-5d50-a22a-a1a0232e0d32",
     "name": "Tankumsee",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fd6fa90-351f-5ce4-9b04-fb509dee04af",
     "name": "Kaiser See",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

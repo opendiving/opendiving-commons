@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "226d1564-3b0d-5c5a-89bd-b3fe61dbeca6",
     "name": "Shaab Claudio",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

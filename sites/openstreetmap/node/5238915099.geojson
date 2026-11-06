@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b2ccafdf-e018-5895-a789-1e79b7ca4252",
     "name": "Allmannshausen: Wasserwacht (Tauchen)",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

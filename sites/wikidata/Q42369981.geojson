@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "29a05dee-18dd-59b5-bad6-1504f034c668",
     "name": "Horseshoe Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

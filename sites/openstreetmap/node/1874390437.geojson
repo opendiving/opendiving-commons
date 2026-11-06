@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4483f5ab-0177-594d-8250-3c886e3f3f4d",
     "name": "Banjol",
+    "location": {
+      "name": "Istria, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

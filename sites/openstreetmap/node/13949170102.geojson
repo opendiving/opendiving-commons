@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f944c9be-9901-51f1-be6a-0298823f0975",
     "name": "Ladybird Cove",
+    "location": {
+      "name": "Torbay, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

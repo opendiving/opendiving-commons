@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b216d9f0-0819-506f-acbf-186858858dc6",
     "name": "Pinassen",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

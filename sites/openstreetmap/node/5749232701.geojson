@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2ffd53f-501b-527a-8cf0-6120d4a66af2",
     "name": "Hallstätter See Bus",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

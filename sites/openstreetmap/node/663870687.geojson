@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7419f03d-3765-50c4-9620-09a2de001d9e",
     "name": "Walchensee - Herzogstand",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad3a1390-26e6-5935-87b9-49b5358c27c0",
     "name": "Angel's Cove",
+    "location": {
+      "name": "Davao del Norte, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

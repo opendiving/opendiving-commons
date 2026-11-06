@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "912b73e2-fd78-5795-a6d1-5caf485b4530",
     "name": "Cooper Reef",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86cde078-9b8e-53c8-bd55-0e2d225798a1",
     "name": "砂辺",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

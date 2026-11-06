@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2e303d5-6f1c-5ccf-a404-479b19b2d912",
     "name": "Grotta del Cristo",
+    "location": {
+      "name": "Messina, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

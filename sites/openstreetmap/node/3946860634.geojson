@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "24ea5818-ed22-5a60-b1f4-0b2371c43f9c",
     "name": "Manta Point",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9e095046-1021-5d02-82cd-bdc507d29ec4",
     "name": "De Val",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

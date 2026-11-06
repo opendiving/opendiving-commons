@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1fad76ea-88da-50b2-a0e2-d5328609b649",
     "name": "Blue Magic",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

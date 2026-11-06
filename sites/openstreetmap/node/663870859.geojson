@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "67019fbc-1350-5568-9a1c-741ac2504889",
     "name": "Conrod-Kraftwerk",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

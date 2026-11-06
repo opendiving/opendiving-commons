@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a8a4a0ae-433a-5db5-9aeb-67d1e95e7d70",
     "name": "Pfeiffer Reef",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

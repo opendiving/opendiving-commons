@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9c8efac-4992-58db-bc32-d04864d97e16",
     "name": "Segelclub Herrliberg",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

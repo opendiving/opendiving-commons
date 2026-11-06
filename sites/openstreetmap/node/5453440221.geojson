@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b96b793-cdc2-5252-98f5-85feaf01b803",
     "name": "Yilliet Corne",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

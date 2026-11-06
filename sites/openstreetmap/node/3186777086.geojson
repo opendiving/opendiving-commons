@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1fb6bc6c-ac5d-554b-ab08-9202c5c968b5",
     "name": "HTMS Khram",
+    "location": {
+      "name": "Chon Buri, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

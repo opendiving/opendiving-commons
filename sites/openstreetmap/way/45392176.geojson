@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b038376a-e20c-5af2-8f5e-8c508d20551f",
     "name": "Steinbruch Haustein",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

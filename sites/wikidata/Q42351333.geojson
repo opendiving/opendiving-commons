@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7449f0d-2a51-5e4e-b0ed-f0520e9bb71c",
     "name": "Finlay's Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

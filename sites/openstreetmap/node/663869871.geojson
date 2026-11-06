@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd00d828-c65d-5125-b4a1-7b79f5a19c69",
     "name": "Abu Helal",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "10fae4d1-5226-5b09-b744-03a67ad66179",
     "name": "Turtle Point",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

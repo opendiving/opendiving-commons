@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4005e9b4-b2b0-5788-8025-b7cf4764f6c7",
     "name": "Tower",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0365e968-c739-532a-b8b7-a82e4d1687a5",
     "name": "Sentier sous-marin",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

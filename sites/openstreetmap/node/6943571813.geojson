@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4b5a9c27-831d-5bbc-a1bd-408e8b38ea50",
     "name": "Manta divesite",
+    "location": {
+      "name": "Diana, Madagascar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

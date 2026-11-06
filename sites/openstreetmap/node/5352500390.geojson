@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3db2d68d-4f48-5b62-b370-6c9ba5f49abd",
     "name": "Peliliu Corner",
+    "location": {
+      "name": "Peleliu, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

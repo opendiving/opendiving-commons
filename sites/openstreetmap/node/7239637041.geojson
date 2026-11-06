@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ae02cdbb-c2a3-56f1-b5a5-6c912e57b2ed",
     "name": "Bajo del Junior",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

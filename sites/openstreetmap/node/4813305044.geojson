@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7cb3839-5686-5d78-8ea2-b2aceb14b571",
     "name": "Samba Vilas Biorock",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

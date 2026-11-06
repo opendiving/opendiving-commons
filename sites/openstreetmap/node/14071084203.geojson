@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4812d433-6e41-54f0-98c6-8bc6691bedaf",
     "name": "Illes Formigues",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

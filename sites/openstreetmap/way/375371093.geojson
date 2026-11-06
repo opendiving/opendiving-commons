@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d035ce2-8b74-5465-b60c-85bfc1e686f8",
     "name": "Telamon",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

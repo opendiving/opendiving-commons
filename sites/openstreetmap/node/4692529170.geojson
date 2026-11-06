@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75f43382-a272-5b20-84b9-ab84c915e960",
     "name": "Günter's wall",
+    "location": {
+      "name": "Southern Leyte, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

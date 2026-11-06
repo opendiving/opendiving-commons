@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7778c8c5-1e76-500b-9987-110f13924c6d",
     "name": "USS Kittiwake Shipwreck",
+    "location": {
+      "name": "Cayman Islands, Cayman Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

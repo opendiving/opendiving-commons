@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2daff222-8431-5c86-a8b5-1b209659a49e",
     "name": "Popeye Diving Center Thassos",
+    "location": {
+      "name": "East Macedonia and Thrace, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

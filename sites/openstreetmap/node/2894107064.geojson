@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "54470fed-f864-5a78-824b-87c8c3b20175",
     "name": "Abu Salama",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

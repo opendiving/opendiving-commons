@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ad414cc-5c95-57ee-bd84-9c1d94749642",
     "name": "Unteruckersee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

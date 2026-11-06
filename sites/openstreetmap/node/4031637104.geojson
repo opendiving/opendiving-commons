@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0819cd9-784f-5ee8-b21a-48b368c8140c",
     "name": "Walung Drop Off",
+    "location": {
+      "name": "Kosrae, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

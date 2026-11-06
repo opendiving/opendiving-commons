@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2dcb6946-5e61-5442-8be4-bc6a3f04c363",
     "name": "Vordere Au",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79d544f1-cf5b-5888-941e-954184c1e8be",
     "name": "Bell",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e10b5de3-9b72-5dac-a726-fd605842622c",
     "name": "Schoggiwand",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e661677e-1afb-5b6b-9eda-162c1160e385",
     "name": "Exsurgence de Port-Miou",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

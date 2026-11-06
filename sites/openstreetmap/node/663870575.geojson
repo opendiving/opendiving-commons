@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "557a771c-0bf0-5688-9bf7-da239dddaebe",
     "name": "Blankenburger See - Süd",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

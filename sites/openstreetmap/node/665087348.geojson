@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9fbb2c61-0792-5459-b441-0cd4c68d9d12",
     "name": "Diepoldsau Badi Einstieg",
+    "location": {
+      "name": "Vorarlberg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

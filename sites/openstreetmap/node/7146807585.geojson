@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "745446e8-d24f-54eb-bee8-b5b698b44bf4",
     "name": "Guraidhoo Corner",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

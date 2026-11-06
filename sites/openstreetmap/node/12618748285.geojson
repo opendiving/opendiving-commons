@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8969721e-f254-5ca0-b977-897e16eae42b",
     "name": "Palacio de la Cherna",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

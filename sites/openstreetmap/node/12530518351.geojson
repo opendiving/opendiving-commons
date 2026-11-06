@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8c5c10f7-b853-528e-b321-7b9b71951107",
     "name": "Flieger und Rührwerkstütze",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

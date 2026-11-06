@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68907e69-195b-5668-8052-619ab9af7e32",
     "name": "Meersburg s’Plätzle",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

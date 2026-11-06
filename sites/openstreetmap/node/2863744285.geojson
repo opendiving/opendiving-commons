@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4bf5c80-af9f-5db0-a432-3684173c9d5a",
     "name": "Tauchbasis E3",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

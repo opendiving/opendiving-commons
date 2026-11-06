@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "caad0504-c1da-50de-878d-4a493c3a6d0d",
     "name": "Rannamaari Wreck",
+    "location": {
+      "name": "Malé, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "559e4d59-9c3b-5028-aff7-e8e2d738aeae",
     "name": "Boy Scout",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

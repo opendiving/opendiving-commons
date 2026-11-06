@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7190f603-d2e7-5ac1-85b4-8c63a2f43a61",
     "name": "Diving spot 2",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

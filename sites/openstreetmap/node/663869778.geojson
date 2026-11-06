@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c21ae158-c970-53db-a5be-629d6b0c0289",
     "name": "Salem Express",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

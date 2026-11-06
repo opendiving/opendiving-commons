@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e9b32a84-5fc6-5d70-af97-5eeb2cd21142",
     "name": "Trolla",
+    "location": {
+      "name": "Sør-Trøndelag, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

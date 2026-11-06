@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "228f7379-442b-53c8-8929-a367ed81e9ee",
     "name": "Strandbad Garatshausen",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad3fcd3c-1cb6-54c3-ab25-0ffe6f9372b4",
     "name": "Bali Scuba",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

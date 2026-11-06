@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a4d67b27-9c0d-5434-b74d-f26c55be68a5",
     "name": "Hohenwarte-Stausee - Schwarze Wand",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

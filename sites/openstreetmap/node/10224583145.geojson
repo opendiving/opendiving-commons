@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38f19ad5-6890-56aa-8184-2c45594c3ea6",
     "name": "Lagoon Mounding",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

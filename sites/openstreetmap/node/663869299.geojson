@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b82c13a2-d6c1-5dc1-80b4-987e6dc179a7",
     "name": "Wain Rock",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

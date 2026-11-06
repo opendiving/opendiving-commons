@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "53b76d50-78f5-502f-b8cc-ff3b0cff5894",
     "name": "Zvěřinov",
+    "location": {
+      "name": "Pardubice, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

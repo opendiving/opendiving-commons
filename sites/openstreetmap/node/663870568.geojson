@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc8739d0-7c0c-5d8e-8d41-4622777cf9a3",
     "name": "Möhnesee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d6339b0-69e5-505c-a2d0-e6c83bdf2331",
     "name": "Saint Andrew's Bay",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

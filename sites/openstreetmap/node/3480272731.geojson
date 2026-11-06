@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "848e22ea-ecac-50c2-82cc-63bf8fdb8c08",
     "name": "Flying Sea Cliffs",
+    "location": {
+      "name": "Hawaii, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

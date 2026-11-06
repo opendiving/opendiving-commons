@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "516e6a3a-1a90-55e6-ac2d-54edc386820d",
     "name": "Platform",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

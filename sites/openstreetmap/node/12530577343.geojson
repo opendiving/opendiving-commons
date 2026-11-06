@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "806330c8-78fd-58b1-8f12-f94a073db713",
     "name": "Steinschlagmatten",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

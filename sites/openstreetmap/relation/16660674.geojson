@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5e3c1e9e-b56b-5470-9a69-8ac52026e16a",
     "name": "St John's Um Arouk",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

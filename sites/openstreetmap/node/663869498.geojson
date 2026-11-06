@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c1e2c9b0-c246-5fab-86e8-2394805fccfc",
     "name": "Indra (Wrack)",
+    "location": {
+      "name": "North Carolina, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

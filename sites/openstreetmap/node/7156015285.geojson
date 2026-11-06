@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0dbdfe4b-6933-5bbd-8cd9-ffd3794fa01a",
     "name": "Maamigili Beyru",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

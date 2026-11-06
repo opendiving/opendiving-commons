@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e6c5d7d5-1e30-5f2b-974e-50a69645daf1",
     "name": "Hagneckkanal",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

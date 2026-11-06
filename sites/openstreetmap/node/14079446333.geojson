@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "946c5745-b473-5f78-859f-d1bd9c395a5f",
     "name": "Schwarzer Wohnwagen",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

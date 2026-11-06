@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9c8609c1-3c07-577c-9758-a6ab6a63cc15",
     "name": "Northeimer Seenplatte",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

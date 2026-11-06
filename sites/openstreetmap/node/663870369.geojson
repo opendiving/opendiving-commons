@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95d5a783-cda2-5133-8ad7-8844a75a69b1",
     "name": "Brücke",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

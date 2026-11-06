@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f6ee207-a80e-56a5-8583-d4616338cdb6",
     "name": "Gak-ang",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

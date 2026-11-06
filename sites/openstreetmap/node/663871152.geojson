@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e2c9d385-4391-5b9c-a5df-664622282f6d",
     "name": "ORP Kujawiak",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

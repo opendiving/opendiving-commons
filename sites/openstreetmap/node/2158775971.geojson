@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e9688a7e-e5bb-5387-b3a6-c0d35c8b61c9",
     "name": "Katipanan",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

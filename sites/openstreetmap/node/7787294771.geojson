@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3e323b45-54a9-59ed-836d-27cf86ead7dd",
     "name": "podmorska poučna staza Tripuljak",
+    "location": {
+      "name": "Zadar, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

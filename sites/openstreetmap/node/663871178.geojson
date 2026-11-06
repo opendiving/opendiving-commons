@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d173e8ad-b86c-5aeb-b3a9-61d81ee2afe7",
     "name": "Argentina",
+    "location": {
+      "name": "Rogaland, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a7187dd-7eca-50c8-9d77-8471c07e7060",
     "name": "Apollo",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

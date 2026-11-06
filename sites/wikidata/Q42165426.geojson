@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bdc437e3-5126-5555-9f90-f174303994e5",
     "name": "Caravan Central north pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

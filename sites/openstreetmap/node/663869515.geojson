@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75d35de1-91be-5807-8a00-fe36fe240863",
     "name": "Keystorm (Wreck)",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

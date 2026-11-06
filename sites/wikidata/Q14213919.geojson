@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a9b0bd32-dedc-5692-a87f-a87dd96e217d",
     "name": "Sunfish Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

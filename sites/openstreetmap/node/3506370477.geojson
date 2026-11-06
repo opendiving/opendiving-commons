@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8a565754-02d6-55c5-be14-0823af4fc9c3",
     "name": "Starfleet Scuba Diving",
+    "location": {
+      "name": "comarca Ngäbe-Buglé, Panama"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

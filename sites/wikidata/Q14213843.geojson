@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f456bfda-ff47-5ef9-87b8-fc7afec2ca01",
     "name": "Phoenix Shoal",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

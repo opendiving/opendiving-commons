@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a23d0ec8-bfc7-5379-a78b-bb4762b85d7e",
     "name": "Marita Shoals",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

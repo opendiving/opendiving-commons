@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a4da179f-cdf1-523d-8473-81975a0ec6f1",
     "name": "Aquarium Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

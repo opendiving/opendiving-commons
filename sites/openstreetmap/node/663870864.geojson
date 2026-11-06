@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46116562-371a-5755-88a1-eb9378465f34",
     "name": "Hohenwarte-Stausee - Loreleifelsen und -Bucht mit Pumpenhaus",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

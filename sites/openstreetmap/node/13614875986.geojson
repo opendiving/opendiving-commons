@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c317d17-ea14-5a0a-8d6a-72f2906c3275",
     "name": "Bottleneck Cave (Dive Site)",
+    "location": {
+      "name": "Għasri, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

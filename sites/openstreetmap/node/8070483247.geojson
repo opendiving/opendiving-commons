@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ed147993-15a6-5af9-9ce9-695081f74513",
     "name": "Landing Bay Pinnacle",
+    "location": {
+      "name": "Northland, New Zealand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

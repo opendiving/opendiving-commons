@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5320d5bb-8bfc-5d44-b5a6-97f4a1b7c90c",
     "name": "G-Buoy Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

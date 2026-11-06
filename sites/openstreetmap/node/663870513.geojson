@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cf6f228b-85ab-56f8-adf0-207483d2697f",
     "name": "Silbersee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

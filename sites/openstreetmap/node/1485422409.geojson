@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6c68f8f-f163-515e-9110-35f9edda220f",
     "name": "Pantai Merah",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

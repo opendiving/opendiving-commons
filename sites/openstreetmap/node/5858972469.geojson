@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4e65a7b5-f54c-53aa-a025-e31282ed9144",
     "name": "Aqualized Dive Adventures",
+    "location": {
+      "name": "Attica, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

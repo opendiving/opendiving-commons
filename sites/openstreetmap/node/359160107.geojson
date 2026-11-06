@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bd3e5e2e-bf38-5dec-9330-91b38ed76563",
     "name": "Divebase",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

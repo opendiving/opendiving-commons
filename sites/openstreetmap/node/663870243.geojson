@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e77e7312-6bb7-5f69-8c48-93b8ce0d771a",
     "name": "Rampe",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

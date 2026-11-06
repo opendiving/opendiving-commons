@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "737f4fdc-bf34-5e2e-b980-c01c9d16232d",
     "name": "Shaab Tiffany",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

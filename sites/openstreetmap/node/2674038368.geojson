@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99d8eb40-4509-5a9e-b846-efffed9093f6",
     "name": "Aladin",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

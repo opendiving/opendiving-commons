@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "15762325-6419-53b2-b0fe-aa5a3524364a",
     "name": "Dive Exuma",
+    "location": {
+      "name": "Exuma, The Bahamas"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

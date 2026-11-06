@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4bfee669-dcd3-5330-a442-f199d80853a6",
     "name": "Green Rock",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2bdf8c1-c283-5019-8c4b-5e8a4f9cae7b",
     "name": "Redang - Black Coral",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

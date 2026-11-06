@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0f95ad6-b724-5a05-81f7-bbbefcd5ea0f",
     "name": "Shark Point",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

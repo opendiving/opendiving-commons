@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c0f600c-8b46-598b-9b4b-2ec251c72df8",
     "name": "James C. King (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

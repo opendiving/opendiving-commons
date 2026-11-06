@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4643a922-567c-5fed-ac01-20e8f8cab4ab",
     "name": "Kunaavashi Kandu",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

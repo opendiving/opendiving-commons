@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6b453beb-05a5-5e02-9fd8-5a1f5a610486",
     "name": "Siaes Tunnel",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "15ee302b-544a-534a-8737-bc17d17f89d0",
     "name": "Strandbad Kindli",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

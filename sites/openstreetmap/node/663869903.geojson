@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "56d45db4-edc7-5940-9c96-f51064e6fcd8",
     "name": "Enderi Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

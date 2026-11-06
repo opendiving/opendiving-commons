@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f32637f6-f1f3-507d-a21d-12b240657ba9",
     "name": "Kogutu Togeanadventures.com",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

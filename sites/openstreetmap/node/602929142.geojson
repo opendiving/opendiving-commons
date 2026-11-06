@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0d45f3bd-41e9-5ba8-bb2d-2e05241e1947",
     "name": "Three Sisters",
+    "location": {
+      "name": "Tanintharyi, Myanmar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

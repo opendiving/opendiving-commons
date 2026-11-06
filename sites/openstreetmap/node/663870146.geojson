@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4e536b34-c402-5b92-a5af-7911955200b6",
     "name": "Lago di Lugano-Campeggio Paradiso",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

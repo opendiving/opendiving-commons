@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "770a2dd4-f76f-5d87-a491-a8c611b943bf",
     "name": "Temple of the Sea",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

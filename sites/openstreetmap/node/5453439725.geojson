@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "007354a4-bfc3-57d5-a9b9-526d14a761b6",
     "name": "Wedding Cake",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

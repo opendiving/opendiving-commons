@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fde3f717-4243-568f-acaf-d4e0a9b63860",
     "name": "Western Rocky",
+    "location": {
+      "name": "Tanintharyi, Myanmar"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

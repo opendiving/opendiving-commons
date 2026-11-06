@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1aeed455-e00c-5858-8df6-ef8908e5873c",
     "name": "Roman Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

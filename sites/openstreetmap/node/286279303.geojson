@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c399b6a5-0e28-575a-b888-2b20b5566f1d",
     "name": "Clipper",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

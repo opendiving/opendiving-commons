@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "11b889fd-cc3d-504c-aa72-f8ab2fcb776e",
     "name": "Teru Kaze",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

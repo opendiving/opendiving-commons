@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7faf0373-fa29-5176-b59e-96af0f522745",
     "name": "S.S. Malmanger",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

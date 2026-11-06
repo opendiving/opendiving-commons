@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1058d84-9228-5956-b69d-e862d97ae5e9",
     "name": "White Rock",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

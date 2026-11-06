@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6a06ef77-edec-597c-8be7-27495d1749f9",
     "name": "Gota Abu Ramada - Aquarium",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

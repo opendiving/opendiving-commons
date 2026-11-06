@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3de2d5c-da3d-5559-9ba0-10c4a1b63ad5",
     "name": "Trawangan Wall",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

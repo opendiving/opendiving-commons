@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b67da4a-d4d2-5f08-a004-78c5542104f2",
     "name": "Cantil de la Piscinita",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

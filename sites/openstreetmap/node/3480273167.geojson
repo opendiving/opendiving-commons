@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e03fd18-6bc9-5c93-997f-054880ab5b72",
     "name": "Tako Flats",
+    "location": {
+      "name": "Hawaii, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

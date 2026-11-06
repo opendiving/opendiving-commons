@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79a4008c-0fd7-5221-affa-cabb252542eb",
     "name": "Kehlhof",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

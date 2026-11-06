@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b62e1375-9400-534c-879a-b85ec9d13af7",
     "name": "Björkviks brygga",
+    "location": {
+      "name": "Stockholm, Sweden"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

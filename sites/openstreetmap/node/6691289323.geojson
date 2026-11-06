@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8b370f0a-b01b-53be-b1ff-eddf73aadb3d",
     "name": "Petit Sec",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

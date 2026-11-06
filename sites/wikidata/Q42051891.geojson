@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "26c8468f-1e43-57bf-a6c1-2c963fd145cc",
     "name": "Dangerous Doug Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

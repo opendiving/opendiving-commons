@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9d32d37-8352-5596-960d-19aafd277397",
     "name": "Badeplatz Nixe",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

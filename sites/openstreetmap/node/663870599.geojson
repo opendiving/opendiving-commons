@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4a1eef55-c0d1-56f2-9887-06199e0b7af0",
     "name": "Doktorsee",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

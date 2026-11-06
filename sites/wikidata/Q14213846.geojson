@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b0ca657-f59d-5569-b919-d0f2923586d9",
     "name": "Pie Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

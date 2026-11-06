@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a8fc1792-7606-5611-8da7-8373bc5cae47",
     "name": "De Beertsterplas",
+    "location": {
+      "name": "Groningen, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

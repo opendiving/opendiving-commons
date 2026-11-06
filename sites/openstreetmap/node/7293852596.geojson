@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eae5af40-7d80-59c7-a990-564d33091d57",
     "name": "Panorama",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

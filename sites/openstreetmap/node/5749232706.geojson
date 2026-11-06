@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3d0b6bd6-03f7-5f71-9752-43c0d8ab63ad",
     "name": "Vltava Pod Karlovým mostem",
+    "location": {
+      "name": "Prague, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

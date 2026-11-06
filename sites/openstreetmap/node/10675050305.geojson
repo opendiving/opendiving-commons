@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4b3a2db8-1d77-57bf-85a4-520229bda326",
     "name": "Mamaan",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

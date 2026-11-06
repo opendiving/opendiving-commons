@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e426daae-2e13-5bba-b84d-e16b3266c6c4",
     "name": "Lady G'Diver",
+    "location": {
+      "name": "Portland, Jamaica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e119b050-3e23-5aa6-a945-5b828f37a65d",
     "name": "Strandbad",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

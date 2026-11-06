@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a82ab24b-7589-5c22-9ff7-89485302e59b",
     "name": "Rumbly Bay slipway",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

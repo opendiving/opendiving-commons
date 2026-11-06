@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3f4d4d5-59be-5e42-a373-c3604f96394a",
     "name": "Siyal Island",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

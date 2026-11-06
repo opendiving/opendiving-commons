@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cdf084fc-c618-5ab3-9a83-493a556a8086",
     "name": "Bridvaišis",
+    "location": {
+      "name": "Šiauliai, Lithuania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

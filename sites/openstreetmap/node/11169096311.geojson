@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c3af4555-bf71-5b7b-a697-86297b55d4da",
     "name": "Vietnamese Wreck",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

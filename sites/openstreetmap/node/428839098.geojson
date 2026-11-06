@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94c81d32-8552-5f56-8b1d-e01bd9280767",
     "name": "See Widdauen 2",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

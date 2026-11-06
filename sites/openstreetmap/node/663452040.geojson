@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c0d98d24-190b-51fb-88a6-9cfa8ea5172f",
     "name": "Kurheim Ländli",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

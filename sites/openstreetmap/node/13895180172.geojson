@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a2be5a7-034c-5eb0-8614-a49bee7fe364",
     "name": "Toilet Bowl",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

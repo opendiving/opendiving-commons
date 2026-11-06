@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "04293d28-a8db-5b98-8bda-df24b7ed32bf",
     "name": "Obersee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

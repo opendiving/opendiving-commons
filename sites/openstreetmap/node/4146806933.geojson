@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6eda97c-ca06-5162-8b92-fa605873f6ef",
     "name": "Source du Tirondel",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

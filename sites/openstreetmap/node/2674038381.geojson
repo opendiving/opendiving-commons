@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f3854d2f-eada-50ce-a209-b1f0d9cb83d8",
     "name": "Manta Point",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

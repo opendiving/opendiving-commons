@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2727e7f6-2a91-5985-bb73-befdfa4f22c0",
     "name": "Eastcliffe Hall (Wrack)",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7bf69fc9-62cf-5f65-bafa-1674dc063eaa",
     "name": "Speicherbecken Geeste / Lingen",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

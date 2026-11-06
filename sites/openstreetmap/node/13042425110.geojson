@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ea1c279c-e0a8-58a6-90fd-838069fb029f",
     "name": "Kwaj-2 Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "767006bf-2ea0-5d78-91fc-e4006339ad34",
     "name": "Alperstedter See",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

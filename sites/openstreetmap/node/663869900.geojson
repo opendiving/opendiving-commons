@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cefbc004-2779-54f1-9810-1bb0236efbd3",
     "name": "Rihiveli",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

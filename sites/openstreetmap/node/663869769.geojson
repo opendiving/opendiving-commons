@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8dcbe185-f48c-5f71-8d50-a008f2e33c66",
     "name": "Hamada",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

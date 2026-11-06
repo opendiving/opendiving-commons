@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "32340f48-fc1e-56ab-87b8-f7faad5f53f9",
     "name": "Midsommarviken",
+    "location": {
+      "name": "Västra Götaland, Sweden"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

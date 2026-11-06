@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "81b24402-dd02-595f-8960-6656948bca35",
     "name": "Erlichsee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

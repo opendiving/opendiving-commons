@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3931ff34-2cb8-548a-8eca-913628e3b6d1",
     "name": "Rannalhi Bodu Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c06944fd-2001-573f-acfa-d4d56c5b7e08",
     "name": "Logies Bay",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

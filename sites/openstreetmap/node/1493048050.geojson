@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cbc86961-bc28-5ffb-a74e-db4d7e31f816",
     "name": "El Sheig Malik",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

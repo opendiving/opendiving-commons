@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6b8a9ca3-bc16-51ea-9b7c-ffb2b704f2f4",
     "name": "Heidesee Holdorf",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

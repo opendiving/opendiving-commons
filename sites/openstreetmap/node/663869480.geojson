@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b0cb29d7-952b-5f11-a7db-ea23949b3e51",
     "name": "Nimrod (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

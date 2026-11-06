@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "60f00524-ce0b-59fc-8d34-bbcd50f2e5df",
     "name": "SS Star of Africa",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

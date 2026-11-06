@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e6aa9be2-0fad-5265-9d6a-8d3bedbb5065",
     "name": "La Tantine",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

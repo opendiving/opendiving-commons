@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f6a7e7b-61e1-5d74-bdc9-bb0c49a00b83",
     "name": "Barracuda Lake",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

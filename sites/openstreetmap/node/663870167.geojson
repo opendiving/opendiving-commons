@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5fecb997-2d49-54a4-9c74-47571ce7af38",
     "name": "Cascata Riale Salto",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

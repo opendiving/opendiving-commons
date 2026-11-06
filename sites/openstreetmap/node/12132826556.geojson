@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5182c32-98db-599e-a5c3-7bc68c5e6d5c",
     "name": "Barda de l'Illa Negra",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

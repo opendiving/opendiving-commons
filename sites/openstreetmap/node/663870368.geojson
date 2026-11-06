@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3682cef5-16d1-5b34-9054-6a74ec431153",
     "name": "Alte Brücke-Flurlingersteg",
+    "location": {
+      "name": "Schaffhausen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

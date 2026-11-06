@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5f24d270-01ca-5181-a9c7-79194b745114",
     "name": "Shilineat",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

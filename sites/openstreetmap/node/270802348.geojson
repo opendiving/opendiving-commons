@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5cdd2a7-d27d-50de-b56a-70e29a96ebd8",
     "name": "Cod Hole",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

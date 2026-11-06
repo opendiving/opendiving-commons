@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74805956-799c-5d9a-a6b4-9d5b805ff4fb",
     "name": "浮潛練習場",
+    "location": {
+      "name": "Keelung, Taiwan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

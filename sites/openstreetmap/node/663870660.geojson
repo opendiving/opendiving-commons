@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1eb3e271-fcee-5e40-9bc6-8b36e58eb2fc",
     "name": "Großenbrode",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

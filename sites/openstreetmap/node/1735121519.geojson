@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f3bcc9c5-8fd4-5196-af12-5203bd9cbb30",
     "name": "Lankayan - Jetty Dive",
+    "location": {
+      "name": "Sabah, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

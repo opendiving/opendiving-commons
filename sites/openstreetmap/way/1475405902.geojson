@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d0c7187f-7cec-5d0b-b957-b61b90edca2c",
     "name": "Victor Buoy Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

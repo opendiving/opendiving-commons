@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ccab6c25-7466-539f-9311-c32863ab9f25",
     "name": "Andaman Scuba",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1a5bb6e-d6aa-5640-ab73-cbefa684f5a6",
     "name": "Tauchturm Berlin, Bundeslehr- und Forschungsstätte (BLFS)",
+    "location": {
+      "name": "Berlin, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

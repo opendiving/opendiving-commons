@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "01db67cf-12d1-5dd0-ab3b-ce1211179f8c",
     "name": "Campomoro Plongée",
+    "location": {
+      "name": "Corse-du-Sud, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

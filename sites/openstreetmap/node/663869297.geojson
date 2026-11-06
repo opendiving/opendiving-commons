@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f5ebff8-bcec-5e93-be06-ada6d9e05f81",
     "name": "White Lady (Repulse Rock)",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

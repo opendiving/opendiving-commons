@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "059cb831-ec11-5f26-a1d9-d2c501ac1b5e",
     "name": "Looking Glass",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

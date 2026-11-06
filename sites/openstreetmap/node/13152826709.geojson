@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0c5a940a-d126-5f3c-af66-7f2ad7e8b164",
     "name": "Batu Bila",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

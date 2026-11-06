@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "333ca225-8757-561a-b3f3-088438e66a86",
     "name": "Grotte de Vallorbe",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da2f2706-8bc8-55f2-921f-b41f180971db",
     "name": "SS Clan Stuart",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

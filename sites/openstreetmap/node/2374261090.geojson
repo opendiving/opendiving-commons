@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4617a8a3-1aae-53a8-907b-0158db294d5a",
     "name": "Japanese Gardens Coral Reefs",
+    "location": {
+      "name": "Aqaba, Jordan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

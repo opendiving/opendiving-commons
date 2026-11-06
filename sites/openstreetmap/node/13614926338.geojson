@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8a59c2c8-5c1b-5153-9303-f357ad7598ea",
     "name": "Il-Prajjet",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

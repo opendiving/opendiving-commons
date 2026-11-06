@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c241ce2e-6ec3-572a-a557-c920e5161898",
     "name": "September anchor",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

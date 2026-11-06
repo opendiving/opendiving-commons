@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "708b9d20-1369-513e-bf97-dd2bc0a5e048",
     "name": "Gota Abu Galaua",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

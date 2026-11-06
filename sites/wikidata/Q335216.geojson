@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc172690-32b7-54e7-940b-93f70c263984",
     "name": "Sha‘ab Abū Nuhās",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

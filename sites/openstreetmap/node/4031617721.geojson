@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ba7ce3c-7f65-5f30-b7b5-13fe1f79e09e",
     "name": "Fujikawa Maru",
+    "location": {
+      "name": "Chuuk State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

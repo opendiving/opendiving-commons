@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba5801a5-bc04-5302-8c12-722e1451acab",
     "name": "Hey Daroma",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

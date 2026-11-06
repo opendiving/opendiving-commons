@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a2156898-ead3-5b9e-a0fe-72692f5e0934",
     "name": "Brockville Underwater Sculpture Park",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

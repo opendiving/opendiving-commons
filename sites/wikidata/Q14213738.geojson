@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a629c15e-e2e3-57f0-895b-c21fd95644e9",
     "name": "Di's Cracks",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

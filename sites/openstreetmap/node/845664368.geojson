@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d8002e8c-0e98-5012-9ec5-ff1336a7d4a8",
     "name": "Nastel",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

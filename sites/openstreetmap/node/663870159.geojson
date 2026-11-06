@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "78feff1d-4777-5fd7-b023-d87f8394b3fc",
     "name": "Lago Maggiore-Sud",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

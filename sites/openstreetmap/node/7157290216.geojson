@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "33c0d515-3927-5187-b320-6781bb172be3",
     "name": "Snorkeler's Cove",
+    "location": {
+      "name": "Saint Mary, Jamaica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

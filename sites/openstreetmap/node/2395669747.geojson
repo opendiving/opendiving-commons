@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e4413847-0b70-51d9-8bbb-c38bdae0408f",
     "name": "Bounty",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

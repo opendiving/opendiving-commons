@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a750f832-e91c-56ea-82b2-141aa8f8d9c7",
     "name": "Ginnie Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

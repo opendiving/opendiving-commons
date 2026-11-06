@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "60e8cb70-2758-5d75-9961-1a23fc8c670f",
     "name": "Rocky Bay",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

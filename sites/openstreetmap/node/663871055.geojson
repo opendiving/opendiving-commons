@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8a76d8e3-4a89-5633-b821-c65b650b2ae9",
     "name": "Parsteiner See",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

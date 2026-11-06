@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bfe90194-6353-561c-91cf-dd476f1364ec",
     "name": "Weißensee - Basis",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

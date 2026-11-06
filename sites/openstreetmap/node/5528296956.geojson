@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f954872e-10fb-5e6e-927b-ded961defd0a",
     "name": "Diving Menorca",
+    "location": {
+      "name": "Balearic Islands, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "423aaac1-d48f-5ae0-ad9b-ec5c4f004586",
     "name": "Weeki Wachee Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

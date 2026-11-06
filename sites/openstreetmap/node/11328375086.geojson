@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ef0b77d-1be7-5b8c-a45a-5ad1c540270a",
     "name": "Valpo Sup",
+    "location": {
+      "name": "Valparaíso, Chile"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

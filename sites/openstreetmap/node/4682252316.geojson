@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c83a0a6b-78b5-5098-94fc-ec1841e053ad",
     "name": "Diveworld Hungary",
+    "location": {
+      "name": "Budapest, Hungary"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

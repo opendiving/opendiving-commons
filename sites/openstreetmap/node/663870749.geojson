@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "907f044a-ed7e-5733-89f5-c156c77ecadc",
     "name": "Mondsee - Harnischwand",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

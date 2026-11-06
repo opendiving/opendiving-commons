@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5acf50ea-bdc6-5015-a363-d0489434f733",
     "name": "Phone Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1787bb26-b569-5ebb-a502-73c02f4b49f4",
     "name": "Lauenen",
+    "location": {
+      "name": "Obwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

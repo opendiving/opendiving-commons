@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b1b9b32-e2e5-5b0b-89b2-e80a3c686bf0",
     "name": "Le Sec des Murènes",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

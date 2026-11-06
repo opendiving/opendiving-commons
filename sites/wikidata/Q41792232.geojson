@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6abfa775-5995-54a6-8e8c-788e43e4ab40",
     "name": "Di's Cracks Arch",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

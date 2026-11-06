@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "702c2774-50e0-5db1-900c-506c4c755289",
     "name": "North Friskies Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

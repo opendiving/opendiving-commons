@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "357481eb-b928-5ab2-9b0c-74490b0cb819",
     "name": "Cap sa Sal (Buceig)",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

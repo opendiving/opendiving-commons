@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75eb3f12-3b0d-55a1-bb85-cc6d0dd3d362",
     "name": "Rainbow Reef",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

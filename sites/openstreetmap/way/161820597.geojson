@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b5549c7b-0ebd-5997-8b28-d4cc86a82b0d",
     "name": "Praia João Fernandes",
+    "location": {
+      "name": "Rio de Janeiro, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

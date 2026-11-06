@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9276b9b-9f3c-50c2-b5d1-ffef33f98cfe",
     "name": "The Wall",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

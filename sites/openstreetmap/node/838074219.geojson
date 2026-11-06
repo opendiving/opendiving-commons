@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2434240-b58a-5c14-9c74-844589e64e82",
     "name": "Kulkenol",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

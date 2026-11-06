@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57ab7807-8a6b-5727-b52b-58b8bd2aea04",
     "name": "Louilla",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

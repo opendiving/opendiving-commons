@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee8d1d78-0f65-5804-9a28-707cde33e62d",
     "name": "Freights Bay",
+    "location": {
+      "name": "Christ Church, Barbados"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

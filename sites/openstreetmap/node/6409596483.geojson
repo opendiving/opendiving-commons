@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a72516bd-f0c7-53a7-888a-e1c15bf3bdee",
     "name": "Obermatt",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c1857665-612a-5aaf-8604-48307e68238a",
     "name": "Le Piramidi",
+    "location": {
+      "name": "Palermo, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

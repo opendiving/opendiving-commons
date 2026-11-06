@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3bea2496-1f64-507c-858b-1f9cc2a0cc3e",
     "name": "Tanjung Parigi",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7dbe9144-7c25-5387-8ba9-2549fdaee917",
     "name": "Snorkeling",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

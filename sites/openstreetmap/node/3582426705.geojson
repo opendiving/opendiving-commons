@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7977275a-a656-5d46-b869-b575cd7ae8ba",
     "name": "อ่าวม่วง",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "369eff42-95b7-5d6d-a380-d046e8eb9933",
     "name": "El Brut",
+    "location": {
+      "name": "Tarragona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

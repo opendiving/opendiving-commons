@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ced462f7-deaf-5be9-be32-ede81d76e3da",
     "name": "Anna Jacobapolder",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

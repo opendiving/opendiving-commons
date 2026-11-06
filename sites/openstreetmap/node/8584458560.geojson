@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2caabf0f-8691-580e-8977-dee791a432c7",
     "name": "Gangehi North Kandu - manta cleaning station",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

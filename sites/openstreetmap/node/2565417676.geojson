@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "beb34311-5d8d-51ce-a390-0cdd119ad8fa",
     "name": "Dive Otago",
+    "location": {
+      "name": "Otago, New Zealand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

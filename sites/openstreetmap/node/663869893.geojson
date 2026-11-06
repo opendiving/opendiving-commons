@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3e1e83be-20bc-5d89-b991-4faea6d6456c",
     "name": "Boamas Kandu",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

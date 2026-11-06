@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68609f0d-c7b3-5724-8b39-b94777120cf2",
     "name": "P87",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

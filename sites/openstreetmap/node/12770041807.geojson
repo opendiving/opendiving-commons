@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "481831e3-94e1-5a35-8bde-0dd73ef753ab",
     "name": "Survival",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

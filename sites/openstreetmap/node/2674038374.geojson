@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2bc72f11-9bb5-5a3f-87ed-53000d4834af",
     "name": "Barracuda Point",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

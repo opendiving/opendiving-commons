@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5cd01ef0-3281-54cf-ae43-437c96e7fe8a",
     "name": "USS Oriskany",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

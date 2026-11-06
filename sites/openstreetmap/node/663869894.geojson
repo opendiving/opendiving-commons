@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1fd0474-c158-519c-b5d8-260269c16ce6",
     "name": "Fulhidoo Caves",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

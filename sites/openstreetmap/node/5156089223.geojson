@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28cf2cf9-927f-53cc-a3e5-6633efde151f",
     "name": "Snorkeling in the Rip",
+    "location": {
+      "name": "Australian Indian Ocean Territories"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

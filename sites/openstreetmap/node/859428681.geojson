@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "460642bc-b427-5988-8086-9345171dbbbb",
     "name": "อ่าวลึก",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

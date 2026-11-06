@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "adfc04af-0d03-5bfa-bd97-4acbe90c0312",
     "name": "Tröbitz Nordfeld",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "357cfba6-ec30-5f61-a5fa-c33ace0fab69",
     "name": "El Hawi Star Wrack",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

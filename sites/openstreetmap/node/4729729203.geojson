@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "369eb708-ff99-5c17-a9a3-22b7c8df12e3",
     "name": "L embarrancat",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

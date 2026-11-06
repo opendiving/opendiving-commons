@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9abcda8f-390f-50fa-95ac-25c1e6774e55",
     "name": "Cave",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

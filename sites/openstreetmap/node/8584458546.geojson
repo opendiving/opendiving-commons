@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86a9d522-e17b-589e-8612-0c82b177d602",
     "name": "Maalhos Thila",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

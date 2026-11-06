@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "af65288c-7e56-56bc-b4ac-4d042693a87d",
     "name": "Romeo",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

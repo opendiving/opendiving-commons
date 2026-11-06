@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0980e9ca-f4b0-58de-a09e-12234e22ac7a",
     "name": "Volusia Blue Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

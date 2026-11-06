@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f119a615-2f27-5937-bc68-8d96f3fdacd9",
     "name": "Kandoma Beru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

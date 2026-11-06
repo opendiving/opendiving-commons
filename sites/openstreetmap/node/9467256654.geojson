@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a62a70cd-6b28-5028-9ffe-e888c987b022",
     "name": "Nemesis III",
+    "location": {
+      "name": "Famagusta, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

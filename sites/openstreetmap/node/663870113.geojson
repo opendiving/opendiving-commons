@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2707bfb4-882d-5b40-afe2-90b31565941d",
     "name": "Mosenwäldli",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

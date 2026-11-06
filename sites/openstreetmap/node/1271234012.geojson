@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c9f57612-c2a4-5060-b067-54f0c83baff7",
     "name": "Rockport Dive Site",
+    "location": {
+      "name": "Batangas, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4af6ce8b-8d6a-5d15-9c5a-f44a08b54e93",
     "name": "Mike's",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

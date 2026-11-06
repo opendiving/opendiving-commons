@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4fbfd971-87a6-5c84-87ec-aa2e90f62175",
     "name": "Bujong Shoal",
+    "location": {
+      "name": "Southern Leyte, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

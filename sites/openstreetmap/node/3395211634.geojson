@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "206b397a-6536-5293-a97a-55be4cdf4f53",
     "name": "Shaab Samir",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

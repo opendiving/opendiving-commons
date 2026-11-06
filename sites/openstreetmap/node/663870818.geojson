@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "36aeda8e-a572-57b6-a7e4-0701b5dbec2a",
     "name": "Attersee - Schlierwand",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

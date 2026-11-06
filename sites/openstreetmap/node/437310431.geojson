@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3ef5f68-1cd0-5cf4-84ec-34917872ef93",
     "name": "Unterwasserwald",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

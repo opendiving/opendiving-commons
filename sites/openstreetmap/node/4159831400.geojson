@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2b9280e-5d23-5506-84fe-fcfcf8400ce8",
     "name": "Fessej Rock",
+    "location": {
+      "name": "Għajnsielem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

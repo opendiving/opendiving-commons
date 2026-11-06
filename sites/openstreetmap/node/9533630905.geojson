@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fad3bd5-cfc8-5aba-97d2-15b207d26e78",
     "name": "Koh Talak Steps",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a91fe64-cf64-5765-aff6-bd4de0c28876",
     "name": "Glencairn Barge",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2e36364-0dae-547f-9256-6eab1783d4a5",
     "name": "Punta del Faro di Portofino",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

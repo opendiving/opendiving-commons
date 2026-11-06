@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "581e35f7-58ce-53fe-9aba-f21514e0aba1",
     "name": "Wilson's Reef",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6bce625-2cd0-50e6-b8bf-782b443a1700",
     "name": "Liberty",
+    "location": {
+      "name": "Famagusta, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

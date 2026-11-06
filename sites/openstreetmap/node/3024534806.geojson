@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28e75dbd-d80f-5467-8cd6-e402d756df3d",
     "name": "Marche-Pied",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "660bacb7-c4f6-5f62-92b8-3c0f14ce26b0",
     "name": "Kalipayan",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

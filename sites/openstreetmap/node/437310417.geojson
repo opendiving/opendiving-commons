@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "14ae7487-dbfc-5f83-a18f-0dfcf52dbd62",
     "name": "Attersee - Wrack Dixie",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ef2eeff-5b40-5414-88d4-ae362c29dcce",
     "name": "Lac Lioson",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

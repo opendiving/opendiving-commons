@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d9e9559c-da50-508e-8285-8dca808bb00c",
     "name": "Ponta Noh Jon",
+    "location": {
+      "name": "São Vicente, Cape Verde"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

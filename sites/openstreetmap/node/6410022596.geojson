@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba6f932f-b3bf-5969-81e1-ded033fcd217",
     "name": "Schillerstein",
+    "location": {
+      "name": "Uri, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4508d3e1-c308-517f-b198-cbaf84619a0f",
     "name": "Pointe Barracuda",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe5e8bee-a901-5d5b-a92e-9a5068c0b478",
     "name": "Friwen Bonda",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

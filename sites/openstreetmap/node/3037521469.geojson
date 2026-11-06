@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0d0aada0-db2c-5950-9cb6-268f173e21ac",
     "name": "Iso-Melkuttimen sukellustukikohta",
+    "location": {
+      "name": "Tavastia Proper, Finland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

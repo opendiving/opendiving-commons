@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "224eb10e-d79e-50f4-b811-4c49d94e254c",
     "name": "Miller's Point tidal pool",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

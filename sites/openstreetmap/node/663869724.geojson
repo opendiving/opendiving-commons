@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7fdcbc98-ac0b-5ac2-ac4f-420c01051178",
     "name": "Krivica",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

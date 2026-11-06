@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3af1504-f1bd-53ab-9291-26224a210ea8",
     "name": "Halifax",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

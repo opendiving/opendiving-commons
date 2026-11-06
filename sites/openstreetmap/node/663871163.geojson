@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f1026b8c-f59d-5c28-ad02-4c647c9e475e",
     "name": "Jezioro Widrynskie",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

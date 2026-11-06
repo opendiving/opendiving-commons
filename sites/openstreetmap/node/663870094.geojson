@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "004c028f-9d52-50dd-a03d-67bce7f41c77",
     "name": "Insel",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

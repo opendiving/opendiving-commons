@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0aaa7470-7fa4-5739-a71a-92e105f29b01",
     "name": "سنسبلاش هاوس ريف",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

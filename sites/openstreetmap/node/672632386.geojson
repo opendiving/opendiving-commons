@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20ccf963-f2a6-5684-89e4-b39d1a129514",
     "name": "Akirifushi",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

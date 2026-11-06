@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e11eb5f7-f8f1-58fc-9e67-e9a2d252840f",
     "name": "Jake SeaPlane",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

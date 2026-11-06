@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "426add65-5b9a-5162-beba-9471f6995e12",
     "name": "K-10 Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

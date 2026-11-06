@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6f58e7e9-c5d4-56e8-b998-262eafe45db0",
     "name": "Put van Ekeren",
+    "location": {
+      "name": "Antwerp, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

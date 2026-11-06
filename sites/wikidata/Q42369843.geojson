@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f995596-ae31-52f2-b5cb-f967cf741752",
     "name": "Western Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

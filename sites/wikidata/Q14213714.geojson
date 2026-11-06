@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20d4e882-9540-595c-b46c-25421ef5fea2",
     "name": "Buffels Bay",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

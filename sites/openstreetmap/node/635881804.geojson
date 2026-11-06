@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c4fcd41-9081-5dcd-9c08-57474857fbf0",
     "name": "Alice in Wonderland",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

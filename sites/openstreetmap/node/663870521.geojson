@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30849aa4-f968-54d4-92bb-0f730bbddbf3",
     "name": "Pilsensee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

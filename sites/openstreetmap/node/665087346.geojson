@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "545e173b-41d0-5007-be03-ed9601658d4c",
     "name": "Schmitter Zoll Einstieg",
+    "location": {
+      "name": "Vorarlberg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

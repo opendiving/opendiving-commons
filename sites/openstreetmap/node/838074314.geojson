@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5efd48fd-d847-52ee-ab66-0db24735190d",
     "name": "Zonneschijn Zuiveringsinstallatie",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

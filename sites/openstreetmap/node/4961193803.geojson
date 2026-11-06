@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba53fb42-7604-5256-b4aa-a59940d070b5",
     "name": "Dive Center",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c7aa94e5-1984-55f9-b743-e495b3dcabc7",
     "name": "Miracine",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

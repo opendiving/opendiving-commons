@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3db98d3-70ca-5622-a200-6a3a150cd6d9",
     "name": "Grotte de Bange (Entrée S)",
+    "location": {
+      "name": "Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

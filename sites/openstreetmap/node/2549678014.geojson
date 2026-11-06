@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3b1a768-6e36-5c20-897b-e0059ca4d6a1",
     "name": "Grotte à corail",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

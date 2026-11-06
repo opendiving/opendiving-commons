@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "406ced79-64c6-5e99-bb23-ff08ed2aca00",
     "name": "Woo south",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

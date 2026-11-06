@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5a4b51ae-f55a-59f9-a0dc-04ed1372b974",
     "name": "Baggersee Streitköpfle",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

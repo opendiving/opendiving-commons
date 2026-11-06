@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a29f35c9-dfb7-5630-a375-bda909822aa5",
     "name": "Sentinel",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

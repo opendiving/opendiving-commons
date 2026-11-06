@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c8157bf4-16f9-59b2-84c5-79ba271c4df8",
     "name": "Pangas",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

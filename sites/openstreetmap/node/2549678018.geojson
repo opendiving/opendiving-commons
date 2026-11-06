@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4046d513-3f3d-52ee-8200-5b39a35cd03a",
     "name": "Iles des moyades",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

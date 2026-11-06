@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6fa537e6-6dbd-5587-9f8a-684e7bf58d34",
     "name": "Baume Rousse",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

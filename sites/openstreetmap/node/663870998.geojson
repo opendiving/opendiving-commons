@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f2e5655-7f83-51f8-b00c-926870b94a9c",
     "name": "Großer Kronsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

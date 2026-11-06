@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3e49af80-0a55-51c2-aed1-15fd7227c49e",
     "name": "Kleine Knip",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

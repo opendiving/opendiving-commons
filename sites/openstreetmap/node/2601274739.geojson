@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e0f2b967-39f1-548d-9b25-573eb4eeb8df",
     "name": "Tauchspot Augustabad am FKK Strand",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

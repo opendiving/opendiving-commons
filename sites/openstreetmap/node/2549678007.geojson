@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "67a5f0a9-67d2-5b8c-bc1f-4970a8bc38ac",
     "name": "Grotte Arc en Ciel",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

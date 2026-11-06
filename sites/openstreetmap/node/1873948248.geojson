@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c3b1a914-4f3a-5a36-9b0e-aa46369c975a",
     "name": "SS President Coolidge",
+    "location": {
+      "name": "Sanma, Vanuatu"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

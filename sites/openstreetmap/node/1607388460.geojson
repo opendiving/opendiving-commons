@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "09e57953-f01d-5a77-9c02-265772765e84",
     "name": "BMW Dixi",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1c910f27-99a2-5acd-9d4b-dbe6418dfa7e",
     "name": "Wadi Lahmy Azur Housereef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

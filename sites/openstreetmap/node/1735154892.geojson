@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef602946-0047-5049-8267-2a83eef9aff6",
     "name": "Redang - Paku Besar",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

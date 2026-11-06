@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef027523-c9cc-5dcc-8125-198b1121ba18",
     "name": "Fox Point Beach",
+    "location": {
+      "name": "Nova Scotia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

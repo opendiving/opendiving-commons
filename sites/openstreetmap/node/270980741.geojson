@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b252a33-65ad-5366-ac25-569d70785fde",
     "name": "Twin Peaks",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

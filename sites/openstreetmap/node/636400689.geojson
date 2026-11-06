@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "48b1dff7-c23d-57e9-b938-c98a656a1fe4",
     "name": "Weber's Joy",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

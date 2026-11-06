@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "212f586b-7dd3-543b-9dfc-94d69d1dc1e8",
     "name": "Корпус парохода Азов",
+    "location": {
+      "name": "Krasnodar Krai, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

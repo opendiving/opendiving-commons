@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46b9f3e6-c4d9-565b-8b02-efefb46f2731",
     "name": "Tombant des Sardinaux",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

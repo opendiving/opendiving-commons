@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74b64b09-302c-56a9-818d-8e1c4189e00d",
     "name": "North Caravan",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

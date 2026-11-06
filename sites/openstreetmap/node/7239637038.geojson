@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5c903d6-b29c-512e-907f-ec971cd02ee6",
     "name": "David",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

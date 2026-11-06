@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74c9a557-15a4-517f-8ce2-72c5d1eaa3fe",
     "name": "Cerboli Anchor",
+    "location": {
+      "name": "Livorno, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

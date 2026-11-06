@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b8fd8a9-9e49-5d9b-a92e-820d2d9d084c",
     "name": "Kenavo",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

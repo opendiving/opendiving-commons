@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0aae5ae5-e260-5349-95e2-1bbcf9807fc5",
     "name": "Zoetersbout",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

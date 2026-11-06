@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c0bd7be5-b3f2-5305-b268-ed876842a436",
     "name": "Hufeisensee",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d1f6b65-fe31-55bf-8862-bbdb2b98612e",
     "name": "Ellaidhoo house reef",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

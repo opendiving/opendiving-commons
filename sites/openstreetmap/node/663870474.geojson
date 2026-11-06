@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7158c394-b34c-56ef-891a-9a1e5045a37a",
     "name": "Heiterwanger See - Tauchzone 2",
+    "location": {
+      "name": "Tyrol, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

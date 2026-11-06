@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e287b72d-a461-5e9e-bdd4-41c64973dc22",
     "name": "Grotte Mystérieuse",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6877f970-ced9-53cd-8ddb-57d9ef649e6b",
     "name": "Blue Corner",
+    "location": {
+      "name": "Peleliu, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

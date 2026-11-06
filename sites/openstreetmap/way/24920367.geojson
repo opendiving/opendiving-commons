@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9a70465b-3f73-520d-b153-306ee761cf5d",
     "name": "Stoney Cove",
+    "location": {
+      "name": "Leicestershire, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bdf76dba-289c-5c52-8edd-088ecebe7098",
     "name": "Tobia Araba",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

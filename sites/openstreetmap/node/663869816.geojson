@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6288088-726f-5475-938a-a1d4242a0daf",
     "name": "Ulysses",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

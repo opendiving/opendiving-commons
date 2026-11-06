@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "56ac7910-8852-5d3e-a544-8950cae58280",
     "name": "Catfish Hotel Sink",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

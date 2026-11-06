@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fbc7d38-d5e3-594a-9737-7911500e57dd",
     "name": "SS SA Seafarer",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

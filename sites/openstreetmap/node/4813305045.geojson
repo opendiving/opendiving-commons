@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c637112-66ea-5626-a21f-610aa8293544",
     "name": "Trawangan Dive Biorock",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

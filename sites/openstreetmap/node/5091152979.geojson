@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d6979a3f-2f28-5413-a340-99bc9d793205",
     "name": "Drift Divers Nusa Lembonang",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ec9bc034-0d3d-5520-8a7b-22faf8b17265",
     "name": "Jackfish Alley, Fisherman’s Bank",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

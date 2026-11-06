@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6c70a5a-23f6-52d1-9b77-014c8115c7bc",
     "name": "Jezioro Rydzówka",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

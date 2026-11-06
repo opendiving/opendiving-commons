@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "07576c9a-ce1c-5dac-b4b2-68aa56ff6855",
     "name": "Alaunia (Wreck)",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

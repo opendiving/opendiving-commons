@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d15c085b-c1fc-59c8-a831-6b3100f40657",
     "name": "Sorgente Bossi-Sorgente Bossi",
+    "location": {
+      "name": "Como, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

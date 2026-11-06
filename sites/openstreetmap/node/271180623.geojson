@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ca03ee1b-3a0a-5f51-bf0e-d7c7fefdb2fa",
     "name": "Shaab Maksour South",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

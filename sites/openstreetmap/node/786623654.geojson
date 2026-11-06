@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d48ac1e6-c72c-5562-8ea6-65dc1b28a655",
     "name": "Entrence 155",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

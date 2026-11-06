@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3b73f92-62e1-5063-8ad9-a8e73d884e8b",
     "name": "Anchor Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

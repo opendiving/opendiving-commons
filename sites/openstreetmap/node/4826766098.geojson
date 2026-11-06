@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f90e8f6b-6b68-577d-8186-2f50690def67",
     "name": "เกาะบางเหนือ",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

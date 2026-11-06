@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "562cd822-7f13-55ea-b58e-fef3bb4b0fe9",
     "name": "Foux de Pompignan",
+    "location": {
+      "name": "Gard, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

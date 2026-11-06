@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aa061605-4f96-5c88-8f46-a5f7147076f4",
     "name": "Shpella Nënujore e Viroit",
+    "location": {
+      "name": "Gjirokastër, Albania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

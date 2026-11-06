@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5374c1f7-46f7-5163-a5f7-5070864927b6",
     "name": "Marxweiher",
+    "location": {
+      "name": "Rhineland-Palatinate, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b13c2a2-74b6-5a91-b522-d867d3f68c6c",
     "name": "Outer Windmill",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

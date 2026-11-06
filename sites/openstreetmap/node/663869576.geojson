@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a0a78f38-2d5a-5d14-8b5f-2fb2e1be2b70",
     "name": "Broderick",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

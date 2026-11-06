@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "63a742c0-70c5-5885-a3be-45b58328fb0f",
     "name": "Sorpesee Sommertauchplatz",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

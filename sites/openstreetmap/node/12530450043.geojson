@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ec859e9-e405-5e47-b5c4-b4e78f37dab8",
     "name": "Plattform 3m",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

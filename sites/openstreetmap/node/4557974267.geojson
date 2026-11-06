@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1351c605-ef18-508d-9330-7a2e5c81a5a7",
     "name": "Evo House Reef",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

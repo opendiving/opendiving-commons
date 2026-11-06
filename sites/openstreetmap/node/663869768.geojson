@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d27baa37-53dd-5652-b4c2-017f37018219",
     "name": "Adantia K.",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

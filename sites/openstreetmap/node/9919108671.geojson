@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "511a3325-3d25-5842-9a87-0f2423dc379b",
     "name": "CESMM",
+    "location": {
+      "name": "Monaco, Monaco"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

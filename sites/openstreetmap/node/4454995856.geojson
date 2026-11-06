@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc546142-83db-522d-8787-4d0f2a19a24d",
     "name": "Blue Corner",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

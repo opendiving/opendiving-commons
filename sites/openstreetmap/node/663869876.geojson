@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9fe97146-99d3-57a3-9c9a-aeeafd66bf0e",
     "name": "Yatouche",
+    "location": {
+      "name": "Southern, Israel"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

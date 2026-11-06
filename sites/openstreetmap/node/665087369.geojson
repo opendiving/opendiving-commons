@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "33f994f8-76e9-5770-b215-df39b04ae12d",
     "name": "Rietli Goldach Einstieg",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

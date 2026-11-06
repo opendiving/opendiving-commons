@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "34601948-dd14-59d7-8b2b-c9f094b5e1a8",
     "name": "Barolin Point Dive Site",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

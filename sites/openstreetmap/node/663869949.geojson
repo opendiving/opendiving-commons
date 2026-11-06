@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5857ada-b5a0-5dcd-b99d-154f6c50aa44",
     "name": "Cocoa Corner",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

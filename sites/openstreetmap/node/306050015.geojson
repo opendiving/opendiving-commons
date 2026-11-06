@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b6021c98-e466-5693-8465-e8b6693f552a",
     "name": "Aquarium",
+    "location": {
+      "name": "Dhofar, Oman"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "21a8b176-25a6-5d8c-b893-088dff56998d",
     "name": "Sari Dive & Cottage",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

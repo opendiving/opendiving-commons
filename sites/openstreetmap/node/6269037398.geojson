@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6de9557-c691-5ad3-a6af-ec9105eed3d6",
     "name": "Terumbu Karang",
+    "location": {
+      "name": "South Kalimantan, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

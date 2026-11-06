@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46f3f687-6866-5632-8a60-e23834ad771e",
     "name": "Jezioro Czarnoglowy Duze - Badestelle",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b4329ab-2953-56a3-b887-810115df1424",
     "name": "Candi City",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

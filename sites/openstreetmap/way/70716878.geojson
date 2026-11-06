@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0d2cd305-ec1c-53a3-9fe5-baa37fe40a06",
     "name": "Fleesensee",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

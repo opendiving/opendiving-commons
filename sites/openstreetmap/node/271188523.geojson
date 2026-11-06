@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28a4c161-a125-5166-89c9-c8fc07dc2c4c",
     "name": "Shag Rock",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

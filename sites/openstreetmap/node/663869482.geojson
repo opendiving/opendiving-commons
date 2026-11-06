@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da4abec3-7843-5572-98c9-14a1dd9ebda7",
     "name": "Pascal P. Pratt (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

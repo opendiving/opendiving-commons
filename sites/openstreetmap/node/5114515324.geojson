@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c672654b-0d74-55ce-bb22-dd21a2e8b214",
     "name": "Siaba Besar dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

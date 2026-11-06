@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de32240b-a10e-5ce4-b6d5-07f289ba591f",
     "name": "Emerald",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00ee4f0a-6217-5015-b7d8-763c9a017fab",
     "name": "Attinger Weiher 1",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

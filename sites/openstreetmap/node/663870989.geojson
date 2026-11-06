@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "653ebd6b-4621-545a-8c72-412a542b9e8d",
     "name": "Zootzensee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

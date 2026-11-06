@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7870ea88-3bb2-549c-a567-096e92a5cce4",
     "name": "Sardine Reef",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

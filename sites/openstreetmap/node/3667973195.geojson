@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "569396a5-155f-5202-aea9-e67f33057b1c",
     "name": "Galapagos fan dive",
+    "location": {
+      "name": "Galápagos, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

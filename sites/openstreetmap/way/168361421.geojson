@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4094d829-ee24-59ac-9f7b-b37942790dec",
     "name": "Kleiner Schilfsee",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

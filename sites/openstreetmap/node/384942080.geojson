@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aea0563a-8f36-5c01-aa74-3abe9f5dff9f",
     "name": "Big Bear-Little Bear",
+    "location": {
+      "name": "Saint Lawrence, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

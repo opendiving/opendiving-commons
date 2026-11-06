@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2dc03d6e-a50c-5182-8ff8-c53f88128650",
     "name": "Tauchspot Dolgener See Schweinemastanlage",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

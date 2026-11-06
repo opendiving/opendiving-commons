@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d042e35f-8d64-51d3-b2d7-661da8e9c24c",
     "name": "MFV Princess Elizabeth",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

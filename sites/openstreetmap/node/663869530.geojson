@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "39dda46e-945c-5f29-ab7d-9bb52900a5a3",
     "name": "Cala Cerrada",
+    "location": {
+      "name": "Murcia, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

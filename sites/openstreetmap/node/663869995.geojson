@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93ac23a8-1d8b-5203-8df9-341987aa7378",
     "name": "La Madonne",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

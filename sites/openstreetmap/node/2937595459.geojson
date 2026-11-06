@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12b458f2-e42d-53c6-a1b7-ea0c83d78c67",
     "name": "SS Anglo-Patagonian",
+    "location": {
+      "name": "Vendée, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

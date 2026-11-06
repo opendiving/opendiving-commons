@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1dbbd19-9033-5756-bfc3-1e00bc5f96e6",
     "name": "Achterdiek See",
+    "location": {
+      "name": "Free Hanseatic Bremen, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "afbf89a7-62d0-5cbd-abed-7b6236c0acc3",
     "name": "Madison Quarry",
+    "location": {
+      "name": "Alabama, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

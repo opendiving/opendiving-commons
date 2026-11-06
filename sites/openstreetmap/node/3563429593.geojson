@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2510303f-b8e2-5cc3-97b2-abde740b5872",
     "name": "Amigos do Mar",
+    "location": {
+      "name": "Viana do Castelo, Portugal"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

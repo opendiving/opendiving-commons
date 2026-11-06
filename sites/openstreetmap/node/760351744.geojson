@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f7cd3aa-c537-531a-bbb9-4b47a823ed3c",
     "name": "Rothsee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

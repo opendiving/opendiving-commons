@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "126ca4e5-4dc0-5c25-8919-b14c978f4b5f",
     "name": "Donut Reef",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

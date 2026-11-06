@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "efbd6382-ede5-570f-a036-7784b55f1d3e",
     "name": "Steps",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

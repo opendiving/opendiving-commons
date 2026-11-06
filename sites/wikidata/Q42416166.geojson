@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "937b8563-abe3-5004-8943-1abe78f3bb2c",
     "name": "Little anchor",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

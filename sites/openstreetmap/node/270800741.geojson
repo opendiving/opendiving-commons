@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b396e51-d70b-5b53-b6e6-4a619a64988d",
     "name": "Challenger Bay",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

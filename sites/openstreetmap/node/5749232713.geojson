@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f467c13b-3a01-5830-bc74-601d76c841e9",
     "name": "Mokrýšov Malá jáma",
+    "location": {
+      "name": "Pardubice, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

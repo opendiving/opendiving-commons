@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2e6b5db4-847d-5baf-9a6c-aa6062d45e47",
     "name": "Strandbad",
+    "location": {
+      "name": "Aargau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

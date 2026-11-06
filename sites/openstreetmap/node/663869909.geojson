@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7f9107c6-89e7-5059-aca6-81cda6b0f835",
     "name": "Fihalhohi Paradies",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

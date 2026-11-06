@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d39d22dc-67ce-5e25-9d77-08eb36262b81",
     "name": "Stratmann Wreck + dinghy mooring",
+    "location": {
+      "name": "Grenadines, Saint Vincent and the Grenadines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

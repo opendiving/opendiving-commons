@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bffd183c-6fe2-59b6-adec-f7d522956928",
     "name": "Plansee - Zone 3 (Planseecamp)",
+    "location": {
+      "name": "Tyrol, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

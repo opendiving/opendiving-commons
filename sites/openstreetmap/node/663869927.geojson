@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "345295e0-a5a6-5fe6-9c88-0a87dd5d9e65",
     "name": "Vaageli Outside",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

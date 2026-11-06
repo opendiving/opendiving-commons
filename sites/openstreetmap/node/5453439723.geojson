@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "011a5bbc-fa6c-506d-8ad1-85691e9900bf",
     "name": "Nudi Rock",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b2243a01-8cb1-5145-a5c2-ed191661e32b",
     "name": "Abille",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

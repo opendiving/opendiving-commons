@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d5e2e426-122c-53b6-8804-4eb650296fca",
     "name": "Attersee Wandl",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

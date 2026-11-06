@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "327c21d2-ee9c-5c03-b539-4fe689b67797",
     "name": "El Garrafon",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

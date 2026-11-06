@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "15f4cea2-d16d-5372-a602-51f0627d598e",
     "name": "Trilogia",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

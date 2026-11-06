@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de515ec2-3489-5806-a3a0-8bf247516762",
     "name": "Caroline Rose (Schooner)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

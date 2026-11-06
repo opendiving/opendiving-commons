@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "97f137e2-e0a6-5ce3-907c-340ef8350ef1",
     "name": "Bleamoor",
+    "location": {
+      "name": "Torbay, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

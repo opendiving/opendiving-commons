@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "29ad163c-9283-5ef4-92f3-ad50600bb538",
     "name": "South Button",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

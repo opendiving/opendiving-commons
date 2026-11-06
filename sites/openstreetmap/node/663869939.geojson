@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc8f0881-2d01-5753-93d6-628737765caa",
     "name": "Finolhu Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

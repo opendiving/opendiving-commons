@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "622fb145-543d-548a-808f-2c3a6d30471c",
     "name": "Shaab Sakara",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

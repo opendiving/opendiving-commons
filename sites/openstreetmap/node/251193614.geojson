@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "19649614-0fae-54f1-bd93-5a0b12d42ebc",
     "name": "Eel Garden",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

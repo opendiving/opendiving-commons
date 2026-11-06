@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77d0e1f9-b3bb-5df0-a017-aae21ce2d396",
     "name": "Miller's Point slipway",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

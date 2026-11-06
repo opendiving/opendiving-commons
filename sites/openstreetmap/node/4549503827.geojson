@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "09527340-3c89-5b57-b637-af0c7e8d843e",
     "name": "Marsalis Abu Galawa",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

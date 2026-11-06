@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9deaa75d-2dd3-5a65-8803-f640ce765e45",
     "name": "City of Sheboygan (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

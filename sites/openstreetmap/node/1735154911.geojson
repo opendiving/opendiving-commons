@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "60222dac-e561-59a2-9724-23da312ff26d",
     "name": "Redang - Terumbu Kili",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

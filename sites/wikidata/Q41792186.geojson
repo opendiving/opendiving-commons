@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e46f4caf-6fdb-5505-b809-61d3f31caa3d",
     "name": "Stonehenge Wreck",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

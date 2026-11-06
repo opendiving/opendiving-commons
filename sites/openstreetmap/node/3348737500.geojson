@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b35a33ff-e137-5b62-9762-4805a5f91b26",
     "name": "Playita",
+    "location": {
+      "name": "Samaná, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

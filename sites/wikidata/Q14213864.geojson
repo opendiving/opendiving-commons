@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "750ef28b-8d7e-5315-8380-6251bee172bb",
     "name": "SAS Bloemfontein",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

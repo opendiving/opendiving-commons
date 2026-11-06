@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f5b15627-ed23-56fb-8e4d-188fa14070d9",
     "name": "Kuda Rah thila",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

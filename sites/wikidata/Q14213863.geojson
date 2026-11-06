@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff65602c-e1f2-5ce3-9004-9e89f1a884db",
     "name": "Rooi-els Point",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

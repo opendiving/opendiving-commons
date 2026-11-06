@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e1b97924-2405-5ae5-9c1f-d6a4f7a437de",
     "name": "Kap Zašorga",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

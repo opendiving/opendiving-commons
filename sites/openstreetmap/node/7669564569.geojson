@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8fbc9e54-2142-5047-9493-93602d4599bd",
     "name": "Pendennis Shore Dive",
+    "location": {
+      "name": "Cornwall, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

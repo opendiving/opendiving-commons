@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0fac227a-4dfe-51ba-b752-73dcfe65d7ba",
     "name": "Shaab Sataya Amphoren",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "61e50234-5119-59f7-a46f-ade607e32f9f",
     "name": "Ankerplaats - Dillingweg",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

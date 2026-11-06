@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a64cade4-eeba-5b5c-889a-4f831ed28463",
     "name": "Ponte Corippo",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

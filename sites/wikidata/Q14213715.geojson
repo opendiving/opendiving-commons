@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "60fc3ed3-7b45-5155-9768-a800e496037d",
     "name": "Canyon",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "af0eca88-4935-5e78-b455-11cb9851570c",
     "name": "Планета Дайвинга",
+    "location": {
+      "name": "Saint Petersburg, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

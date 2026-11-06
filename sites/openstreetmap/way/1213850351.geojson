@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e958cbf-58bd-5621-ba30-453dd43df700",
     "name": "St John's Gota Kebir",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

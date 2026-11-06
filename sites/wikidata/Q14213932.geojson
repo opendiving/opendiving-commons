@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c5f4314-f450-5be4-95b3-eaf19c3dce93",
     "name": "Tony’s Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

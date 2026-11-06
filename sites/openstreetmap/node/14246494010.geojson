@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d43b375-b5a3-5c63-a1b6-31bc9e6e7821",
     "name": "Océanium",
+    "location": {
+      "name": "Dakar, Senegal"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

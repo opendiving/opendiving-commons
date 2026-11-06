@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "85b8c7a5-55f8-5c84-ad85-4b3e7edbf809",
     "name": "Bocas Diving Pirates",
+    "location": {
+      "name": "comarca Ngäbe-Buglé, Panama"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

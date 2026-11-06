@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "48a911b9-e7e8-5c44-863e-bd683d9ad748",
     "name": "Tombant de Chindrieu/Châtillon",
+    "location": {
+      "name": "Savoie, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

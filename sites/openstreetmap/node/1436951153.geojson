@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "12bda2b9-182e-58c5-902e-125eb943a4c8",
     "name": "Strick",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "339b8cb8-09d2-5c23-a60a-e164128c79c2",
     "name": "Captain Muddy",
+    "location": {
+      "name": "Unguja North, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

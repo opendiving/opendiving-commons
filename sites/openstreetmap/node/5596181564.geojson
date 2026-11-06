@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75d5a0a0-d1a1-56bd-ae58-c8e635233883",
     "name": "Aiguablava",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

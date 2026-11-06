@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d5455f04-cae2-5663-bd82-0c630993b996",
     "name": "Mushroom Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

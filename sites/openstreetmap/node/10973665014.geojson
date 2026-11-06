@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3533163d-fa82-5d81-8531-6e792a9d9912",
     "name": "Aksona",
+    "location": {
+      "name": "Muğla, Turkey"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

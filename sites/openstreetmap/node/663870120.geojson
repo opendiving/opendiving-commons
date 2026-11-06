@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06bcd223-0c21-551c-b356-011365d28538",
     "name": "Restaurant Delphin",
+    "location": {
+      "name": "Aargau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

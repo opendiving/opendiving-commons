@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a18b6c64-853a-54da-b11a-f4fd647a3c18",
     "name": "Andrea Ghisotti (ex Scoglio del Raviolo)",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

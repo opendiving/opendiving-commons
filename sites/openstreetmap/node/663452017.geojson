@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a5fbf7a-7c4c-5a35-88b2-aeae6a44b2c7",
     "name": "Vorstad",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

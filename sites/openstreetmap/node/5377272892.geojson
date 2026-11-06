@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "296689a9-5266-535f-8d6d-cf3d4b25420a",
     "name": "Grafstatt",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

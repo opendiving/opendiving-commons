@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c1de7569-6716-5d5b-834e-a6795e5b53c0",
     "name": "Sand Bar",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "be952e27-a26f-51d6-bc84-2c37fbbbf8f6",
     "name": "The Alternatives",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

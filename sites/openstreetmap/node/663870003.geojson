@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0335d5d6-ccaa-5814-a247-1e3ec0d4ad46",
     "name": "Creugenat",
+    "location": {
+      "name": "Jura, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

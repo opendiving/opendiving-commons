@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "097de0e7-f204-5c6c-9aef-d4385e0deac1",
     "name": "Lago Esmeralda",
+    "location": {
+      "name": "São Paulo, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

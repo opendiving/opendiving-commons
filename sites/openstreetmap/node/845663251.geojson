@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4eeda580-3d05-586f-8269-19934330d2ec",
     "name": "Balmholz",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

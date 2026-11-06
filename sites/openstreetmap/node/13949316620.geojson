@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7aa85c5e-010d-584e-819d-087181717ec6",
     "name": "SS Bretagne",
+    "location": {
+      "name": "Torbay, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

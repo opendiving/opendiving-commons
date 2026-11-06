@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0cc5cb3a-a1f0-5ab7-938f-edfe02fd05b8",
     "name": "Einmündung Rohrleitung",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

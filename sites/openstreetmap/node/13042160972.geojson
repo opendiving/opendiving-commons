@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3bfd9f3c-b2a9-5a33-9ad0-f7a1fe154dba",
     "name": "Manta Ridge",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

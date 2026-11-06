@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6cd0e371-335d-55a9-8dcd-6faea78368ca",
     "name": "Uhland-Ansaugstutzen Horn",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

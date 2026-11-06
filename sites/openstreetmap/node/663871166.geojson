@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4d4593aa-4c18-5616-a591-21e9ed9e8532",
     "name": "Jezioro Mamry – Campingplatz",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

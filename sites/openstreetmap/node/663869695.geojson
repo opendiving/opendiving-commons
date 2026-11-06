@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8de2a948-c421-5e0a-81be-d22c0495d7c9",
     "name": "Wreck `Mohawk Deer`",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

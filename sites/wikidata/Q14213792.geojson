@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f06a2b6-e9eb-5a44-8757-3b5845766069",
     "name": "Long Beach Simon's Town",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b30c268a-5309-5c5a-b504-27159e73b6c4",
     "name": "plume plateau deep",
+    "location": {
+      "name": "Saint John, Dominica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

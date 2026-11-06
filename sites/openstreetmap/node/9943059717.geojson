@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6fbfb90b-9b92-5b01-8a84-0f7a0511da2a",
     "name": "Barracuda Point",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1f2e6b04-7bc0-5092-bf17-27c11e1347f3",
     "name": "5m platform",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

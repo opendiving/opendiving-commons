@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "782af1b9-f74f-5d02-9e42-a913f0e0ab2d",
     "name": "Las Esponjas",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

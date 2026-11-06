@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "32f69f05-9ad2-52ba-9eed-fb7d21afbed7",
     "name": "通り池",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

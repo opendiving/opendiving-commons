@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f8dc144f-fe27-5732-b2a9-7d83bf8a8acd",
     "name": "3m platform",
+    "location": {
+      "name": "Limburg, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

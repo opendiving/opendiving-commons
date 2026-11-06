@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cf1f20b6-247e-56cb-ac94-d359d072dc03",
     "name": "sa Tuna",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

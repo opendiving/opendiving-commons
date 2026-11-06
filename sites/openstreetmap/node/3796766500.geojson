@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3965fa45-150c-558b-8a51-a1268cb79ceb",
     "name": "Aegean Divers",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7c0eede8-0dcd-5f59-a8a2-11052d9add1a",
     "name": "Superior Producer",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

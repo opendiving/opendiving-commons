@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac70f9fd-ca4e-5c2d-8607-fb3c946ba5b5",
     "name": "S.V. Stephen Whitney",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

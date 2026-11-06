@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bf26edfe-acb2-5b7c-93ad-d4060658b27e",
     "name": "Blue Fish Wall",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

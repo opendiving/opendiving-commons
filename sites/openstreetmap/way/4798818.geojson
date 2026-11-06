@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff7b5322-b2be-5a0b-b54b-97580fcd4447",
     "name": "Wambachsee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

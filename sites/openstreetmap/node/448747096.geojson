@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5f74765b-2c18-5c9f-ac4b-2a5afaab5abb",
     "name": "Mushroom Forest",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

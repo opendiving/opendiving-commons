@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b04de3e-425f-5736-894e-f119436012b9",
     "name": "Buceo Norte",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

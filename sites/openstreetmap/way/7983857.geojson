@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "87ba7b63-8dec-5405-9b59-822c6e5228b8",
     "name": "Handorfer See",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

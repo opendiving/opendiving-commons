@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "194cd5f9-3aa2-5df6-b1fa-4a0add687840",
     "name": "La Croisette",
+    "location": {
+      "name": "Namur, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

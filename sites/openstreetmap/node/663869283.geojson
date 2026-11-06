@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "07353c63-56fc-5fa7-9032-c446fe94171f",
     "name": "Discovery Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac705a22-8e78-5dd1-9f64-0c586ccc4a75",
     "name": "อ่าวโตนด",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

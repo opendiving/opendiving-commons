@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "74ea2034-55a1-569a-93aa-ab454ac71dfe",
     "name": "Shaab Umm Gamar",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

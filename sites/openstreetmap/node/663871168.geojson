@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4f4fb0f6-3d4d-5e96-8db2-5af12231d82c",
     "name": "Jezioro Mamry - Archäologische Siedlung",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

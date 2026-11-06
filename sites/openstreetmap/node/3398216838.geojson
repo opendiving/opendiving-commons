@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c88df8fa-b116-5105-b5dd-aa04a2f4f34d",
     "name": "West Rock",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

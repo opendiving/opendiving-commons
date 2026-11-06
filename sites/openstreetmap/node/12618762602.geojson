@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e1a0ba21-9596-5313-931f-a11b937fea79",
     "name": "Cantil de Los Recuerdos",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

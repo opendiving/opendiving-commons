@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aba885fd-764a-5060-9b84-961e2bacd3cb",
     "name": "Halik",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

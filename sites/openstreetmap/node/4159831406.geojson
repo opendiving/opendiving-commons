@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ac4250ce-a458-51a6-83c2-e038befa267b",
     "name": "Ta' Ċenċ",
+    "location": {
+      "name": "Sannat, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

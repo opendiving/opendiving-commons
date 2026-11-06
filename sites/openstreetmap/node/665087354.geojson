@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad93a862-a7ee-54f3-a47d-ca440098cfa1",
     "name": "Diepoldsau Sportplatz",
+    "location": {
+      "name": "Vorarlberg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

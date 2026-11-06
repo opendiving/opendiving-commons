@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5bab2900-394b-55fc-beca-c77a8eb1f245",
     "name": "Bat Cave",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

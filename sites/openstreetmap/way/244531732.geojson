@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6d171bca-69bd-5c52-96e1-6eb9f4130d0a",
     "name": "Marine Protected Area",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

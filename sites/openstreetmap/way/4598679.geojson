@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3c8a998-e959-5c6e-9b87-cff9f8465bdd",
     "name": "Tauchersee",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

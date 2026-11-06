@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8552024c-a60d-5ccc-a150-2d302c953f3e",
     "name": "Seebad Rüschlikon",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "48ae9198-d29f-5b25-8dc6-5f0b53c7dec2",
     "name": "Steenbras Deep Ridge",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

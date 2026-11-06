@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cc3a4de0-47a8-5d69-b5b1-0c49a82f4d13",
     "name": "The Valley",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

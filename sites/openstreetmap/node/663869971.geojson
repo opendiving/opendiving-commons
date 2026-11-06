@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "529a6faf-9b8a-510a-ac4e-f7b4d8ae70e6",
     "name": "Les Iles",
+    "location": {
+      "name": "Valais, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

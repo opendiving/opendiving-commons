@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e49c1f3c-c043-5b9d-9134-e92409922145",
     "name": "Wolfgangsee - Franzosenschanze/Parkplatz Abersee",
+    "location": {
+      "name": "Salzburg, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

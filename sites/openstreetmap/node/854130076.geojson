@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "443f47be-8ff2-519d-9f7d-da85cd1e6ca1",
     "name": "18th Palm",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

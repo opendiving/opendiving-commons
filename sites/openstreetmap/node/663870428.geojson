@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9bcbc66-8059-55b1-bc89-24b2548778c8",
     "name": "Die Jura (Wrack)",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

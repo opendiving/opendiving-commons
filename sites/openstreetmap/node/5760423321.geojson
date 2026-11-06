@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72894742-9fb9-5eae-8365-12e60f07de63",
     "name": "Sebayor Kecil Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

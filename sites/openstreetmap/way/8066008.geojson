@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "60591a97-3dd4-5075-9654-c6f7e3b85713",
     "name": "Carrières de Lessines",
+    "location": {
+      "name": "Hainaut, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

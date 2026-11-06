@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5fe60515-eab9-5163-bf50-224530116baf",
     "name": "Boka Sami",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

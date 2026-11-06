@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "87308a2e-c004-5b6f-938a-b1117acc1779",
     "name": "Barcazas",
+    "location": {
+      "name": "Magdalena, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5a5e5874-6a93-5f58-810b-288c6f855d72",
     "name": "Spielbergbruch",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

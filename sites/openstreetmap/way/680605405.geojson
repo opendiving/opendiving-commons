@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8f596630-0092-58e6-8248-5591c672b846",
     "name": "Amphithéâtre",
+    "location": {
+      "name": "Quebec, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

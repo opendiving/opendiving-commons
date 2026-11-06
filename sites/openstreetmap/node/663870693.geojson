@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8ba47ba0-9cb1-55b4-9104-2540eaf397f5",
     "name": "Tegernsee - Friedl",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

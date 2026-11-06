@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f68c1f9-ea1e-5b12-990f-15c7d2d47544",
     "name": "The Caves",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

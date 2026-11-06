@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71289d71-c0a0-5b5a-a71f-57e95a69e611",
     "name": "3 Sisters",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

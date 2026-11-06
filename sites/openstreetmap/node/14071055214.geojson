@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d0f5111-fac8-59d9-8412-39e9fbcdd152",
     "name": "Le Cap Ferrat",
+    "location": {
+      "name": "Alpes-Maritimes, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

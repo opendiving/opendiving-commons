@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95882ece-8f80-5b7b-be1b-9ed9a426101d",
     "name": "Vera K",
+    "location": {
+      "name": "Paphos, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

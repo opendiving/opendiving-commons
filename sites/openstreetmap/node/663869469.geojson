@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ff180449-10ff-5211-9df2-62cb6aa764fd",
     "name": "William H. Wolf (Wrack)",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

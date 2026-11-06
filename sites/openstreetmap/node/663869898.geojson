@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce9e45b8-94ed-571c-b8cb-012b1075042a",
     "name": "Origandu Finolhu",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

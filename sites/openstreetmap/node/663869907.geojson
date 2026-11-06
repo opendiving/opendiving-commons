@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64eaf085-266e-562d-af35-b28107adaf30",
     "name": "Ali Tila",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

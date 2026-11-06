@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d0c60cb-dacd-5ba5-a3c8-ca3a8bd79d39",
     "name": "Good snorkeling",
+    "location": {
+      "name": "Trat, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

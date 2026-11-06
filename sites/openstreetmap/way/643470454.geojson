@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46e493c1-9f5c-590b-afa4-d9318977742c",
     "name": "Blue Water Park",
+    "location": {
+      "name": "Alabama, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

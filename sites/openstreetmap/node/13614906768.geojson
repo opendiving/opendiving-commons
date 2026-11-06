@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f96ca276-cf16-51e5-9e6d-3ef948767828",
     "name": "Sant' Iermu - Sikka Xellugija",
+    "location": {
+      "name": "Valletta, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

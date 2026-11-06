@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ed229c30-fcbf-5578-b280-926431d23e6e",
     "name": "Sunny Cove",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

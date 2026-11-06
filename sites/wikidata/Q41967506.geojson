@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ee256be-9f63-53d2-acc7-690f77f37120",
     "name": "Eastern wreck",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77765bd7-52f2-5f0c-8be2-11b039a76c63",
     "name": "Outer bay",
+    "location": {
+      "name": "Shizuoka Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

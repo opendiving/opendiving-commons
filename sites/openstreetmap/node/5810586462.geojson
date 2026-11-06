@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f19c0a94-bc27-5a35-b54e-0c93f65cff76",
     "name": "Bestelbus",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

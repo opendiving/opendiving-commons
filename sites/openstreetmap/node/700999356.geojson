@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c011d7a1-c755-5ea3-9e53-96864c638c20",
     "name": "Erg Abu Hashish",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

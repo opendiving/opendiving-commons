@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0bb644ec-24dd-5cca-b70e-c751341e3028",
     "name": "Jezioro Majcz Wielki",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "58aa8be8-9a40-5125-bdf4-c7c22a6818cc",
     "name": "Chowder Bay",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

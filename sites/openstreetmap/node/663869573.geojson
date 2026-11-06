@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2c9090c5-0cf8-554e-a07e-fa8cdf9b0a37",
     "name": "HMS Ariadne (Wreck)",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

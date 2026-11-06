@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06b52371-4d93-5870-a205-954f7478f949",
     "name": "Lütschestausee",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

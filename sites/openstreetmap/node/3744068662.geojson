@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad0bf109-1be5-5f8e-8244-360071fc37b7",
     "name": "Seahua Ha Ha Tulamben Dive Resort",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

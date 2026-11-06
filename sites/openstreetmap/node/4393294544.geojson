@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b763e94c-be76-5858-9568-e18ee1f14aa8",
     "name": "Sportsdykkerklub Aquanaut",
+    "location": {
+      "name": "Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

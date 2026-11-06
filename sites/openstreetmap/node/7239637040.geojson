@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b599936d-52d2-5237-a82d-7aa9d67c1167",
     "name": "Salomon",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

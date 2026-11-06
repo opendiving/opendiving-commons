@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aad4dd29-2dbe-55df-ab5b-3c806812e443",
     "name": "Abu Echera",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c99e2d9b-f8c1-5133-9c0a-bdbbb6b5f028",
     "name": "Autobahnbrücke",
+    "location": {
+      "name": "Aargau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

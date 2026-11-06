@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5909ed4f-c06c-5025-aa37-3181a78cab58",
     "name": "SS Duckenfield",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

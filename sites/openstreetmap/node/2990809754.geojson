@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ade07616-aae0-57d7-bd37-8c93339e5eeb",
     "name": "Grotte de la Triperie",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

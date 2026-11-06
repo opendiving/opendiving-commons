@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "128df773-7f42-5558-a3a0-f46d508e17a1",
     "name": "Morazan",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

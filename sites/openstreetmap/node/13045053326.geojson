@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c5b7f91-6c98-559d-b5ad-32ae69e2ad36",
     "name": "Habili Dibia",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

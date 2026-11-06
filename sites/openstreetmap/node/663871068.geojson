@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f62ee3ad-dbbc-528e-9748-407c946fb18b",
     "name": "Scharteisen",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ab3453f-f4c4-5e59-94de-f6822287fe47",
     "name": "Ship wreck",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "be19dd31-a19b-55c8-b252-44bb7d2113ea",
     "name": "Segelboot",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

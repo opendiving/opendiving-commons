@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7308149-9fbc-560b-9d7b-b986fc74b995",
     "name": "Badi Schützenmatt",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

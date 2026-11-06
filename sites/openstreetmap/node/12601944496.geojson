@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f5258ca1-28ee-5f6e-ac26-df1a042bf664",
     "name": "Lofthus",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

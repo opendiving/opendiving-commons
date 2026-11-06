@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "04c7c837-9f28-574f-aef3-8245dcc5667b",
     "name": "Ram Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "eee06dd0-e2bb-5c0b-8816-d6b8996dc25d",
     "name": "SS Antilla",
+    "location": {
+      "name": "Aruba, Aruba"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e2c2f8a-3806-5b90-a7fa-92515138d443",
     "name": "Althäusersee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3b0f0f8-0dac-5155-9bd1-a39bfe09cf38",
     "name": "Impérial du Large",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

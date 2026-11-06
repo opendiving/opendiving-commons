@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b48dc635-ca74-5247-8734-283b531b5e0a",
     "name": "Plongée Australe",
+    "location": {
+      "name": "Réunion, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

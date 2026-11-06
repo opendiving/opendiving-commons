@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "091cd868-f487-5122-9031-7ce102866660",
     "name": "Hole in the Wall",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

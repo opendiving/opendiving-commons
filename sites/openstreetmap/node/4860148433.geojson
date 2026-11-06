@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b98ae149-2db3-5252-908f-6fcb6abb1897",
     "name": "Playa Vaca",
+    "location": {
+      "name": "Magdalena, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

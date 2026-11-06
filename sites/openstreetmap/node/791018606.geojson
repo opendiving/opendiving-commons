@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "87f3091a-ed6d-5c99-bdef-1a0cab80a3cc",
     "name": "Tasco Petit",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

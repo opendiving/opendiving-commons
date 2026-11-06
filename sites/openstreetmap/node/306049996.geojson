@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad7dc4bc-f728-5667-9245-245dcbc84897",
     "name": "The Wall",
+    "location": {
+      "name": "Dhofar, Oman"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b47ff757-57e3-53d0-93d9-a86e738c83bf",
     "name": "Καλλιθέα",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

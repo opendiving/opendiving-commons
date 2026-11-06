@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6cfda675-6683-562c-963c-b9ba63767c0a",
     "name": "Ojamon kaivoslampi",
+    "location": {
+      "name": "Uusimaa, Finland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28fbd2b8-aa17-5ca8-9866-3a9efcd02452",
     "name": "Japanese Garden",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

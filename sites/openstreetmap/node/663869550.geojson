@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6bb9f4f6-1e22-5e8f-aa8f-3f8a10ed36f0",
     "name": "Candia",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

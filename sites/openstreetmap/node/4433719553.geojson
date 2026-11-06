@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71d147d3-3d28-59c5-995a-5ad294050d82",
     "name": "Garden Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

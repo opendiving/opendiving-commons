@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f84b7bea-8473-55e4-98b8-053d3fb0dc65",
     "name": "SURG Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

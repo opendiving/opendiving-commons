@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "169c9712-34f6-5f27-a49b-f5626e99f364",
     "name": "Near Garden",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

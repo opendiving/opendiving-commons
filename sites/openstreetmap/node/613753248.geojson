@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "afd8f633-9849-5345-98c2-2fcc7053f078",
     "name": "Beckenried Rütenen Einstieg 2",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

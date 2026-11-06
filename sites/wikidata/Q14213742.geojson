@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0a9200e4-f2ce-5433-8878-2fbdd184ee0b",
     "name": "Die Perd",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

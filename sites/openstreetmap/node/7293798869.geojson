@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a0edcea6-dd4f-5c62-bc36-7f23544052c8",
     "name": "Pangulingan",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

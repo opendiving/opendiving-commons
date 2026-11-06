@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c3755a1-4d22-5aca-90ad-bae20cede382",
     "name": "Francisco",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

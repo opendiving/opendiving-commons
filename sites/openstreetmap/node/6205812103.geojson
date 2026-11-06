@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d3ff622a-a406-52a3-bba8-42431d4261b1",
     "name": "Blue Diamond",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

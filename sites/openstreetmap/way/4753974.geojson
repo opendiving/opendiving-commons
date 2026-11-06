@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "40e79cfd-e708-5091-9a09-6100cbb86079",
     "name": "Kleiner Krämersee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

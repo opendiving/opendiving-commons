@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d5483cf-3120-56fb-8d66-15824cb98d07",
     "name": "Plongée Passion",
+    "location": {
+      "name": "Martinique, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

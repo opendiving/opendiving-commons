@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "abfe7608-83c5-5d3d-a94f-786e94ba7a40",
     "name": "Ogden Point (The Breakwater)",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d68aaa9b-c424-5f1b-a06b-a5565fad3798",
     "name": "Moore Reef - Labyrinth",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

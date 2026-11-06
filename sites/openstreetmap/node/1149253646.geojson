@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c7556f99-e2f3-5313-9ca0-7b386ce9bbd3",
     "name": "خليج القرش",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

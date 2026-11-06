@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd07d8e1-daa5-54fb-8d65-753dddd4c0b2",
     "name": "Klein Tafelberg",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

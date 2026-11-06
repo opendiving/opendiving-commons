@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75c63a7b-52a3-59aa-a643-3756144925fc",
     "name": "MV Rockeater",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

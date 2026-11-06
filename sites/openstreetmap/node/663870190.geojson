@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fbae6298-60df-5807-a8a5-4a2eb8650156",
     "name": "Sassello",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

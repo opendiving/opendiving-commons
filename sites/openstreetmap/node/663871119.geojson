@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5bdc52b-f0af-55bf-8f8b-9c28d3a048c6",
     "name": "Saugbagger Sandtrans",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

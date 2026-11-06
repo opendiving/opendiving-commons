@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2e8081ac-fba0-5c52-9710-412ce4da2230",
     "name": "Levanzo",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

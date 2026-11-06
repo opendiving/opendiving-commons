@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "594314a4-8b92-59a9-84a3-7bc9dc579787",
     "name": "Texacobryggen",
+    "location": {
+      "name": "Sør-Trøndelag, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99ed6549-28e2-539e-ab5e-69ccc4dc8323",
     "name": "Wird",
+    "location": {
+      "name": "Aargau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

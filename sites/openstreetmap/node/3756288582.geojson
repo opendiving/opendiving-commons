@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce06232e-bb93-5cdd-a1b6-0af61ab5b41c",
     "name": "Dorfa El Fanus West",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

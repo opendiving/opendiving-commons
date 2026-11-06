@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e8cc3e7-69be-5a72-824f-5cfed00f177e",
     "name": "Cai",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

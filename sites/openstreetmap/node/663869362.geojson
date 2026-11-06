@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7a5150de-dda0-5052-aec2-8d043d3ab9c2",
     "name": "San Juan Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "950c3a24-61b6-5306-a2e0-db233495e9c5",
     "name": "Lago di Lugano-Acquedetto",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

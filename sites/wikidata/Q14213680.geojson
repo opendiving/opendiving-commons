@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "063fe5eb-78f8-5aac-9208-a7ce08ed9c58",
     "name": "Albatross Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

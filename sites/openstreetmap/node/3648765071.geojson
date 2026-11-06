@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "af7a2cb4-2f96-5441-a5b6-98f8acc1757f",
     "name": "Émergence de la Pescalerie",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

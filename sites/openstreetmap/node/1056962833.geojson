@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9942ce28-a849-55ed-be81-d6513d6c0f35",
     "name": "De Nekker",
+    "location": {
+      "name": "Antwerp, Belgium"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

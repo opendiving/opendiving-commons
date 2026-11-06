@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce86d8b0-59aa-559a-805f-ef8c15d6e11a",
     "name": "La Francesa",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e7ea63ea-55f4-5bb6-bd6c-d219ee8274bf",
     "name": "Bachelor's Beach",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

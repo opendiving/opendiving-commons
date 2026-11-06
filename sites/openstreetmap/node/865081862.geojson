@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9a00a6fa-e1e6-599f-9de4-5117f27a8c34",
     "name": "Chumphon Pinnacle",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

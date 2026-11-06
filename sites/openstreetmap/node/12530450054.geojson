@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da2535ba-51c7-53db-9e36-4f66491a317d",
     "name": "Wohnwagen",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

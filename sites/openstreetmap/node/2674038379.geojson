@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "56f7abcc-1726-5881-aa26-ce716f128ced",
     "name": "Jack's Point",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

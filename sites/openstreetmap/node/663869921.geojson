@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "40658173-3fb0-5181-8854-2936dff74bbc",
     "name": "Vaageli Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

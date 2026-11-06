@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7648ae69-0812-5701-ac9c-947335eecf56",
     "name": "The Passage",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

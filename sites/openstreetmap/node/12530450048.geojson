@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bb1226bd-c69f-57ca-9fc8-2409a92c31a5",
     "name": "Kleine Bäume und Büsche",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7fd87ec-d32f-5e3c-8c92-f8d8d93af0d1",
     "name": "Playa Largu",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "781e5476-092a-5bb0-9e70-dfecfb255ad4",
     "name": "Rossblatten",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

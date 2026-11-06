@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b2e7017e-56ce-514b-942b-4c472c7aa910",
     "name": "Centro de actividades subacuáticas de Viveiro",
+    "location": {
+      "name": "Lugo, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

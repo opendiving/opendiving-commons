@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "70d1322a-ce02-5b6f-89ae-6948756b469e",
     "name": "Rambler Rock North-east Reefs",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

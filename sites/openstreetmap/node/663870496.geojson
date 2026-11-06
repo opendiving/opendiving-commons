@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0de4f59b-2061-5d57-b899-c17dcd13e9cb",
     "name": "Büchenauer See (Alte Allmend)",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

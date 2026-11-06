@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e16a383-35f7-504f-a5e1-c08b327c717c",
     "name": "Pointe du Gouvernail",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

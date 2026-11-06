@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a002aef8-d2d2-52c7-88ea-c106bc1b08f6",
     "name": "Ras Bob Reef",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

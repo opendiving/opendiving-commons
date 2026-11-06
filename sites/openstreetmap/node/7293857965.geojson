@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "294cd5da-1e7f-5c11-8cb6-30348c44c7d8",
     "name": "Sachiko's",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e8e9ab6-ec7e-59ae-8d9f-ee70de49bed9",
     "name": "Bjerringbro Dykkerklub",
+    "location": {
+      "name": "Central Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

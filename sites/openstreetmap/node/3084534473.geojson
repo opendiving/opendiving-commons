@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "124f962b-c6d5-5f76-a68f-9f9ab604679c",
     "name": "Silent Beach",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

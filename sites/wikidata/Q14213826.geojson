@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "01b37124-f40f-50c1-816a-fa7ce3542857",
     "name": "North Paw main reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

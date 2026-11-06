@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f14b1980-4247-561a-b3ee-93b8d337d015",
     "name": "Katrin reef",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

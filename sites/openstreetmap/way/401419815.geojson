@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b7dae8bc-512b-569b-bed2-1c7ab78f9d6e",
     "name": "Phil Foster Park Snorkel Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

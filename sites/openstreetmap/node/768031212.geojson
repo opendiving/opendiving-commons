@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e942874f-7226-5e5f-88b8-4a72a041e299",
     "name": "الإسم العربي ؟",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

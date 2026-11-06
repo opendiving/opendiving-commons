@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "acd7a228-f45d-572a-9c88-7516bd878fc2",
     "name": "Kyokuzan Maru",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

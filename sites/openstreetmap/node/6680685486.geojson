@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4ff30f4-9280-5e02-a698-d02da90f25c5",
     "name": "Serifos Scuba Divers",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

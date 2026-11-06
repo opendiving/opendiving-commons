@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2606a76-3726-5ed2-901e-02e863fad345",
     "name": "Einstieg E2",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

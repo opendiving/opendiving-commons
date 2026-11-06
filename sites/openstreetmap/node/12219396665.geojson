@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9766f54a-4a96-5304-91f4-8c61be32f1aa",
     "name": "Karpathos Diving Center",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

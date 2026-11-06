@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3738bca-8a71-5e9a-9bcb-1ccc09a36742",
     "name": "Plan d'eau des Fouthiaux",
+    "location": {
+      "name": "Saône-et-Loire, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

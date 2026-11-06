@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0996aeb4-ddd6-5a3e-a8fe-0f59565bdcb5",
     "name": "Sawandarek Jetty",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

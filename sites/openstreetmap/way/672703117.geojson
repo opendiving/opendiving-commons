@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1a5be37e-b42f-5f2e-939e-acd9a2e76e72",
     "name": "Friwen Wall",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

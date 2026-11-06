@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e1771488-ac01-5c8c-bbab-cc7da1f8c817",
     "name": "Аллея вождей",
+    "location": {
+      "name": "Autonomous Republic of Crimea, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

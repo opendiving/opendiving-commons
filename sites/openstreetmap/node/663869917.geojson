@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef433f07-2d20-5f4e-8330-3738febb43a7",
     "name": "Jack Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

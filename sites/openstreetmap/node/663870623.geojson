@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e6b37fc7-b47f-5b7f-8fc0-0a9d7a73693a",
     "name": "Flipper II",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

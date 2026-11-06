@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90d520b8-4f2e-58e1-9421-b46c44ffe138",
     "name": "Snorkeling Park",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

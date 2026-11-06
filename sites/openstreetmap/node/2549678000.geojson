@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83373c8c-e7c0-58a3-aa27-9271c6b4416b",
     "name": "Cathédrale",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

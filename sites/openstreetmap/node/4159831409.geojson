@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "267f9178-2478-5656-82f6-45e939779f30",
     "name": "Iċ-Ċirkewwa - Arkata Leminija",
+    "location": {
+      "name": "Mellieħa, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

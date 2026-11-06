@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86811ce6-4657-5fd5-8f21-aa31a2c92636",
     "name": "USS LST-507",
+    "location": {
+      "name": "Dorset, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

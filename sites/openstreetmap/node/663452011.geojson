@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "42f0a0f4-388c-5e35-ac22-da49c46e5bdb",
     "name": "Fischchratte",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

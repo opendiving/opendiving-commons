@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a558c6ec-f29e-5bd8-a805-5178476cc71b",
     "name": "Ponte del Diavolo",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8db18d46-252a-5076-8297-5d6b959e5662",
     "name": "Andrea II",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

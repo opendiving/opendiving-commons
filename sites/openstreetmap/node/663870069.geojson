@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "179bbca6-8201-568b-852a-1c3a46b1016b",
     "name": "Grenzstein",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

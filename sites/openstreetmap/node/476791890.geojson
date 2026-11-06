@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a146489a-054a-57d6-9c1e-46e85a9b8e28",
     "name": "Lopper 1",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

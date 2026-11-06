@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc187c2a-5803-5ee1-892b-aa7a89d927a8",
     "name": "Groot Pannekoek",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

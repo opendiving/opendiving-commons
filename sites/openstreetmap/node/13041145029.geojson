@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d329ce4d-3951-5167-a040-458f6f6998df",
     "name": "Swallope",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

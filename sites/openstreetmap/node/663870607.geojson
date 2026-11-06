@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6efe40f-502b-5287-9c75-c8d7e7daea61",
     "name": "Bultensee",
+    "location": {
+      "name": "Free Hanseatic Bremen, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

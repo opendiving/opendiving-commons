@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e8bd65a-4826-54a5-abcc-cc2bb26d53a6",
     "name": "MV Cominoland",
+    "location": {
+      "name": "Għajnsielem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

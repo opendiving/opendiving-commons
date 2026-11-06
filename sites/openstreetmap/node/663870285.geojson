@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "df146e2b-f4a2-59ea-9111-b53cec88bc3a",
     "name": "Türlersee",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

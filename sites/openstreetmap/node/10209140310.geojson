@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2d1e2374-605e-5396-ba9c-bdb78c5c92da",
     "name": "Big Wall",
+    "location": {
+      "name": "Unguja North, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

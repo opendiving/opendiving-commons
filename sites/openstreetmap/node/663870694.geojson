@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9cf04561-44cd-58ee-b99a-8e959d5dcad2",
     "name": "Tegernsee - Schorn",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

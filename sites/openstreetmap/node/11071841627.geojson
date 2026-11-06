@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c738d88a-f528-53f9-9336-a4d3e8ef436f",
     "name": "Wrack Ribolovc",
+    "location": {
+      "name": "Split-Dalmatia, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

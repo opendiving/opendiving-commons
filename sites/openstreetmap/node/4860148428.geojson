@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "774a340a-5527-521f-8802-c89274b0cc4e",
     "name": "Bombita",
+    "location": {
+      "name": "Magdalena, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2eea9570-7a64-5271-b34c-6580410315a0",
     "name": "Oceana (Wreck)",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

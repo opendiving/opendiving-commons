@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "92d13a2b-4dd9-5775-b8f5-2d012ae3db26",
     "name": "Schiessüberwachung",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

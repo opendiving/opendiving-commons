@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "638835fc-f3ca-5a18-81ec-7afc0f87a978",
     "name": "Shaab El Shaga",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

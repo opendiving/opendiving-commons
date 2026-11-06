@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8b7955c9-03da-5813-9d21-13cb7fb92661",
     "name": "Lastensegler",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

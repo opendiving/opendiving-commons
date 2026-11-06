@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "585ff544-a0fa-5e1e-8b87-6dbdb9254ca0",
     "name": "Dive Land Park",
+    "location": {
+      "name": "Alabama, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

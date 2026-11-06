@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d49597c-c5df-5d30-a614-f6e533d00016",
     "name": "Kleingurmels",
+    "location": {
+      "name": "Fribourg, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "55790cb3-43fc-5e07-bf8b-7e329410cb5c",
     "name": "Lankayan - Lankayan Wreck",
+    "location": {
+      "name": "Sabah, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

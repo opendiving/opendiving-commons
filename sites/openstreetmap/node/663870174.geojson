@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dc736b1c-be2f-58aa-be8a-f9305c9f18b1",
     "name": "Ponte",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

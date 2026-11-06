@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "06bb1e7e-5e8f-5fa4-9c84-2a792b8e4b35",
     "name": "Canyon di Angelo",
+    "location": {
+      "name": "Messina, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

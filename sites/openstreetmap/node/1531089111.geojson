@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00c60b06-cd93-53f4-88f1-46dff0c76d5c",
     "name": "Trubaduren fyr",
+    "location": {
+      "name": "Västra Götaland, Sweden"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

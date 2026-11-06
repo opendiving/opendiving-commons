@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e015eb7e-f75f-5f70-90bb-97f4cad408f7",
     "name": "Jigdup Reef",
+    "location": {
+      "name": "Camiguin, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

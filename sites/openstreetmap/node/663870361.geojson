@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8abc67b3-42dc-51ec-af76-ab5538ab4504",
     "name": "Kloster",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "af122cad-a15c-516e-9eda-637effc7eaa9",
     "name": "Schmaler Luzin, Ziegenwiese",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

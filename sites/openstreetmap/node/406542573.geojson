@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e159c7c-fdba-53b0-b229-24c0cac5dc35",
     "name": "F2",
+    "location": {
+      "name": "Orkney Islands, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

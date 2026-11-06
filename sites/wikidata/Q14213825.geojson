@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "663081e9-90dc-5380-ab20-ec1345065d4d",
     "name": "Noah's Ark and the Ark Rock wrecks",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

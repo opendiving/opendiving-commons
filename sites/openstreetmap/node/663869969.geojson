@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "836a8383-1f89-51ac-87b5-c88212a4e275",
     "name": "Diving \"Lac de Neuchâtel-De la Lé\"",
+    "location": {
+      "name": "Valais, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

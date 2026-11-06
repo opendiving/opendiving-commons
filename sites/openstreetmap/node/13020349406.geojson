@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f24bbdc-b75b-5ee8-9c05-9d49b4a06723",
     "name": "Sign 60",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ca0f9810-a268-5e96-9026-21ae868ff463",
     "name": "Стенка Мустасаари",
+    "location": {
+      "name": "Karelia, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

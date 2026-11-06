@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b4518ab1-8766-56a6-bb10-ce44e6103adc",
     "name": "Rest. Grüner Aff",
+    "location": {
+      "name": "Solothurn, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

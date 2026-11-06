@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "92dc9a5b-b40b-58c3-9779-350cc6d992cb",
     "name": "Makadi Garden",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

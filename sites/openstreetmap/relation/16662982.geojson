@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "245355a5-3524-56fe-8243-bac450267ee5",
     "name": "Alternatives",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb1202b8-fa34-54a1-bb50-55539ce0bdcb",
     "name": "Lac Léman-Port",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

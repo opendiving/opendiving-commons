@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "73c9099d-0a09-53b4-85e4-22db904b821e",
     "name": "Restaurant Bellevue",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

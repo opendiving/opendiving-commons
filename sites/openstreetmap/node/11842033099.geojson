@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3f7873ec-190d-5b9d-b1f6-9d51fdbb8eee",
     "name": "Psarapoula",
+    "location": {
+      "name": "South Aegean, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

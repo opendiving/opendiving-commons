@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c986f70b-4990-5043-8c22-d4657e2171b2",
     "name": "Panther (Wrack)",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

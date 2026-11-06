@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "35f6736d-228f-51e8-bf09-eef79c16a881",
     "name": "Ras il-Ħobż",
+    "location": {
+      "name": "Għajnsielem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

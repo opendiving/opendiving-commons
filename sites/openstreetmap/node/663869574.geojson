@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "65094884-ca6d-5186-b482-cc6e97ec7a3e",
     "name": "Wittering",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

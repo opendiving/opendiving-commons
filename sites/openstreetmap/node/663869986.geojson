@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2031c02-a3f1-50ae-ac48-48b8a236086b",
     "name": "Lac Léman-Piscine",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

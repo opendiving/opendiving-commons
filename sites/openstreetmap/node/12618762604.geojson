@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "018bd3ff-8da6-5b3b-b12d-6d4797aefd83",
     "name": "Bajo Bonito",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

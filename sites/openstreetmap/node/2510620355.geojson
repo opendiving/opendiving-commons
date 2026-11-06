@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e59e5636-9710-5b0f-95ce-abf56f0cbc1c",
     "name": "Ausbildungsplattform mit 1 Bojen",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

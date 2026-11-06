@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2fea092-2000-5d20-905b-65273b8ce4e6",
     "name": "Walchensee - Einsiedlbucht",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

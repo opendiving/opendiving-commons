@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0e56a796-5781-5613-91dd-7498c7a26642",
     "name": "El Islote",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

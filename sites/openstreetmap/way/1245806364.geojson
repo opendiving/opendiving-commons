@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "27094e40-46b6-5926-8150-f168a8ad3918",
     "name": "Dogleg Reef",
+    "location": {
+      "name": "Guam, Guam"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

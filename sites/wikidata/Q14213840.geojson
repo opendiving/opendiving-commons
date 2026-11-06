@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c5c0f6a-6f63-5d7a-8508-ddbb8d735bfe",
     "name": "Percy's Hole",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

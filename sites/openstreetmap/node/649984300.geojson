@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1ded2ea-e339-51f3-972a-f77278044c93",
     "name": "Johnson's Reef",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

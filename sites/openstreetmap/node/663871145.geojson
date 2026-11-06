@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b88cca7-74fe-5c7a-9725-93f1ca73e8f7",
     "name": "Jezioro Czarnoglowy Male",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

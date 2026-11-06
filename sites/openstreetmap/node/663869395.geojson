@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "65bc4763-128f-5f37-97a2-e33499a39aba",
     "name": "Sweet Dreams",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

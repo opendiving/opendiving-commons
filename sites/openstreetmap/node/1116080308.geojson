@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f2fb3a87-0af4-5af4-8d38-dfd0ba92c166",
     "name": "Møkkalassa",
+    "location": {
+      "name": "Buskerud, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

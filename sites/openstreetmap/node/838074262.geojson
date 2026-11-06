@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d44e5e02-928a-57ce-91a0-418993c046e7",
     "name": "Zeelandbrug",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cd93a914-7fb4-55a4-9e76-0ce97ce0624f",
     "name": "Mamsa point",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

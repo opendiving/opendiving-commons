@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "105a4bfb-11c2-55ac-a0b6-2d1752bc4168",
     "name": "Douix de Châtillon",
+    "location": {
+      "name": "Côte-d’Or, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

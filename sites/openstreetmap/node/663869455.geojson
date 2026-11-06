@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f9f4d800-57f5-5ca1-a9ee-3c63779be2f1",
     "name": "Soule Barge-Gulf Power Towers",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

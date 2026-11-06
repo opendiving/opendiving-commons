@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "42a3e935-c294-5f16-9332-6dfe9f87b9c3",
     "name": "Tauchen im Bernsteinsee",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

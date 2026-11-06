@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e0e88121-99bc-5421-9ef6-1eb8e2f59ae9",
     "name": "Schifflände",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

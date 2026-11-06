@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1c289f1a-ca8c-5473-ad98-b5a0965ed31d",
     "name": "Pottery",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

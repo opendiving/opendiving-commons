@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b03e0d6-c815-5e1c-8a8d-5182a06a3401",
     "name": "Source de Combe Nègre",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

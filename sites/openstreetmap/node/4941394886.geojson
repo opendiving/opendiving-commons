@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "33dc89ee-1dda-5f63-afa8-be6d10e84a55",
     "name": "Los Bamboos",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

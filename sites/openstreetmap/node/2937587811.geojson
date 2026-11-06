@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4042c4b-938e-5ca3-857d-ccd78ee44c6f",
     "name": "Club de plongée allo plongée",
+    "location": {
+      "name": "Morbihan, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

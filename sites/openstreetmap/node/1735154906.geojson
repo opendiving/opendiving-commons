@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1b52b12-c5cf-52dc-80d3-b95031f2e223",
     "name": "Redang - Tanjung Lebah",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

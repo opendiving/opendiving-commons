@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c816fb76-ca3b-5495-b15d-20f43f7531fd",
     "name": "Irako",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

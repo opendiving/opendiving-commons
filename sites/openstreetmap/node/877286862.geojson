@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd8ce301-c5f7-5c8d-ad24-9afc09373e00",
     "name": "Aquario Nord",
+    "location": {
+      "name": "Lecce, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "baa9771d-0af1-506b-a554-87cd426650fc",
     "name": "Arabella",
+    "location": {
+      "name": "Warmian-Masurian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fc502b8d-08e3-5d68-a9db-8a00a98a461c",
     "name": "Countesse of Erne",
+    "location": {
+      "name": "Dorset, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

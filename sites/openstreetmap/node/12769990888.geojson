@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f67dd74a-011b-5b1b-8c32-d07bc81e7059",
     "name": "Cookie Monster",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

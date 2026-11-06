@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "81265bab-aa6b-5507-948d-49fab9491732",
     "name": "Pa’ipa’i",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

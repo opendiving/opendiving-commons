@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bac3472f-b55b-5231-9b6d-95f76de26112",
     "name": "Aalborg Sportsdykkerklub",
+    "location": {
+      "name": "North Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

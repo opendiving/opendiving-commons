@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "01bcdacd-931a-5848-9e2a-a1abac491232",
     "name": "San Choi Wreck",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

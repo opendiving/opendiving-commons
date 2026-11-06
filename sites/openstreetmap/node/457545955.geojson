@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e10358ca-f091-5c6b-acf8-a1f76fac3523",
     "name": "Støytland",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

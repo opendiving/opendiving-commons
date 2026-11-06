@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "293d4ba5-6975-5445-813e-4ef28f803170",
     "name": "HMS Keryado",
+    "location": {
+      "name": "Brighton and Hove, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

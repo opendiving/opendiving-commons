@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b51594d-d2fd-5313-b8cc-b56291fb4e79",
     "name": "Playa Lagun",
+    "location": {
+      "name": "Curaçao, Curaçao"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

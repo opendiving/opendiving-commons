@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1dcbb271-11c5-5f0f-8639-a576d40b47ae",
     "name": "Ker-Bihan",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

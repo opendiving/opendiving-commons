@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38ad0ce8-f21f-5bf0-88e6-e3309e9745ef",
     "name": "Gaasperplas",
+    "location": {
+      "name": "North Holland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

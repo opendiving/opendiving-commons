@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "03b506cd-946a-55ef-82f6-c88431a4d01c",
     "name": "SS Rose Castle",
+    "location": {
+      "name": "Newfoundland and Labrador, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

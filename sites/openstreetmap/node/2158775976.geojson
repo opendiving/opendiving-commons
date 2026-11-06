@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2fbabff8-44f8-5311-96d3-e1e2af6f747c",
     "name": "Rock point West",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

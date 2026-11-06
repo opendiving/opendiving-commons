@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "769bb395-cd33-5125-a2c1-a124459f9180",
     "name": "西浜・にしはま",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

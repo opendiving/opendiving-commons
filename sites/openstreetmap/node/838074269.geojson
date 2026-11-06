@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c74a91b7-fc04-5209-8e3d-079be1e9f543",
     "name": "Bergse Diepsluis",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

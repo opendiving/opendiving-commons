@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe828d5c-a5e9-51eb-90a5-07d2c1fe7d9b",
     "name": "Għar ta' Ras il-Qamħ",
+    "location": {
+      "name": "Għasri, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "03aef8ed-1f24-514d-a9b0-db2236e86b7c",
     "name": "Uhlandbucht Horn Einstieg",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a2e1015a-42ef-58db-8995-2398e332c369",
     "name": "Rocky Bank",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

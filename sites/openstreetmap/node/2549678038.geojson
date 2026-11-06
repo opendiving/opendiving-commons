@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50e031a5-ab4e-58df-bd44-dc6043df5b82",
     "name": "Les Veyrons",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "40924f24-70ea-518c-8ddc-644b2dfa7491",
     "name": "Double Arch Reef",
+    "location": {
+      "name": "Żebbuġ, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

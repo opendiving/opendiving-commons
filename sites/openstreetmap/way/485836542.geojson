@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3bcbdb0b-aa67-5b16-b3c2-08c08cdb54e5",
     "name": "Monad Shoel",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

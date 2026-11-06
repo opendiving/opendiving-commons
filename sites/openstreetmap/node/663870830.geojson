@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0489322f-380b-5044-9ea6-029aa295ade2",
     "name": "Attersee - Nöhmer",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

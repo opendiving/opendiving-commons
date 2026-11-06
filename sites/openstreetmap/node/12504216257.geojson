@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7ccff50d-9059-5c70-a407-954389cb1623",
     "name": "Punta della Targhetta",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

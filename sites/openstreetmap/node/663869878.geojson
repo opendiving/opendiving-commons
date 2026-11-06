@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a51040b1-9f56-5842-a3de-2e2433d7cb5f",
     "name": "סופה",
+    "location": {
+      "name": "Southern, Israel"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

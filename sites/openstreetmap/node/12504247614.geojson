@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a6ca5c6-8759-582b-84ef-47a6e79000d9",
     "name": "Secca dell'Isuela",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

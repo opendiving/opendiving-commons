@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ba353229-dd80-5041-a438-795d3835972a",
     "name": "Wiedenhorn",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

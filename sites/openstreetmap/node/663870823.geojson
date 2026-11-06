@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bab714e7-6de3-5cd2-b8bf-42990727b6e6",
     "name": "Attersee - Twin Towers",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

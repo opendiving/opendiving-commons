@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dc0066c6-bd16-5d7d-81ed-938560ec1627",
     "name": "La Buga Dive & Surf",
+    "location": {
+      "name": "comarca Ngäbe-Buglé, Panama"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

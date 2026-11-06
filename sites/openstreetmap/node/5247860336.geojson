@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "51bbbabd-493f-5356-9951-908d979686ca",
     "name": "Ambach",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

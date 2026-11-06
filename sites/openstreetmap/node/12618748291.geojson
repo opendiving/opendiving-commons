@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7395b5e-238c-58d4-b671-40b423ecc61a",
     "name": "Cantil de Nirvana",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

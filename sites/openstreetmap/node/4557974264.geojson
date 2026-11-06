@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c3e0b140-cc5f-528e-9e77-9deb47d86d35",
     "name": "Ka-Osting / Bantigue",
+    "location": {
+      "name": "Cebu, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

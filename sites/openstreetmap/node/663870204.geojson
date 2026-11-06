@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b54e883a-a601-5ea6-9611-7bffcfded0a3",
     "name": "Alpenblick",
+    "location": {
+      "name": "Uri, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

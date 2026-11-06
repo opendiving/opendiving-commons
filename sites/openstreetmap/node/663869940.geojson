@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d79c9f2b-0785-514d-9d93-5eb3bbb86e8a",
     "name": "Black Coral Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

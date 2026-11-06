@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6e94ddb8-da23-5afa-b0a5-afe8ad58def5",
     "name": "Eckernförde - Hauptstrand: DLRG Station",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

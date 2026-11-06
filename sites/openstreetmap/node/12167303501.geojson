@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6627950d-9dcf-56d9-a1bb-4813418a61ea",
     "name": "Ransiwor",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

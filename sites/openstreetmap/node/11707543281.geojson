@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ded1f5cf-d6ba-51de-baac-a9194e431857",
     "name": "8 mile rock",
+    "location": {
+      "name": "Satun, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

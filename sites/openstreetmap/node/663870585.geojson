@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3517b23-fc61-5708-b9a4-9e7e8e0b91b8",
     "name": "Twistesee (Twistestausee)",
+    "location": {
+      "name": "Hesse, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

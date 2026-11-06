@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aae657c0-d71a-5211-bb69-29b14e086065",
     "name": "Keruo Night Dive",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

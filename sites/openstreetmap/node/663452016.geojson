@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "85a51c8d-1415-55ab-aaa7-02c51ca44722",
     "name": "Zigeunerplätzli",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de6e1794-e256-5a4a-acdd-21bc570e1909",
     "name": "Rihiveli Faru",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

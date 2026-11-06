@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da9c6132-b91c-5d81-9d0d-b625b53b7d9a",
     "name": "MV Katsu Maru",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

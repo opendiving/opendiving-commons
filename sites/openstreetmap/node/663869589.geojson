@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "21ddf0b3-27b3-5e21-b973-19d2498b5930",
     "name": "City of Waterford",
+    "location": {
+      "name": "Brighton and Hove, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

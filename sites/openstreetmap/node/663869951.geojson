@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fa7fe190-f7c6-5b81-b243-a6064034db60",
     "name": "Embudu Kandu",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

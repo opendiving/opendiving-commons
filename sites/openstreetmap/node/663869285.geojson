@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "efc0e111-e1c9-50fe-a44b-38b4a69360bc",
     "name": "Chain Islet",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

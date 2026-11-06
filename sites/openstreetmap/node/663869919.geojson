@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0f6281f2-48b6-549d-a6d2-fc4fce798428",
     "name": "Vaageli Faru Süd",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

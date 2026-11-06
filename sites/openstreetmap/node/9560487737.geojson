@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ec099374-35e6-5101-8de2-17bde1c9b366",
     "name": "WSBA BSAC diving Club",
+    "location": {
+      "name": "Akrotiri Sovereign Base Area"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

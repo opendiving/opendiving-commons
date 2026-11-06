@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93e48c6d-ccd7-5898-8e46-fd0b495f65a5",
     "name": "Buesten",
+    "location": {
+      "name": "Torbay, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

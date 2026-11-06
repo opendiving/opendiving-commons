@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72484086-4e47-5f32-85d4-f1d165e3869a",
     "name": "Baggersee Giesen",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

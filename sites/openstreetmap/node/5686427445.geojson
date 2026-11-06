@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99b7422f-291b-5f43-b49f-0d4768a3cf87",
     "name": "Bonifacio Reef",
+    "location": {
+      "name": "Negros Occidental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

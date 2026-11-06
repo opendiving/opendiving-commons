@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e98b81fd-9714-5910-ab44-f4eacc1a7908",
     "name": "Wasserfall",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a4072b9-b7d8-5858-85f5-b9620954b71e",
     "name": "Ras Abu Soma Garden",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

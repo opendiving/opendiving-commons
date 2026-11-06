@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3ddf0ca7-76fd-5730-9145-5313e312673c",
     "name": "HimendhooThila West",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

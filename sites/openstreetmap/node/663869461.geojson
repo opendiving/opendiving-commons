@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "49f1e001-654f-5108-9556-e3e255b59157",
     "name": "Willis (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

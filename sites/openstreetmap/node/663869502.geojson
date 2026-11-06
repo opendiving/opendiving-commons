@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7cae8345-5a8b-5e8b-8215-fc58ff0d2abf",
     "name": "Comet (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ecf50c9-6b5b-51cc-a268-0cbe60e2901d",
     "name": "The Big Drop Off",
+    "location": {
+      "name": "Peleliu, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

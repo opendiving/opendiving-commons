@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "473d8241-f110-5dad-a4fa-1450acf08311",
     "name": "Jezioro Czarnoglowy Duze - Unterwasserwald",
+    "location": {
+      "name": "West Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

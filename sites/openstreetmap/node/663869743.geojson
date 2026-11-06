@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3fca9bcc-dc2d-5133-9265-38eafb3fd9f8",
     "name": "Fels Macinj",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

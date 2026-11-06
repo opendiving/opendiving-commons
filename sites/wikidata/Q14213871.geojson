@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1ea14545-7723-5bae-8997-c4b890453696",
     "name": "SAS Transvaal",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ec9371ef-079b-548a-9879-fc63f7ba37ae",
     "name": "Middle Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f5c06b31-6953-5ddc-a8a3-c9815712dc8f",
     "name": "scuba_diving Zandmeren",
+    "location": {
+      "name": "Gelderland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

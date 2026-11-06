@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e8269037-fbec-5e58-ac77-c9b12ac2c266",
     "name": "Shaab Nenad",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

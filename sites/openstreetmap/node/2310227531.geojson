@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9fd36669-ee71-5383-8338-ed396da51455",
     "name": "Kissimmee",
+    "location": {
+      "name": "Cayman Islands, Cayman Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

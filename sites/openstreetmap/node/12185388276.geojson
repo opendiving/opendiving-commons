@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f05b34ea-9e5b-50a3-bbf3-45c733a74861",
     "name": "Irvin's Mantas",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

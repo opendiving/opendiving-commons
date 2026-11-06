@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6a37c691-1b34-5eff-b829-9b5e5c71cc2f",
     "name": "Enenue",
+    "location": {
+      "name": "Hawaii, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

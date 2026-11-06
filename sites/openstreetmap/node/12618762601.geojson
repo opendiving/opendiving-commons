@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "031d4582-a73b-58a6-b23d-ad3c65f28fb4",
     "name": "Cantil del Barco",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "18dd674e-3b29-53e9-978a-6a70bafab555",
     "name": "MV Aster",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

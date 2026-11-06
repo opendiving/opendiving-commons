@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "66660015-5a73-5613-9cbd-133f3102fa16",
     "name": "Schliersee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

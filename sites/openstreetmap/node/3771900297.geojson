@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "afdbe9a4-f2db-58b3-90fa-a4b30b1e0968",
     "name": "Trou Madame",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

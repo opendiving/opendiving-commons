@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83881013-ea5c-5826-b6b4-f48b38197d8e",
     "name": "Saddle",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

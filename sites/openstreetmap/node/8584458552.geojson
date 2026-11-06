@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb5c7e26-0115-5972-a78b-45c3d2ffa173",
     "name": "Bathalaamaagaa Kanthila",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d24ad786-0409-59ee-a9d6-11b1c23ab854",
     "name": "Pulau Pieh Dive Site",
+    "location": {
+      "name": "West Sumatra, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

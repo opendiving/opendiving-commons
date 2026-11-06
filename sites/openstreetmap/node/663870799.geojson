@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b3200c3b-04d4-5f43-a308-2745bd995677",
     "name": "Chiemsee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

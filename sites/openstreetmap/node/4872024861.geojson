@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b5d7c861-52ef-5fc7-b204-c07097f11e76",
     "name": "Betonschute",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

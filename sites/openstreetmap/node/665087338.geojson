@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1104ecaa-f25e-59d2-a186-a0adf1a72108",
     "name": "Serrieres",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

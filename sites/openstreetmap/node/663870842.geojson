@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "14e25f60-8fbb-5d1c-adf5-619ca4309b04",
     "name": "Attersee - Unterwasserwald Kammer",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

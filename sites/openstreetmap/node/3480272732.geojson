@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57df33d2-b86d-5503-8fa0-e0fb9f3377a8",
     "name": "Middle Reef",
+    "location": {
+      "name": "Hawaii, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

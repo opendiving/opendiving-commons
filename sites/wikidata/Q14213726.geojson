@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "35cc2562-ca80-5f9d-a740-95502545cb1e",
     "name": "Container Bay",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

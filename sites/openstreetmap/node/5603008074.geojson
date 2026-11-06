@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0e64a97-1e14-5920-aca9-9a77830203a2",
     "name": "Rainbow reef",
+    "location": {
+      "name": "Aqaba, Jordan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

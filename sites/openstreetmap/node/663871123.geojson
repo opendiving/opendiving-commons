@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91a465ec-3c46-56c9-9f04-bdb0f2a90129",
     "name": "Staberhuk",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

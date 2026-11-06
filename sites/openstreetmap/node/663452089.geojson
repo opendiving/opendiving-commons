@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57ddadc6-75ee-570c-b409-e0b211e01f2f",
     "name": "Hafen Küsnacht",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

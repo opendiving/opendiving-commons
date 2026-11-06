@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4e8c68d7-7084-59ee-b565-8755f4d77adf",
     "name": "D'Lagoon",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

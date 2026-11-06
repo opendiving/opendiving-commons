@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f63a0552-9476-516a-b8f1-180d976b5a1c",
     "name": "Shaab Ini",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

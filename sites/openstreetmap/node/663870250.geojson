@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d1ec86ec-7e97-5006-aabf-65ca3dca249d",
     "name": "Hotel Cristallina",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "37084241-a41f-5fb3-b9ec-08881ac1fb2e",
     "name": "El Acuario",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

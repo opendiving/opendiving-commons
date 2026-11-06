@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fac22f7d-b0b0-51a5-a7f2-387f6de31f67",
     "name": "Kennedy",
+    "location": {
+      "name": "Baja California, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

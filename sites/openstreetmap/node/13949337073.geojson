@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d5d4b28-d297-5db2-b7c1-037c6b254c4f",
     "name": "Galicia",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

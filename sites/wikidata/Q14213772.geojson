@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9597dc8d-d25e-5c45-aebe-c045c1e8bcd8",
     "name": "Hakka Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

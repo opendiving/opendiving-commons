@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a627248b-ab37-5a3e-9b11-0e34c704a21c",
     "name": "Tasmania (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7bc44950-3724-5542-ad15-af0ed740bc66",
     "name": "Las Palamas",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

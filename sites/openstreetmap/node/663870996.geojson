@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "99c4e8f9-c334-55da-b603-812e12f6df2f",
     "name": "Giesenschläge",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

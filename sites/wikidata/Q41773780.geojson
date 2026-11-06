@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f17ff98f-b487-5044-951f-7ccb2debfe3d",
     "name": "Southeast pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

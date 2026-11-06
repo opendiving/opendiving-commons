@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "831f6095-1de5-5923-b551-3bd901938c50",
     "name": "Punta Tunich Wall",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

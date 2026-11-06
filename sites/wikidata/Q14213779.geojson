@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ecf96d8-efff-56e3-b247-cf4c490527f5",
     "name": "Insanity Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

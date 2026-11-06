@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c8460706-1440-5c43-83de-947706e1ec8f",
     "name": "Rohrleitung",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

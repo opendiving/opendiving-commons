@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "93045cc8-c850-584b-9e8d-380989dd32b6",
     "name": "La Catedral",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

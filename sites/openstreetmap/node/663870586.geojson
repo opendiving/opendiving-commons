@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "01886eaa-41a8-56a4-a769-b2cd02c7b2a8",
     "name": "Stotternheimer See",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

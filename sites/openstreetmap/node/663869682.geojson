@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1ba2ec69-80da-59e7-b939-952c0f580066",
     "name": "la Pedrosa",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

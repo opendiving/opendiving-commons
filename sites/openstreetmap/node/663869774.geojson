@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ffb5b121-aa83-5eaf-a046-5713e5eea454",
     "name": "Shaab Bohar Kebir Ost",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

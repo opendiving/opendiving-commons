@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3cf9feb1-4934-5cba-8689-5ad48c34f5c0",
     "name": "Month Veron",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

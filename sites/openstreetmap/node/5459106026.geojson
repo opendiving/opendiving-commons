@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a16ac0c8-fd39-5aab-8353-a5d17393b371",
     "name": "Manta Wai",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

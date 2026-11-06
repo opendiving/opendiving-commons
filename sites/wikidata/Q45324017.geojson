@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "783ac0a9-3510-5d3f-a9e6-c12b683f2cf3",
     "name": "Moddergat",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

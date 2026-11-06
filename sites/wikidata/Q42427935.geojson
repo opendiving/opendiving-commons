@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "969b3272-c04b-5324-885e-fbb1946ffe60",
     "name": "Noble Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

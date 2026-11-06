@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d633b52e-bf16-5e47-a06f-9324f3762128",
     "name": "HMS Port Napier",
+    "location": {
+      "name": "Highland, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

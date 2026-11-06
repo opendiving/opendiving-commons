@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1db7def3-1b20-53b4-b61a-44602cddd1b5",
     "name": "Carel's Vision",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

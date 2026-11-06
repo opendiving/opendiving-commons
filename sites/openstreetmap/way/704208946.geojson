@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bed8c2e4-11fb-5437-a467-cf6297c4bfd2",
     "name": "Dive Centre",
+    "location": {
+      "name": "Tarragona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

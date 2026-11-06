@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "56afca5f-7768-54d2-9625-1988c1ec1b43",
     "name": "The Conestoga",
+    "location": {
+      "name": "New York, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

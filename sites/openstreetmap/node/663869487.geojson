@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95c22d9f-f405-5844-b184-4ae8b6d91037",
     "name": "Marquette (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

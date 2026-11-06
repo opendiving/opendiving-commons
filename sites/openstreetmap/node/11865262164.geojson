@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4754a4d7-abda-51ca-b671-4c3d4862ab85",
     "name": "Secca di Ponente",
+    "location": {
+      "name": "Messina, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

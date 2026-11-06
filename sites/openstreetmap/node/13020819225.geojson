@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b422d43e-5170-5829-8f7c-c8e01007003d",
     "name": "Gladsaxe Sportsdykkerklub",
+    "location": {
+      "name": "Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

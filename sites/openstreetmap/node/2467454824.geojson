@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1f58ba8-fd94-5ef0-a2e7-629ad5f1cfca",
     "name": "Lygaria",
+    "location": {
+      "name": "Crete, Greece"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

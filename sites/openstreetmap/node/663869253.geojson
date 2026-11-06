@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cded133e-d820-578d-bf11-a4b87dbbcfc8",
     "name": "Te Tuatiare",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

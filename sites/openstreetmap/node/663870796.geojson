@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "15ce3204-4703-57e1-a18c-ed7cbf3ebfba",
     "name": "Starnberger See - Wintertauchplatz",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

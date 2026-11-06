@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6ca2440-36e7-54cf-9712-2a358e42babe",
     "name": "Tauchzone 1 (Berich)",
+    "location": {
+      "name": "Hesse, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

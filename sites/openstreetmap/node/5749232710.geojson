@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3457741-137f-5c4d-80ad-4371be6d0f04",
     "name": "Borek",
+    "location": {
+      "name": "Vysočina, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77a2d459-71b9-5500-9e36-85bd997c6750",
     "name": "Hafsa Thila",
+    "location": {
+      "name": "Alif Alif Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

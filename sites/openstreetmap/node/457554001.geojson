@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "552d9314-e0c4-51f6-a44e-214b1c1f8ead",
     "name": "Øya I",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

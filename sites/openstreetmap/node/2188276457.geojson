@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1b09358e-2117-59df-a540-456c55ad4053",
     "name": "White Island Reef",
+    "location": {
+      "name": "Camiguin, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

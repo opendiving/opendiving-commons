@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2fe82a4b-a26b-5cd1-9a62-8c11c649f31e",
     "name": "McKenzie Bright",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

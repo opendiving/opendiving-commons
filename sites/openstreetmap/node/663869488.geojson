@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "35935aa4-5c7d-5816-9d23-52ca307c5cb1",
     "name": "Lottie Wolf (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

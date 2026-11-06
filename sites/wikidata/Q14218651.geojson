@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "39fe580c-1b43-552c-a2a8-d45a7abe5a61",
     "name": "Ras el-Ghazlani, Ras Ghozlani",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

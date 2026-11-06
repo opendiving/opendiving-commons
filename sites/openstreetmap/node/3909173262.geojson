@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5cff096-a9c5-5556-94d4-eaa6d425a87c",
     "name": "Water Walk",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee05e18d-46f8-5575-a069-32e977d20157",
     "name": "Ego Wall",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

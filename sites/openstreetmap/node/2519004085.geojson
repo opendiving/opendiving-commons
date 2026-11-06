@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "69164586-fc5a-5a12-83a6-ad27cf9e4df3",
     "name": "Tuna Point",
+    "location": {
+      "name": "Tarrafal, Cape Verde"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

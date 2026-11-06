@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a8695516-b36d-583b-ac8e-920aecc2cbf8",
     "name": "Site de plongée de Guéthary",
+    "location": {
+      "name": "Pyrenees-Atlantics, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

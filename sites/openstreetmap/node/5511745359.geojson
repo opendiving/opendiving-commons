@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e74d0aa-1c2a-5aa1-bf01-6ddb888f27b4",
     "name": "Parcela Marina",
+    "location": {
+      "name": "Manabí, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

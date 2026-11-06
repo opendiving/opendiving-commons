@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de1c3977-637a-59e4-8dbd-904c866ad5bc",
     "name": "Vallée des requins",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

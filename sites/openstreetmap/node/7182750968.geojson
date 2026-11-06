@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "039f864a-9403-5cdf-8eb3-c98a3f11ad52",
     "name": "Mini Wall",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

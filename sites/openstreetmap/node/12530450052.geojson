@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fd71fb89-e75b-5684-a30b-9f7278dac9d5",
     "name": "Segelyacht Hemmoor",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

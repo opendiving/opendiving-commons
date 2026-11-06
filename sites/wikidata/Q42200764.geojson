@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5777f6dc-785f-5717-9de1-1e47f0ab2203",
     "name": "PMB Pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

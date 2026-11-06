@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d5f923b-435e-5e82-9bd7-28ecee2b8304",
     "name": "Sand Island",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

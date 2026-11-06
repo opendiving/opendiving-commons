@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d23689a7-9533-59c7-a1bd-9ca8a4bef862",
     "name": "Shark Point",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

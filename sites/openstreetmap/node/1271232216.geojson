@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1569ee8-1732-5e30-bbf0-e6d6092ae774",
     "name": "Dive Site",
+    "location": {
+      "name": "Batangas, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8f5f9fba-8ec1-5723-9d6f-036d6bdcddcf",
     "name": "Østmolen Dykkeplatform",
+    "location": {
+      "name": "Central Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b663e6a-2bf4-529e-a845-6778aec59184",
     "name": "MV Romelia",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

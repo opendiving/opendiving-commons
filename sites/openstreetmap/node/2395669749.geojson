@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a639e6f2-3790-5d76-b9ab-57b1657eb31d",
     "name": "Frog Fish Point",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

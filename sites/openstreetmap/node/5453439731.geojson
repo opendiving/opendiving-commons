@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "53605e50-3cf1-5875-bb84-9d1931bf06d6",
     "name": "My Reef",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

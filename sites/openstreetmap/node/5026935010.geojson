@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7214d39-b271-562e-915c-8d2f7631786d",
     "name": "Site de Plongée Le Sentier Sous Marin",
+    "location": {
+      "name": "Hérault, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

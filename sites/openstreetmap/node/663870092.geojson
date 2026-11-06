@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f932525b-f3db-53f0-b44d-65fcd89a231c",
     "name": "Nidaukanal Rest. Blue Marlin",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ef6a3b5-bf82-579a-8797-659663dab78f",
     "name": "Hilma Hooker",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

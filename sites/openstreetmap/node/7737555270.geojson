@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "907a3d3d-1158-5660-b9da-9d40677097b9",
     "name": "Canyon",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

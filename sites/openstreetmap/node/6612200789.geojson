@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47dbb4fa-633c-5a84-81cc-0dbd67358f5c",
     "name": "Marina af Hönö",
+    "location": {
+      "name": "Västra Götaland, Sweden"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

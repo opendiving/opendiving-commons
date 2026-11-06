@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e6516238-63e9-550e-95fa-15902ce8d404",
     "name": "Hafen-Kloster",
+    "location": {
+      "name": "Schaffhausen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

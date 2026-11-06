@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d9a01796-994d-5f75-ad84-30f7fe2ed263",
     "name": "Rambler Rock North-west Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

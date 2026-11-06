@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f80d2f83-6993-5340-9933-e59cf4b2291e",
     "name": "North Long Reef",
+    "location": {
+      "name": "Makkah, Saudi Arabia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

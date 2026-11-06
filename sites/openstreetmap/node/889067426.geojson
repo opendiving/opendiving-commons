@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7491560-61f9-5034-9635-3f129ebf9b7c",
     "name": "Fairy Cove",
+    "location": {
+      "name": "Torbay, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

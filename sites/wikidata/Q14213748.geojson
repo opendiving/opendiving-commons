@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d8ff4c5b-99af-5f56-932f-78ac99673d7f",
     "name": "Fan Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

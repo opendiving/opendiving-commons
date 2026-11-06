@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bfad9ec6-4c59-5c65-91d0-dfe4e88283a0",
     "name": "карьер Хургада",
+    "location": {
+      "name": "Sverdlovsk, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e08b1b53-c03e-5134-a284-a15adbb73a8a",
     "name": "West View",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

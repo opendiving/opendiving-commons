@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ad700e78-8198-5c84-8299-634edc32f51b",
     "name": "Silfra",
+    "location": {
+      "name": "Southern, Iceland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

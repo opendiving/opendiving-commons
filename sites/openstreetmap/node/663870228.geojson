@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "df0ac3b4-cbc3-51f5-95eb-677e68ed62ef",
     "name": "Lido",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

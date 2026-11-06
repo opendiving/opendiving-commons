@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "897254cc-045f-5097-a72e-c2a775f253c7",
     "name": "Source de la Finou",
+    "location": {
+      "name": "Lot, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f52fa6f-7bf7-52c6-a3d1-b583b5585be1",
     "name": "Laem Thian Pinnacle",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

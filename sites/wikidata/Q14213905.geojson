@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "68e6f654-a0fb-5e24-8a7e-2fe75ed12daf",
     "name": "Spaniard Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d428aad4-2e19-5aa2-9412-0db29f44bc95",
     "name": "Ben El Gebel",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

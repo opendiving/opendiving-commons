@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7e3710ff-a787-5cf7-b5e2-2c78247d64ed",
     "name": "Bigouden Ranniged Ar Mor",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4c6df2e9-d3ca-5cf8-b920-4bfaeed50738",
     "name": "Scoglio di Remaiolo",
+    "location": {
+      "name": "Livorno, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

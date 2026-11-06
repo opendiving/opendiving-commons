@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ed888cf8-f71e-5dce-a4d2-c37b37819184",
     "name": "Stolzenhagener See",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

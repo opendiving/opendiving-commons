@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b604ac56-50be-579f-808d-99f1b6eebc7d",
     "name": "Ruedi-Walter Platz",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "604fc591-254c-583f-a173-9505a53a80cd",
     "name": "Phoenix",
+    "location": {
+      "name": "Vermont, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

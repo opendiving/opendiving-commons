@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83e2d338-d15f-534d-9725-2a58dbf92b18",
     "name": "sharks mouth",
+    "location": {
+      "name": "Saint John, Dominica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

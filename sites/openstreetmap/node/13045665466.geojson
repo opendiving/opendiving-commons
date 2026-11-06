@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f843130d-70dc-54c0-8c37-aba89ad542e2",
     "name": "Seamount",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

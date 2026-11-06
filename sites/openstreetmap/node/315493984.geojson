@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "33f8375e-41be-569c-97b0-438506ffac9c",
     "name": "St John's Habili Gaffar",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

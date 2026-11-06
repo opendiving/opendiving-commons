@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ea6df8a7-2b79-5831-83ed-7db1858af399",
     "name": "HMS Maori",
+    "location": {
+      "name": "Valletta, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

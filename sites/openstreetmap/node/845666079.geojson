@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d76c30a3-1c41-5b74-a040-0c0ef5d54c71",
     "name": "Därligen",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

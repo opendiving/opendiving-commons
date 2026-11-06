@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4bd044c7-a745-55b6-9b26-76263c858d68",
     "name": "San Frandsco Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

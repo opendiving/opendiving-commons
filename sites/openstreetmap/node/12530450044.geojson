@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "aa0237cc-8415-53e4-8d01-ee7e15bb6434",
     "name": "Plattform 6m",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

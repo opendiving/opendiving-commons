@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "45b58c3b-b423-584d-9eec-0f366882ea31",
     "name": "St. Joux",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

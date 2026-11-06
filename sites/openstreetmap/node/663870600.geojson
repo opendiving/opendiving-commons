@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e38b6d5d-def3-59f3-a8ed-4443b471580b",
     "name": "Waller Feldmarksee",
+    "location": {
+      "name": "Free Hanseatic Bremen, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

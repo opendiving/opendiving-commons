@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5592c09-3f99-59d6-9f51-599895a9ccf3",
     "name": "Carnatic",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

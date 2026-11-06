@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "46e8f15b-fe33-587e-a2a2-e63442ad0313",
     "name": "Kensho Maru",
+    "location": {
+      "name": "Chuuk State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

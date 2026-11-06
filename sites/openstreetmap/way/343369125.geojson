@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "dd2e4015-69a3-589a-b3c9-e1e722c08de3",
     "name": "Havheksen",
+    "location": {
+      "name": "Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

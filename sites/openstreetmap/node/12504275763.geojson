@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "455153d4-c14f-5ca1-9b7d-1655d3c9d00b",
     "name": "Colombara",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

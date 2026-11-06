@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "22b2623b-d1c4-508b-b99b-8a85a933d295",
     "name": "Aluminium",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ba0f796-b759-543b-9caf-213bbd836ed1",
     "name": "Arco de Formentera",
+    "location": {
+      "name": "Balearic Islands, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

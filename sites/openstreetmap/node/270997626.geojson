@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86457375-5cb4-58ff-a513-114edf9db5fb",
     "name": "Laramar",
+    "location": {
+      "name": "Puerto Plata, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

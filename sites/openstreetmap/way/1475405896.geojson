@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47098702-eb1a-5133-89e4-555aecaeca3d",
     "name": "GBR North Coral Head",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1e2e8dd4-8f9b-55e0-8c9a-ca0f5a7314b6",
     "name": "Salt City",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b04e8095-96eb-517b-8497-cb66680bb0de",
     "name": "Port",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

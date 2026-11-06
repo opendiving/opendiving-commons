@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d8b37ab-610d-5dff-a5a9-f2f9a6cf9d97",
     "name": "Brontallo",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

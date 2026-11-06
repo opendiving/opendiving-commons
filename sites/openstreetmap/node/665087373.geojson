@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "952dfd5e-db2b-5218-a0b3-317546ccd4e4",
     "name": "Bootsrampe Rorschach Schlipf",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "80fe98be-5623-5c2b-9925-8925a18a00c3",
     "name": "Chapel",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

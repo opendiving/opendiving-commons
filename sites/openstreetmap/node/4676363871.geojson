@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a98c8427-1161-5afe-9913-72e08025168d",
     "name": "Taucheinstieg Göhrenz - Tauchbasis E1",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

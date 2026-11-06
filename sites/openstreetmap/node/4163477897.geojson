@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7281edff-a506-58e6-ab01-3af15cf48415",
     "name": "BBDivers",
+    "location": {
+      "name": "Trat, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

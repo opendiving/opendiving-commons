@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b4b2dbf-9ea8-5b89-9ee1-b6c82146c913",
     "name": "Seal Rock",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

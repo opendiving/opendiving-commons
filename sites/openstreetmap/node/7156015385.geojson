@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3a5d14f6-770d-5ead-b543-cf07e4835203",
     "name": "Kudhi Maa Wreck",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

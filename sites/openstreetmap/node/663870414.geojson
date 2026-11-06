@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c53362e2-9e8a-50b5-af4c-0e48765a40f9",
     "name": "Seealpsee",
+    "location": {
+      "name": "Appenzell Innerrhoden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

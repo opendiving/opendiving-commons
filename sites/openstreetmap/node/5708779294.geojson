@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0443d911-0897-5d0a-89ce-2528c6c50354",
     "name": "Shaab Sabrina",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

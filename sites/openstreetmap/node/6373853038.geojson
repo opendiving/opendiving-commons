@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4290c24d-7a38-584b-bb44-ea4391deb85d",
     "name": "Big Blue Diving",
+    "location": {
+      "name": "Split-Dalmatia, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

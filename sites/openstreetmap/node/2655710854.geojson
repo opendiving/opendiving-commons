@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5d5d71d-a1eb-52b5-85c2-a43aaed15b5c",
     "name": "Dranske",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3338a23-b61e-5655-9c47-ce3897c1d649",
     "name": "Mayhem",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

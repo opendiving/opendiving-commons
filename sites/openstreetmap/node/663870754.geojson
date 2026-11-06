@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6c037a0d-f7aa-56cf-bd2b-41353ebd3955",
     "name": "Salza-Speichersee",
+    "location": {
+      "name": "Styria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

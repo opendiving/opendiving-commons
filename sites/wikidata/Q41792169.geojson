@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "43809f97-50b9-53dd-8066-2ab481c84524",
     "name": "Stonehenge North",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

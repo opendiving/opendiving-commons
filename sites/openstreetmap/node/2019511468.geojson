@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a400811b-a44e-5a6b-ad5d-7df9acd112c3",
     "name": "Tauch-Sport-Club Kaarst",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

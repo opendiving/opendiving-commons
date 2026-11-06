@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5e518812-2a7c-57d5-81a0-e3b24e9988ec",
     "name": "Gänsedrecksee (Taucheinstieg Nord)",
+    "location": {
+      "name": "Rhineland-Palatinate, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

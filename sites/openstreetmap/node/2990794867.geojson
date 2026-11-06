@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6034324a-6293-5b17-86ec-09a5fb8198b3",
     "name": "Bosse du Chameau",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

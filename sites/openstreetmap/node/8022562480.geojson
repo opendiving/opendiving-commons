@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94ae6fc6-bef6-5321-aeb6-f2acaa94cb9c",
     "name": "Lighthouse Reef Dive Site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

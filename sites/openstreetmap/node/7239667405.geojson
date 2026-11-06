@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d3df819-a9cd-58fe-932d-34dcb87b7399",
     "name": "La Torta",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

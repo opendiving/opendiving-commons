@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90377cda-fed3-5469-a76d-8e4764ec32a2",
     "name": "Einstieg E4A",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

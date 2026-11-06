@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a050f9c1-cda6-53d4-b64e-ec81359e197a",
     "name": "Schweiß- und Arbeitstisch",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "04124937-4f0e-5064-9ef9-e6efd106da84",
     "name": "Is-Sikka ta' Santa Marija",
+    "location": {
+      "name": "Qala, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

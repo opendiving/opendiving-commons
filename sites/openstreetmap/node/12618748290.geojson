@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7216185-eedc-5afb-996b-851597f80bf8",
     "name": "Nirvana",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0ddf15d6-e23a-51a1-9409-d484ea36e220",
     "name": "嘉比裏・がひうら",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5b69b12-0d49-56cf-a4c9-c9f604903507",
     "name": "Bajo del Hospital",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fa70c575-051f-505a-b4c1-069561211541",
     "name": "S.S. Alondra",
+    "location": {
+      "name": "Cork, Ireland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0be8919d-f6e3-56a9-ba14-496b5772bef1",
     "name": "Spring Bay",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

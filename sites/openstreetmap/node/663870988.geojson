@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6f2a9e5a-8b6f-51d1-ad4a-d250cf510fa0",
     "name": "Gudelacksee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5079c8a-e926-5425-9456-d1af95273bb7",
     "name": "Umbria",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

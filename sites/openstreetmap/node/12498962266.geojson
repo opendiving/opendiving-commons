@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71aa5ddf-894c-5ac7-bcc0-4c889027210b",
     "name": "Plavi Jadran",
+    "location": {
+      "name": "Šibenik-Knin, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5556d69f-71b9-59bc-824f-30943ecbfefb",
     "name": "Abu Fendira",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

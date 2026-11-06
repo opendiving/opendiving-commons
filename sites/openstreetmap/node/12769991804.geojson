@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "13aded25-a8ee-5265-8b68-d5adcf109b4f",
     "name": "Nurek",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

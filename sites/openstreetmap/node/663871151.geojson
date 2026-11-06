@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "76333c41-e7c4-5e90-8478-573086a189f0",
     "name": "Swanhild",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

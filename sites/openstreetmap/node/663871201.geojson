@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98c5eafb-1a0b-5d3f-a2d8-ce2a35ccf594",
     "name": "Lusong gunboat",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

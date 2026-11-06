@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "91b4733a-c013-5f52-bab9-bda597f5cac3",
     "name": "Attersee - Nautilus (Divesport)",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

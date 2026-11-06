@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c10cbfb3-7c99-5f14-90a4-a2aabdd0cd9f",
     "name": "Lac Léman-Le Paradis",
+    "location": {
+      "name": "Geneva, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

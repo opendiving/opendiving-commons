@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57268505-aec6-583b-b5cb-37174c376c36",
     "name": "Hafen",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "43f76975-8770-5efc-ab16-c05a255b41ee",
     "name": "Te Amo Beach",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

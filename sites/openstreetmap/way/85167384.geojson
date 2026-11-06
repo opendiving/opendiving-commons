@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d77814b1-8345-5ac0-bef6-ad7784b19051",
     "name": "Du coté de Roussay",
+    "location": {
+      "name": "Maine-et-Loire, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

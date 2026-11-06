@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f6f68e0c-f70e-55e8-a7a7-b515858f1a5b",
     "name": "Grand Congloué",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

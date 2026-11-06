@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ba3967d-881d-5cc7-a6e9-867c7535947a",
     "name": "Giftun Soraya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

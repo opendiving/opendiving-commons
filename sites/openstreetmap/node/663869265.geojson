@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9bf62cbf-6e74-506a-affd-6073a08d64df",
     "name": "Race Rocks - Great Race",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

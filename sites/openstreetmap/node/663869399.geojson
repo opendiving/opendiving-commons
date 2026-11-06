@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30181948-2926-53f2-aedb-d5ea3cf4a336",
     "name": "Punt Vierkant",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

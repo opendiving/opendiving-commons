@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4b52d3a7-bdd2-5e07-8c10-141a877242b9",
     "name": "Kayuangin Lagoon",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

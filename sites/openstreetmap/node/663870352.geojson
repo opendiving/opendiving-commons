@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b9cf9401-4623-5499-82f3-8595ffc8d0da",
     "name": "Tunnel 1",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

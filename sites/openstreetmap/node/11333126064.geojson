@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f78c61ae-474c-581b-bf8d-81ea9a8fe0ab",
     "name": "阿真牛瀬・あまうしじ",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

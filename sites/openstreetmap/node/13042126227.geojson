@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "76922d50-7a49-58e7-8872-11b711d70560",
     "name": "Mangrove and Slope",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

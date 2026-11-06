@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb49a529-4a92-5cb7-95fe-866bddc68e59",
     "name": "PADI Bali Scuba Masters",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

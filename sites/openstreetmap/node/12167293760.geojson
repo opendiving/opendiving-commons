@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47f4f49e-518e-5a0e-bdf6-127462f517fa",
     "name": "Lao lao",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

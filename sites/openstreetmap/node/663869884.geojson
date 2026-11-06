@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "24a1f31e-2a11-5fa3-aaa3-c35e2df54354",
     "name": "Fish Head",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

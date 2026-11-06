@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47fb95c5-1c21-5845-b948-27df25ae87ff",
     "name": "The Elephants",
+    "location": {
+      "name": "Trat, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

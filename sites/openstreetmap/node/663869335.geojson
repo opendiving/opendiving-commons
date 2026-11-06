@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "59003cc7-4dce-5bcc-8fac-a3b4af023f6e",
     "name": "Cardona",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

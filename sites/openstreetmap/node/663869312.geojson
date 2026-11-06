@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5fb328bc-469d-50af-a1c4-e1d241ec8a58",
     "name": "Little Group Islands",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

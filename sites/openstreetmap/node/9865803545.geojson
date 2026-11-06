@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "14c43649-f44d-57cd-abb8-5967e041cd53",
     "name": "Dibba Rock",
+    "location": {
+      "name": "Emirate of Fujairah, United Arab Emirates"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

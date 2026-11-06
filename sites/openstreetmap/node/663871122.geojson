@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "374a5b17-a92d-55c1-97e0-a42a868f021b",
     "name": "Gahlendorf",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

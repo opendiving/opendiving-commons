@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b11f218b-3407-5fea-bde0-114dc6f3bc08",
     "name": "Banayan Point",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3247e9d3-6c2c-522c-ae9a-84b64e70320b",
     "name": "Holzlager",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

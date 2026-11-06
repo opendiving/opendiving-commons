@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fef5b306-931d-5f31-83ba-6e55c0161e54",
     "name": "ArcoSub",
+    "location": {
+      "name": "Trentino, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

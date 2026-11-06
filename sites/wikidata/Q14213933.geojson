@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e4ae119-07eb-5a18-8e45-c8b176f872d5",
     "name": "Torch Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

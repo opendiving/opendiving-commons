@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d6d4e162-9f9c-5c1a-9b3f-7dc418cb9615",
     "name": "Johann Wessels",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

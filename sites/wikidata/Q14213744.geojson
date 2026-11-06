@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "43ad2ca9-4b29-5ea9-9769-d357bd6af5f4",
     "name": "Dreadlocks Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

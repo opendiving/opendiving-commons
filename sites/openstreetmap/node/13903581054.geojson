@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "44432173-52bb-579b-a5ee-9e09666d5306",
     "name": "Hayahay",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

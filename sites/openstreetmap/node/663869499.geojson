@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64ea8dc6-54a4-5e3d-b55a-445b333f5ca0",
     "name": "Aeolus (Wrack)",
+    "location": {
+      "name": "North Carolina, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c19e439e-9af4-5e37-815c-91ec7e0eea10",
     "name": "Meno Corner",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

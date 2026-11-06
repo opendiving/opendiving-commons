@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5e586de9-5921-5fec-b813-66a93b619467",
     "name": "Roca Montiell",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

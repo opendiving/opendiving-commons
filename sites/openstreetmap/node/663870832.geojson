@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d2b0708-247a-5b5f-a7a9-07d18f9dbd73",
     "name": "vorderer Langbathsee - Nordufer / Murenabgang",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

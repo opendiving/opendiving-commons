@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "58284f17-962b-5a18-b98b-aeacc2c262ed",
     "name": "Badia de Tamariu",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

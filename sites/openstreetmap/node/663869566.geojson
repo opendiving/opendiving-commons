@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bc30595a-89ff-5c89-8fcc-30f59bb80623",
     "name": "Arno",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

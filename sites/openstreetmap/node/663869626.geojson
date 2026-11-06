@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ca516ec0-a841-5a17-b359-fa29b5281ef3",
     "name": "SMS Brummer",
+    "location": {
+      "name": "Orkney Islands, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

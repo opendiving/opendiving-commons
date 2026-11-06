@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0ae52ac-aaef-56ea-aafe-6e9cd75453b4",
     "name": "Gobernador",
+    "location": {
+      "name": "Orkney Islands, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

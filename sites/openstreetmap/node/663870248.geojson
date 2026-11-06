@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da152566-49d2-5342-8e50-522dfb192b64",
     "name": "Coluonnas",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

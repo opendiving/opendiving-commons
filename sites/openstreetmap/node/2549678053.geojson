@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "92c0058f-8ce9-5d2e-8b23-90bd2dc4aefe",
     "name": "Pierre de Briancon",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

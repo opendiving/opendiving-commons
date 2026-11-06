@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9da2db7d-b0b3-5ec7-b14a-59bd3d80a56f",
     "name": "Levensstrijd",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

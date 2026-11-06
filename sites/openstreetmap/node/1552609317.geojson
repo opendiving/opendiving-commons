@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a0d6906f-1957-5b7c-9d95-a82f15ba1145",
     "name": "La Cueva",
+    "location": {
+      "name": "Puntarenas, Costa Rica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

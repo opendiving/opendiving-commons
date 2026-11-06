@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0192b49e-b52d-5ba3-8408-046a02c5ef75",
     "name": "Lina wreck",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

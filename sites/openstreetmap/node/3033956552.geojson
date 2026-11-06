@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "427d2aad-4d82-56bc-8f9f-34731005fc1c",
     "name": "Tokong Timur",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

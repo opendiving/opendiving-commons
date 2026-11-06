@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "def762c7-26b0-588c-b7b8-8a78145b7838",
     "name": "SS Lusitania",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

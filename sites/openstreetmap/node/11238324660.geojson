@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "202e4c28-3463-5535-83f9-de469d815ff0",
     "name": "Sha'ab El Erg",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

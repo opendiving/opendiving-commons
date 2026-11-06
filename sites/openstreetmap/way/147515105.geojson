@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "73d6bd26-af97-5a1d-bf8b-aeb244310c39",
     "name": "Isola Corbella",
+    "location": {
+      "name": "Livorno, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

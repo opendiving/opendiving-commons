@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "382acc40-1e2e-59ab-84df-e3b2e19d920c",
     "name": "Lac Léman-Crépine",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

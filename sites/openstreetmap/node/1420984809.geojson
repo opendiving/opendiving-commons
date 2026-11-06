@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "35c7f09b-09ab-52cd-8d5b-1353c5b4c189",
     "name": "The Rock",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

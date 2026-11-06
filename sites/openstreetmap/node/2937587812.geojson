@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "456c9303-74ab-5bd3-a099-7a8890672ce6",
     "name": "Club subaquatique",
+    "location": {
+      "name": "Morbihan, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

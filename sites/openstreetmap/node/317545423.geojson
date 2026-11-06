@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "107c5f1d-14b5-50f8-bcb9-611b7bd85ecf",
     "name": "Victory B8",
+    "location": {
+      "name": "Espírito Santo, Brazil"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

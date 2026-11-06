@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ede5bbae-dca4-5b40-9e72-7b3a54140afd",
     "name": "Emmadi Giri (Manta Point)",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7b966fd6-5265-5ea0-ba13-1a93975a8fda",
     "name": "Gunten Bad",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

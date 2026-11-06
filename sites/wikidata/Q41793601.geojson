@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5723a001-250f-5375-8dc6-869dcaff212e",
     "name": "Table Top Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

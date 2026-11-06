@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79c9c348-31b0-568d-aa2f-e9256895e8c9",
     "name": "Arachne Reef",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

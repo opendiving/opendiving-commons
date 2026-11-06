@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2a701626-7cc4-5ffa-b2d9-e9ecae3353eb",
     "name": "Le Serpent, bow",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

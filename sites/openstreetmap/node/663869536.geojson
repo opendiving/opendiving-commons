@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "20374e41-f035-5c78-a1a9-d825cc48d1b4",
     "name": "The Caves",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

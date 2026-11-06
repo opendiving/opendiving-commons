@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c8b9ace7-605f-5380-89dd-969388ced381",
     "name": "Casa Verde",
+    "location": {
+      "name": "comarca Ngäbe-Buglé, Panama"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

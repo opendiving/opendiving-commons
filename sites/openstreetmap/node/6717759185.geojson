@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c57e8bbd-d08f-543b-8b0d-69d8f6394575",
     "name": "K.K Bay",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

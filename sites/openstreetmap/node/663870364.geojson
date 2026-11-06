@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5665fe66-f7cc-535c-8988-90bee6caac93",
     "name": "Rheinau-Ellikon am Rhein",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

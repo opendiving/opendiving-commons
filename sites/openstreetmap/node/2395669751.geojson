@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d7c12327-0536-527e-9906-f722c06b8869",
     "name": "Jack Point",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

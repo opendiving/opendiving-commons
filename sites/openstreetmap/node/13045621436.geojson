@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "52baf4c6-0af0-5e1f-aeaf-fc8ab24998ae",
     "name": "Imbekwan Bommies",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

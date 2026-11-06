@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8a408cce-2d92-5b76-b157-d31b0bc24be6",
     "name": "Unterer Vogelstangsee",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

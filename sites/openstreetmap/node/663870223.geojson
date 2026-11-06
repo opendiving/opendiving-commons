@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "963ea64f-8095-581a-9379-ee0b031147d3",
     "name": "Elefäntli",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

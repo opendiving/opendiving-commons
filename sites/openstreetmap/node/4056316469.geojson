@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95a514ef-b47d-50c7-af54-edf12d696b27",
     "name": "Pointe Carangue",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

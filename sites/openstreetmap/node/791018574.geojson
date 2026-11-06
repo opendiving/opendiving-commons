@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0c1eefb4-9446-5ca6-be80-c569097662f9",
     "name": "la Vaca",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

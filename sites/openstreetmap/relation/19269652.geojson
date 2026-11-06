@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "53900866-11d3-50b6-bbde-bd54dc8efd6c",
     "name": "Paradise Reef",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f29093d7-bb64-555a-b32c-0ec754f076aa",
     "name": "Mokrýšov Velká jáma",
+    "location": {
+      "name": "Pardubice, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

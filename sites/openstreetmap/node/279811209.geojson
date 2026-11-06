@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47659185-7b35-57d4-8088-f8b5706486c9",
     "name": "Middle Garden",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

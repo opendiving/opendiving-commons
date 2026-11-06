@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5da85fe3-e0e3-505a-89b7-9f5ea9f9da9c",
     "name": "Merida (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

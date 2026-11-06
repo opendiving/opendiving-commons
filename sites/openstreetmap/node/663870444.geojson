@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce035a1b-402a-5491-9e55-07a40044d67b",
     "name": "Galerie",
+    "location": {
+      "name": "Grisons, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

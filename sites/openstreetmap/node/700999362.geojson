@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1bf157d3-2fe8-5aeb-8f07-42265659f49d",
     "name": "Erg Somaya Drift",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

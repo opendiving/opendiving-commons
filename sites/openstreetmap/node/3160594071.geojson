@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7ddfdb08-42bc-57be-8f6f-4f46ca6a2434",
     "name": "Jackson Blue Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

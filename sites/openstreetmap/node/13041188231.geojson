@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c6a1dbe1-0639-51d0-a1b3-89ada9a000f1",
     "name": "Otdima Reef",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

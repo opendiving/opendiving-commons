@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "125bce72-ff89-5c51-ba95-9c00086ad9e5",
     "name": "Triumph Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

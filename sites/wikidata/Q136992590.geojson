@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30d57453-9320-5f71-80a0-1693316c2b50",
     "name": "Kingston",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

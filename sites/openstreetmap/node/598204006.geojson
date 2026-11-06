@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0b244e90-48da-5979-8381-39884d5867e6",
     "name": "Torfmoorsee Westufer",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

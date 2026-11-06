@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "621250df-1fd3-5e16-a7f0-a7edb8bc5014",
     "name": "Zero plane",
+    "location": {
+      "name": "Yap State, Federated States of Micronesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

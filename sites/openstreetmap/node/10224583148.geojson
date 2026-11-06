@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "01014acd-f76c-5629-8d74-f6d769876e31",
     "name": "Cement wall",
+    "location": {
+      "name": "Unguja South, Tanzania"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

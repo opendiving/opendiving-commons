@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "388d8eef-0ec1-52d1-ae45-46dfb8c142f4",
     "name": "No Fear",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

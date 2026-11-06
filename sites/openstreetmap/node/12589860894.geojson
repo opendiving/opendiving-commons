@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3ba4af40-7a94-5d49-8925-0e87fe9fdf76",
     "name": "Kelvin Grove Dive Site",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

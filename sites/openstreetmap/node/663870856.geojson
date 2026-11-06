@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50f1aff1-87c0-55a5-8399-290feaebd2d2",
     "name": "Luberweiher",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

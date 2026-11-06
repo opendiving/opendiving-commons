@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "89133205-6a10-5d35-a073-9367b606cd7b",
     "name": "Twin Towers",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

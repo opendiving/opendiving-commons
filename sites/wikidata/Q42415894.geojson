@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d2af80c6-bcfa-5be3-ad5c-846c1765aa4c",
     "name": "''Euphrates'' anchors",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

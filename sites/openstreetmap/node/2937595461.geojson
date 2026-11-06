@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "249b772c-64b1-5589-b361-de191e01437a",
     "name": "Aube",
+    "location": {
+      "name": "Vendée, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ebe789b8-35a2-5ea2-992c-d08b5e4232dd",
     "name": "USAT Liberty Wreck",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

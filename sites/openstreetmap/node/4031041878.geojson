@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2e3a92a8-1e48-5adf-9880-0b3c97fdbf7e",
     "name": "Siaes Corner",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

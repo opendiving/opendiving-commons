@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30df9c22-58a1-5376-8d96-9a61de63c869",
     "name": "佐久原漁礁",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

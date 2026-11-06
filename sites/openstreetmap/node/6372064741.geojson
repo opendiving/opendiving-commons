@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9d5101a9-d311-54d1-87fd-38b75b433d6d",
     "name": "Hafenmauer",
+    "location": {
+      "name": "Las Palmas, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

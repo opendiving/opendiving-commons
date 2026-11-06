@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "94ce4958-8767-54df-9918-308855db3a82",
     "name": "Tauchgasometer",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

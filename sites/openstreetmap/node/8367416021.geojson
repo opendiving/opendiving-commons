@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fe178395-ea49-508f-b2cd-4d5010e4957b",
     "name": "Palma Wracks",
+    "location": {
+      "name": "Balearic Islands, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

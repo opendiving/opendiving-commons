@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ddbc586-b5c3-5178-be0b-f668548f6d10",
     "name": "Zeca",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

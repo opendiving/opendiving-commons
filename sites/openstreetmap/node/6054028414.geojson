@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ffe121fe-b2af-558a-9c95-bbc0a91712c2",
     "name": "Einbaum",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

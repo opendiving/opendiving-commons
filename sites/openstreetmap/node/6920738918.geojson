@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f48c713a-83e1-5aa3-8aed-600e035f3de6",
     "name": "Um El Sheikh",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

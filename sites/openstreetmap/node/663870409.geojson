@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5dc523cb-adfb-5eea-9270-bdf85060ef48",
     "name": "Äuli",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

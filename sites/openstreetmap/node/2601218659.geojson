@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3680c6e1-7ca5-57d8-9514-727264c00006",
     "name": "Erddamm",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

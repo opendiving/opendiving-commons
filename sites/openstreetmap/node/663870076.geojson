@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2396abe-be12-5b10-98c5-0bec28fa3f18",
     "name": "Kehrsiten Forrest",
+    "location": {
+      "name": "Nidwalden, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

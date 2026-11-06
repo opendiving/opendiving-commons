@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e95dbe61-c5a5-564f-ac2e-fab4fa1c0778",
     "name": "Gorges de l'Areuse",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

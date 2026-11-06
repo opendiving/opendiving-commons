@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2bb1b23d-d732-52a6-bbb5-8760ba8e782f",
     "name": "Marienschlucht",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

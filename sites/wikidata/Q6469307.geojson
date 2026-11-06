@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d2dae596-6ff6-53d8-9c92-9f2131097f07",
     "name": "Ladder Bay, Saba",
+    "location": {
+      "name": "Saba, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

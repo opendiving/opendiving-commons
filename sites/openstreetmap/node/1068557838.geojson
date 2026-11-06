@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0053d575-7bc0-5a3c-8e11-9ecf231492a0",
     "name": "Turbo",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

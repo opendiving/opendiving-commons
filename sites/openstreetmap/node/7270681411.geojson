@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5aef5cd8-cfd8-5b86-ae95-7bc4d0a9e015",
     "name": "Gap",
+    "location": {
+      "name": "Central Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "72fea9a0-2a0a-5fd5-b1d8-948217fd79f8",
     "name": "Sikka tax-Xatt l-Aħmar",
+    "location": {
+      "name": "Għajnsielem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5c62ff27-1eee-5f97-a746-3352a2a51ec0",
     "name": "Hallstättersee - Landbettler",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

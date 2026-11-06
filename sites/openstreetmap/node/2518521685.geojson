@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "386e5be0-1fce-546a-bb00-fa02b3113041",
     "name": "Franciscus",
+    "location": {
+      "name": "Tarrafal, Cape Verde"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

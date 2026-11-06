@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0c8ab0fd-1822-5d19-9c9b-c6392c9aa06e",
     "name": "Белый тюлень",
+    "location": {
+      "name": "Saint Petersburg, Russia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

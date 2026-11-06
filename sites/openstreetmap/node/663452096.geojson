@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "353e708f-46c6-561e-a82d-f420b607fa1b",
     "name": "Hafen",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

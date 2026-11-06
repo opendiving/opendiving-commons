@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86df4451-d45d-5e8d-9937-6a1bada15622",
     "name": "Star Wall",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

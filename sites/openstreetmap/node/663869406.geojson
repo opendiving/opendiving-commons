@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b894c71-7cea-5e51-a5af-6c0adf637714",
     "name": "Atlantis",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

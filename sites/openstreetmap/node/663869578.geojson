@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a1e01ea8-7427-50c5-b974-48b27bf58974",
     "name": "Axwell",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

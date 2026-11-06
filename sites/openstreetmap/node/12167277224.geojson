@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0568c359-cff7-5b09-9810-97e2055b0449",
     "name": "Koh",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

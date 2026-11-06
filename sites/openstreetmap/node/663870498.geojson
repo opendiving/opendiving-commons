@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "140e5c37-f2ce-5ece-a7c4-cda9552c0838",
     "name": "Flaschentauchen",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

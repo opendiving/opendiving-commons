@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1723843c-a19c-5e06-9604-0f59bf9bfda6",
     "name": "Sugar Wreck",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

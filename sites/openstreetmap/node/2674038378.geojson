@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3eabbcd9-e663-5891-a363-bdeccf7f0dd5",
     "name": "Galeon Point",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

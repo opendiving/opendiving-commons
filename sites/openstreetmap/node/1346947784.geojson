@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "36c9272a-cb6d-578e-9e78-eb2b3a2cabbc",
     "name": "la motte",
+    "location": {
+      "name": "Fribourg, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

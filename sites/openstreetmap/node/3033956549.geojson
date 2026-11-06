@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c4111af1-cfe1-5189-8231-4ecc1fa1f98a",
     "name": "Moonraker",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

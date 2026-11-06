@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3192913f-2fd3-5341-936d-8f6909fe1789",
     "name": "Il-Ħofra tal-Bidwin",
+    "location": {
+      "name": "Saint Lawrence, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ada6cb07-68c9-519b-b289-df89217a3062",
     "name": "Sportsdykkerklubben KVAK",
+    "location": {
+      "name": "Central Denmark, Denmark"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5891726-e8c7-5315-b8d5-6b9c3fb0c421",
     "name": "The \"Eitana\" tow boat",
+    "location": {
+      "name": "Northern, Israel"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

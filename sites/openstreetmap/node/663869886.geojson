@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da77f279-8c4d-5740-8d33-2b80e7d8195c",
     "name": "Pineapple Island Hausriff",
+    "location": {
+      "name": "Alif Dhaal Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

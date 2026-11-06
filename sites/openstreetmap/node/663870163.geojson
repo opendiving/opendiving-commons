@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "726352f7-1342-5f87-8b41-3641562132a8",
     "name": "Tegna Ponte Brolla",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

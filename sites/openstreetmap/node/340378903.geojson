@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1ba5c929-29ff-5806-a824-6f8963052b7f",
     "name": "MS King Cruiser",
+    "location": {
+      "name": "Phang Nga, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

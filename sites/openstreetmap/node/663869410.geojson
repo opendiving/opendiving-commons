@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "71ec92f8-ddf1-580a-8e2b-0a517924cac1",
     "name": "Larry's Lair",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

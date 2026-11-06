@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57033245-c350-59f3-9661-cbcade44b2f0",
     "name": "Blue Lagoon",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

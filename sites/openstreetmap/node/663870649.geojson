@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83dd7fa8-da8b-5b24-b6b3-79aea59ff438",
     "name": "Noer",
+    "location": {
+      "name": "Schleswig-Holstein, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

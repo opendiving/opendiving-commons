@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b6266c67-b8c5-5add-90bb-61523232f112",
     "name": "The Bells",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

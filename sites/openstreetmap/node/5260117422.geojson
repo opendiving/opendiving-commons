@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb4367e1-40a1-51a2-9b2c-460c6d1504b0",
     "name": "DJL Diving Moyo @ Maleo Moyo seaside resort",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

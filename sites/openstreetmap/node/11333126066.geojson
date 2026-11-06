@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0d22628c-3f20-5377-a817-62a8220fdb0c",
     "name": "宇論の崎・うるるのさち",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

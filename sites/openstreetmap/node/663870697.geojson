@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cca0b5bb-00f9-5bbd-8d05-834890b48d02",
     "name": "Tegernsee - Schweinebucht",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

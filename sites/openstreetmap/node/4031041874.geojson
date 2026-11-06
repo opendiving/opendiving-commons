@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "879224b5-2675-5a0d-8e96-6a53528bc5a1",
     "name": "Chuyo Maru",
+    "location": {
+      "name": "Koror, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

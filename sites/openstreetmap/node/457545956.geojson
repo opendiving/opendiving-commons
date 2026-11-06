@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8f7c179e-ec21-56fe-98bb-fa33b7e8ce65",
     "name": "Mekjervågen",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

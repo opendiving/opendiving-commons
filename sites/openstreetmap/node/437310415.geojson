@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c5d37b3f-04c6-52fa-b062-811408beaff5",
     "name": "Steinschlag - Tafel",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

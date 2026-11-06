@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "712d2691-a1a9-5ca0-bc08-620a79b4e9d1",
     "name": "The dive Academy",
+    "location": {
+      "name": "Samaná, Dominican Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

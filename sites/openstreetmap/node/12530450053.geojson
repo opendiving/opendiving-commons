@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "646868ae-282a-53c3-b416-ed085b745f1f",
     "name": "Leuchtturm",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c8c82040-0fa0-5a68-ab6a-5bc11c222017",
     "name": "Islas Los Ahorcados",
+    "location": {
+      "name": "Santa Elena, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

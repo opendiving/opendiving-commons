@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "70105287-d844-5da3-a9f1-130261c8b613",
     "name": "Charles P. Minch (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

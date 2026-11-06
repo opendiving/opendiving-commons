@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1f70ddb6-9cb1-519d-8e95-6dcd93086374",
     "name": "Vaageli Tila",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

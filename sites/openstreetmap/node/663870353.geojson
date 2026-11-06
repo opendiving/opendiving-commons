@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ad165d6-ba55-51b4-bb2f-f9d95e847521",
     "name": "Kraftwerk",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

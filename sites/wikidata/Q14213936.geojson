@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "43085754-b9e4-5fa0-9f1d-a0184a174b0e",
     "name": "Vogelsteen",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

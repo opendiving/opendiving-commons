@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b1cdd5aa-3c36-5665-9156-972baa76dec6",
     "name": "Club de Buceo",
+    "location": {
+      "name": "Valparaíso, Chile"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

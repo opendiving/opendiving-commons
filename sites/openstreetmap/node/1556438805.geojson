@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "409931f5-e5dc-5b35-85bf-caf4f249430a",
     "name": "Soma Gatden",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

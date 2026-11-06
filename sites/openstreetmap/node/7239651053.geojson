@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f60fda05-f0ab-564e-ae30-f44b321acd15",
     "name": "El Freezer",
+    "location": {
+      "name": "Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

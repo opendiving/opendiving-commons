@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50ae1eb0-62c1-51c0-9b51-9e851f3de3e5",
     "name": "Tegernsee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

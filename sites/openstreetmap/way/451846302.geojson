@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "19571303-6c28-53dd-abce-21ce4e61853b",
     "name": "Gebiet Riedsort",
+    "location": {
+      "name": "Lucerne, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

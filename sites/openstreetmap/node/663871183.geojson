@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c0fddd5d-1615-5bac-9a73-abbc99e0fb36",
     "name": "Fish Sanctuary",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

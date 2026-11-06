@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cf2db3a6-4827-5d5f-aaaa-d7997a0ce79a",
     "name": "Boudry Plage",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

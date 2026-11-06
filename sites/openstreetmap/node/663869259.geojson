@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "92015d69-3c07-5b63-8ff9-5e2ce7438d8f",
     "name": "Iriru",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

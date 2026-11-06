@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "09aec467-84fa-545c-b913-ccaa1f7da576",
     "name": "Johnny's Gorge",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

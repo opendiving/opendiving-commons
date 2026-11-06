@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75653218-4d93-5826-ae68-64722e093383",
     "name": "Southwest Pinnackle",
+    "location": {
+      "name": "Surat Thani, Thailand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

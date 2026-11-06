@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6779bd25-601a-5409-8595-ef72bf36154e",
     "name": "La Motte",
+    "location": {
+      "name": "Neuchâtel, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

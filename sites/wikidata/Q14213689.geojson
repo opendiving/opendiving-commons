@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4bf637ea-9635-5e83-ad29-ce41839f4307",
     "name": "Atlantis Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

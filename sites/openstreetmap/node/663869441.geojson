@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "396abf86-aa16-59e5-9dc9-f0082426e352",
     "name": "La Denia's Leap",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

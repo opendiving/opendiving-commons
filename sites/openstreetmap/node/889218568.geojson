@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b8a89c7-5e28-5165-93d6-3a563b06149a",
     "name": "Taucher E1",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

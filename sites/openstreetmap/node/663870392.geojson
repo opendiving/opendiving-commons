@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d652405b-95d8-5621-a71f-00127cd71632",
     "name": "Wallhausen Steilwand",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

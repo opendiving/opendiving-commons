@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ccb6373-443f-5718-bdc9-8810d1d06b4d",
     "name": "Cleeve's Tunnel",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

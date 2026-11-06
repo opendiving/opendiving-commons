@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2292b8b6-b4a6-5a89-a2c1-bf2a7f093c6b",
     "name": "MV Karwela",
+    "location": {
+      "name": "Għajnsielem, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

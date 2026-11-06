@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8e854680-e8a9-5a2d-a5b8-89368ccd9bde",
     "name": "Ras Za'atar",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

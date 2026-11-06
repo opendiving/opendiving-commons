@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "669b8269-1e41-5c4b-92c2-8d1d56447fb5",
     "name": "Werkhof",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

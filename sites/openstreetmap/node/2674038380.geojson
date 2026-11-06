@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5b51abbd-e9d6-5559-bff2-3c07640fadf0",
     "name": "Mabuti",
+    "location": {
+      "name": "Occidental Mindoro, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

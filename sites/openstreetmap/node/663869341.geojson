@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7932f5f6-3725-57dd-9a0b-dbec7ad2a635",
     "name": "Tormentos Reef",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

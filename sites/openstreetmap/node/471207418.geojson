@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "66374515-4d49-5201-a03c-750ef30e15df",
     "name": "Pumpwerk Moos",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

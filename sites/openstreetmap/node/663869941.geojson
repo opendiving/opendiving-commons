@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "705d2cf0-302e-522e-87d5-bf6b0d98ee02",
     "name": "Velassaru Caves",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

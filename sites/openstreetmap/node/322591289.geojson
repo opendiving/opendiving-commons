@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d31b5063-43f8-5c46-9ee4-aec263a75c75",
     "name": "Il-Bajja tax-Xwejni",
+    "location": {
+      "name": "Żebbuġ, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95d6bb5b-a4d3-5b7b-a88b-3321d6722a40",
     "name": "Tessie",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

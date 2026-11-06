@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "95eb42d8-2654-59bd-a132-53d4122f180a",
     "name": "Ehem. Seepolizei)",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

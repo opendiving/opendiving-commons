@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f856f9cc-01cf-5097-b767-149cb1019cd7",
     "name": "阿嘉桟橋前",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

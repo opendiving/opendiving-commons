@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3aae51af-26c9-539e-aeda-195e352e5cb7",
     "name": "Kakatua reef",
+    "location": {
+      "name": "West Papua, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

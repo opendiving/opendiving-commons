@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90717b95-5f21-5573-be29-683a563ccf75",
     "name": "Schifflände",
+    "location": {
+      "name": "Aargau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

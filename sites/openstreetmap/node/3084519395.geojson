@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "97c1c9ce-8db6-552d-9e6c-325b735ca4e4",
     "name": "Vajavine",
+    "location": {
+      "name": "Primorje-Gorski, Croatia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

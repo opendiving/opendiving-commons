@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "051096e4-ebd3-5c88-adb2-db23bbc0a6ef",
     "name": "Ober Nas",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

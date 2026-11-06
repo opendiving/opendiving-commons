@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "313e5c7d-4505-5bb1-8008-f5b3b527e4cc",
     "name": "L'Aquarium",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

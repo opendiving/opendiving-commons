@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "50b69512-b083-5373-99d5-0ce4cb82a022",
     "name": "Kleiner Parkplatz Erlenbach Schipfe",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

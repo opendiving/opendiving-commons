@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4e297f43-8494-597a-a80f-ddb88b531d23",
     "name": "Buoy guideline to the bell",
+    "location": {
+      "name": "Podlaskie Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

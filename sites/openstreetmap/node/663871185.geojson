@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f7d6a3d1-c1cf-59c8-bd42-fa5d9645cd6c",
     "name": "Black Forest",
+    "location": {
+      "name": "Bohol, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

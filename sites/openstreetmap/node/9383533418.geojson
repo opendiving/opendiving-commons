@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb5d5917-be55-54b2-b192-b5a3cda31f6d",
     "name": "La Baleine",
+    "location": {
+      "name": "Guadeloupe, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

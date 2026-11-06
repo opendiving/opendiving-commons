@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4ca317e1-712f-5bd2-ab44-471ffc0acabf",
     "name": "Umm Gamar West",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

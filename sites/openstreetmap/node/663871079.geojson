@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "403c0789-7ebf-573a-8564-216bbeb22cd9",
     "name": "Jesenny",
+    "location": {
+      "name": "Liberec, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

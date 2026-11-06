@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9b4d8a10-59b3-5ce6-9ab0-2b2270c72717",
     "name": "La esquina del jardin",
+    "location": {
+      "name": "Puntarenas, Costa Rica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "47f0b395-8007-52cd-bca9-5bb05d5447a2",
     "name": "Traunsee - Weißer Steinbruch",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e2cc33d6-8f6c-5613-9676-3a8d4647bc07",
     "name": "Rüchligwehr",
+    "location": {
+      "name": "Aargau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

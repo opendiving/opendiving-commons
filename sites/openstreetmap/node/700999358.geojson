@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cceffbec-8bca-59f7-abcd-15a056cbcf42",
     "name": "El Aruk Gigi",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23371c77-6d3c-5c9e-8293-e161d86ca063",
     "name": "White Knight",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

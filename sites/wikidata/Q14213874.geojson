@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "76601cbf-441c-5e22-a385-d0c2b6bf22ce",
     "name": "SATS General Botha",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c52c5303-c24c-5511-96b6-8dd059c207f7",
     "name": "Fukui Point",
+    "location": {
+      "name": "North Sulawesi, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e5af9725-855f-544a-ab65-42384d37e48c",
     "name": "Rainbow Spring",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

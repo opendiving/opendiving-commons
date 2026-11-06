@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0115cfd9-8a79-5153-b642-902083867481",
     "name": "Gützer Berg",
+    "location": {
+      "name": "Saxony-Anhalt, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

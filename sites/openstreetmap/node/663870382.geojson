@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "be6eb281-8674-53b7-9b4b-b386d3b16192",
     "name": "Schifflände",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

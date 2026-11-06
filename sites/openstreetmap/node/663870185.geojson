@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f68c87b2-5759-532e-a8fb-ad2a35c21c82",
     "name": "Römerbrücke / Ponte dei Salti",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

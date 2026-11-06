@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c413d264-fea0-52c9-90a3-51ee28ec8c7b",
     "name": "Flauwers Heerenkeet",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

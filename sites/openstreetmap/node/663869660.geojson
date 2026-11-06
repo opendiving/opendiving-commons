@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5414059c-2233-5d0d-a82b-e56a754d0683",
     "name": "Castle Rock",
+    "location": {
+      "name": "Victoria, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

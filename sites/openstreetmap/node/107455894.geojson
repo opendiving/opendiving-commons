@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ef6c05aa-fe8b-51a0-a8f8-23b02dc3f07d",
     "name": "Steinrad",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

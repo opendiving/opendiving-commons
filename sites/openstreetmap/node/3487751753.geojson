@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "453145e2-21ab-5151-9a5d-843938a21bb5",
     "name": "Christa (wrak)",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

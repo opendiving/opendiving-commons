@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "97ae3238-989e-5ee0-a256-644a450a9877",
     "name": "G.M.A.P.",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

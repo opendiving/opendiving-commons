@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c85fa9bc-e29b-579e-bb4e-9756a73c528e",
     "name": "W. L. Wetmore (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

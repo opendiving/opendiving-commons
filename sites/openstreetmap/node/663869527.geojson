@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "974a6fab-ba4b-5a2f-a0ae-12a1539705e6",
     "name": "El Bajón",
+    "location": {
+      "name": "Santa Cruz de Tenerife, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

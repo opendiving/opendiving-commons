@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fdad93ca-1eff-5d59-aca0-5dd887be0bf7",
     "name": "las Cuevas",
+    "location": {
+      "name": "Archipelago of Saint Andréws, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

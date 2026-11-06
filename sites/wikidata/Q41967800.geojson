@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "678e1e70-efdb-5838-af10-35ac383e3134",
     "name": "Twin barges",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

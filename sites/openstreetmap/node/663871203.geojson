@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "8285c303-05e9-5b3d-9530-3b7ccfba708e",
     "name": "Nanshin Maru wreck (Black island beach)",
+    "location": {
+      "name": "Palawan, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

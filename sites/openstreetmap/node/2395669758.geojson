@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "976bd8a6-3a08-5b66-bc08-c8f27c0da55a",
     "name": "Shallow Turbo",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

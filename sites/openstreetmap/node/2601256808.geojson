@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "77aac321-ef20-5f93-87d7-212370a01839",
     "name": "Tauchspot Großer Krohnsee",
+    "location": {
+      "name": "Brandenburg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

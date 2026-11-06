@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "28302b39-b908-5e53-940f-6753012621b3",
     "name": "Farsha Ergein Farayed",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

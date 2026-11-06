@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cb06e17c-91c5-5a01-9821-e1847a79af21",
     "name": "Dartmouth Mewstone",
+    "location": {
+      "name": "Devon, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

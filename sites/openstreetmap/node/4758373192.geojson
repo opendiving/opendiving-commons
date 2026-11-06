@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7ad92b9-1888-5bbb-a55d-1a2abf752f05",
     "name": "5-Finger Rock",
+    "location": {
+      "name": "Saint John, Dominica"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

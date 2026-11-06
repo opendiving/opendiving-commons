@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a6458756-37d4-5cf9-9ab9-e3b454916a6d",
     "name": "San Pablo",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e8a13aaf-665b-5fa7-83b0-6d277967e38f",
     "name": "Arbutus Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

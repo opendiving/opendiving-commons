@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "105e3ca2-dd65-5bd7-9ce0-1148ddc7369b",
     "name": "Épave bacchi",
+    "location": {
+      "name": "Vendée, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

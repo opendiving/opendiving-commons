@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "66605c6d-581a-5198-ad06-16306f405755",
     "name": "Temple of Doom",
+    "location": {
+      "name": "Peleliu, Palau"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

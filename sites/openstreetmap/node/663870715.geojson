@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "22feca46-e8a4-530b-804d-306277a0647c",
     "name": "Weißensee - Tschelankofel",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

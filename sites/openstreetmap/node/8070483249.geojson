@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d03a2c2d-a19c-5a68-9705-d1c52adeafc0",
     "name": "Ann's Rock / Astrid's Wall",
+    "location": {
+      "name": "Northland, New Zealand"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

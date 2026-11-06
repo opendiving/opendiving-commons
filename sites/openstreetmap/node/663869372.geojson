@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "746330c6-b521-537c-8e0a-74f8722e8d8a",
     "name": "El Farito",
+    "location": {
+      "name": "Quintana Roo, Mexico"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

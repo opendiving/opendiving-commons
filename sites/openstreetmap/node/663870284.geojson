@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75c66951-d338-5d3b-8239-e0d9e0d5d949",
     "name": "Key West",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

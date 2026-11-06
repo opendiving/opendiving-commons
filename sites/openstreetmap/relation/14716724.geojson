@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "04922905-36dc-582d-afec-98a76ea5a37f",
     "name": "Trawangan Dive",
+    "location": {
+      "name": "West Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

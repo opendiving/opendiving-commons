@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "542c6df4-4bde-5a1e-8a74-43ed2d2269fb",
     "name": "Alter Hafen",
+    "location": {
+      "name": "Baden-Württemberg, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "077dfa02-d772-5fc3-8cdc-63468c05dc12",
     "name": "Strandbad Maur",
+    "location": {
+      "name": "Zürich, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

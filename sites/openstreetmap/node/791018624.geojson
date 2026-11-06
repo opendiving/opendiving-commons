@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2bfacc7b-4802-5f37-98fc-e58ca14f2e0c",
     "name": "Dolfi Nord",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

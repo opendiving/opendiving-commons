@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38ddd0d6-f3fe-52dc-a149-52f7337446f2",
     "name": "Rigiblick",
+    "location": {
+      "name": "Zug, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

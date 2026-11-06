@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de584f79-58e0-57ca-9179-691b5b7f20e8",
     "name": "Finlay's Point offshore pinnacles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

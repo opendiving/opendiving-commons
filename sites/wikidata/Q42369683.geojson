@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a9aa908a-c58f-5c5a-9d55-8b79070e2e10",
     "name": "Maze Cave",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3c6293de-57b6-58a5-b277-0016a17debf4",
     "name": "Épave Gai Littoral",
+    "location": {
+      "name": "Loire-Atlantique, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

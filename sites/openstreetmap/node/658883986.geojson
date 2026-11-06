@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3aa0ed70-a5e2-5d70-8c4f-69bb1a472489",
     "name": "Taucherbucht",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

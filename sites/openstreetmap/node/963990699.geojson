@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ee424644-37f5-51b2-9ef3-25f64bdd61c3",
     "name": "lom - Svobodné Heřmanice",
+    "location": {
+      "name": "Moravian-Silesian, Czech Republic"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

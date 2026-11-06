@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "23e6e87b-b2e7-5bd9-8a0b-2a919f9a0024",
     "name": "Mares Dive Center",
+    "location": {
+      "name": "Manabí, Ecuador"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

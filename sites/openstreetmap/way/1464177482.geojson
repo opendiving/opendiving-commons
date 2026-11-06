@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a108b688-78a6-5186-87fe-fd823bf73550",
     "name": "Molasses Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

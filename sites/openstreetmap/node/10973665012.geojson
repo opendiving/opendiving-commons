@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "53846764-4a87-5fc2-99b2-2f3ab94ede96",
     "name": "Uçak Batığı",
+    "location": {
+      "name": "Muğla, Turkey"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

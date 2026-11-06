@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9f4c31d5-2444-57b4-b4f8-20a2e1fbf677",
     "name": "Wainilu",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

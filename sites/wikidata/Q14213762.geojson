@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "abf9f35e-4ded-58bd-a046-f57c6364885d",
     "name": "Geldkis Blinder",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83ee29df-0e9f-5696-8eb5-8caeacda5d25",
     "name": "Amphitheatre",
+    "location": {
+      "name": "Paphos, Cyprus"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

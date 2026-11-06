@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3dbe4e6f-7c49-51cc-950d-ceb52add9d73",
     "name": "Sentier sous-marin de la Palud",
+    "location": {
+      "name": "Var, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

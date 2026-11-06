@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "38bc3b7e-ecf4-58bc-bd98-b88f52087886",
     "name": "Kabelrolle",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

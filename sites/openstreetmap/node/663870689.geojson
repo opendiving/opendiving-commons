@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c052ac97-ae07-5d43-b51c-82f5144b5c10",
     "name": "Kochelsee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

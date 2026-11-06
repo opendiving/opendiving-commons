@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5cc8f17-e429-5136-8dd0-385275ad3d69",
     "name": "Wolfsprung",
+    "location": {
+      "name": "Schwyz, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

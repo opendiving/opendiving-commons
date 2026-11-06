@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e3167e03-7ef6-505e-b7bc-cf8cdbcd5bc5",
     "name": "Marsa Bareika",
+    "location": {
+      "name": "South Sinai, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

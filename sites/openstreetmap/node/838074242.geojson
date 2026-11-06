@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4e342e72-b181-57ba-9479-73b49ab4c67b",
     "name": "Havenhoofd West",
+    "location": {
+      "name": "Zeeland, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

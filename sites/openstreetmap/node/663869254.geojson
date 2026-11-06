@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "da2c0412-c8b1-5115-b04c-0d6773952edb",
     "name": "Les rairas",
+    "location": {
+      "name": "Leeward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

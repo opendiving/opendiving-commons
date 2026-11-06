@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bb2ee3a2-fee9-5f10-8bc3-db00625dc3de",
     "name": "The Maze",
+    "location": {
+      "name": "Bay Islands, Honduras"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

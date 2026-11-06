@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "25c0e2f5-d3db-5363-b2ba-d14c7c10a843",
     "name": "Krugsdorfer Kiessee",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

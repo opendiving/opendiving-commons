@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "90649b66-fc9d-5f6a-8b7a-99673fa7e1ad",
     "name": "Salichin",
+    "location": {
+      "name": "Magdalena, Colombia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

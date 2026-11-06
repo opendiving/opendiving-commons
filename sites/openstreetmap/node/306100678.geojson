@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c195b1ca-913d-524e-b624-1297a074d570",
     "name": "Flamingo Beach: New Entry",
+    "location": {
+      "name": "Dhofar, Oman"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

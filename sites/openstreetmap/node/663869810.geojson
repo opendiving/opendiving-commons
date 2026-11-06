@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9006149a-2928-5774-8527-6e9126329fbe",
     "name": "Chrisoula K",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

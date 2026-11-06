@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "64abe5b8-22cf-53d7-a9a2-785e047526db",
     "name": "Sligo (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

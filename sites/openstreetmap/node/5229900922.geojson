@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "58da8ee6-5db4-5830-8284-1340038ccc59",
     "name": "Down Under Diving",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cfd88eb7-2363-59e6-a6c7-acd89aa030c0",
     "name": "Hausriff Zabargad Beach Resort",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c2b79723-15dd-5b68-8d9e-e79cf07d1a90",
     "name": "SS Oakburn",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

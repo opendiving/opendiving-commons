@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "33251c55-19f5-58e5-a5d8-dd83bc57775a",
     "name": "Jetski Lagoon",
+    "location": {
+      "name": "Banten, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

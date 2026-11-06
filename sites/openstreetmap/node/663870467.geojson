@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5d675ee2-adfa-53eb-9ad5-83e86397b0e5",
     "name": "Blindsee",
+    "location": {
+      "name": "Tyrol, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "86d62a52-4ce6-58e5-9fb9-4c4412363394",
     "name": "Carantec Plongée",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

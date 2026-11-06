@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "238c534f-f845-569f-bf98-617916e5bceb",
     "name": "Pierre fendue",
+    "location": {
+      "name": "Bouches-du-Rhône, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

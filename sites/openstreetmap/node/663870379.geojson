@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0f94349f-7289-5c66-b2c1-088367544123",
     "name": "Brücke-Camping",
+    "location": {
+      "name": "Thurgau, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

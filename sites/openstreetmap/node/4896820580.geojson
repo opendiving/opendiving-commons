@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b730cf9d-a424-5f2e-b2c9-4c2ad04bdbf0",
     "name": "Diving Centro Sub Cecina",
+    "location": {
+      "name": "Livorno, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

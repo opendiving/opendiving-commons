@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5ec799b8-3759-5a6a-9dd2-3384775463ab",
     "name": "Aquarium",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

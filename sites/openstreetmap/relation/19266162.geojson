@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "96f374e4-f28a-5ae4-85ee-873a6bc25081",
     "name": "Gamul Kebir",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

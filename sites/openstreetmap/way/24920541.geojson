@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "89a2deb7-b0bf-5e18-b8ae-dc337582bf82",
     "name": "Gildenburgh Water",
+    "location": {
+      "name": "Cambridgeshire, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

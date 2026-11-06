@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4db13bbb-29d8-59e7-82d9-9489a92ae3c9",
     "name": "Angel City",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

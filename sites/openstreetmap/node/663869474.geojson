@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b904f413-558a-5aa7-b443-d663587464d9",
     "name": "17 Fathom Wreck (Wrack)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

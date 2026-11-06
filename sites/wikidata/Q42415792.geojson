@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0cadf74e-aded-5fe3-9e84-aae7fbd949d6",
     "name": "Whittle Rock West Pinnacle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

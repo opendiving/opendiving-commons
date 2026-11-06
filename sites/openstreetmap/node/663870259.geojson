@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "099401ca-3738-5e8e-9f21-cd5c364efd0d",
     "name": "Bacheinlauf",
+    "location": {
+      "name": "St. Gallen, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

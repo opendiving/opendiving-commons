@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "074d5307-0024-5d41-b4bc-d6892109a978",
     "name": "Windmill Beach",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

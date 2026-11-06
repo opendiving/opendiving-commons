@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b83cadda-b275-5bb8-84b2-ae0f4673c1a2",
     "name": "Bergum",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

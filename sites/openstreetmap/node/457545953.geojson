@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ecf2a38d-77c7-5717-823f-36d95c2c771a",
     "name": "Katedrale",
+    "location": {
+      "name": "Vest-Agder, Norway"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

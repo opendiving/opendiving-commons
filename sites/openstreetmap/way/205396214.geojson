@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "825a1d36-11ba-5bca-9431-c03ee0b6df79",
     "name": "Hainbergsee",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

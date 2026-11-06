@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "0babfd0c-7549-5b66-b6c5-e3f1932fa0a7",
     "name": "Oil Slick Leap",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

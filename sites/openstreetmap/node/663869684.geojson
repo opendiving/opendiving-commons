@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "00168aff-7292-5c7c-9eed-538449dc46e5",
     "name": "Massa d'Or (la Rata)",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

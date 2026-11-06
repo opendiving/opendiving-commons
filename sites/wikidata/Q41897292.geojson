@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "ce86b74a-9cae-5e70-9641-c7fbb123177e",
     "name": "Roman's Rest",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b15afa9a-134e-59cb-8057-cb8f911b3407",
     "name": "Exit",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

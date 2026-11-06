@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "87169a3f-e7af-5203-b902-30681eef0eec",
     "name": "Punta dell'Altare",
+    "location": {
+      "name": "Liguria, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

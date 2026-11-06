@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "f0346c69-7e26-5f05-8b5f-03d748c40c41",
     "name": "La virgule",
+    "location": {
+      "name": "Windward Islands, French Polynesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

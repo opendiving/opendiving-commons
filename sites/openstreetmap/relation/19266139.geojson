@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a84b592e-8581-5d43-b627-eb623975a59c",
     "name": "Tobia Soraya",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

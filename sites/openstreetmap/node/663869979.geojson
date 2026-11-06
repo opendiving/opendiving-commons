@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "6ff645c9-59dc-5d3d-9709-2c5edf1e675e",
     "name": "Lac Léman-Rivaz Gare",
+    "location": {
+      "name": "Vaud, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

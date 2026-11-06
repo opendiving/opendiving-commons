@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a5b3fbf9-ff47-5f96-9ef1-c47bdf078629",
     "name": "The Pipeline",
+    "location": {
+      "name": "New South Wales, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

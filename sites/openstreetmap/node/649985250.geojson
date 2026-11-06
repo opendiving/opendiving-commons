@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "d7b49d2e-66e6-5510-b517-8973f02b4f53",
     "name": "Duncan's Wreck",
+    "location": {
+      "name": "Andaman and Nicobar Islands, India"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

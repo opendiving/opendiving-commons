@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2e3fa6e1-46d3-59cb-8c08-be4a7beda059",
     "name": "Cogon",
+    "location": {
+      "name": "Negros Oriental, Philippines"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

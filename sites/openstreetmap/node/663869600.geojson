@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9877a7c9-1bf6-5ec7-b3ea-f806f6c69732",
     "name": "City of London",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

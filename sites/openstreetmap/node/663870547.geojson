@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "80bfa1b9-b428-5255-bd3f-0ae95ece8fa5",
     "name": "Bleibtreusee",
+    "location": {
+      "name": "North Rhine-Westphalia, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

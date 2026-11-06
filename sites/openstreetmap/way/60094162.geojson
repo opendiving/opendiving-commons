@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3247021f-d94f-57cb-930b-e0442df0d678",
     "name": "Heidesee",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

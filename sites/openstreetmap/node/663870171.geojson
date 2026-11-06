@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a3776b80-fd94-5c6b-8e08-80a2609be397",
     "name": "Oberhalb Brontallo",
+    "location": {
+      "name": "Ticino, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

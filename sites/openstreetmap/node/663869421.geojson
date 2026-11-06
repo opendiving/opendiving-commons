@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "2b11e6f3-38a9-5c45-bbc1-52331a047f64",
     "name": "Playa Funchi",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

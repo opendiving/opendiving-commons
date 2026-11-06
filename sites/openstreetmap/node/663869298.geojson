@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "de3c657f-8d69-5dbd-b801-43cee63c0c72",
     "name": "Dyer Rocks",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

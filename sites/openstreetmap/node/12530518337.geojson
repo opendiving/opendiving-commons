@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "79bc0b2d-15c0-55de-9cef-c6cc4c150bfa",
     "name": "Flugzeugwrack Piper",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

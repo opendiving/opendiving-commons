@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "1d4a55e2-858d-5c14-bea0-026c5c88cfd0",
     "name": "Pressegger See",
+    "location": {
+      "name": "Carinthia, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

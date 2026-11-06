@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fa38fc56-b8e8-5e36-b623-39c0f34f824c",
     "name": "Tanjung Loh Sera dive site",
+    "location": {
+      "name": "East Nusa Tenggara, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

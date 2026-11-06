@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cace25d0-a446-5338-9948-083c166f63c5",
     "name": "Wraysbury",
+    "location": {
+      "name": "Slough, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

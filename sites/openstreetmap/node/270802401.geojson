@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "686bdb75-e28e-5688-b8af-25b64b0eb5dc",
     "name": "Lighthouse Bommie",
+    "location": {
+      "name": "Queensland, Australia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

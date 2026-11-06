@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a2fa7d8a-44dd-5a41-8902-cdf51ff217e1",
     "name": "The Jambles",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

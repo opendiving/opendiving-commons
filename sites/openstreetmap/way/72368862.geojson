@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "89808931-c5a9-5129-aff5-0c28b0d50abd",
     "name": "Lac d'Alfeld",
+    "location": {
+      "name": "Haut-Rhin, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

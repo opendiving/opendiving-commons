@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "345f8970-2158-560f-b996-d4a24e40381a",
     "name": "Pelleteuse",
+    "location": {
+      "name": "Pyrénées-Orientales, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

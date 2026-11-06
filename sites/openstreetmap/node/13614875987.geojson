@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "78ce7ca7-8d7c-5a90-ad2d-cfad15e56fe9",
     "name": "Il-Qawra",
+    "location": {
+      "name": "Saint Lawrence, Malta"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

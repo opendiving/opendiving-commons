@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c3b82365-000a-5da0-87fe-da990bc23fa1",
     "name": "Sisikon",
+    "location": {
+      "name": "Uri, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

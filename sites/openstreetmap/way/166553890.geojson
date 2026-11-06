@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "bba25454-41b4-5e70-b0d5-ee2f7b768d0f",
     "name": "John D MacArthur Beach State Park",
+    "location": {
+      "name": "Florida, United States of America"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

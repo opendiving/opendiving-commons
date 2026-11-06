@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e6826e28-5ce4-5e1d-bcd8-a36c375665b4",
     "name": "Embudu Finolhu Outside",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

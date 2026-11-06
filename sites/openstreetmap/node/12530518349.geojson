@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b8e84740-8c20-5f9a-a186-acc966157df1",
     "name": "Förderband",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

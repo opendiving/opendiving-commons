@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "34f19c23-8c2d-55b2-8204-aeb839889e4d",
     "name": "Rastplatz",
+    "location": {
+      "name": "Glarus, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "21b18f06-c0c2-5d5f-9b2a-4b0439678982",
     "name": "Steinwand",
+    "location": {
+      "name": "Upper Austria, Austria"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

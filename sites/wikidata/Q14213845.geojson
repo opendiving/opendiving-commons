@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b33343ef-2a2f-5885-9241-4e7c122e2512",
     "name": "Photographer's Reef",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

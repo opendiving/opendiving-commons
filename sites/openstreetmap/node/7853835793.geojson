@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3aa12aa9-400e-59d2-b894-a7832950f03c",
     "name": "Aber Wrac'h Plongée",
+    "location": {
+      "name": "Finistère, France"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

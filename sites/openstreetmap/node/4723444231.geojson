@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "30155a83-3402-5e21-926f-08258eeb421f",
     "name": "Gili Tepekong North",
+    "location": {
+      "name": "Bali, Indonesia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

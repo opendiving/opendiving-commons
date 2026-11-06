@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "a7c6d4ce-4a7a-55a8-96c5-57ddfba19ca0",
     "name": "Johnstone Reef",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

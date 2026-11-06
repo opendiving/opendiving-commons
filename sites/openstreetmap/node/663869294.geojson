@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "902a4ba8-4d7b-5723-bb6d-0bb6f9e76059",
     "name": "Senanus Island",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

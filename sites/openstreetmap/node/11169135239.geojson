@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "5107e4c1-e47c-51f0-b394-133daaafdab1",
     "name": "Kapal Polis",
+    "location": {
+      "name": "Terengganu, Malaysia"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

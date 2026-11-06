@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "57932d69-f3d4-5f5e-a520-8de76e8767cd",
     "name": "Fanous East",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

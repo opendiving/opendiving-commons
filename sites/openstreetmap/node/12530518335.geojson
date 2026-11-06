@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "9ce3e881-5c88-5b47-a0b1-3623a531ce3a",
     "name": "Holztreppe",
+    "location": {
+      "name": "Lower Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

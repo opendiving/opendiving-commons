@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "e4641d93-a245-5d99-8a11-41e17fb97b81",
     "name": "Riaan and Sven's anchor",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

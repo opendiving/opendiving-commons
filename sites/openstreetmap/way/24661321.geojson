@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "986289b4-56fa-5109-9549-bd3bbda27e55",
     "name": "Friedberger Baggersee",
+    "location": {
+      "name": "Bavaria, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

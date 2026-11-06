@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "83d577bd-c242-572f-a9e9-f128d776d670",
     "name": "Hidden Beach (unmarked site)",
+    "location": {
+      "name": "Bonaire, Netherlands"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

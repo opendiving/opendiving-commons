@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "893e524d-954d-56ad-b979-3ff6924a2dda",
     "name": "Dale Brook",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

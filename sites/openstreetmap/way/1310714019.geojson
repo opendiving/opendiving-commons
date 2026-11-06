@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "cfa01ad5-b90e-573e-8282-6cc65149520d",
     "name": "Furió d'Aigua Xelida",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

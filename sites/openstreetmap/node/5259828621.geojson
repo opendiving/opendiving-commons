@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "687b05b3-5a04-59bd-9329-42749e5fcae1",
     "name": "Shaab Pinky",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

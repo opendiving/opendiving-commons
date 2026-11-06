@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "82a7428f-dcff-5d0d-8ec8-3df8174f38cf",
     "name": "Daharat Abida",
+    "location": {
+      "name": "Red Sea, Sudan"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

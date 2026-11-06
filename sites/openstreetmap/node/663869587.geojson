@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3e304a7c-6b0e-5c46-9b6c-fa989702c562",
     "name": "Clan Macmillan",
+    "location": {
+      "name": "Brighton and Hove, United Kingdom"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

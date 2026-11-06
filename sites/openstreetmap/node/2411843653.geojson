@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "b277b592-d0ca-53f8-957c-159038052541",
     "name": "Secche di Tor Paterno",
+    "location": {
+      "name": "Rome, Italy"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "69758522-6898-56c8-9859-42e7a9421bee",
     "name": "Rannalhi Kuda Giri",
+    "location": {
+      "name": "Kaafu Atoll, Maldives"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

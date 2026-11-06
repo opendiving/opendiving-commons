@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "fb6c3f5f-d31e-58f1-9f4d-aa3092f05065",
     "name": "Steinbruch Sparmann",
+    "location": {
+      "name": "Saxony, Germany"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

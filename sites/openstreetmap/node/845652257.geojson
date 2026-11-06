@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "4fd408c3-2c61-5910-b15b-454d8cf7677b",
     "name": "Matterhorn",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

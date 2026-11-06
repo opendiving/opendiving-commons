@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "98cdcb13-ca0c-5c87-8f6a-ea16a4eed300",
     "name": "Tüscherz Bahnhof",
+    "location": {
+      "name": "Bern, Switzerland"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

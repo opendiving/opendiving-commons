@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "3b09c860-2927-5a03-a0f1-0f69c376b2d9",
     "name": "Illa Negra",
+    "location": {
+      "name": "Girona, Spain"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

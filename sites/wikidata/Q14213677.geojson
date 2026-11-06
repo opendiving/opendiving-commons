@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "75349c31-2f6e-59df-a19b-368735dfbf77",
     "name": "13th Apostle",
+    "location": {
+      "name": "Western Cape, South Africa"
+    },
     "external_ids": [
       {
         "registry": "wikidata",

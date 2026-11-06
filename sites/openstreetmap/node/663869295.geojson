@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "7ccfcb47-b74d-5f95-8318-040f8d176e8a",
     "name": "Henderson Point",
+    "location": {
+      "name": "British Columbia, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",

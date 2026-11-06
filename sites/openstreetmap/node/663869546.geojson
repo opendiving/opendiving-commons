@@ -10,6 +10,9 @@
   "properties": {
     "uuid": "c25e7df2-b3a5-5d08-abe4-c90fc018f8d6",
     "name": "Philo Scoville (Wreck)",
+    "location": {
+      "name": "Ontario, Canada"
+    },
     "external_ids": [
       {
         "registry": "openstreetmap",
