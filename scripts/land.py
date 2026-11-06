@@ -9,8 +9,10 @@ that writes, `GITHUB_TOKEN`, the workflow's own that reads the checks, and `GITH
 `git commit` is signed by nobody, while a commit the App creates with no author, committer or
 signature of its own is verified by GitHub.
 
-**It is one tree whose entries carry their contents inline.** The first publish touches thousands
-of files, and a blob per file would run into GitHub's cap on content-generating requests.
+**Its tree is built in chunks whose entries carry their contents inline, each on the last through
+`base_tree`.** The first publish touches thousands of files: a blob per file would run into GitHub's
+cap on content-generating requests, and a single tree of them times out with a 422. A chunk that
+fails stops the run before the commit exists, so nothing lands.
 
 **A red check fails the run and leaves the pull request open.** The next run commits to the same
 branch, which updates that pull request. A run with nothing to land closes it, since whatever
@@ -39,6 +41,10 @@ BASE = "main"
 # The `main` ruleset's required checks. The repository has auto-merge off, so waiting on them
 # is this script's job.
 REQUIRED_CHECKS = ("validate", "semantic-title")
+
+# GitHub timed out on a tree of about 3,665 files, 2 to 3 MB, after some 10 seconds. This keeps a
+# request well inside that and a first publish at a dozen or so.
+_TREE_CHUNK_FILES = 300
 
 _REQUEST_TIMEOUT_SECONDS = 120
 _ATTEMPTS = 3
@@ -119,9 +125,11 @@ def changed_files(path: str, root: Path = ROOT) -> dict[str, str]:
 def commit(github: Api, branch: str, message: str, files: dict[str, str]) -> str:
     """One commit on top of `main` holding `files`, with `branch` moved to it. Its sha."""
     parent = github.request("GET", f"git/ref/heads/{BASE}")["object"]["sha"]
-    base_tree = github.request("GET", f"git/commits/{parent}")["tree"]["sha"]
+    tree = github.request("GET", f"git/commits/{parent}")["tree"]["sha"]
     entries = [{"path": path, "mode": "100644", "type": "blob", "content": text} for path, text in files.items()]
-    tree = github.request("POST", "git/trees", {"base_tree": base_tree, "tree": entries})["sha"]
+    for start in range(0, len(entries), _TREE_CHUNK_FILES):
+        chunk = entries[start : start + _TREE_CHUNK_FILES]
+        tree = github.request("POST", "git/trees", {"base_tree": tree, "tree": chunk})["sha"]
     sha = github.request("POST", "git/commits", {"message": message, "tree": tree, "parents": [parent]})["sha"]
     try:
         github.request("GET", f"git/ref/heads/{branch}")
