@@ -2,10 +2,6 @@ name: Validate
 
 on:
   pull_request:
-    # `edited` re-runs the check when a contributor ticks the attestation in the description;
-    # GitHub's default types leave it out. `synchronize` is what lets `validate` be a required
-    # check: one has to have passed on the pull request's latest head.
-    types: [opened, edited, reopened, synchronize]
 
 # Read-only, and on a fork it could be nothing else: the output is a job summary and
 # annotations, never a comment, so no run here needs a write token or `pull_request_target`.
@@ -19,11 +15,8 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      # The merge commit GitHub builds for the pull request, and its first parent - the base
-      # branch as it stands - so `HEAD^1..HEAD` is exactly what merging would change.
       - uses: actions/checkout@v7
         with:
-          fetch-depth: 2
           persist-credentials: false
 
       - uses: actions/setup-python@v7
@@ -32,28 +25,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      # Fails on a broken record, and on a contribution whose description lacks the
-      # attestation, ticked. Nothing else fails this job.
       - name: The record rules
-        run: python scripts/validate.py --base HEAD^1 --event "$GITHUB_EVENT_PATH"
+        run: python scripts/validate.py
 
-      # Advisory: it exits zero whatever it finds. It runs even when the rules fail, because
-      # the nearest records are what a contributor fixing a position wants to see.
-      - name: Possible duplicates
-        if: ${{ !cancelled() }}
-        env:
-          DEDUP_HEAD_REPOSITORY: ${{ github.event.pull_request.head.repo.full_name }}
-          DEDUP_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-        run: python scripts/dedup.py --base HEAD^1
-
-  # Not a required check, so a contribution never waits on it. A job cannot carry a path
-  # filter of its own, and a workflow-level one would skip `validate` too, so the job reads
-  # the changed paths itself and passes without running anything when no code changed.
+  # Not a required check, so a publish never waits on it. A job cannot carry a path filter of
+  # its own, and a workflow-level one would skip `validate` too, so the job reads the changed
+  # paths itself and passes without running anything when no code changed.
   #
-  # A change to a seed counts as code here: the suite pins the seed count, and a merge or a
-  # takedown that deletes a seed has to move the pin in the same pull request rather than
-  # leave it for the next one that touches the scripts. A contribution only ever adds under
-  # `sites/opendivingcommons/`, so it still skips.
+  # A change to a seed counts as code here, because the suite pins the seed count. A publish
+  # holding only contributions touches `sites/opendivingcommons/` alone, so it skips.
   tests:
     runs-on: ubuntu-latest
     steps:

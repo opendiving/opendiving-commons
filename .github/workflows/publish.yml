@@ -1,0 +1,106 @@
+name: Publish
+
+# Brings `sites/` in line with what the hosted instance serves. `scripts/publish.py` writes the
+# working tree and `scripts/land.py` commits it; DECISIONS.md has the reasons.
+#
+# ## What this needs from outside the repository
+#
+# A GitHub App installed on this repository alone, with Contents and Pull requests read and
+# write and nothing else. Its token is why this works at all: a pull request opened with this
+# workflow's own token would start no workflow, so `validate` and `semantic-title` would never
+# report. Then, on this repository:
+#
+#   COMMONS_PUBLISHER_CLIENT_ID    a repository **variable** - the App's Client ID
+#   COMMONS_PUBLISHER_PRIVATE_KEY  a repository **secret**   - the App's private key, whole .pem
+on:
+  schedule:
+    - cron: "41 4 * * *"
+  workflow_dispatch:
+
+# Two runs would commit to the same branch. Queued rather than cancelled: a cancelled run can
+# leave a pull request open that nothing is waiting on.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+# `checks: read` is the whole of what this token is for: the App holds Contents and Pull requests
+# and cannot read a check run. Every write goes through the App's token.
+permissions:
+  contents: read
+  checks: read
+
+jobs:
+  publish:
+    # Skipped rather than failed while the App does not exist, so a schedule with nothing to run
+    # with is not a daily red run. A person dispatching it hears why instead, from the step below.
+    if: ${{ vars.COMMONS_PUBLISHER_CLIENT_ID != '' || github.event_name == 'workflow_dispatch' }}
+
+    runs-on: ubuntu-latest
+
+    # Above `land.py`'s two 20-minute waits, so that its message is what a stuck run ends with.
+    timeout-minutes: 60
+
+    steps:
+      - name: A publish runs the workflow that is on `main`
+        if: ${{ github.ref != 'refs/heads/main' }}
+        env:
+          REF: ${{ github.ref }}
+        run: |
+          echo "::error::dispatched from $REF: a branch's scripts would write to main. Dispatch from main."
+          exit 1
+
+      - name: The publisher's credentials are configured
+        env:
+          CLIENT_ID: ${{ vars.COMMONS_PUBLISHER_CLIENT_ID }}
+          PRIVATE_KEY: ${{ secrets.COMMONS_PUBLISHER_PRIVATE_KEY }}
+        run: |
+          missing=""
+          [ -n "$CLIENT_ID" ] || missing="$missing COMMONS_PUBLISHER_CLIENT_ID (repository variable)"
+          [ -n "$PRIVATE_KEY" ] || missing="$missing COMMONS_PUBLISHER_PRIVATE_KEY (repository secret)"
+          if [ -n "$missing" ]; then
+            echo "::error::not configured:$missing - the header of this workflow says what the App is"
+            exit 1
+          fi
+
+      - name: Mint a token for the publisher
+        id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.COMMONS_PUBLISHER_CLIENT_ID }}
+          private-key: ${{ secrets.COMMONS_PUBLISHER_PRIVATE_KEY }}
+
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.15"
+
+      - name: Bring the tree in line with the export
+        id: tree
+        run: python scripts/publish.py
+
+      # Before the publish, and in a pull request of its own: a publish that is red for weeks
+      # must not stop the repository staying active. It lands nothing unless a stamp was written.
+      - name: Land the stamp
+        env:
+          PUBLISHER_TOKEN: ${{ steps.app.outputs.token }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/land.py --path published.json --branch publish/stamp --title "chore: stamp the published copy"
+
+      - name: Land the records
+        id: records
+        if: ${{ !cancelled() && steps.tree.outcome == 'success' }}
+        env:
+          PUBLISHER_TOKEN: ${{ steps.app.outputs.token }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/land.py --path sites --branch publish/sites --title "chore(sites): publish the records the instance holds"
+
+      # The job summary a pull request's `validate` writes is on that run. This one is the alarm,
+      # so it says the same; the tree here is the tree in the pull request.
+      - name: Name the broken records
+        if: ${{ failure() && steps.records.outcome == 'failure' }}
+        run: |
+          pip install -r requirements.txt
+          python scripts/validate.py

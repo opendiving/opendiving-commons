@@ -23,48 +23,11 @@ jobs:
   semantic-title:
     runs-on: ubuntu-latest
 
-    # Nothing is checked out. The title arrives in the event payload; the one
-    # API call lists the changed files for the exemption below, which a fork's
-    # read-only token can do. Labelling needs write access, which is why it is a
-    # separate job rather than a step here.
-    permissions:
-      pull-requests: read
-
-    outputs:
-      contribution: ${{ steps.paths.outputs.contribution }}
+    # Nothing is checked out and nothing is called: the title arrives in the event payload.
+    # Labelling needs write access, which is why it is a separate job rather than a step here.
+    permissions: {}
 
     steps:
-      # A contribution - every changed file under `sites/` - passes with its
-      # title unexamined: the title is the commit message GitHub asked a diver
-      # for, and nobody sharing a dive site writes `feat(sites): ...`. It is a
-      # step rather than a path filter because the ruleset requires this job's
-      # context by name, and a check a filter skips never reports.
-      #
-      # The list is compared against the payload's `changed_files` because the
-      # files API stops at 3,000: a longer pull request is held to the title
-      # rather than judged on a partial list. Any failure to read it does the
-      # same.
-      - name: Is this a contribution?
-        id: paths
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          PR: ${{ github.event.pull_request.number }}
-          CHANGED: ${{ github.event.pull_request.changed_files }}
-        run: |
-          if files=$(gh api --paginate "repos/$GH_REPO/pulls/$PR/files" --jq '.[].filename'); then
-            listed=$(printf '%s' "$files" | grep -c . || true)
-            outside=$(printf '%s' "$files" | grep -vc '^sites/' || true)
-            if [ "$listed" -gt 0 ] && [ "$listed" -eq "$CHANGED" ] && [ "$outside" -eq 0 ]; then
-              echo "Every changed file is under sites/: a contribution, title not checked."
-              echo "contribution=true" >> "$GITHUB_OUTPUT"
-              exit 0
-            fi
-          else
-            echo "::warning::Could not list the changed files; checking the title."
-          fi
-          echo "contribution=false" >> "$GITHUB_OUTPUT"
-
       # PRs here are squash-merged, so this title becomes the commit subject on
       # `main`. It is the only part of a branch that outlives the branch, which
       # is why it is checked and the individual commits are not.
@@ -74,7 +37,6 @@ jobs:
       # is substituted before bash parses the line, so a title containing
       # backticks or `$(...)` would execute as shell.
       - name: Check title is a conventional commit subject
-        if: steps.paths.outputs.contribution != 'true'
         env:
           TITLE: ${{ github.event.pull_request.title }}
         run: |
@@ -105,17 +67,11 @@ jobs:
     needs: semantic-title
 
     # A fork's `GITHUB_TOKEN` is read-only whatever a workflow asks for, so this
-    # would fail on every external contribution. Skipping it there is why it is
+    # would fail on every outside PR. Skipping it there is why it is
     # its own job: the title check above is the *required* one, and a red X on
     # every outside PR is the last thing this repository needs the week it goes
     # public. Fork PRs get labelled by hand, or by a maintainer retitling them.
-    #
-    # A contribution skips it too, from any repository: its title was never
-    # checked, so there is no type to read out of it - and a maintainer's merge
-    # or coarsening pushed from a branch here would otherwise fail below.
-    if: >-
-      github.event.pull_request.head.repo.full_name == github.repository
-      && needs.semantic-title.outputs.contribution != 'true'
+    if: github.event.pull_request.head.repo.full_name == github.repository
 
     runs-on: ubuntu-latest
 
