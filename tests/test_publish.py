@@ -52,6 +52,26 @@ def _contribution() -> dict:
     }
 
 
+def _curated() -> dict:
+    token, identifier = "fwc-artificial-reefs", "BA0001"
+    return {
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-81.2, 24.5]},
+        "properties": {
+            "uuid": seed_uuid(token, identifier),
+            "name": "USS Vandenberg",
+            "extensions": {
+                "opendivingcommons": {
+                    "source": token,
+                    "license": "LicenseRef-FWC-PD",
+                    "retrieved": "2026-11-06",
+                    "seeded_from": {"registry": token, "identifier": identifier},
+                }
+            },
+        },
+    }
+
+
 def _collection(*features: dict) -> dict:
     return {"type": "FeatureCollection", "licence": "ODbL 1.0", "features": list(features)}
 
@@ -69,10 +89,15 @@ class TestWhereARecordGoes:
     def test_a_contribution_goes_under_the_pools_own_directory_by_its_uuid(self):
         assert publish.record_path(_contribution()) == CONTRIBUTION_PATH
 
+    def test_a_curated_record_goes_where_its_provenance_says(self):
+        assert publish.record_path(_curated()) == "sites/fwc-artificial-reefs/BA0001.geojson"
+
     @pytest.mark.parametrize(
         "seeded_from",
         [
             {"registry": "openstreetmap", "identifier": "../../../.github/workflows/publish"},
+            {"registry": "fwc-artificial-reefs", "identifier": "../../../.github/workflows/publish"},
+            {"registry": "noaa-florida-keys-moorings", "identifier": "french-reef\n"},
             {"registry": "../.github", "identifier": "Q1"},
             {"registry": "openstreetmap", "identifier": "node/1\n"},
             {"registry": "somewhere", "identifier": "Q1"},

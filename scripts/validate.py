@@ -27,9 +27,25 @@ from typing import Any
 from divejson import SPEC_VERSION
 from divejson.validate import parse_document, validate_document
 
-from pool import REGISTRY, ROOT, SOURCE_OF_REGISTRY, identity_of, seed_uuid, site_files
+from pool import (
+    CURATED_SOURCES,
+    ENTRY_REGISTRIES,
+    REGISTRY,
+    ROOT,
+    SOURCE_OF_REGISTRY,
+    identity_of,
+    seed_uuid,
+    site_files,
+)
 
-LICENCE_OF_SOURCE = {"openstreetmap": "ODbL-1.0", "wikidata": "CC0-1.0", "contribution": "CC0-1.0"}
+LICENCE_OF_SOURCE = {
+    "openstreetmap": "ODbL-1.0",
+    "wikidata": "CC0-1.0",
+    "contribution": "CC0-1.0",
+    "noaa-florida-keys-moorings": "LicenseRef-US-Gov-PD",
+    "noaa-thunder-bay-moorings": "LicenseRef-US-Gov-PD",
+    "fwc-artificial-reefs": "LicenseRef-FWC-PD",
+}
 
 # What a record may carry: the identity and the structured facts, never what a diver writes
 # for themself - `notes`, `tags`, `created_at` - and never `position`, which the geometry is.
@@ -58,7 +74,8 @@ _SUMMARY_LINES = 200
 
 NOT_A_RECORD_PATH = (
     "not a record path: records live at sites/openstreetmap/<node|way|relation>/<id>.geojson, "
-    f"sites/wikidata/<Q-id>.geojson or sites/{REGISTRY}/<uuid>.geojson"
+    f"sites/wikidata/<Q-id>.geojson, sites/{REGISTRY}/<uuid>.geojson "
+    "or sites/<curated source>/<identifier>.geojson"
 )
 
 
@@ -195,8 +212,10 @@ def record_errors(path: str, feature: Any) -> list[str]:
         if isinstance(entries, list)
         else []
     )
-    if registry != REGISTRY and (registry, identifier) not in pairs:
+    if registry in ENTRY_REGISTRIES and (registry, identifier) not in pairs:
         errors.append(f"a seed carries the entry its path names, {{{registry}, {identifier}}}, in external_ids")
+    for curated in sorted({entry_registry for entry_registry, _ in pairs if entry_registry in CURATED_SOURCES}):
+        errors.append(f"external_ids names {curated}, a curated source; its identifier is in seeded_from alone")
     if (REGISTRY, record_uuid) in pairs:
         errors.append("external_ids names this record's own uuid")
     return errors
