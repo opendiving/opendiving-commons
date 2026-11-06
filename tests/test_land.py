@@ -23,6 +23,7 @@ class FakeGitHub:
         self.open_pulls = open_pulls or []
         self.checks: list[list[dict[str, Any]]] = [[_passed("validate"), _passed("semantic-title")]]
         self.merge_answers: list[int] = []
+        self.failing_tree: int | None = None
         self.calls: list[tuple[str, str, Any]] = []
 
     def request(self, method: str, path: str, body: Any = None) -> Any:
@@ -36,7 +37,10 @@ class FakeGitHub:
         if path == "git/commits/main-sha":
             return {"tree": {"sha": "main-tree"}}
         if path == "git/trees":
-            return {"sha": "new-tree"}
+            number = len(self.made("POST", "git/trees"))
+            if number == self.failing_tree:
+                raise land.GitHubError(422, "Sorry, your request timed out.")
+            return {"sha": f"tree-{number}"}
         if path == "git/commits":
             return {"sha": "new-sha"}
         if path.startswith("pulls?"):
@@ -57,6 +61,10 @@ def _passed(name: str) -> dict[str, Any]:
     return {"name": name, "status": "completed", "conclusion": "success"}
 
 
+def _files(count: int) -> dict[str, str]:
+    return {f"sites/wikidata/Q{n}.geojson": "{}\n" for n in range(1, count + 1)}
+
+
 def _land(github: FakeGitHub, files: dict[str, str] = FILES) -> None:
     land.land(github, github, branch=BRANCH, title=TITLE, files=files, sleep=lambda seconds: None)
 
@@ -74,20 +82,58 @@ class TestTheCommit:
             }
         ]
 
-    def test_its_request_count_does_not_grow_with_the_files(self):
-        few, many = FakeGitHub(), FakeGitHub()
+    def test_a_change_of_exactly_one_chunk_is_still_one_tree(self):
+        github = FakeGitHub()
 
-        _land(few, {"sites/wikidata/Q1.geojson": "{}\n"})
-        _land(many, {f"sites/wikidata/Q{n}.geojson": "{}\n" for n in range(1, 5000)})
+        _land(github, _files(land._TREE_CHUNK_FILES))
 
-        assert len(few.calls) == len(many.calls)
+        assert len(github.made("POST", "git/trees")) == 1
+
+    def test_a_larger_change_lands_in_chunks_each_on_the_last(self):
+        github = FakeGitHub()
+        files = _files(land._TREE_CHUNK_FILES * 2 + 1)
+
+        _land(github, files)
+
+        trees = github.made("POST", "git/trees")
+        assert [tree["base_tree"] for tree in trees] == ["main-tree", "tree-1", "tree-2"]
+        assert [len(tree["tree"]) for tree in trees] == [land._TREE_CHUNK_FILES, land._TREE_CHUNK_FILES, 1]
+        assert [entry["path"] for tree in trees for entry in tree["tree"]] == list(files)
+
+    def test_a_larger_change_is_still_one_commit_and_one_pull_request(self):
+        github = FakeGitHub()
+
+        _land(github, _files(land._TREE_CHUNK_FILES * 2 + 1))
+
+        assert github.made("POST", "git/commits") == [{"message": TITLE, "tree": "tree-3", "parents": ["main-sha"]}]
+        assert len(github.made("POST", "pulls")) == 1
+
+    def test_a_first_publish_stays_far_below_the_cap_on_content_generating_requests(self):
+        github = FakeGitHub()
+
+        _land(github, _files(5000))
+
+        assert len(github.made("POST", "git/trees")) < 20
+
+    def test_a_chunk_that_fails_lands_nothing(self):
+        github = FakeGitHub(branch_exists=True)
+        github.failing_tree = 2
+
+        with pytest.raises(land.GitHubError):
+            _land(github, _files(land._TREE_CHUNK_FILES + 1))
+
+        assert len(github.made("POST", "git/trees")) == 2
+        assert github.made("POST", "git/commits") == []
+        assert github.made("POST", "git/refs") == []
+        assert github.made("PATCH", f"git/refs/heads/{BRANCH}") == []
+        assert github.made("POST", "pulls") == []
 
     def test_it_names_no_author_so_github_verifies_it(self):
         github = FakeGitHub()
 
         _land(github)
 
-        assert github.made("POST", "git/commits") == [{"message": TITLE, "tree": "new-tree", "parents": ["main-sha"]}]
+        assert github.made("POST", "git/commits") == [{"message": TITLE, "tree": "tree-1", "parents": ["main-sha"]}]
 
 
 class TestThePullRequest:
