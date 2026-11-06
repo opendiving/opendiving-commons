@@ -11,6 +11,12 @@ from pool import seed_uuid, serialise
 CONTRIBUTION_UUID = "8c0b6b3e-1f2a-4b3c-9d4e-5f6a7b8c9d0e"
 CONTRIBUTION_PATH = f"sites/opendivingcommons/{CONTRIBUTION_UUID}.geojson"
 SEED_PATH = "sites/openstreetmap/node/255316037.geojson"
+CURATED = [
+    ("noaa-florida-keys-moorings", "french-reef", "LicenseRef-US-Gov-PD"),
+    ("noaa-thunder-bay-moorings", "e-b-allen", "LicenseRef-US-Gov-PD"),
+    ("fwc-artificial-reefs", "BA0001", "LicenseRef-FWC-PD"),
+]
+KEYS_PATH = "sites/noaa-florida-keys-moorings/french-reef.geojson"
 
 
 def _seed() -> dict:
@@ -49,6 +55,31 @@ def _contribution() -> dict:
             "extensions": {"opendivingcommons": {"source": "contribution", "license": "CC0-1.0"}},
         },
     }
+
+
+def _curated(token: str, identifier: str, licence: str) -> dict:
+    return {
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-80.310306, 25.0401]},
+        "properties": {
+            "uuid": seed_uuid(token, identifier),
+            "name": "French Reef",
+            "depth_from": 7,
+            "depth_to": 16.8,
+            "extensions": {
+                "opendivingcommons": {
+                    "source": token,
+                    "license": licence,
+                    "retrieved": "2026-11-06",
+                    "seeded_from": {"registry": token, "identifier": identifier},
+                }
+            },
+        },
+    }
+
+
+def _keys_record() -> dict:
+    return _curated(*CURATED[0])
 
 
 def _errors(path: str, feature: dict) -> list[str]:
@@ -95,6 +126,15 @@ class TestThePath:
             "sites/opendivingcommons/8C0B6B3E-1F2A-4B3C-9D4E-5F6A7B8C9D0E.geojson",
             "sites/somewhere/x.geojson",
             "sites/README.md",
+            "sites/noaa-florida-keys-moorings/French-Reef.geojson",
+            "sites/noaa-florida-keys-moorings/french--reef.geojson",
+            "sites/noaa-florida-keys-moorings/-french-reef.geojson",
+            "sites/noaa-florida-keys-moorings/french-reef-.geojson",
+            "sites/noaa-thunder-bay-moorings/e_b_allen.geojson",
+            "sites/noaa-thunder-bay-moorings/e/b/allen.geojson",
+            "sites/fwc-artificial-reefs/ba0001.geojson",
+            "sites/fwc-artificial-reefs/BA001.geojson",
+            "sites/fwc-artificial-reefs/BAA0001.geojson",
         ],
     )
     def test_a_file_off_the_record_paths_is_refused(self, path: str):
@@ -117,6 +157,62 @@ class TestThePath:
         feature["properties"]["external_ids"] = [{"registry": "wikidata", "identifier": "Q1"}]
 
         assert any("the entry its path names" in error for error in _errors(SEED_PATH, feature))
+
+
+class TestACuratedSource:
+    @pytest.mark.parametrize(("token", "identifier", "licence"), CURATED)
+    def test_its_record_passes_both_halves(self, token: str, identifier: str, licence: str, tmp_path: Path):
+        path = f"sites/{token}/{identifier}.geojson"
+        root = _tree(tmp_path, {path: _curated(token, identifier, licence)})
+
+        assert dict(validate.validate([path], root).errors) == {}
+
+    @pytest.mark.parametrize(("token", "identifier", "licence"), CURATED)
+    def test_it_takes_its_own_source_and_licence(self, token: str, identifier: str, licence: str):
+        path = f"sites/{token}/{identifier}.geojson"
+        changes = [({"source": "openstreetmap"}, f"source {token!r}"), ({"license": "CC0-1.0"}, repr(licence))]
+        for change, fragment in changes:
+            feature = _curated(token, identifier, licence)
+            feature["properties"]["extensions"]["opendivingcommons"].update(change)
+
+            assert any(fragment in error for error in _errors(path, feature))
+
+    @pytest.mark.parametrize(
+        ("change", "fragment"),
+        [
+            ({"seeded_from": {"registry": "noaa-florida-keys-moorings", "identifier": "molasses-reef"}}, "seeded_from"),
+            ({"seeded_from": None}, "seeded_from"),
+            ({"retrieved": None}, "YYYY-MM-DD"),
+        ],
+    )
+    def test_it_keeps_a_seeds_provenance(self, change: dict, fragment: str):
+        feature = _keys_record()
+        feature["properties"]["extensions"]["opendivingcommons"].update(change)
+
+        assert any(fragment in error for error in _errors(KEYS_PATH, feature))
+
+    def test_its_uuid_is_a_seeds(self):
+        feature = _keys_record()
+        feature["properties"]["uuid"] = CONTRIBUTION_UUID
+
+        assert any("derived from its path" in error for error in _errors(KEYS_PATH, feature))
+
+    @pytest.mark.parametrize(
+        ("path", "make"), [(KEYS_PATH, _keys_record), (SEED_PATH, _seed), (CONTRIBUTION_PATH, _contribution)]
+    )
+    @pytest.mark.parametrize(("token", "identifier", "_licence"), CURATED)
+    def test_no_record_lists_a_curated_entry(self, path: str, make, token: str, identifier: str, _licence: str):
+        feature = make()
+        entries = feature["properties"].setdefault("external_ids", [])
+        entries.append({"registry": token, "identifier": identifier})
+
+        assert any("seeded_from alone" in error for error in _errors(path, feature))
+
+    def test_it_may_carry_an_entry_a_review_gave_it(self):
+        feature = _keys_record()
+        feature["properties"]["external_ids"] = [{"registry": "wikidata", "identifier": "Q1"}]
+
+        assert _errors(KEYS_PATH, feature) == []
 
 
 class TestTheGeometry:

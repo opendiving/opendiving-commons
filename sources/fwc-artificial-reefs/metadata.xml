@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <Esri>
+        <CreaDate>20220621</CreaDate>
+        <CreaTime>09542500</CreaTime>
+        <ArcGISFormat>1.0</ArcGISFormat>
+        <ModDate>20260513</ModDate>
+        <ModTime>18215200</ModTime>
+        <ArcGISProfile>FGDC</ArcGISProfile>
+        <DataProperties>
+            <itemProps>
+                <itemName Sync="FALSE">benthic_ArtificialReef_fl_point</itemName>
+                <nativeExtBox>
+                    <westBL Sync="TRUE">63879.550800</westBL>
+                    <eastBL Sync="TRUE">801385.494900</eastBL>
+                    <southBL Sync="TRUE">48148.005300</southBL>
+                    <northBL Sync="TRUE">747683.553500</northBL>
+                    <exTypeCode Sync="TRUE">1</exTypeCode>
+                </nativeExtBox>
+                <imsContentType Sync="TRUE" export="False">002</imsContentType>
+            </itemProps>
+            <coordRef>
+                <type Sync="TRUE">Projected</type>
+                <geogcsn Sync="TRUE">GCS_NAD_1983_2011</geogcsn>
+                <csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+                <projcsn Sync="TRUE">NAD_1983_2011_Florida_GDL_Albers</projcsn>
+                <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.3.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_2011_Florida_GDL_Albers&amp;quot;,GEOGCS[&amp;quot;GCS_NAD_1983_2011&amp;quot;,DATUM[&amp;quot;D_NAD_1983_2011&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Albers&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,400000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-84.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,24.0],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,31.5],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,24.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,6439]]&lt;/WKT&gt;&lt;XOrigin&gt;-19550100&lt;/XOrigin&gt;&lt;YOrigin&gt;-7526400&lt;/YOrigin&gt;&lt;XYScale&gt;10000&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;0&lt;/MOrigin&gt;&lt;MScale&gt;1&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102967&lt;/WKID&gt;&lt;LatestWKID&gt;6439&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+            </coordRef>
+        </DataProperties>
+        <SyncDate>20251010</SyncDate>
+        <SyncTime>17570600</SyncTime>
+        <ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+        <SyncOnce>FALSE</SyncOnce>
+        <scaleRange>
+            <minScale>150000000</minScale>
+            <maxScale>5000</maxScale>
+        </scaleRange>
+    </Esri>
+    <mdLang>
+        <languageCode value="eng"/>
+        <countryCode Sync="TRUE" value="USA"/>
+    </mdLang>
+    <mdChar>
+        <CharSetCd value="004"/>
+    </mdChar>
+    <mdHrLv>
+        <ScopeCd value="005"/>
+    </mdHrLv>
+    <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+    <mdContact>
+        <rpIndName>GISLibrarian</rpIndName>
+        <rpOrgName>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</rpOrgName>
+        <rpPosName>GIS Data Librarian</rpPosName>
+        <rpCntInfo>
+            <cntPhone>
+                <voiceNum tddtty="">727-896-8626</voiceNum>
+                <faxNum>727-893-1679</faxNum>
+            </cntPhone>
+            <cntAddress addressType="both">
+                <delPoint>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</delPoint>
+                <city>St. Petersburg</city>
+                <adminArea>Florida</adminArea>
+                <postCode>33701</postCode>
+                <eMailAdd>GISLibrarian@MyFWC.com</eMailAdd>
+            </cntAddress>
+        </rpCntInfo>
+        <role>
+            <RoleCd value="007"/>
+        </role>
+    </mdContact>
+    <mdDateSt Sync="FALSE">20250501</mdDateSt>
+    <mdStanName>ArcGIS Metadata</mdStanName>
+    <mdStanVer>1.0</mdStanVer>
+    <distInfo>
+        <distributor>
+            <distorCont>
+                <rpIndName>GISLibrarian</rpIndName>
+                <rpOrgName>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</rpOrgName>
+                <rpPosName>GIS Data Librarian</rpPosName>
+                <rpCntInfo>
+                    <cntPhone>
+                        <voiceNum tddtty="">727-896-8626</voiceNum>
+                        <faxNum>727-893-1679</faxNum>
+                    </cntPhone>
+                    <cntAddress addressType="both">
+                        <delPoint>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</delPoint>
+                        <city>St. Petersburg</city>
+                        <adminArea>Florida</adminArea>
+                        <postCode>33701</postCode>
+                        <eMailAdd>GISLibrarian@MyFWC.com</eMailAdd>
+                    </cntAddress>
+                </rpCntInfo>
+                <role>
+                    <RoleCd value="005"/>
+                </role>
+            </distorCont>
+            <distorOrdPrc>
+                <resFees units="">None. However, persons or organizations requesting information must provide transfer media if FTP is not available and must pay express shipping costs if express shipping is required.</resFees>
+                <ordInstr>Contact GIS Librarian by e-mail, telephone, or letter explaining which products are needed and providing a brief description of how the products will be used. Also, provide name and address of the person or organization requesting the products.</ordInstr>
+                <ordTurn>Usually within 10 business days, although, complex requests may take longer</ordTurn>
+            </distorOrdPrc>
+            <distorFormat>
+                <formatName>SHP</formatName>
+            </distorFormat>
+            <distorTran>
+                <onLineSrc>
+                    <orDesc>Downloadable Data. GIS data can be downloaded from http://geodata.myfwc.com Excel tabular data can be downloaded from the Artificial Reef Section's website: http://myfwc.com/conservation/saltwater/artificial-reefs/locate-reefs/</orDesc>
+                </onLineSrc>
+            </distorTran>
+        </distributor>
+        <distTranOps>
+            <onLineSrc>
+                <linkage>http://myfwc.com/conservation/saltwater/artificial-reefs/locate-reefs/</linkage>
+            </onLineSrc>
+            <onLineSrc>
+                <linkage>http://geodata.myfwc.com</linkage>
+            </onLineSrc>
+            <onLineSrc>
+                <linkage>https://gis.myfwc.com/data/zips/custom/artificial_reefs_gpx_depth.zip</linkage>
+                <orName>Zipped GPX File</orName>
+            </onLineSrc>
+        </distTranOps>
+        <distFormat>
+            <formatName Sync="TRUE">Enterprise Geodatabase Feature Class</formatName>
+        </distFormat>
+    </distInfo>
+    <dataIdInfo>
+        <idCitation>
+            <resTitle>Artificial Reef Locations in Florida</resTitle>
+            <date>
+                <pubDate time="unknown"/>
+            </date>
+            <citRespParty>
+                <rpOrgName>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</rpOrgName>
+                <role>
+                    <RoleCd value="006"/>
+                </role>
+            </citRespParty>
+            <citRespParty>
+                <rpOrgName>FWC, DMF</rpOrgName>
+                <rpCntInfo>
+                    <cntAddress addressType="">
+                        <delPoint>Tallahassee, FL</delPoint>
+                    </cntAddress>
+                </rpCntInfo>
+                <role>
+                    <RoleCd value="010"/>
+                </role>
+            </citRespParty>
+            <presForm>
+                <PresFormCd value="005"/>
+            </presForm>
+            <presForm>
+                <fgdcGeoform>vector digital data</fgdcGeoform>
+            </presForm>
+        </idCitation>
+        <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Encompassing 34 of 35 different coastal counties spread along 1,357 miles of ocean fronting coastline, Florida manages one of the most diverse, and most active artificial reef programs in the United States. As of May 2026, the FWC Artificial Reef Program reports over 4,548 artificial reef deployment locations state-wide. Artificial Reefs are about evenly divided between state and federal waters and range from 1 feet in depth to 511 feet (average depth 68 feet). Each point in this GIS data set represents a single deployment event (either a uniquely located artificial reef or deployments of the same reef on different days). Division of Marine Fisheries Management maintains and updates the source database. This data set represents deployments through May 7, 2026.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+        <idPurp>This data set is for display purposes only. Do not use it for navigation. Each point location is intended to represent a single deployment event, defined as either different location coordinates or the same coordinates but on different days. It is important to note that DMF has not independently confirmed most of the reef locations and this data had been supplied form various sources without verification.</idPurp>
+        <idCredit>FWC Division of Marine Fisheries Management</idCredit>
+        <idStatus>
+            <ProgCd value="001"/>
+        </idStatus>
+        <idPoC>
+            <rpIndName>Kieth Mille</rpIndName>
+            <rpOrgName>Florida Fish and Wildlife Conservation Commission-Division of Marine Fisheries Management</rpOrgName>
+            <rpCntInfo>
+                <cntPhone>
+                    <voiceNum tddtty="">(850) 617-9633</voiceNum>
+                </cntPhone>
+                <cntAddress addressType="postal">
+                    <delPoint>620 South Meridian Street, Box 4B2</delPoint>
+                    <city>Tallahassee</city>
+                    <adminArea>FL</adminArea>
+                    <postCode>32399</postCode>
+                    <eMailAdd>kieth.mille@MyFWC.com</eMailAdd>
+                </cntAddress>
+            </rpCntInfo>
+            <role>
+                <RoleCd value="007"/>
+            </role>
+        </idPoC>
+        <resMaint>
+            <maintFreq>
+                <MaintFreqCd value="011"/>
+            </maintFreq>
+        </resMaint>
+        <placeKeys>
+            <thesaName>
+                <resTitle>Water Management Districts</resTitle>
+            </thesaName>
+            <keyword>St. Johns River Water Management District</keyword>
+            <keyword>Southwest Florida Water Management District</keyword>
+            <keyword>Suwannee River Water Management District</keyword>
+            <keyword>Northwest Florida Water Management District</keyword>
+            <keyword>South Florida Water Management District</keyword>
+        </placeKeys>
+        <placeKeys>
+            <thesaName>
+                <resTitle>FWC Region</resTitle>
+            </thesaName>
+            <keyword>FWC Region-Northeast</keyword>
+            <keyword>FWC Region-South</keyword>
+            <keyword>FWC Region-Southwest</keyword>
+            <keyword>FWC Region-North Central</keyword>
+            <keyword>FWC Region-Northwest</keyword>
+        </placeKeys>
+        <placeKeys>
+            <thesaName>
+                <resTitle>FWRIplace</resTitle>
+            </thesaName>
+            <keyword>Estero Bay</keyword>
+            <keyword>northwest Florida</keyword>
+            <keyword>Charlotte Harbor</keyword>
+            <keyword>Florida Keys</keyword>
+            <keyword>Cape Canaveral National Seashore</keyword>
+            <keyword>statewide</keyword>
+            <keyword>west coast of Florida</keyword>
+            <keyword>northeast Florida</keyword>
+            <keyword>Big Bend</keyword>
+            <keyword>Florida Straits</keyword>
+            <keyword>Biscayne Bay</keyword>
+            <keyword>southwest Florida</keyword>
+            <keyword>south Florida</keyword>
+            <keyword>Atlantic Ocean</keyword>
+            <keyword>Florida</keyword>
+            <keyword>Tampa Bay</keyword>
+            <keyword>Gulf of America</keyword>
+            <keyword>southeast Florida</keyword>
+            <keyword>north Florida</keyword>
+            <keyword>east coast of Florida</keyword>
+            <keyword>Cedar Keys National Wildlife Refuge</keyword>
+        </placeKeys>
+        <placeKeys>
+            <thesaName>
+                <resTitle>Florida Waterbodies</resTitle>
+            </thesaName>
+            <keyword>Florida Bay</keyword>
+            <keyword>Atlantic Ocean</keyword>
+            <keyword>Gulf of America</keyword>
+        </placeKeys>
+        <themeKeys>
+            <thesaName>
+                <resTitle>ISO 19115 Topic Category</resTitle>
+            </thesaName>
+            <keyword>oceans</keyword>
+        </themeKeys>
+        <themeKeys>
+            <thesaName>
+                <resTitle>FWRItheme</resTitle>
+            </thesaName>
+            <keyword>GIS</keyword>
+            <keyword>marine</keyword>
+            <keyword>artificial reefs</keyword>
+            <keyword>habitat (rivers</keyword>
+            <keyword>estuaries</keyword>
+            <keyword>ecology</keyword>
+            <keyword>hard bottom)</keyword>
+            <keyword>benthic</keyword>
+            <keyword>mapping</keyword>
+        </themeKeys>
+        <searchKeys>
+            <keyword>FWC Region-Northeast</keyword>
+            <keyword>Estero Bay</keyword>
+            <keyword>GIS</keyword>
+            <keyword>northwest Florida</keyword>
+            <keyword>marine</keyword>
+            <keyword>oceans</keyword>
+            <keyword>Charlotte Harbor</keyword>
+            <keyword>Florida Keys</keyword>
+            <keyword>St. Johns River Water Management District</keyword>
+            <keyword>Cape Canaveral National Seashore</keyword>
+            <keyword>FWC Region-South</keyword>
+            <keyword>artificial reefs</keyword>
+            <keyword>habitat (rivers</keyword>
+            <keyword>estuaries</keyword>
+            <keyword>ecology</keyword>
+            <keyword>hard bottom)</keyword>
+            <keyword>FWC Region-Southwest</keyword>
+            <keyword>statewide</keyword>
+            <keyword>west coast of Florida</keyword>
+            <keyword>northeast Florida</keyword>
+            <keyword>Southwest Florida Water Management District</keyword>
+            <keyword>benthic</keyword>
+            <keyword>Big Bend</keyword>
+            <keyword>Florida Straits</keyword>
+            <keyword>Biscayne Bay</keyword>
+            <keyword>Suwannee River Water Management District</keyword>
+            <keyword>Florida Bay</keyword>
+            <keyword>southwest Florida</keyword>
+            <keyword>Atlantic Ocean</keyword>
+            <keyword>FWC Region-North Central</keyword>
+            <keyword>south Florida</keyword>
+            <keyword>Atlantic Ocean</keyword>
+            <keyword>FWC Region-Northwest</keyword>
+            <keyword>Florida</keyword>
+            <keyword>Tampa Bay</keyword>
+            <keyword>Northwest Florida Water Management District</keyword>
+            <keyword>Gulf of America</keyword>
+            <keyword>southeast Florida</keyword>
+            <keyword>South Florida Water Management District</keyword>
+            <keyword>mapping</keyword>
+            <keyword>north Florida</keyword>
+            <keyword>Gulf of America</keyword>
+            <keyword>east coast of Florida</keyword>
+            <keyword>Cedar Keys National Wildlife Refuge</keyword>
+        </searchKeys>
+        <resConst>
+            <LegConsts>
+                <useLimit>This data set is in the public domain, and the recipient may not assert any proprietary rights thereto nor represent it to anyone as other than a FWC-FWRI produced data set; it is provided "as-is" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The user assumes all responsibility for the accuracy and suitability of this data set for a specific application. In no event will the staff of the Fish and Wildlife Research Institute be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or the inability to use this data set.</useLimit>
+                <othConsts>These data are available without restriction. It is strongly recommended that this data is directly acquired from FWC and not indirectly through other sources which may have changed the data in some way. FWC makes no claims as to the data's suitability for other purposes. Acknowledgement of the FWC Division of Marine Fisheries as the data source and originator, would be appreciated in any products developed from these data, and such acknowledgment as is standard for citation and legal practices for data source is expected by users of this data. Please cite the original metadata when using portions of the record to create a similar record of slightly altered data, such as a re-projection. If any data are modified or adjusted, please share the edited information with FWC. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. FWC shall not be liable for improper or incorrect use of this data. These data are not legal documents and are not to be used as such. This is not a survey data set and should not be utilized as such. These data are not to be used for navigation.</othConsts>
+            </LegConsts>
+        </resConst>
+        <resConst>
+            <SecConsts>
+                <classSys>FWRI-DC</classSys>
+                <handDesc>Available without restriction</handDesc>
+            </SecConsts>
+        </resConst>
+        <resConst>
+            <Consts>
+                <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Acknowledgement of the FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute) as the data source, and the originator FWC Division of Marine Fisheries, would be appreciated in any products developed from these data, and such acknowledgment as is standard for citation and legal practices for data source is expected by users of this data. Please cite the original metadata when using portions of the record to create a similar record of slightly altered data, such as reprojection. If any data are modified or adjusted, please share the edited information with FWC. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. FWC shall not be liable for improper or incorrect use of this data. These data are not legal documents and are not to be used as such. This is not a survey data set and should not be utilized as such. These data are not to be used for navigation.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+            </Consts>
+        </resConst>
+        <spatRpType>
+            <SpatRepTypCd value="001"/>
+        </spatRpType>
+        <dataLang>
+            <languageCode value="eng"/>
+            <countryCode Sync="TRUE" value="USA"/>
+        </dataLang>
+        <envirDesc>ArcGIS for Desktop 10.3.1</envirDesc>
+        <dataExt>
+            <geoEle>
+                <GeoBndBox>
+                    <westBL>-87.511706</westBL>
+                    <eastBL>-79.806912</eastBL>
+                    <southBL>24.388347</southBL>
+                    <northBL>30.737084</northBL>
+                </GeoBndBox>
+            </geoEle>
+            <vertEle>
+                <vertMinVal Sync="TRUE">0.000000</vertMinVal>
+                <vertMaxVal Sync="TRUE">0.000000</vertMaxVal>
+            </vertEle>
+        </dataExt>
+        <dataExt>
+            <exDesc>ground condition</exDesc>
+            <tempEle>
+                <TempExtent>
+                    <exTemp>
+                        <TM_Instant>
+                            <tmPosition>2025-05-01T00:00:00</tmPosition>
+                        </TM_Instant>
+                    </exTemp>
+                </TempExtent>
+            </tempEle>
+            <vertEle>
+                <vertMinVal Sync="TRUE">0.000000</vertMinVal>
+                <vertMaxVal Sync="TRUE">0.000000</vertMaxVal>
+            </vertEle>
+        </dataExt>
+        <suppInfo>Please note that reef materials can move, degrade, or become buried over time. This is especially true for metal materials with thicknesses less than ¼” or lightweight materials. Additionally, many reef locations in the database are based on historical data with inherent potential location inaccuracies that may not have been ground-truth since their deployment. If you have updated information regarding the condition or location of an artificial reef please contact the FWC Artificial Reef Database Administrator via email at keith.mille@myfwc.com Prior to July 1, 2004, the Fish and Wildlife Research Institute (FWRI) was known as the Florida Marine Research Institute (FMRI). The institute name has not been changed in historical data sets or references to work completed by the Florida Marine Research Institute. The institute name has been changed in references to ongoing research, new research, and contact information. These data are also known as "Florida Artificial Reef Deployment Database." Note: if these data are converted to shapefile, null values in number fields will be converted to zero. This will hide any true zero values.</suppInfo>
+        <dataChar>
+            <CharSetCd value="004"/>
+        </dataChar>
+        <dataExt>
+            <geoEle>
+                <GeoBndBox esriExtentType="search">
+                    <exTypeCode Sync="TRUE">1</exTypeCode>
+                    <westBL Sync="TRUE">-87.511701</westBL>
+                    <eastBL Sync="TRUE">-79.806909</eastBL>
+                    <northBL Sync="TRUE">30.737078</northBL>
+                    <southBL Sync="TRUE">24.376455</southBL>
+                </GeoBndBox>
+            </geoEle>
+        </dataExt>
+        <tpCat>
+            <TopicCatCd value="014"/>
+        </tpCat>
+        <tpCat>
+            <TopicCatCd value="012"/>
+        </tpCat>
+    </dataIdInfo>
+    <mdConst>
+        <LegConsts>
+            <accessConsts>
+                <RestrictCd value="008"/>
+            </accessConsts>
+            <othConsts>No restrictions on metadata.</othConsts>
+        </LegConsts>
+    </mdConst>
+    <mdConst>
+        <SecConsts>
+            <classSys>FWRI-MC</classSys>
+            <handDesc>Metadata must be distributed with the data set.</handDesc>
+        </SecConsts>
+    </mdConst>
+    <mdConst>
+        <Consts>
+            <useLimit>Metadata must be distributed with the data set.</useLimit>
+        </Consts>
+    </mdConst>
+    <dqInfo>
+        <dqScope>
+            <scpLvl>
+                <ScopeCd value="005"/>
+            </scpLvl>
+        </dqScope>
+        <report dimension="" type="DQConcConsis">
+            <measDesc>FWC-DMF has not independently confirmed most of the reef locations, and this data had been supplied from various sources without verification.</measDesc>
+        </report>
+        <report dimension="" type="DQCompOm">
+            <measDesc>The data appear to be complete, as of the delivery date from DMFM to FWRI.</measDesc>
+        </report>
+        <report dimension="" type="DQQuanAttAcc">
+            <measDesc>Please note that reef materials can move, degrade, or become buried over time. This is especially true for metal materials with thicknesses less than ¼” or lightweight materials. Additionally, many reef locations in the database are based on historical data with inherent potential location inaccuracies that may not have been ground-truth since their deployment. If you have updated information regarding the condition or location of an artificial reef please contact the FWC Artificial Reef Database Administrator via email at keith.mille@myfwc.com.</measDesc>
+        </report>
+        <report dimension="horizontal" type="DQAbsExtPosAcc">
+            <measDesc>Original coordinates were in decimal minutes with 1/1000 minute precision (xx.xxx minutes), but data have not been verified or field checked by DMF or FWRI. Please note that reef materials can move, degrade, or become buried over time. This is especially true for metal materials with thicknesses less than ¼” or lightweight materials. Additionally, many reef locations in the database are based on historical data with inherent potential location inaccuracies that may not have been ground-truth since their deployment. If you have updated information regarding the condition or location of an artificial reef please contact the FWC Artificial Reef Database Administrator via email at keith.mille@myfwc.com</measDesc>
+        </report>
+        <report dimension="vertical" type="DQAbsExtPosAcc">
+            <measDesc>The vertical accuracy is accurate as of the time of deployment.</measDesc>
+        </report>
+        <dataLineage>
+            <dataSource type="">
+                <srcDesc>the point and attribute data.</srcDesc>
+                <srcMedName>
+                    <MedNameCd value="015"/>
+                </srcMedName>
+                <srcCitatn>
+                    <resTitle>FARD_Material_Jan_2023</resTitle>
+                    <resAltTitle>DMF artificial reefs deployment database</resAltTitle>
+                    <date>
+                        <pubDate time="unknown">2021-11-08T00:00:00</pubDate>
+                    </date>
+                    <citRespParty>
+                        <rpOrgName>Florida Fish and Wildlife Conservation Commission (FWC), Division of Marine Fisheries Management (DMF)</rpOrgName>
+                        <role>
+                            <RoleCd value="006"/>
+                        </role>
+                    </citRespParty>
+                    <citRespParty>
+                        <rpOrgName>FWC, DMF</rpOrgName>
+                        <rpCntInfo>
+                            <cntAddress addressType="">
+                                <delPoint>Tallahassee, FL</delPoint>
+                            </cntAddress>
+                        </rpCntInfo>
+                        <role>
+                            <RoleCd value="010"/>
+                        </role>
+                    </citRespParty>
+                    <presForm>
+                        <PresFormCd value="005"/>
+                    </presForm>
+                    <presForm>
+                        <fgdcGeoform>vector digital data</fgdcGeoform>
+                    </presForm>
+                </srcCitatn>
+                <srcExt>
+                    <exDesc>ground condition</exDesc>
+                    <tempEle>
+                        <TempExtent>
+                            <exTemp>
+                                <TM_Instant>
+                                    <tmPosition>2022-11-28T00:00:00</tmPosition>
+                                </TM_Instant>
+                            </exTemp>
+                        </TempExtent>
+                    </tempEle>
+                </srcExt>
+            </dataSource>
+            <prcStep>
+                <stepDesc>DMF provided the data to FWRI as a feature class projected in NAD83_(2011)_FGDL_Albers (meters). FWRI staff wrote metadata for the dataset and imported the data into the SDE databases.</stepDesc>
+                <stepDateTm>2025-05-01T00:00:00</stepDateTm>
+                <stepProc>
+                    <rpIndName>GISLibrarian</rpIndName>
+                    <rpOrgName>Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute</rpOrgName>
+                    <rpPosName>GIS Data Librarian</rpPosName>
+                    <rpCntInfo>
+                        <cntPhone>
+                            <voiceNum>727-896-8626</voiceNum>
+                            <faxNum>727-893-1679</faxNum>
+                        </cntPhone>
+                        <cntAddress addressType="both">
+                            <delPoint>Fish and Wildlife Research Institute 100 Eighth Avenue Southeast</delPoint>
+                            <city>St. Petersburg</city>
+                            <adminArea>Florida</adminArea>
+                            <postCode>33701</postCode>
+                            <eMailAdd>GISLibrarian@MyFWC.com</eMailAdd>
+                        </cntAddress>
+                    </rpCntInfo>
+                    <role>
+                        <RoleCd value="009"/>
+                    </role>
+                </stepProc>
+            </prcStep>
+        </dataLineage>
+    </dqInfo>
+    <spatRepInfo>
+        <VectSpatRep>
+            <geometObjs Name="benthic_ArtificialReef_fl_point">
+                <geoObjTyp>
+                    <GeoObjTypCd Sync="TRUE" value="004"/>
+                </geoObjTyp>
+                <geoObjCnt Sync="TRUE">4476</geoObjCnt>
+            </geometObjs>
+            <topLvl>
+                <TopoLevCd Sync="TRUE" value="001"/>
+            </topLvl>
+        </VectSpatRep>
+    </spatRepInfo>
+    <refSysInfo>
+        <RefSystem>
+            <refSysID>
+                <identCode Sync="TRUE" code="6439"/>
+                <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+                <idVersion Sync="TRUE">8.2.10(10.3.1)</idVersion>
+            </refSysID>
+        </RefSystem>
+    </refSysInfo>
+    <eainfo>
+        <detailed Name="benthic_ArtificialReef_fl_point">
+            <enttyp>
+                <enttypl>ArtificialReef_fl_point</enttypl>
+                <enttypd>Each point contains extensive attributes describing the artificial reef.  Many of the fields were developed by DMF for internal tracking purposes.</enttypd>
+                <enttypds>Producer defined</enttypds>
+                <enttypt Sync="TRUE">Feature Class</enttypt>
+                <enttypc Sync="TRUE">4476</enttypc>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                </attrdomv>
+                <attalias Sync="TRUE">OBJECTID</attalias>
+                <attrtype Sync="TRUE">OID</attrtype>
+                <attwidth Sync="TRUE">4</attwidth>
+                <atprecis Sync="TRUE">10</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl>DeployID</attrlabl>
+                <attrdef>A unique six digit alphanumeric identifier for each deployment record, assigned by FWC.</attrdef>
+                <attrdefs>FWC</attrdefs>
+                <attrdomv>
+                    <udom>text</udom>
+                </attrdomv>
+                <attalias Sync="TRUE">DeployID</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">50</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">DDate</attrlabl>
+                <attalias Sync="TRUE">Deployment Date</attalias>
+                <attrtype Sync="TRUE">Integer</attrtype>
+                <attwidth Sync="TRUE">4</attwidth>
+                <atprecis Sync="TRUE">10</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Description</attrlabl>
+                <attalias Sync="TRUE">Description</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">1000</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Tonnage</attrlabl>
+                <attalias Sync="TRUE">Tons</attalias>
+                <attrtype Sync="TRUE">Double</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">38</atprecis>
+                <attscale Sync="TRUE">8</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Depth</attrlabl>
+                <attalias Sync="TRUE">Depth (ft)</attalias>
+                <attrtype Sync="TRUE">Double</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">38</atprecis>
+                <attscale Sync="TRUE">8</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Relief</attrlabl>
+                <attalias Sync="TRUE">Relief (ft)</attalias>
+                <attrtype Sync="TRUE">Double</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">38</atprecis>
+                <attscale Sync="TRUE">8</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Name</attrlabl>
+                <attalias Sync="TRUE">Deployment Name</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">100</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl>County</attrlabl>
+                <attrdef>The Florida County nearest to the artificial reef project.</attrdef>
+                <attrdefs>FWC</attrdefs>
+                <attrdomv>
+                    <udom>text</udom>
+                </attrdomv>
+                <attalias Sync="TRUE">County</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">30</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl>DeployDate</attrlabl>
+                <attrdef>The date of deployment (MM/DD/YYYY). Double zeros indicate estimates based on the best available historic information.</attrdef>
+                <attrdefs>FWC</attrdefs>
+                <attrdomv>
+                    <udom>Date in MM/DD/YYYY format</udom>
+                </attrdomv>
+                <attalias Sync="TRUE">Deploy Date</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">255</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl>Jurisdiction</attrlabl>
+                <attrdef>Deployment Jurisdiction</attrdef>
+                <attrdefs>FWC</attrdefs>
+                <attrdomv>
+                    <edom>
+                        <edomv>Federal</edomv>
+                        <edomvd>deployment in federal waters</edomvd>
+                        <edomvds>FWC</edomvds>
+                    </edom>
+                </attrdomv>
+                <attrdomv>
+                    <edom>
+                        <edomv>State</edomv>
+                        <edomvd>deployment in state waters</edomvd>
+                        <edomvds>FWC</edomvds>
+                    </edom>
+                </attrdomv>
+                <attalias Sync="TRUE">Jurisdiction</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">20</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">MatDescrip</attrlabl>
+                <attalias Sync="TRUE">Description</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">200</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">MatCat</attrlabl>
+                <attalias Sync="TRUE">MatCat</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">255</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl>Coast</attrlabl>
+                <attrdef>In which Florida Coast the reef is located</attrdef>
+                <attrdefs>FWC</attrdefs>
+                <attrdomv>
+                    <edom>
+                        <edomv>Atlantic</edomv>
+                        <edomvd>Atlantic Ocean Coast</edomvd>
+                        <edomvds>FWC</edomvds>
+                    </edom>
+                </attrdomv>
+                <attrdomv>
+                    <edom>
+                        <edomv>Gulf</edomv>
+                        <edomvd>Gulf of America Coast</edomvd>
+                        <edomvds>FWC</edomvds>
+                    </edom>
+                </attrdomv>
+                <attalias Sync="TRUE">Coast</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">20</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Long_DM</attrlabl>
+                <attalias Sync="TRUE">Longitude (DM)</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">255</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Lat_DM</attrlabl>
+                <attalias Sync="TRUE">Latitude (DM)</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">255</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Long_DD</attrlabl>
+                <attalias Sync="TRUE">Longitude (DD)</attalias>
+                <attrtype Sync="TRUE">Double</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">38</atprecis>
+                <attscale Sync="TRUE">8</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">Lat_DD</attrlabl>
+                <attalias Sync="TRUE">Latitude (DD)</attalias>
+                <attrtype Sync="TRUE">Double</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">38</atprecis>
+                <attscale Sync="TRUE">8</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">LocAccuracy</attrlabl>
+                <attalias Sync="TRUE">Location Accuracy</attalias>
+                <attrtype Sync="TRUE">Integer</attrtype>
+                <attwidth Sync="TRUE">4</attwidth>
+                <atprecis Sync="TRUE">10</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    <udom>Coordinates defining the features.</udom>
+                </attrdomv>
+                <attalias Sync="TRUE">Shape</attalias>
+                <attrtype Sync="TRUE">Geometry</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">created_user</attrlabl>
+                <attalias Sync="TRUE">created_user</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">255</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">created_date</attrlabl>
+                <attalias Sync="TRUE">created_date</attalias>
+                <attrtype Sync="TRUE">Date</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">last_edited_user</attrlabl>
+                <attalias Sync="TRUE">last_edited_user</attalias>
+                <attrtype Sync="TRUE">String</attrtype>
+                <attwidth Sync="TRUE">255</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+            <attr>
+                <attrlabl Sync="TRUE">last_edited_date</attrlabl>
+                <attalias Sync="TRUE">last_edited_date</attalias>
+                <attrtype Sync="TRUE">Date</attrtype>
+                <attwidth Sync="TRUE">8</attwidth>
+                <atprecis Sync="TRUE">0</atprecis>
+                <attscale Sync="TRUE">0</attscale>
+            </attr>
+        </detailed>
+    </eainfo>
+    <spdoinfo>
+        <ptvctinf>
+            <esriterm Name="benthic_ArtificialReef_fl_point">
+                <efeatyp Sync="TRUE">Simple</efeatyp>
+                <efeageom Sync="TRUE" code="1"/>
+                <esritopo Sync="TRUE">FALSE</esritopo>
+                <efeacnt Sync="TRUE">4476</efeacnt>
+                <spindex Sync="TRUE">TRUE</spindex>
+                <linrefer Sync="TRUE">FALSE</linrefer>
+            </esriterm>
+        </ptvctinf>
+    </spdoinfo>
+</metadata>

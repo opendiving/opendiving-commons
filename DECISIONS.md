@@ -30,11 +30,20 @@ choice is arbitrary: the query sets no order.
 
 ## The instance holds the records, and this repository copies them
 
-A record has one writer, the review queue on the instance the project operates, so the database is
-the truth and the repository is what publishes it. The copy is how the pool outlives that instance,
+A record has one home, the database of the instance the project operates: a review writes it there,
+and a curated batch enters it through the bundle in the instance's image. So the database is the
+truth and the repository is what publishes it. The copy is how the pool outlives that instance,
 and with the export it is the offer ODbL 4.6 asks of whoever publicly uses a database they alter.
 Git as the truth would put a GitHub secret on the instance and show an approval only after a round
 trip.
+
+## A record's `license` can be a `LicenseRef-`
+
+SPDX has no identifier for a public-domain work that is not a dedication, and `CC0-1.0` would claim
+a dedication neither publisher made. So a NOAA record says `LicenseRef-US-Gov-PD` and a Florida
+register record `LicenseRef-FWC-PD`, SPDX's form for an unlisted licence. Both enter an ODbL database
+as they are. A CC BY row does not: CC BY 4.0 forbids technological measures that ODbL 4.7(b) allows,
+so such a source waits for its publisher's waiver.
 
 ## `validate` checks every record, every time
 
