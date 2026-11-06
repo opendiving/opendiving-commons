@@ -16,12 +16,18 @@
         "identifier": "node/1149253646"
       }
     ],
+    "other_names": [
+      "Shark's Bay"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Shark's Bay"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/1149253646"
+        }
       }
     }
   }

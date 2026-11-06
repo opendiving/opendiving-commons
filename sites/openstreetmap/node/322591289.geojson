@@ -16,12 +16,18 @@
         "identifier": "node/322591289"
       }
     ],
+    "other_names": [
+      "Xwejni Bay"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Xwejni Bay"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/322591289"
+        }
       }
     }
   }

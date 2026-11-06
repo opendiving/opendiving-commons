@@ -16,12 +16,18 @@
         "identifier": "node/4159831395"
       }
     ],
+    "other_names": [
+      "Lantern Point"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Lantern Point"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4159831395"
+        }
       }
     }
   }

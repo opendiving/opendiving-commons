@@ -16,12 +16,18 @@
         "identifier": "node/11169135239"
       }
     ],
+    "other_names": [
+      "Police Wreck"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Police Wreck"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/11169135239"
+        }
       }
     }
   }

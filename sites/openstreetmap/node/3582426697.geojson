@@ -16,12 +16,18 @@
         "identifier": "node/3582426697"
       }
     ],
+    "other_names": [
+      "Ao Hin Ngam"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Ao Hin Ngam"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/3582426697"
+        }
       }
     }
   }

@@ -16,12 +16,18 @@
         "identifier": "node/13614906769"
       }
     ],
+    "other_names": [
+      "Saint Elmo - Right Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Saint Elmo - Right Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13614906769"
+        }
       }
     }
   }

@@ -16,12 +16,18 @@
         "identifier": "node/3776472537"
       }
     ],
+    "other_names": [
+      "Dabaisha"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Dabaisha"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/3776472537"
+        }
       }
     }
   }

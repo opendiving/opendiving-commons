@@ -16,12 +16,18 @@
         "identifier": "node/384935638"
       }
     ],
+    "other_names": [
+      "Cathedral Cave"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Cathedral Cave"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/384935638"
+        }
       }
     }
   }

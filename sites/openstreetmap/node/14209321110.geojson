@@ -16,12 +16,18 @@
         "identifier": "node/14209321110"
       }
     ],
+    "other_names": [
+      "Kicker Rock"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Kicker Rock"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/14209321110"
+        }
       }
     }
   }

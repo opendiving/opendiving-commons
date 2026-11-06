@@ -16,12 +16,18 @@
         "identifier": "node/7787294771"
       }
     ],
+    "other_names": [
+      "Educational underwater trail Tripuljak"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Educational underwater trail Tripuljak"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/7787294771"
+        }
       }
     }
   }

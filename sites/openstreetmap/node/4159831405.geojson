@@ -16,12 +16,18 @@
         "identifier": "node/4159831405"
       }
     ],
+    "other_names": [
+      "Xatt l-Aħmar Reed"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Xatt l-Aħmar Reed"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4159831405"
+        }
       }
     }
   }

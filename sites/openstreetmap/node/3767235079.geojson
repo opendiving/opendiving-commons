@@ -16,12 +16,18 @@
         "identifier": "node/3767235079"
       }
     ],
+    "other_names": [
+      "Santa Marija Caves"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Santa Marija Caves"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/3767235079"
+        }
       }
     }
   }

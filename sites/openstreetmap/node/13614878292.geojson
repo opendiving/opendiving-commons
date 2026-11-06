@@ -16,12 +16,18 @@
         "identifier": "node/13614878292"
       }
     ],
+    "other_names": [
+      "Żurrieq Valley"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Żurrieq Valley"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13614878292"
+        }
       }
     }
   }

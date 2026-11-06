@@ -16,12 +16,18 @@
         "identifier": "way/23185890"
       }
     ],
+    "other_names": [
+      "Thomas Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Thomas Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "way/23185890"
+        }
       }
     }
   }

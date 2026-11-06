@@ -16,12 +16,18 @@
         "identifier": "node/9968656595"
       }
     ],
+    "other_names": [
+      "The Big Blue"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "The Big Blue"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9968656595"
+        }
       }
     }
   }

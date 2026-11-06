@@ -16,12 +16,18 @@
         "identifier": "node/4159831398"
       }
     ],
+    "other_names": [
+      "Santa Maria Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Santa Maria Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4159831398"
+        }
       }
     }
   }

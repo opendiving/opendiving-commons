@@ -16,12 +16,18 @@
         "identifier": "node/13614878291"
       }
     ],
+    "other_names": [
+      "Żurrieq - Left Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Żurrieq - Left Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13614878291"
+        }
       }
     }
   }

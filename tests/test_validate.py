@@ -1,14 +1,12 @@
-"""Tests for `scripts/validate.py`, the record rules every pull request is held to."""
+"""Tests for `scripts/validate.py`, the record rules every record is held to."""
 
 import copy
-import json
-import subprocess
 from pathlib import Path
 
 import pytest
 
 import validate
-from pool import ROOT, seed_uuid, serialise
+from pool import seed_uuid, serialise
 
 CONTRIBUTION_UUID = "8c0b6b3e-1f2a-4b3c-9d4e-5f6a7b8c9d0e"
 CONTRIBUTION_PATH = f"sites/opendivingcommons/{CONTRIBUTION_UUID}.geojson"
@@ -24,7 +22,12 @@ def _seed() -> dict:
             "name": "SS Thistlegorm",
             "external_ids": [{"registry": "openstreetmap", "identifier": "node/255316037"}],
             "extensions": {
-                "opendivingcommons": {"source": "openstreetmap", "license": "ODbL-1.0", "retrieved": "2026-10-17"}
+                "opendivingcommons": {
+                    "source": "openstreetmap",
+                    "license": "ODbL-1.0",
+                    "retrieved": "2026-10-17",
+                    "seeded_from": {"registry": "openstreetmap", "identifier": "node/255316037"},
+                }
             },
         },
     }
@@ -48,8 +51,8 @@ def _contribution() -> dict:
     }
 
 
-def _errors(path: str, feature: dict, *, new: bool = False) -> list[str]:
-    return validate.record_errors(path, feature, new=new)
+def _errors(path: str, feature: dict) -> list[str]:
+    return validate.record_errors(path, feature)
 
 
 def _tree(tmp_path: Path, records: dict[str, dict]) -> Path:
@@ -64,13 +67,19 @@ class TestAValidRecord:
     def test_a_seed_passes(self):
         assert _errors(SEED_PATH, _seed()) == []
 
-    def test_a_new_contribution_passes(self):
-        assert _errors(CONTRIBUTION_PATH, _contribution(), new=True) == []
+    def test_a_contribution_passes(self):
+        assert _errors(CONTRIBUTION_PATH, _contribution()) == []
+
+    def test_a_seed_may_name_its_locality_and_other_names(self):
+        feature = _seed()
+        feature["properties"] |= {"location": {"name": "Red Sea, Egypt"}, "other_names": ["Thistlegorm"]}
+
+        assert _errors(SEED_PATH, feature) == []
 
     def test_both_pass_the_divejson_half_too(self, tmp_path: Path):
         root = _tree(tmp_path, {SEED_PATH: _seed(), CONTRIBUTION_PATH: _contribution()})
 
-        result = validate.validate([SEED_PATH, CONTRIBUTION_PATH], {CONTRIBUTION_PATH}, root)
+        result = validate.validate([SEED_PATH, CONTRIBUTION_PATH], root)
 
         assert dict(result.errors) == {}
 
@@ -176,11 +185,12 @@ class TestWhatARecordCarries:
 
         assert any("extensions carries only" in error for error in _errors(CONTRIBUTION_PATH, feature))
 
-    def test_a_new_contribution_carries_no_registry_entries(self):
+    def test_a_contribution_may_carry_registry_entries(self):
+        """A review can add one, and acceptance holds it to the cross-record rule."""
         feature = _contribution()
         feature["properties"]["external_ids"] = [{"registry": "openstreetmap", "identifier": "node/1"}]
 
-        assert any("no external_ids" in error for error in _errors(CONTRIBUTION_PATH, feature, new=True))
+        assert _errors(CONTRIBUTION_PATH, feature) == []
 
     def test_a_merged_contribution_may_carry_the_absorbed_ones_uuid(self):
         feature = _contribution()
@@ -211,10 +221,12 @@ class TestTheProvenance:
             (SEED_PATH, _seed, {"license": "CC0-1.0"}, "licensed 'ODbL-1.0'"),
             (CONTRIBUTION_PATH, _contribution, {"license": "ODbL-1.0"}, "licensed 'CC0-1.0'"),
             (CONTRIBUTION_PATH, _contribution, {"retrieved": "2026-10-17"}, "no retrieved date"),
-            (CONTRIBUTION_PATH, _contribution, {"name_en": "Bells"}, "name_en"),
+            (CONTRIBUTION_PATH, _contribution, {"seeded_from": {"registry": "wikidata"}}, "no seeded_from"),
             (SEED_PATH, _seed, {"retrieved": "17 October"}, "YYYY-MM-DD"),
             (SEED_PATH, _seed, {"retrieved": "2026-02-30"}, "YYYY-MM-DD"),
-            (SEED_PATH, _seed, {"name_en": "SS Thistlegorm"}, "repeats the name"),
+            (SEED_PATH, _seed, {"seeded_from": {"registry": "openstreetmap", "identifier": "node/1"}}, "seeded_from"),
+            (SEED_PATH, _seed, {"seeded_from": "openstreetmap"}, "seeded_from"),
+            (SEED_PATH, _seed, {"name_en": "The Thistlegorm"}, "does not define"),
             (SEED_PATH, _seed, {"country": "Egypt"}, "does not define"),
         ],
     )
@@ -224,11 +236,19 @@ class TestTheProvenance:
 
         assert any(fragment in error for error in _errors(path, feature))
 
+    def test_a_seed_says_what_it_was_seeded_from(self):
+        feature = _seed()
+        del feature["properties"]["extensions"]["opendivingcommons"]["seeded_from"]
+
+        assert any("seeded_from" in error for error in _errors(SEED_PATH, feature))
+
     def test_a_wikidata_seed_is_cc0(self):
         feature = _seed()
         feature["properties"]["uuid"] = seed_uuid("wikidata", "Q14213816")
         feature["properties"]["external_ids"] = [{"registry": "wikidata", "identifier": "Q14213816"}]
-        feature["properties"]["extensions"]["opendivingcommons"].update(source="wikidata", license="CC0-1.0")
+        feature["properties"]["extensions"]["opendivingcommons"].update(
+            source="wikidata", license="CC0-1.0", seeded_from={"registry": "wikidata", "identifier": "Q14213816"}
+        )
 
         assert _errors("sites/wikidata/Q14213816.geojson", feature) == []
 
@@ -241,7 +261,7 @@ class TestTheDivejsonHalf:
         feature["properties"]["other_names"] = ["bells"]
         root = _tree(tmp_path, {CONTRIBUTION_PATH: feature})
 
-        errors = validate.validate([CONTRIBUTION_PATH], set(), root).errors[CONTRIBUTION_PATH]
+        errors = validate.validate([CONTRIBUTION_PATH], root).errors[CONTRIBUTION_PATH]
 
         assert any("depth" in error for error in errors)
         assert any("other_names" in error for error in errors)
@@ -251,14 +271,14 @@ class TestTheDivejsonHalf:
         feature["properties"]["water_type"] = "salty"
         root = _tree(tmp_path, {CONTRIBUTION_PATH: feature})
 
-        assert validate.validate([CONTRIBUTION_PATH], set(), root).errors[CONTRIBUTION_PATH]
+        assert validate.validate([CONTRIBUTION_PATH], root).errors[CONTRIBUTION_PATH]
 
     def test_a_duplicate_member_is_refused(self, tmp_path: Path):
         target = tmp_path / CONTRIBUTION_PATH
         target.parent.mkdir(parents=True)
         target.write_text(serialise(_contribution()).replace('"name": "Bells",', '"name": "Bells", "name": "Other",'))
 
-        errors = validate.validate([CONTRIBUTION_PATH], set(), tmp_path).errors[CONTRIBUTION_PATH]
+        errors = validate.validate([CONTRIBUTION_PATH], tmp_path).errors[CONTRIBUTION_PATH]
 
         assert any("duplicate member" in error for error in errors)
 
@@ -272,7 +292,7 @@ class TestAcrossRecords:
         absorbed["properties"]["external_ids"] = [{"registry": "openstreetmap", "identifier": "node/2"}]
         root = _tree(tmp_path, {SEED_PATH: survivor, "sites/openstreetmap/node/2.geojson": absorbed})
 
-        errors = validate.validate([SEED_PATH], set(), root).errors[SEED_PATH]
+        errors = validate.validate([SEED_PATH], root).errors[SEED_PATH]
 
         assert errors == ["the entry {openstreetmap, node/2} is also carried by sites/openstreetmap/node/2.geojson"]
 
@@ -284,113 +304,13 @@ class TestAcrossRecords:
         absorbed["properties"]["uuid"] = other_uuid
         root = _tree(tmp_path, {CONTRIBUTION_PATH: survivor, f"sites/opendivingcommons/{other_uuid}.geojson": absorbed})
 
-        errors = validate.validate([CONTRIBUTION_PATH], set(), root).errors[CONTRIBUTION_PATH]
+        errors = validate.validate([CONTRIBUTION_PATH], root).errors[CONTRIBUTION_PATH]
 
         assert any("still exists" in error for error in errors)
-
-
-class TestTheAttestation:
-    def test_the_template_carries_it_word_for_word(self):
-        template = (ROOT / ".github" / "PULL_REQUEST_TEMPLATE.md").read_text(encoding="utf-8")
-
-        assert f"- [ ] {validate.ATTESTATION}" in template
-        assert not validate.attested(template)
-
-    def test_the_template_ticked_passes(self):
-        template = (ROOT / ".github" / "PULL_REQUEST_TEMPLATE.md").read_text(encoding="utf-8")
-
-        assert validate.attested(template.replace("- [ ] I am adding", "- [x] I am adding"))
-
-    @pytest.mark.parametrize(
-        "body",
-        [
-            f"- [X] {validate.ATTESTATION}",
-            f"* [x]  {validate.ATTESTATION}  \r\n",
-            f"Some words first.\r\n\r\n- [x] {validate.ATTESTATION}\r\n",
-        ],
-    )
-    def test_ticked_in_any_task_list_spelling(self, body: str):
-        assert validate.attested(body)
-
-    @pytest.mark.parametrize(
-        "body",
-        [
-            None,
-            "",
-            f"- [ ] {validate.ATTESTATION}",
-            f"{validate.ATTESTATION}",
-            f"- [x] {validate.ATTESTATION.replace('my own diving', 'a website')}",
-            f"> - [x] {validate.ATTESTATION}",
-        ],
-    )
-    def test_anything_else_is_not_an_attestation(self, body):
-        assert not validate.attested(body)
-
-
-def _git(root: Path, *args: str) -> None:
-    subprocess.run(["git", "-C", str(root), "-c", "commit.gpgsign=false", *args], check=True, capture_output=True)
-
-
-class TestWhatAPullRequestChecks:
-    @pytest.fixture
-    def repo(self, tmp_path: Path) -> Path:
-        _git(tmp_path, "init", "-q", "-b", "main")
-        _git(tmp_path, "config", "user.email", "test@example.invalid")
-        _git(tmp_path, "config", "user.name", "test")
-        _tree(tmp_path, {SEED_PATH: _seed()})
-        _git(tmp_path, "add", ".")
-        _git(tmp_path, "commit", "-q", "-m", "base")
-        return tmp_path
-
-    def test_an_added_contribution_is_checked_and_counted_as_new(self, repo: Path):
-        _tree(repo, {CONTRIBUTION_PATH: _contribution()})
-        _git(repo, "add", ".")
-        _git(repo, "commit", "-q", "-m", "share")
-
-        assert validate.to_check("HEAD~1", [], repo) == ([CONTRIBUTION_PATH], {CONTRIBUTION_PATH})
-
-    def test_an_edited_record_is_checked_and_not_new(self, repo: Path):
-        edited = _seed()
-        edited["properties"]["name"] = "Thistlegorm"
-        _tree(repo, {SEED_PATH: edited})
-        _git(repo, "commit", "-q", "-am", "rename")
-
-        assert validate.to_check("HEAD~1", [], repo) == ([SEED_PATH], set())
-
-    def test_a_change_to_the_rules_checks_every_record(self, repo: Path):
-        (repo / "scripts").mkdir()
-        (repo / "scripts" / "validate.py").write_text("")
-        _git(repo, "add", ".")
-        _git(repo, "commit", "-q", "-m", "rules")
-
-        assert validate.to_check("HEAD~1", [], repo) == ([SEED_PATH], {"scripts/validate.py"})
-
-    def test_a_deleted_record_is_not_checked(self, repo: Path):
-        _git(repo, "rm", "-q", SEED_PATH)
-        _git(repo, "commit", "-q", "-m", "merge away")
-
-        assert validate.to_check("HEAD~1", [], repo) == ([], set())
-
-
-def test_the_event_payload_gates_a_contribution(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
-    """The command line as the workflow runs it, minus git: a contribution without the line fails."""
-    root = _tree(tmp_path, {CONTRIBUTION_PATH: _contribution()})
-    monkeypatch.setattr(validate, "to_check", lambda base, paths: ([CONTRIBUTION_PATH], {CONTRIBUTION_PATH}))
-    real = validate.validate
-    monkeypatch.setattr(validate, "validate", lambda paths, new: real(paths, new, root))
-    monkeypatch.delenv("GITHUB_STEP_SUMMARY", raising=False)
-    event = tmp_path / "event.json"
-
-    event.write_text(json.dumps({"pull_request": {"body": "Adding Bells."}}))
-    assert validate.main(["--base", "x", "--event", str(event)]) == 1
-
-    event.write_text(json.dumps({"pull_request": {"body": f"- [x] {validate.ATTESTATION}"}}))
-    assert validate.main(["--base", "x", "--event", str(event)]) == 0
-
 
 
 def test_a_stray_file_under_sites_is_named_as_one(tmp_path: Path):
     (tmp_path / "sites").mkdir()
     (tmp_path / "sites" / "notes.txt").write_text("not json")
 
-    assert validate.validate(["sites/notes.txt"], set(), tmp_path).errors["sites/notes.txt"] == [validate.NOT_A_RECORD_PATH]
+    assert validate.validate(["sites/notes.txt"], tmp_path).errors["sites/notes.txt"] == [validate.NOT_A_RECORD_PATH]

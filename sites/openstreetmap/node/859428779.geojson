@@ -16,12 +16,18 @@
         "identifier": "node/859428779"
       }
     ],
+    "other_names": [
+      "Japanese Gardens"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Japanese Gardens"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/859428779"
+        }
       }
     }
   }

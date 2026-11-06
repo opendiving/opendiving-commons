@@ -16,12 +16,18 @@
         "identifier": "way/23185891"
       }
     ],
+    "other_names": [
+      "Woodhouse Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Woodhouse Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "way/23185891"
+        }
       }
     }
   }

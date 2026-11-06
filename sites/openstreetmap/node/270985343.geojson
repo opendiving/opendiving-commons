@@ -16,12 +16,18 @@
         "identifier": "node/270985343"
       }
     ],
+    "other_names": [
+      "Anemone Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Anemone Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/270985343"
+        }
       }
     }
   }

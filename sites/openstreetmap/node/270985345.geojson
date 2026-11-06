@@ -16,12 +16,18 @@
         "identifier": "node/270985345"
       }
     ],
+    "other_names": [
+      "Shark Point Dive Site"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Shark Point Dive Site"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/270985345"
+        }
       }
     }
   }

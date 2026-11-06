@@ -16,12 +16,18 @@
         "identifier": "node/13348045172"
       }
     ],
+    "other_names": [
+      "Cave of Wheat"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Cave of Wheat"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13348045172"
+        }
       }
     }
   }

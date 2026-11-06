@@ -1,6 +1,6 @@
 """Tests for `scripts/seed.py`.
 
-It is tested despite running only by hand because two of its rules fail *silently*: a
+It is tested, though it is no longer run, because two of its rules fail *silently*: a
 selection filter that deletes real dive sites still produces a plausible pool, and a refresh
 that overwrites a maintainer's edit loses it without a word.
 """

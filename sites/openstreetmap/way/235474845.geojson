@@ -16,12 +16,18 @@
         "identifier": "way/235474845"
       }
     ],
+    "other_names": [
+      "Manastir Beach"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Manastir Beach"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "way/235474845"
+        }
       }
     }
   }

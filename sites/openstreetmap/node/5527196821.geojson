@@ -16,12 +16,18 @@
         "identifier": "node/5527196821"
       }
     ],
+    "other_names": [
+      "Nanshin maru \"black island wreck\" - Civilian tanker - 45m - (21 to 32m)"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Nanshin maru \"black island wreck\" - Civilian tanker - 45m - (21 to 32m)"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/5527196821"
+        }
       }
     }
   }

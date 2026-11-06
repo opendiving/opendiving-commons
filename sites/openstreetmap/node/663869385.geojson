@@ -16,12 +16,18 @@
         "identifier": "node/663869385"
       }
     ],
+    "other_names": [
+      "Daaibooi Bay"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Daaibooi Bay"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/663869385"
+        }
       }
     }
   }

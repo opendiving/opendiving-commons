@@ -16,12 +16,18 @@
         "identifier": "node/4424290675"
       }
     ],
+    "other_names": [
+      "Little Boat Wreck"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Little Boat Wreck"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4424290675"
+        }
       }
     }
   }

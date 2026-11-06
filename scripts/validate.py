@@ -1,12 +1,9 @@
-"""Check records against the pool's rules, and a pull request's body against the attestation.
+"""Check records against the pool's rules.
 
-    python scripts/validate.py                    # every record under sites/
+    python scripts/validate.py                    # every record under sites/, as the check runs it
     python scripts/validate.py sites/wikidata/Q14213816.geojson
-    python scripts/validate.py --base origin/main # what changed since a ref, as the check runs it
 
-Exits non-zero on any broken record, and - given `--event`, the pull request's event payload -
-when the pull request adds a contribution and its body does not carry the attestation, ticked.
-Nothing about near-duplicates is decided here; that is `dedup.py`, and it is advisory.
+Exits non-zero on any broken record.
 
 A record is valid when it is a valid DiveJSON dive site once its geometry is folded back into
 `position` - the `divejson` package decides that, so the member names, the `other_names` rules
@@ -17,7 +14,6 @@ README.md and CONTRIBUTING.md say what they are and why.
 from __future__ import annotations
 
 import argparse
-import json
 import math
 import os
 import re
@@ -31,13 +27,7 @@ from typing import Any
 from divejson import SPEC_VERSION
 from divejson.validate import parse_document, validate_document
 
-from pool import REGISTRY, ROOT, SOURCE_OF_REGISTRY, Record, changed_files, identity_of, seed_uuid, site_files, summarise
-
-ATTESTATION = (
-    "I am adding this dive site from my own diving. It is not copied from another database, app or "
-    "publication. I dedicate it to the public domain under CC0 1.0, and I understand the record and "
-    "this attestation are public and kept indefinitely."
-)
+from pool import REGISTRY, ROOT, SOURCE_OF_REGISTRY, identity_of, seed_uuid, site_files
 
 LICENCE_OF_SOURCE = {"openstreetmap": "ODbL-1.0", "wikidata": "CC0-1.0", "contribution": "CC0-1.0"}
 
@@ -58,15 +48,12 @@ _MEMBERS = frozenset(
         "extensions",
     }
 )
-_PROVENANCE_MEMBERS = frozenset({"source", "license", "retrieved", "name_en"})
+_PROVENANCE_MEMBERS = frozenset({"source", "license", "retrieved", "seeded_from"})
 
 _MAX_DECIMALS = 6
 
-# A change to any of these changes what every record is held to, so it re-checks every record.
-_RULE_FILES = ("scripts/", "requirements.txt", ".github/workflows/validate.yml")
-
-# A job summary is capped at 1 MiB; a pull request breaking thousands of records needs the
-# count and a sample, not every line.
+# A job summary is capped at 1 MiB; a tree breaking thousands of records needs the count and
+# a sample, not every line.
 _SUMMARY_LINES = 200
 
 NOT_A_RECORD_PATH = (
@@ -74,30 +61,33 @@ NOT_A_RECORD_PATH = (
     f"sites/wikidata/<Q-id>.geojson or sites/{REGISTRY}/<uuid>.geojson"
 )
 
-_TICKED = re.compile(r"^\s*[-*+]\s+\[[xX]\]\s+(?P<text>.*)$")
-
 
 @dataclass
 class Result:
     checked: int = 0
     errors: dict[str, list[str]] = field(default_factory=lambda: defaultdict(list))
-    attestation: str | None = None  # "ticked", "missing", or None when not needed
 
     def add(self, path: str, message: str) -> None:
         self.errors[path].append(message)
 
-    @property
-    def failed(self) -> bool:
-        return bool(self.errors) or self.attestation == "missing"
+
+@dataclass(frozen=True, slots=True)
+class _Identity:
+    """The parts of a record the cross-record rules read."""
+
+    path: str
+    uuid: str
+    entries: tuple[tuple[str, str], ...]
 
 
-def attested(body: str | None) -> bool:
-    """The attestation, as one ticked task-list line of its own, whitespace aside."""
-    for line in (body or "").splitlines():
-        match = _TICKED.match(line)
-        if match and " ".join(match["text"].split()) == ATTESTATION:
-            return True
-    return False
+def _identity(path: str, feature: Any) -> _Identity | None:
+    """None when a record is too broken to compare; the record rules say what is wrong with it."""
+    try:
+        properties = feature["properties"]
+        entries = tuple((entry["registry"], entry["identifier"]) for entry in properties.get("external_ids", []))
+        return _Identity(path, properties["uuid"], entries) if isinstance(properties["uuid"], str) else None
+    except (KeyError, TypeError, AttributeError):
+        return None
 
 
 def _decimals(value: float) -> int:
@@ -129,7 +119,7 @@ def _geometry_errors(geometry: Any) -> list[str]:
     return errors
 
 
-def _provenance_errors(provenance: Any, registry: str, name: Any) -> list[str]:
+def _provenance_errors(provenance: Any, registry: str, identifier: str) -> list[str]:
     if not isinstance(provenance, dict):
         return [f"properties.extensions.{REGISTRY} is required: the record's source and licence"]
     errors = []
@@ -148,24 +138,19 @@ def _provenance_errors(provenance: Any, registry: str, name: Any) -> list[str]:
     if expected_source == "contribution":
         if "retrieved" in provenance:
             errors.append("a contribution carries no retrieved date; that is a seed's")
+        if "seeded_from" in provenance:
+            errors.append("a contribution carries no seeded_from; that is a seed's")
     else:
         try:
             date.fromisoformat(retrieved if isinstance(retrieved, str) and len(retrieved) == 10 else "")
         except ValueError:
             errors.append(f"a seed carries the date it was retrieved, as YYYY-MM-DD, not {retrieved!r}")
-
-    if "name_en" in provenance:
-        name_en = provenance["name_en"]
-        if expected_source != "openstreetmap":
-            errors.append("name_en is an OpenStreetMap seed's English name; this record is not one")
-        elif not isinstance(name_en, str) or not name_en.strip() or len(name_en) > 255:
-            errors.append("name_en must be a name of 1 to 255 characters")
-        elif name_en == name:
-            errors.append("name_en repeats the name; leave it out")
+        if provenance.get("seeded_from") != {"registry": registry, "identifier": identifier}:
+            errors.append(f"a seed's seeded_from is the entry its path names, {{{registry}, {identifier}}}")
     return errors
 
 
-def record_errors(path: str, feature: Any, *, new: bool) -> list[str]:
+def record_errors(path: str, feature: Any) -> list[str]:
     """The pool's own rules for one parsed record. The DiveJSON half is checked separately, in bulk."""
     identity = identity_of(path)
     if identity is None:
@@ -195,7 +180,7 @@ def record_errors(path: str, feature: Any, *, new: bool) -> list[str]:
     if isinstance(extensions, dict) and set(extensions) - {REGISTRY}:
         errors.append(f"extensions carries only {REGISTRY}")
     provenance = extensions.get(REGISTRY) if isinstance(extensions, dict) else None
-    errors.extend(_provenance_errors(provenance, registry, properties.get("name")))
+    errors.extend(_provenance_errors(provenance, registry, identifier))
 
     record_uuid = properties.get("uuid")
     if registry == REGISTRY:
@@ -214,8 +199,6 @@ def record_errors(path: str, feature: Any, *, new: bool) -> list[str]:
         errors.append(f"a seed carries the entry its path names, {{{registry}, {identifier}}}, in external_ids")
     if (REGISTRY, record_uuid) in pairs:
         errors.append("external_ids names this record's own uuid")
-    if new and registry == REGISTRY and "external_ids" in properties:
-        errors.append("a new contribution carries no external_ids")
     return errors
 
 
@@ -247,7 +230,7 @@ def _divejson_errors(features: dict[str, dict[str, Any]], result: Result) -> Non
         result.add(paths[int(match[1])], f"DiveJSON: {member or 'site'}: {issue.message}")
 
 
-def _cross_record_errors(checked: set[str], records: dict[str, Record], result: Result) -> None:
+def _cross_record_errors(checked: set[str], records: dict[str, _Identity], result: Result) -> None:
     by_uuid: dict[str, list[str]] = defaultdict(list)
     by_entry: dict[tuple[str, str], list[str]] = defaultdict(list)
     for record in records.values():
@@ -281,14 +264,14 @@ def _load(root: Path, path: str, result: Result) -> Any:
     return None
 
 
-def validate(paths: list[str], new: set[str], root: Path = ROOT) -> Result:
-    """Check `paths`, each against the whole tree. `new` are the ones a pull request adds."""
+def validate(paths: list[str], root: Path = ROOT) -> Result:
+    """Check `paths`, each against the whole tree."""
     result = Result(checked=len(paths))
     checking = set(paths)
-    records: dict[str, Record] = {}
+    records: dict[str, _Identity] = {}
     for path in site_files(root):
         feature = _load(root, path, Result()) if path not in checking else None
-        if feature is not None and (record := summarise(path, feature)) is not None:
+        if feature is not None and (record := _identity(path, feature)) is not None:
             records[path] = record
 
     valid_shape: dict[str, dict[str, Any]] = {}
@@ -299,9 +282,9 @@ def validate(paths: list[str], new: set[str], root: Path = ROOT) -> Result:
         feature = _load(root, path, result)
         if feature is None:
             continue
-        for message in record_errors(path, feature, new=path in new):
+        for message in record_errors(path, feature):
             result.add(path, message)
-        if (record := summarise(path, feature)) is not None:
+        if (record := _identity(path, feature)) is not None:
             records[path] = record
         if isinstance(feature, dict) and not _shape_broken(feature):
             valid_shape[path] = feature
@@ -325,20 +308,6 @@ def _shape_broken(feature: dict[str, Any]) -> bool:
         return True
 
 
-def to_check(base: str | None, explicit: list[str], root: Path = ROOT) -> tuple[list[str], set[str]]:
-    """The records to check, and which of them the change adds."""
-    if explicit:
-        return [_relative(path, root) for path in explicit], set()
-    if base is None:
-        return list(site_files(root)), set()
-    changed = changed_files(base, root)
-    added = {path for path, status in changed.items() if status == "A"}
-    if any(path.startswith(_RULE_FILES) for path in changed):
-        return list(site_files(root)), added
-    sites = sorted(path for path, status in changed.items() if path.startswith("sites/") and status != "D")
-    return sites, added
-
-
 def _relative(path: str, root: Path) -> str:
     return (Path.cwd() / path).resolve().relative_to(root.resolve()).as_posix()
 
@@ -355,19 +324,6 @@ def _summary(result: Result) -> str:
             lines.append(f"- `{path}`: {message}")
         if len(listed) > _SUMMARY_LINES:
             lines.append(f"- and {len(listed) - _SUMMARY_LINES} more; run the script locally for the rest")
-    if result.attestation == "missing":
-        lines += [
-            "",
-            "## The attestation",
-            "",
-            "This pull request adds a contribution, and its description does not carry this line, ticked:",
-            "",
-            f"> - [x] {ATTESTATION}",
-            "",
-            "Tick the box in the description; the check runs again when it is edited.",
-        ]
-    elif result.attestation == "ticked":
-        lines += ["", "The attestation is ticked."]
     return "\n".join(lines) + "\n"
 
 
@@ -375,23 +331,14 @@ def _annotate(result: Result) -> None:
     for path, messages in sorted(result.errors.items()):
         for message in messages:
             print(f"::error file={path}::{message}")
-    if result.attestation == "missing":
-        print("::error::The pull request description does not carry the attestation, ticked.")
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Check pool records against the record rules.")
     parser.add_argument("paths", nargs="*", help="records to check; every record under sites/ when none is given")
-    parser.add_argument("--base", help="check only what changed between this ref and HEAD")
-    parser.add_argument("--event", type=Path, help="a pull_request event payload, whose body must attest a contribution")
     args = parser.parse_args(argv)
 
-    paths, new = to_check(args.base, args.paths)
-    result = validate(paths, new)
-
-    if args.event is not None and any(path.startswith(f"sites/{REGISTRY}/") for path in new):
-        body = json.loads(args.event.read_text(encoding="utf-8")).get("pull_request", {}).get("body")
-        result.attestation = "ticked" if attested(body) else "missing"
+    result = validate([_relative(path, ROOT) for path in args.paths] or list(site_files()))
 
     summary = _summary(result)
     print(summary, end="")
@@ -400,7 +347,7 @@ def main(argv: list[str] | None = None) -> int:
     if step_summary := os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(step_summary, "a", encoding="utf-8") as handle:
             handle.write(summary)
-    return 1 if result.failed else 0
+    return 1 if result.errors else 0
 
 
 if __name__ == "__main__":

@@ -16,12 +16,18 @@
         "identifier": "node/9280303156"
       }
     ],
+    "other_names": [
+      "Antoniogaudei"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Antoniogaudei"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9280303156"
+        }
       }
     }
   }

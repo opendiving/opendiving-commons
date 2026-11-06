@@ -16,12 +16,18 @@
         "identifier": "node/7006625785"
       }
     ],
+    "other_names": [
+      "Elphinstone reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Elphinstone reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/7006625785"
+        }
       }
     }
   }

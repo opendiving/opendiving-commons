@@ -16,12 +16,18 @@
         "identifier": "way/374758292"
       }
     ],
+    "other_names": [
+      "Daedalus Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Daedalus Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "way/374758292"
+        }
       }
     }
   }

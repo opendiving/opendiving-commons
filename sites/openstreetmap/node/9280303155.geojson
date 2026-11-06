@@ -16,12 +16,18 @@
         "identifier": "node/9280303155"
       }
     ],
+    "other_names": [
+      "Nakanojima Channel"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Nakanojima Channel"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9280303155"
+        }
       }
     }
   }

@@ -16,12 +16,18 @@
         "identifier": "node/663869868"
       }
     ],
+    "other_names": [
+      "Sunsplash Housereef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Sunsplash Housereef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/663869868"
+        }
       }
     }
   }
