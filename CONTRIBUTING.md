@@ -22,10 +22,9 @@ accepted site or change reaches this repository with the next publish.
 maintainer runs an importer checked into `opendiving-api`, the batch goes into the bundle its image
 carries, the instance inserts it at its next start, and the next publish copies it here.
 
-The source comes here first. Its token, identifier form and licence go in `CURATED_SOURCES` and
-`SOURCE_OF_REGISTRY` in `scripts/pool.py` and `LICENCE_OF_SOURCE` in `scripts/validate.py`, and its
-credit in the README's *Sources* table, because a publish fails on a registry this repository does
-not know.
+The source comes here first. Its token and identifier form go in `CURATED_SOURCES` in
+`scripts/pool.py`, its licence in `LICENCE_OF_SOURCE` in `scripts/validate.py`, and its credit in the
+README's *Sources* table, because a publish fails on a registry this repository does not know.
 
 ## Reporting a record
 
@@ -69,9 +68,9 @@ accepted proposal to the same rules, so a publish should never break one:
 `.github/workflows/validate.yml` has two jobs:
 
 - **`validate`**, the required check, runs the record rules over every record.
-- **`tests`** runs the `pytest` suite when the pull request touches `scripts/`, `tests/`,
-  `requirements.txt` or the workflow. It is not required, and a publish skips it: `validate` reads
-  every record the suite does.
+- **`tests`** runs the `pytest` suite when the pull request touches `scripts/`, `tests/`, `sources/`,
+  `README.md`, `requirements.txt` or the workflow. It is not required, and a publish skips it:
+  `validate` reads every record the suite does.
 
 `.github/workflows/pr-title.yml` checks the title, the other required check. Every pull request
 needs a semantic title, `<type>[(scope)][!]: <description>`, where type is one of `feat`, `fix`,
