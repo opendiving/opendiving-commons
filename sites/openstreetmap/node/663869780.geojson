@@ -16,12 +16,18 @@
         "identifier": "node/663869780"
       }
     ],
+    "other_names": [
+      "Aida"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Aida"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/663869780"
+        }
       }
     }
   }

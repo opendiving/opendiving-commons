@@ -16,12 +16,18 @@
         "identifier": "node/9412190379"
       }
     ],
+    "other_names": [
+      "Palong wall"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Palong wall"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9412190379"
+        }
       }
     }
   }

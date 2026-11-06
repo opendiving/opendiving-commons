@@ -16,12 +16,18 @@
         "identifier": "relation/19266691"
       }
     ],
+    "other_names": [
+      "Cannon Reef"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Cannon Reef"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "relation/19266691"
+        }
       }
     }
   }

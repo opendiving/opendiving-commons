@@ -16,12 +16,18 @@
         "identifier": "node/859428938"
       }
     ],
+    "other_names": [
+      "Twin Rocks"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Twin Rocks"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/859428938"
+        }
       }
     }
   }

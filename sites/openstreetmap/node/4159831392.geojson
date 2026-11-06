@@ -16,12 +16,18 @@
         "identifier": "node/4159831392"
       }
     ],
+    "other_names": [
+      "Crystal Lagoon"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Crystal Lagoon"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4159831392"
+        }
       }
     }
   }

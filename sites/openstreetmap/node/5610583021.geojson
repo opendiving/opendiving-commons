@@ -16,12 +16,18 @@
         "identifier": "node/5610583021"
       }
     ],
+    "other_names": [
+      "Little Brother Dive Site"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Little Brother Dive Site"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/5610583021"
+        }
       }
     }
   }

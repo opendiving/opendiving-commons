@@ -16,12 +16,18 @@
         "identifier": "node/6164080185"
       }
     ],
+    "other_names": [
+      "Koh Tachai Pinnacle"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Koh Tachai Pinnacle"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/6164080185"
+        }
       }
     }
   }

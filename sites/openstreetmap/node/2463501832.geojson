@@ -16,12 +16,18 @@
         "identifier": "node/2463501832"
       }
     ],
+    "other_names": [
+      "Purple Rock"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Purple Rock"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/2463501832"
+        }
       }
     }
   }

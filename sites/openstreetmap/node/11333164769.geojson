@@ -16,12 +16,18 @@
         "identifier": "node/11333164769"
       }
     ],
+    "other_names": [
+      "Ama Beach Mae"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Ama Beach Mae"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/11333164769"
+        }
       }
     }
   }

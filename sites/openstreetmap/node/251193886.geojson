@@ -16,12 +16,18 @@
         "identifier": "node/251193886"
       }
     ],
+    "other_names": [
+      "The Islands"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "The Islands"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/251193886"
+        }
       }
     }
   }

@@ -16,12 +16,18 @@
         "identifier": "node/865094388"
       }
     ],
+    "other_names": [
+      "Sail Rock"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Sail Rock"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/865094388"
+        }
       }
     }
   }

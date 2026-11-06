@@ -16,12 +16,18 @@
         "identifier": "node/11333164771"
       }
     ],
+    "other_names": [
+      "Agenashikueda Sango"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Agenashikueda Sango"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/11333164771"
+        }
       }
     }
   }

@@ -16,12 +16,18 @@
         "identifier": "node/4941394890"
       }
     ],
+    "other_names": [
+      "Deep Rock"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Deep Rock"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4941394890"
+        }
       }
     }
   }

@@ -16,12 +16,18 @@
         "identifier": "node/2463491455"
       }
     ],
+    "other_names": [
+      "Hin Bida"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Hin Bida"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/2463491455"
+        }
       }
     }
   }

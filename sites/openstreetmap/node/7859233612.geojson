@@ -16,12 +16,18 @@
         "identifier": "node/7859233612"
       }
     ],
+    "other_names": [
+      "Underwater path with antique vases and wreck"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Underwater path with antique vases and wreck"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/7859233612"
+        }
       }
     }
   }

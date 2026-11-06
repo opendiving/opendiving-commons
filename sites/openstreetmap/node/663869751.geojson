@@ -20,7 +20,11 @@
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
-        "retrieved": "2026-10-17"
+        "retrieved": "2026-10-17",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/663869751"
+        }
       }
     }
   }

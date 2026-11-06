@@ -21,7 +21,10 @@
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Turtle point"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/6750981689"
+        }
       }
     }
   }

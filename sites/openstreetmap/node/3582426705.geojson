@@ -16,12 +16,18 @@
         "identifier": "node/3582426705"
       }
     ],
+    "other_names": [
+      "Mango Bay"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Mango Bay"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/3582426705"
+        }
       }
     }
   }

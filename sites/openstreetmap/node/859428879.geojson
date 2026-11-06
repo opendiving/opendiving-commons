@@ -16,12 +16,18 @@
         "identifier": "node/859428879"
       }
     ],
+    "other_names": [
+      "Ao Tanot"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Ao Tanot"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/859428879"
+        }
       }
     }
   }

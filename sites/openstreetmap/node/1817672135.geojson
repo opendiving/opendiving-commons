@@ -16,12 +16,18 @@
         "identifier": "node/1817672135"
       }
     ],
+    "other_names": [
+      "Silfra Diving"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Silfra Diving"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/1817672135"
+        }
       }
     }
   }

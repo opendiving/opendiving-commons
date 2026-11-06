@@ -16,12 +16,18 @@
         "identifier": "node/14008485524"
       }
     ],
+    "other_names": [
+      "Viroi Underwater Cave"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Viroi Underwater Cave"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/14008485524"
+        }
       }
     }
   }

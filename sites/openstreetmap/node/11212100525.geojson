@@ -16,12 +16,18 @@
         "identifier": "node/11212100525"
       }
     ],
+    "other_names": [
+      "Archangelos Cave"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Archangelos Cave"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/11212100525"
+        }
       }
     }
   }

@@ -20,7 +20,11 @@
       "opendivingcommons": {
         "source": "wikidata",
         "license": "CC0-1.0",
-        "retrieved": "2026-10-17"
+        "retrieved": "2026-10-17",
+        "seeded_from": {
+          "registry": "wikidata",
+          "identifier": "Q14213697"
+        }
       }
     }
   }

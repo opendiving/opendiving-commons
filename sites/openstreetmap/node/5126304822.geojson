@@ -16,12 +16,18 @@
         "identifier": "node/5126304822"
       }
     ],
+    "other_names": [
+      "Marsa Mares Bay"
+    ],
     "extensions": {
       "opendivingcommons": {
         "source": "openstreetmap",
         "license": "ODbL-1.0",
         "retrieved": "2026-10-17",
-        "name_en": "Marsa Mares Bay"
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/5126304822"
+        }
       }
     }
   }
