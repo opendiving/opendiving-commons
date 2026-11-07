@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.965483,
+      32.211313
+    ]
+  },
+  "properties": {
+    "uuid": "84841cac-4627-51a6-ba10-e4249306785d",
+    "name": "Uribe 121",
+    "location": {
+      "name": "Baja California, Mexico"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6148417567"
+      }
+    ],
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/6148417567"
+        }
+      }
+    }
+  }
+}

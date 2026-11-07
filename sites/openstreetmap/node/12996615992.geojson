@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.56596,
+      9.0254
+    ]
+  },
+  "properties": {
+    "uuid": "b63f1f9d-5bb5-5aa1-82da-07a804640857",
+    "name": "Eller Island Wreck #2",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12996615992"
+      }
+    ],
+    "depth_to": 6.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12996615992"
+        }
+      }
+    }
+  }
+}

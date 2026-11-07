@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73908,
+      8.84416
+    ]
+  },
+  "properties": {
+    "uuid": "68b00322-8036-5990-8d48-73423faaba29",
+    "name": "Gugeegue Rubble #1",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12996615988"
+      }
+    ],
+    "depth_to": 12.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12996615988"
+        }
+      }
+    }
+  }
+}

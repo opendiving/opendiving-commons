@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.4397,
+      9.34998
+    ]
+  },
+  "properties": {
+    "uuid": "55539c0d-2edb-5760-a02b-6437f032c269",
+    "name": "F4U Corsair",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845238699"
+      }
+    ],
+    "depth_to": 35.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845238699"
+        }
+      }
+    }
+  }
+}

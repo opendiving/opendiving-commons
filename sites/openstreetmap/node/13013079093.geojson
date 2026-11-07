@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.66106,
+      8.77188
+    ]
+  },
+  "properties": {
+    "uuid": "874a1451-a473-5cf4-916b-d8b8b79d588e",
+    "name": "South Pass CHA",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13013079093"
+      }
+    ],
+    "depth_to": 21.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13013079093"
+        }
+      }
+    }
+  }
+}

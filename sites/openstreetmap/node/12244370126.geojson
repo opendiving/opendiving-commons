@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      17.96899,
+      69.201842
+    ]
+  },
+  "properties": {
+    "uuid": "72291b4e-dea7-590d-8f66-50b8321e5432",
+    "name": "MS Tirranna",
+    "location": {
+      "name": "Troms, Norway"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12244370126"
+      }
+    ],
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12244370126"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.762658,
+      42.570539
+    ]
+  },
+  "properties": {
+    "uuid": "d6d82f4a-e33c-5b44-9f78-20d5c90f1d06",
+    "name": "Boeing B-17 Flying Fortress",
+    "location": {
+      "name": "Haute-Corse, France"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2950808499"
+      }
+    ],
+    "depth_from": 25.0,
+    "depth_to": 28.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/2950808499"
+        }
+      }
+    }
+  }
+}

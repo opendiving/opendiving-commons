@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73468,
+      8.78105
+    ]
+  },
+  "properties": {
+    "uuid": "6e4ed1c5-73e2-567c-9364-97e6d1963d84",
+    "name": "Ebeye Mavis #2",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027828"
+      }
+    ],
+    "depth_to": 21.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027828"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.579413,
+      45.554195
+    ]
+  },
+  "properties": {
+    "uuid": "c37eda22-2251-5b77-8603-4c96fbfb6adc",
+    "name": "DTM-Kec",
+    "location": {
+      "name": "Piran, Slovenia"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5169048896"
+      }
+    ],
+    "depth_to": 24.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/5169048896"
+        }
+      }
+    }
+  }
+}

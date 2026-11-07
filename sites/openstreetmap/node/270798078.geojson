@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.066742,
+      50.072791
+    ]
+  },
+  "properties": {
+    "uuid": "aac51b8e-4477-579b-8c20-5ca4b6db2b7e",
+    "name": "Volnay",
+    "location": {
+      "name": "Cornwall, United Kingdom"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270798078"
+      }
+    ],
+    "depth_to": 19.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/270798078"
+        }
+      }
+    }
+  }
+}

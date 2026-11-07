@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72493,
+      8.74406
+    ]
+  },
+  "properties": {
+    "uuid": "8baa5611-b2eb-5932-99eb-9f8b12ba7644",
+    "name": "Akibasan Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245621"
+      }
+    ],
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245621"
+        }
+      }
+    }
+  }
+}

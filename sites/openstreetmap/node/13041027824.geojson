@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72145,
+      8.73025
+    ]
+  },
+  "properties": {
+    "uuid": "c0c549d9-539e-5bdb-9c49-dd188fea38ca",
+    "name": "GBR Rubble Wreck #2",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027824"
+      }
+    ],
+    "depth_to": 21.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027824"
+        }
+      }
+    }
+  }
+}

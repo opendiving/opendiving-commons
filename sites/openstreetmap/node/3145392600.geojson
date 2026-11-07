@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.581357,
+      44.385035
+    ]
+  },
+  "properties": {
+    "uuid": "3333798b-62ed-5a37-ba5b-d284ab013590",
+    "name": "Relitto della piattaforma Paguro",
+    "location": {
+      "name": "Ravenna, Italy"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3145392600"
+      }
+    ],
+    "depth_to": 8.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/3145392600"
+        }
+      }
+    }
+  }
+}

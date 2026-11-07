@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.08416,
+      43.006409
+    ]
+  },
+  "properties": {
+    "uuid": "2c561429-84b0-5f03-92ee-e2c3eade2f7a",
+    "name": "Ville de Grasse",
+    "location": {
+      "name": "Var, France"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/686686503"
+      }
+    ],
+    "depth_to": 50.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/686686503"
+        }
+      }
+    }
+  }
+}

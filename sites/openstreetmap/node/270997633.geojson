@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.497979,
+      19.788851
+    ]
+  },
+  "properties": {
+    "uuid": "05bc21d8-20a8-591c-9ba7-6c0020519b1d",
+    "name": "Zingara",
+    "location": {
+      "name": "Puerto Plata, Dominican Republic"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270997633"
+      }
+    ],
+    "depth_to": 35.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/270997633"
+        }
+      }
+    }
+  }
+}

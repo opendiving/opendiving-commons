@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72611,
+      8.77823
+    ]
+  },
+  "properties": {
+    "uuid": "446bfac0-eca1-5302-b9aa-e693e0469a05",
+    "name": "Jake #2",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027821"
+      }
+    ],
+    "depth_to": 39.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027821"
+        }
+      }
+    }
+  }
+}

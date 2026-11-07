@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72608,
+      8.77648
+    ]
+  },
+  "properties": {
+    "uuid": "517fbc6d-4cdc-5479-9102-0efe8d3fea1f",
+    "name": "Millar Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027819"
+      }
+    ],
+    "depth_to": 39.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027819"
+        }
+      }
+    }
+  }
+}

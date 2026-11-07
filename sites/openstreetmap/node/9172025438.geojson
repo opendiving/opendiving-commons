@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.279132,
+      14.807877
+    ]
+  },
+  "properties": {
+    "uuid": "9a1ff92c-ba57-54c7-9eae-13b45de0f151",
+    "name": "USS Rochester",
+    "location": {
+      "name": "Olongapo, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172025438"
+      }
+    ],
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172025438"
+        }
+      }
+    }
+  }
+}

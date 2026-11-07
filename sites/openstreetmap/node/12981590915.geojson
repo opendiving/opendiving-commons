@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71955,
+      8.72958
+    ]
+  },
+  "properties": {
+    "uuid": "9601d199-6e84-55b8-b683-9ca31e42528c",
+    "name": "Britain Upright",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590915"
+      }
+    ],
+    "depth_to": 15.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590915"
+        }
+      }
+    }
+  }
+}

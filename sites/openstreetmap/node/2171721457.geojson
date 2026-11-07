@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.323346,
+      48.064307
+    ]
+  },
+  "properties": {
+    "uuid": "6e87a6bc-a826-5072-b6fb-64db44dac4c2",
+    "name": "Algoma",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2171721457"
+      }
+    ],
+    "depth_from": 3.0,
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/2171721457"
+        }
+      }
+    }
+  }
+}

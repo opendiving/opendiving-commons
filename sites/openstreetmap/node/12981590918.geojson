@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.7309,
+      8.79985
+    ]
+  },
+  "properties": {
+    "uuid": "20e676a0-f39c-5159-adda-d31e29548f73",
+    "name": "South Loi Wreck",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590918"
+      }
+    ],
+    "depth_to": 12.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590918"
+        }
+      }
+    }
+  }
+}

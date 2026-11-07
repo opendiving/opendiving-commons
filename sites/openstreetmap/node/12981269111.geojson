@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73033,
+      8.74148
+    ]
+  },
+  "properties": {
+    "uuid": "3297f63c-cd81-56d0-9a1a-375ac136f716",
+    "name": "N-North LCM #1",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981269111"
+      }
+    ],
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981269111"
+        }
+      }
+    }
+  }
+}

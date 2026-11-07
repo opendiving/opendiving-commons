@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.68216,
+      8.7525
+    ]
+  },
+  "properties": {
+    "uuid": "180fcd6e-c2d0-5529-af44-49b826c8f56b",
+    "name": "Ainemman",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245622"
+      }
+    ],
+    "depth_to": 10.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245622"
+        }
+      }
+    }
+  }
+}

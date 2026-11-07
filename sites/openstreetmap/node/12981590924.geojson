@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71765,
+      8.7355
+    ]
+  },
+  "properties": {
+    "uuid": "793bffd4-b020-5ca3-93f8-d4210c5e88a4",
+    "name": "Parker/Fortin LCM #1",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590924"
+      }
+    ],
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590924"
+        }
+      }
+    }
+  }
+}

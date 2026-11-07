@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.220837,
+      14.692782
+    ]
+  },
+  "properties": {
+    "uuid": "32823ff7-84a1-584f-8bcb-617f1ed533aa",
+    "name": "F4",
+    "location": {
+      "name": "Bataan, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172205760"
+      }
+    ],
+    "depth_to": 44.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172205760"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73623,
+      8.83616
+    ]
+  },
+  "properties": {
+    "uuid": "420a1e4c-fff0-5b01-b1e0-c76ad88dc245",
+    "name": "Shell Island Wreck",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13013079094"
+      }
+    ],
+    "depth_to": 21.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13013079094"
+        }
+      }
+    }
+  }
+}

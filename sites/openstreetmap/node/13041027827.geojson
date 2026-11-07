@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73551,
+      8.7771
+    ]
+  },
+  "properties": {
+    "uuid": "d107570b-9cef-5ffa-a45b-20ce539ae673",
+    "name": "Ebeye Small Barge",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027827"
+      }
+    ],
+    "depth_to": 9.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027827"
+        }
+      }
+    }
+  }
+}

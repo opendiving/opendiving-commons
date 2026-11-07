@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72846,
+      8.77643
+    ]
+  },
+  "properties": {
+    "uuid": "2328fe0b-2c1b-54fa-9739-1d3a228e4182",
+    "name": "Ebeye Pontoon Barge",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590910"
+      }
+    ],
+    "depth_to": 39.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590910"
+        }
+      }
+    }
+  }
+}

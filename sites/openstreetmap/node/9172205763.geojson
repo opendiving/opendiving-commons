@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.281973,
+      14.809689
+    ]
+  },
+  "properties": {
+    "uuid": "22430d28-d887-5137-a078-30f2656ba1ee",
+    "name": "IJN Seian Maru",
+    "location": {
+      "name": "Olongapo, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172205763"
+      }
+    ],
+    "depth_to": 27.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172205763"
+        }
+      }
+    }
+  }
+}

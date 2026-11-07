@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.4686,
+      9.37805
+    ]
+  },
+  "properties": {
+    "uuid": "0cd32900-a142-5f2d-9f8e-06beadf4c438",
+    "name": "Eiko Maru #2",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845269504"
+      }
+    ],
+    "depth_to": 19.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845269504"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.625414,
+      -19.307348
+    ]
+  },
+  "properties": {
+    "uuid": "1011825c-2902-5afc-a852-f8914530521d",
+    "name": "SS Yongala",
+    "location": {
+      "name": "Queensland, Australia"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/579671114"
+      }
+    ],
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/579671114"
+        }
+      }
+    }
+  }
+}

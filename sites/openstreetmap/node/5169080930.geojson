@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.688378,
+      45.549826
+    ]
+  },
+  "properties": {
+    "uuid": "e3549eda-6133-5039-98b1-114b8e3ad0e1",
+    "name": "Rex",
+    "location": {
+      "name": "Izola, Slovenia"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5169080930"
+      }
+    ],
+    "depth_to": 15.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/5169080930"
+        }
+      }
+    }
+  }
+}

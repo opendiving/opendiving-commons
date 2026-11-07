@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73453,
+      8.83313
+    ]
+  },
+  "properties": {
+    "uuid": "59f7e7cf-ee7e-55e9-988d-141271d26f95",
+    "name": "Huff Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12996615987"
+      }
+    ],
+    "depth_to": 37.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12996615987"
+        }
+      }
+    }
+  }
+}

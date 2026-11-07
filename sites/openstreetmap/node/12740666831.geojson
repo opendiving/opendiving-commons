@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.733301,
+      8.737127
+    ]
+  },
+  "properties": {
+    "uuid": "0930a69a-0bb1-598d-ab63-9eecaa133aea",
+    "name": "Ski Area CHA",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12740666831"
+      }
+    ],
+    "depth_to": 19.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12740666831"
+        }
+      }
+    }
+  }
+}

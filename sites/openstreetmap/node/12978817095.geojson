@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72138,
+      8.7325
+    ]
+  },
+  "properties": {
+    "uuid": "35944902-7810-5c31-b161-a3e8bb17dbe0",
+    "name": "Funky Barge",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12978817095"
+      }
+    ],
+    "depth_to": 19.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12978817095"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.41648,
+      9.32476
+    ]
+  },
+  "properties": {
+    "uuid": "a8a40ed7-1932-5dd0-bb94-a814bc044edd",
+    "name": "Sand Island Wreck",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845238698"
+      }
+    ],
+    "depth_to": 26.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845238698"
+        }
+      }
+    }
+  }
+}

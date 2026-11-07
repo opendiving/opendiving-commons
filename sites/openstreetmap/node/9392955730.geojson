@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.041884,
+      34.6538
+    ]
+  },
+  "properties": {
+    "uuid": "470df38e-7d02-5e07-9580-0ec8a0f157fd",
+    "name": "Farsas II",
+    "location": {
+      "name": "Limassol, Cyprus"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9392955730"
+      }
+    ],
+    "depth_to": 11.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9392955730"
+        }
+      }
+    }
+  }
+}

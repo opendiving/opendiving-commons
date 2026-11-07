@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72353,
+      8.74033
+    ]
+  },
+  "properties": {
+    "uuid": "8b63b8a5-b6ee-50cd-9a81-9ab2e27c4b4e",
+    "name": "Shoei Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245613"
+      }
+    ],
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245613"
+        }
+      }
+    }
+  }
+}

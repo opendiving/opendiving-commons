@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.7218,
+      8.7479
+    ]
+  },
+  "properties": {
+    "uuid": "03a42058-9a93-55d5-b56b-09cdc38a5f1d",
+    "name": "Ikuta Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245616"
+      }
+    ],
+    "depth_to": 45.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245616"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.281922,
+      14.812614
+    ]
+  },
+  "properties": {
+    "uuid": "192267d1-619c-5c57-9674-d61ad9be5cc8",
+    "name": "SS Oryoku Maru",
+    "location": {
+      "name": "Olongapo, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172116651"
+      }
+    ],
+    "depth_to": 22.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172116651"
+        }
+      }
+    }
+  }
+}

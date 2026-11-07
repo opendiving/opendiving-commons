@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71898,
+      8.73126
+    ]
+  },
+  "properties": {
+    "uuid": "8376caaf-e0cc-5ca2-b5c4-06599ea74419",
+    "name": "Parker/Wallace Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590922"
+      }
+    ],
+    "depth_to": 18.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590922"
+        }
+      }
+    }
+  }
+}

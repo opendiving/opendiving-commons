@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.41844,
+      55.563981
+    ]
+  },
+  "properties": {
+    "uuid": "ebb9f292-5fab-5597-a9e2-68c7f52c2c99",
+    "name": "Villon",
+    "location": {
+      "name": "Skåne, Sweden"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/330616802"
+      }
+    ],
+    "depth_to": 17.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/330616802"
+        }
+      }
+    }
+  }
+}

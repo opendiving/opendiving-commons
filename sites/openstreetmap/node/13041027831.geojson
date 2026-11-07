@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.68396,
+      8.75166
+    ]
+  },
+  "properties": {
+    "uuid": "36e2f76f-30ec-54bc-a30f-3dcb18faea7f",
+    "name": "Carlson Barge",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027831"
+      }
+    ],
+    "depth_to": 9.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027831"
+        }
+      }
+    }
+  }
+}

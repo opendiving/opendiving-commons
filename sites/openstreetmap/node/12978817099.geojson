@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72113,
+      8.73168
+    ]
+  },
+  "properties": {
+    "uuid": "8c70ab63-1b4a-5fff-9a48-966fa17a41f7",
+    "name": "Curry/Zurick LCM",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12978817099"
+      }
+    ],
+    "depth_to": 18.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12978817099"
+        }
+      }
+    }
+  }
+}

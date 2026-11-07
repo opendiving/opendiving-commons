@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73923,
+      8.84705
+    ]
+  },
+  "properties": {
+    "uuid": "d7928dca-230f-56c1-a10c-3a30a0d758e2",
+    "name": "Taiyo Maru No. 2",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245611"
+      }
+    ],
+    "depth_to": 30.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245611"
+        }
+      }
+    }
+  }
+}

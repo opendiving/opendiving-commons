@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.255883,
+      14.767246
+    ]
+  },
+  "properties": {
+    "uuid": "8d311438-25a4-58e3-b872-92c06ee3b39b",
+    "name": "USS Majaba (El Capitan)",
+    "location": {
+      "name": "Bataan, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172028879"
+      }
+    ],
+    "depth_to": 20.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172028879"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.78,
+      -41.353
+    ]
+  },
+  "properties": {
+    "uuid": "31b3bff3-8448-53a9-8d94-59aac02cff24",
+    "name": "Wellington",
+    "location": {
+      "name": "Wellington, New Zealand"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9231686991"
+      }
+    ],
+    "depth_to": 6.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9231686991"
+        }
+      }
+    }
+  }
+}

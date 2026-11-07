@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.672222,
+      56.449444
+    ]
+  },
+  "properties": {
+    "uuid": "1a9edd34-7852-5c89-b59d-82c0fe686f96",
+    "name": "Kronan",
+    "location": {
+      "name": "Kalmar, Sweden"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6516992721"
+      }
+    ],
+    "depth_to": 26.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/6516992721"
+        }
+      }
+    }
+  }
+}

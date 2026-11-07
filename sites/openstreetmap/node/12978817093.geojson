@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.74083,
+      8.84838
+    ]
+  },
+  "properties": {
+    "uuid": "94e232f8-b52d-5ba5-a463-6cbcebfa5c91",
+    "name": "Gugeegue Pier Wreck",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12978817093"
+      }
+    ],
+    "depth_to": 6.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12978817093"
+        }
+      }
+    }
+  }
+}

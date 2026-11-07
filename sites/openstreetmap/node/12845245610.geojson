@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71691,
+      8.74088
+    ]
+  },
+  "properties": {
+    "uuid": "b2c7fff7-f776-5312-9980-10148d4dfc3f",
+    "name": "Tateyama Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245610"
+      }
+    ],
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245610"
+        }
+      }
+    }
+  }
+}

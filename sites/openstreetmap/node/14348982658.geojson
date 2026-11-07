@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.030077,
+      26.724598
+    ]
+  },
+  "properties": {
+    "uuid": "8ac5a94d-d80e-5ac0-8436-37856f9fae22",
+    "name": "エモンズ",
+    "location": {
+      "name": "Okinawa Prefecture, Japan"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14348982658"
+      }
+    ],
+    "other_names": [
+      "USS Emmons"
+    ],
+    "depth_to": 45.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/14348982658"
+        }
+      }
+    }
+  }
+}

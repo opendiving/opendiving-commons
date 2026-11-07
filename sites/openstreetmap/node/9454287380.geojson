@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.655646,
+      34.8954
+    ]
+  },
+  "properties": {
+    "uuid": "16a8b5d6-f63f-592b-81ee-f87caf582ef5",
+    "name": "Alexandria",
+    "location": {
+      "name": "Larnaca, Cyprus"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9454287380"
+      }
+    ],
+    "depth_to": 21.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9454287380"
+        }
+      }
+    }
+  }
+}

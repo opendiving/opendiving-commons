@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.093971,
+      42.250272
+    ]
+  },
+  "properties": {
+    "uuid": "19c96edc-acb8-5f93-a6cd-004d91eb8da0",
+    "name": "Relitto cargo \"Anna Bianca\"",
+    "location": {
+      "name": "Grosseto, Italy"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8617667026"
+      }
+    ],
+    "depth_to": 42.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/8617667026"
+        }
+      }
+    }
+  }
+}

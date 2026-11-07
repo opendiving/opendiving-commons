@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.133447,
+      47.536282
+    ]
+  },
+  "properties": {
+    "uuid": "1b25027d-ad8e-5d64-adda-2ddfba9f60a5",
+    "name": "S.S. America",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/2171748489"
+      }
+    ],
+    "depth_from": 1.0,
+    "depth_to": 25.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/2171748489"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.203091,
+      -41.048742
+    ]
+  },
+  "properties": {
+    "uuid": "686a1732-6838-5f28-ba6f-990deb3b3589",
+    "name": "MS Mikhail Lermontov",
+    "location": {
+      "name": "Marlborough, New Zealand"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9236801064"
+      }
+    ],
+    "depth_from": 11.2,
+    "depth_to": 38.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9236801064"
+        }
+      }
+    }
+  }
+}

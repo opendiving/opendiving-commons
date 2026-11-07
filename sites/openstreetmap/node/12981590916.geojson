@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72235,
+      8.73013
+    ]
+  },
+  "properties": {
+    "uuid": "3bb3e07b-6456-569a-8977-84a1e2e849bf",
+    "name": "Bishop Inverted",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590916"
+      }
+    ],
+    "depth_to": 15.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590916"
+        }
+      }
+    }
+  }
+}
