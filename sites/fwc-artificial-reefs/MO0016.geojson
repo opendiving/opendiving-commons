@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.768783,
+      24.436867
+    ]
+  },
+  "properties": {
+    "uuid": "8b7cbf7f-ffc3-5f1e-9ee4-ad56805cdef1",
+    "name": "USS Curb",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 38.1,
+    "depth_to": 56.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MO0016"
+        }
+      }
+    }
+  }
+}

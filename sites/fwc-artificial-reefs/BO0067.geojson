@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.068,
+      26.319667
+    ]
+  },
+  "properties": {
+    "uuid": "5dcc8f21-1cd1-57fe-8594-b2c9a7a848af",
+    "name": "Pennel's Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 7.9,
+    "depth_to": 9.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0067"
+        }
+      }
+    }
+  }
+}

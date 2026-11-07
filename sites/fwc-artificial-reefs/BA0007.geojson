@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.64405,
+      29.295683
+    ]
+  },
+  "properties": {
+    "uuid": "f2490777-4de0-5473-9c51-e857ca5d55e9",
+    "name": "Zinnia",
+    "depth_from": 48.8,
+    "depth_to": 57.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0007"
+        }
+      }
+    }
+  }
+}

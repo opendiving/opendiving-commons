@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.22775,
+      30.136467
+    ]
+  },
+  "properties": {
+    "uuid": "7936867d-3ccc-5049-bff2-b7562de3e9da",
+    "name": "Heron Tugboat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 23.2,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0031"
+        }
+      }
+    }
+  }
+}

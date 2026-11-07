@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.62687,
+      30.14723
+    ]
+  },
+  "properties": {
+    "uuid": "6cbaa251-0e76-59ef-9447-d67381ed4af8",
+    "name": "Chepanoc - Starfish Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 24.1,
+    "depth_to": 32.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0105"
+        }
+      }
+    }
+  }
+}

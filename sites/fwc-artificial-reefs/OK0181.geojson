@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.3704,
+      30.1557
+    ]
+  },
+  "properties": {
+    "uuid": "f7e13751-7a28-5639-a39a-9312d4a14a9c",
+    "name": "Monica Lee Tugboat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 29.6,
+    "depth_to": 35.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0181"
+        }
+      }
+    }
+  }
+}

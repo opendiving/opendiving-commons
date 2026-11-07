@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.32712,
+      45.32618
+    ]
+  },
+  "properties": {
+    "uuid": "136b0667-ad47-5307-b4b0-2fd80e004275",
+    "name": "Cornelia B. Windiate",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 55.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "cornelia-b-windiate"
+        }
+      }
+    }
+  }
+}

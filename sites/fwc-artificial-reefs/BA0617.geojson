@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.938538,
+      30.050189
+    ]
+  },
+  "properties": {
+    "uuid": "645711a1-1c03-5298-80c1-36484d06c1bf",
+    "name": "Capt. Hornblower Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 24.1,
+    "depth_to": 29.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0617"
+        }
+      }
+    }
+  }
+}

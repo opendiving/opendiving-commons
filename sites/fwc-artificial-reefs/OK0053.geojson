@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.385083,
+      30.264
+    ]
+  },
+  "properties": {
+    "uuid": "526bfc97-58a0-5e0e-b9b5-2f126bee6a15",
+    "name": "M/V Janet- Fish Haven #6",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 19.2,
+    "depth_to": 28.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0053"
+        }
+      }
+    }
+  }
+}

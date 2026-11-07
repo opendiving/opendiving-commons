@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.19658,
+      45.03045
+    ]
+  },
+  "properties": {
+    "uuid": "7d6f9bf0-0640-53bb-b513-4259467eb06b",
+    "name": "Monohansett",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 5.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "monohansett"
+        }
+      }
+    }
+  }
+}

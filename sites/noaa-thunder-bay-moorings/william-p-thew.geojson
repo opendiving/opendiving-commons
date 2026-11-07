@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.153,
+      45.0454
+    ]
+  },
+  "properties": {
+    "uuid": "5094646f-87d7-5d72-bc7e-15a5340a8e62",
+    "name": "William P. Thew",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 25.6,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "william-p-thew"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.611433,
+      30.123033
+    ]
+  },
+  "properties": {
+    "uuid": "fa189c60-e78e-5630-bd9b-45b9f69d837f",
+    "name": "M/V Angelina B.",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 29.0,
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0073"
+        }
+      }
+    }
+  }
+}

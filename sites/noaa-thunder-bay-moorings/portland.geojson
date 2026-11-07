@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.407,
+      45.2488
+    ]
+  },
+  "properties": {
+    "uuid": "cdff7812-0787-51d4-96e4-80a513a668e4",
+    "name": "Portland",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 1.8,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "portland"
+        }
+      }
+    }
+  }
+}

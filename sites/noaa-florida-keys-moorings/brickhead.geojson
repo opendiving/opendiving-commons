@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.055267,
+      24.679167
+    ]
+  },
+  "properties": {
+    "uuid": "a7fd32d7-ecd0-5a51-88c1-20248afab717",
+    "name": "Brickhead",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "brickhead"
+        }
+      }
+    }
+  }
+}

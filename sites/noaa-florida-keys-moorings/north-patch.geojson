@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.197769,
+      25.312599
+    ]
+  },
+  "properties": {
+    "uuid": "4adf6ac2-a230-57f6-a69a-8c8b0a3f16c3",
+    "name": "North Patch",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 5.8,
+    "depth_to": 8.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "north-patch"
+        }
+      }
+    }
+  }
+}

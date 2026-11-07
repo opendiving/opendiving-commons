@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.130383,
+      25.367117
+    ]
+  },
+  "properties": {
+    "uuid": "0dbfb357-acad-5398-99c4-09e74767b7d5",
+    "name": "Hugo's April Fool",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 38.1,
+    "depth_to": 44.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0080"
+        }
+      }
+    }
+  }
+}

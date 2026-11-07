@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.672933,
+      30.1467
+    ]
+  },
+  "properties": {
+    "uuid": "622f8328-8a0e-5ed1-a4ed-d7feaa4a1ee0",
+    "name": "Bob Reay Reef-Belize Queen",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 23.5,
+    "depth_to": 34.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0085"
+        }
+      }
+    }
+  }
+}

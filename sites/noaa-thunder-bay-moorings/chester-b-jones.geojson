@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.766,
+      45.4103
+    ]
+  },
+  "properties": {
+    "uuid": "7bc22eb8-fc78-5733-9905-7f2ed94baacf",
+    "name": "Chester B. Jones",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 4.9,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "chester-b-jones"
+        }
+      }
+    }
+  }
+}

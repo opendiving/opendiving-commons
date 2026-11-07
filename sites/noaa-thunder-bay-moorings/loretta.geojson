@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.282,
+      44.8147
+    ]
+  },
+  "properties": {
+    "uuid": "1186058f-8ab5-5179-87f8-f84d0fea500e",
+    "name": "Loretta",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 2.1,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "loretta"
+        }
+      }
+    }
+  }
+}

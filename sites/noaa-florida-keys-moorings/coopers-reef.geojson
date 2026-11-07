@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.0625,
+      24.678333
+    ]
+  },
+  "properties": {
+    "uuid": "dc61b5bf-d735-5bcd-87e3-09a16c610c46",
+    "name": "Coopers Reef",
+    "depth_to": 16.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "coopers-reef"
+        }
+      }
+    }
+  }
+}

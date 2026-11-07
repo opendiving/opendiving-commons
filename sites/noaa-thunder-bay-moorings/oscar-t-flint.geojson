@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.347,
+      45.0261
+    ]
+  },
+  "properties": {
+    "uuid": "5933a456-59b9-5c26-8ebd-9dee4dfa42f2",
+    "name": "Oscar T. Flint",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 9.8,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "oscar-t-flint"
+        }
+      }
+    }
+  }
+}

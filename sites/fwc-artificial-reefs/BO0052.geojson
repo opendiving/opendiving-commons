@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.066,
+      26.23095
+    ]
+  },
+  "properties": {
+    "uuid": "1f673809-5375-56c8-adbd-557c7d388e20",
+    "name": "Captain Dan Garnsey",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 33.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0052"
+        }
+      }
+    }
+  }
+}

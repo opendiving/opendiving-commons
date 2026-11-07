@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.252,
+      45.0098
+    ]
+  },
+  "properties": {
+    "uuid": "6298d7dc-e342-5253-80ae-c3f590cb5556",
+    "name": "Galena",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 3.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "galena"
+        }
+      }
+    }
+  }
+}

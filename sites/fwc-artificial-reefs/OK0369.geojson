@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.391855,
+      30.127006
+    ]
+  },
+  "properties": {
+    "uuid": "ea4eb120-4857-56fe-8c98-6bd7d9fa7008",
+    "name": "M/V Brannon",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 32.0,
+    "depth_to": 36.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0369"
+        }
+      }
+    }
+  }
+}

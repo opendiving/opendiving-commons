@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.079383,
+      26.159317
+    ]
+  },
+  "properties": {
+    "uuid": "d0ec9d88-7c65-55c9-857e-bee094b5b783",
+    "name": "Ken Vitale, Formaly The \"Tracy\"",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 12.5,
+    "depth_to": 21.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0095"
+        }
+      }
+    }
+  }
+}

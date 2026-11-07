@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.5595,
+      30.1268
+    ]
+  },
+  "properties": {
+    "uuid": "3ab75f00-0f8f-5ca8-bc98-0e8a2e929b13",
+    "name": "Navy Drydock",
+    "depth_to": 38.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SJ0016"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.330655,
+      30.071822
+    ]
+  },
+  "properties": {
+    "uuid": "cdb52a0b-a858-5991-92b6-d10316206685",
+    "name": "M/V NEKTON RORQUAL",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 28.0,
+    "depth_to": 40.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0546"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.078833,
+      25.690833
+    ]
+  },
+  "properties": {
+    "uuid": "bbac31e6-fb97-5f5d-8e02-e721ac4c1052",
+    "name": "Lady Free Schooner",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 16.8,
+    "depth_to": 18.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0063"
+        }
+      }
+    }
+  }
+}

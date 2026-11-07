@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.093384,
+      24.637733
+    ]
+  },
+  "properties": {
+    "uuid": "50bd12af-ac54-5c48-b43b-2b2e994cf208",
+    "name": "North America",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 4.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "north-america"
+        }
+      }
+    }
+  }
+}

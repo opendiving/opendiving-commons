@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.19783,
+      25.233767
+    ]
+  },
+  "properties": {
+    "uuid": "bd7f5e4b-98fb-5b26-a006-ba05e67e31a6",
+    "name": "Carysfort Trench",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 17.7,
+    "depth_to": 18.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "carysfort-trench"
+        }
+      }
+    }
+  }
+}

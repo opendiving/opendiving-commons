@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0385,
+      26.479167
+    ]
+  },
+  "properties": {
+    "uuid": "08e7fb9e-ebd5-588f-b18c-50dd1a952e05",
+    "name": "Bud Bar",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 25.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0009"
+        }
+      }
+    }
+  }
+}

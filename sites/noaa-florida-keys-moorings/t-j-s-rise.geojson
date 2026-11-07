@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.033051,
+      24.68305
+    ]
+  },
+  "properties": {
+    "uuid": "ba6c1074-6466-5c84-a1be-952328869029",
+    "name": "T.J.’s Rise",
+    "depth_to": 22.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "t-j-s-rise"
+        }
+      }
+    }
+  }
+}

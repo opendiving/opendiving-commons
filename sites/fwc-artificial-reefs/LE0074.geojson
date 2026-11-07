@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.318333,
+      26.41975
+    ]
+  },
+  "properties": {
+    "uuid": "3538e6b7-4ed1-5072-8f92-92c1f72bda10",
+    "name": "Blanda's Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 11.3,
+    "depth_to": 13.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "LE0074"
+        }
+      }
+    }
+  }
+}

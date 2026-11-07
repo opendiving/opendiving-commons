@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.994683,
+      27.405567
+    ]
+  },
+  "properties": {
+    "uuid": "4816f7db-e898-5e41-a742-861c237b064f",
+    "name": "Stans Reef #1",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 57.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SL0008"
+        }
+      }
+    }
+  }
+}

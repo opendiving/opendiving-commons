@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.009169,
+      27.397005
+    ]
+  },
+  "properties": {
+    "uuid": "76a9e1b8-a718-5947-874d-c1f44f01f812",
+    "name": "Captain Patrick Price Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 50.3,
+    "depth_to": 56.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SL0083"
+        }
+      }
+    }
+  }
+}

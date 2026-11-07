@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.805833,
+      30.21305
+    ]
+  },
+  "properties": {
+    "uuid": "fe821148-05ad-546a-a4f6-c4e657947161",
+    "name": "J. Brown-Liberty Ship",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.3,
+    "depth_to": 25.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SR0001"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.013653,
+      27.405522
+    ]
+  },
+  "properties": {
+    "uuid": "3a940996-d93c-5f7b-b37f-ff6655f85e76",
+    "name": "A. A. Hendry Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 43.0,
+    "depth_to": 49.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SL0087"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.589867,
+      30.1252
+    ]
+  },
+  "properties": {
+    "uuid": "4e24513e-0475-5f1f-a1ca-a679df437465",
+    "name": "M/V Deborah",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 26.5,
+    "depth_to": 38.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0072"
+        }
+      }
+    }
+  }
+}

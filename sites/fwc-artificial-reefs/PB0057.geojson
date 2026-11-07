@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0099,
+      26.751233
+    ]
+  },
+  "properties": {
+    "uuid": "3d7dd481-927f-5207-b35f-3c21ebeac070",
+    "name": "Shasha Boekanier",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 15.2,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0057"
+        }
+      }
+    }
+  }
+}

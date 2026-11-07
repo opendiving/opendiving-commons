@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.391521,
+      30.126889
+    ]
+  },
+  "properties": {
+    "uuid": "b7e2c07d-9431-53fd-9561-e2642760c8c0",
+    "name": "M/V Miss Joann",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 25.6,
+    "depth_to": 36.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0374"
+        }
+      }
+    }
+  }
+}

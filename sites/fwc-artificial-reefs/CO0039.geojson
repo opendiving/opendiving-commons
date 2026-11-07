@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.843767,
+      26.0898
+    ]
+  },
+  "properties": {
+    "uuid": "efabf838-1761-5482-a7f1-6d67e286b9ff",
+    "name": "Santa Lucia",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 7.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "CO0039"
+        }
+      }
+    }
+  }
+}

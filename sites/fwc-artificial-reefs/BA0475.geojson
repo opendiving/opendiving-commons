@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.864126,
+      29.99565
+    ]
+  },
+  "properties": {
+    "uuid": "5d00378c-499d-53e6-9669-f150935d81a0",
+    "name": "Danny Grizzard",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 23.5,
+    "depth_to": 28.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0475"
+        }
+      }
+    }
+  }
+}

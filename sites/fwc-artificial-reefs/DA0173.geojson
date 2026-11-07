@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0858,
+      25.705767
+    ]
+  },
+  "properties": {
+    "uuid": "6d75eff4-36f6-5e73-ad6e-98fccb0c8e5f",
+    "name": "Ophelia Brian Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.3,
+    "depth_to": 33.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0173"
+        }
+      }
+    }
+  }
+}

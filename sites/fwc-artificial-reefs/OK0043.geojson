@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.412833,
+      30.1635
+    ]
+  },
+  "properties": {
+    "uuid": "1693cfe2-9b41-5944-a511-198305b71979",
+    "name": "DEP LAP Valp #2",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 29.3,
+    "depth_to": 32.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0043"
+        }
+      }
+    }
+  }
+}

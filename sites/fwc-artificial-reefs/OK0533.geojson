@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.758371,
+      30.105822
+    ]
+  },
+  "properties": {
+    "uuid": "6987058d-8f53-5caf-a1a6-9c8b72e5cf7a",
+    "name": "M/V Monarch Countess",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 24.4,
+    "depth_to": 54.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0533"
+        }
+      }
+    }
+  }
+}

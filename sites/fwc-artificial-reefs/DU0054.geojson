@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.221,
+      30.441
+    ]
+  },
+  "properties": {
+    "uuid": "f4382894-a68e-5c62-aca0-404d68d33858",
+    "name": "MR Site -Reliance",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 20.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0054"
+        }
+      }
+    }
+  }
+}

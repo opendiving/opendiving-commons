@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.31545,
+      45.29134
+    ]
+  },
+  "properties": {
+    "uuid": "99dda738-930f-56a6-9acb-941ffb837c42",
+    "name": "Typo",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 56.4,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "typo"
+        }
+      }
+    }
+  }
+}

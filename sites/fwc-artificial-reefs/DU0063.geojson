@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.90002,
+      30.372806
+    ]
+  },
+  "properties": {
+    "uuid": "53765481-ff3f-53ac-be42-b6399fc1c1ec",
+    "name": "Hl Site - Huggins",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0063"
+        }
+      }
+    }
+  }
+}

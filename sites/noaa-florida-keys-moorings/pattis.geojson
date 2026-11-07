@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.021118,
+      24.679449
+    ]
+  },
+  "properties": {
+    "uuid": "6a81bc99-1c3d-5c6b-8624-735622a33ee7",
+    "name": "Patti’s",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "pattis"
+        }
+      }
+    }
+  }
+}

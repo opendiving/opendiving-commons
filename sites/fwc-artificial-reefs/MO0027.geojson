@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.770903,
+      24.923554
+    ]
+  },
+  "properties": {
+    "uuid": "9cf87d84-f127-5775-a9c4-960e2f374b40",
+    "name": "Gunbor Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 7.9,
+    "depth_to": 15.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MO0027"
+        }
+      }
+    }
+  }
+}

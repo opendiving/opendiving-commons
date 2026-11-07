@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.622849,
+      24.846216
+    ]
+  },
+  "properties": {
+    "uuid": "4413886e-4e55-5879-8fad-1642308b1170",
+    "name": "Alligator",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.0,
+    "depth_to": 21.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "alligator"
+        }
+      }
+    }
+  }
+}

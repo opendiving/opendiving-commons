@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.15445,
+      27.200267
+    ]
+  },
+  "properties": {
+    "uuid": "9204cac8-7f29-5c72-aae7-31d563412720",
+    "name": "Schooner Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 4.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MI0003"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.084983,
+      25.822017
+    ]
+  },
+  "properties": {
+    "uuid": "4b4e2d97-7080-5df2-a675-71e2fbd0668c",
+    "name": "St Henry Express",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 28.3,
+    "depth_to": 34.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0118"
+        }
+      }
+    }
+  }
+}

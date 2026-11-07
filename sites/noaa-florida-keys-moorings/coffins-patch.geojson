@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.963501,
+      24.685432
+    ]
+  },
+  "properties": {
+    "uuid": "cdefa62d-328a-5a40-837f-472c8ae9aba8",
+    "name": "Coffins Patch",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.3,
+    "depth_to": 7.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "coffins-patch"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.859268,
+      24.45455
+    ]
+  },
+  "properties": {
+    "uuid": "68ecaa04-3ff6-530e-ac3d-de5bebae9061",
+    "name": "Rock Key",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 3.7,
+    "depth_to": 9.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "rock-key"
+        }
+      }
+    }
+  }
+}

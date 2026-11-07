@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.5196,
+      24.908266
+    ]
+  },
+  "properties": {
+    "uuid": "3dc287c3-9487-5d3d-9f2a-dfd5f9f465f5",
+    "name": "Crocker Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.9,
+    "depth_to": 17.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "crocker-reef"
+        }
+      }
+    }
+  }
+}

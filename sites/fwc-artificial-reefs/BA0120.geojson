@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.674433,
+      29.917767
+    ]
+  },
+  "properties": {
+    "uuid": "e26ea989-017b-503a-8072-8094a8ae4221",
+    "name": "Sherman X Tug Boat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.3,
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0120"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.032784,
+      24.681667
+    ]
+  },
+  "properties": {
+    "uuid": "f3ddfe3d-58f7-5e6b-aa06-66937abfbaf5",
+    "name": "Margarets Reef",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "margarets-reef"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.277783,
+      28.365217
+    ]
+  },
+  "properties": {
+    "uuid": "3aea05ec-34a3-5074-8530-4394181e85ff",
+    "name": "Tiger Red",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 25.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BE0002"
+        }
+      }
+    }
+  }
+}

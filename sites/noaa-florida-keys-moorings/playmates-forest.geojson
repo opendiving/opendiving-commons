@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.099968,
+      24.654917
+    ]
+  },
+  "properties": {
+    "uuid": "4a687394-e36f-59a2-bbfb-58e4b521a514",
+    "name": "playmates forest",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "playmates-forest"
+        }
+      }
+    }
+  }
+}

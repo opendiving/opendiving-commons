@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.573997,
+      24.895082
+    ]
+  },
+  "properties": {
+    "uuid": "d8b1c229-add0-5546-be20-b6bcdb4b03c1",
+    "name": "Rocky Top",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.9,
+    "depth_to": 6.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "rocky-top"
+        }
+      }
+    }
+  }
+}

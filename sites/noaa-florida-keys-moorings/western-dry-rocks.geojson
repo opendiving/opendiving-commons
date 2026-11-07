@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.927498,
+      24.444967
+    ]
+  },
+  "properties": {
+    "uuid": "e6e70175-79f0-5caf-a38a-36daa5e2de7a",
+    "name": "Western Dry Rocks",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.0,
+    "depth_to": 6.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "western-dry-rocks"
+        }
+      }
+    }
+  }
+}

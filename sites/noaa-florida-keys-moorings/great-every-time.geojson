@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.030266,
+      24.650833
+    ]
+  },
+  "properties": {
+    "uuid": "94b0eaa0-1b51-5a32-8180-b80fa31d4042",
+    "name": "Great Every time",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "great-every-time"
+        }
+      }
+    }
+  }
+}

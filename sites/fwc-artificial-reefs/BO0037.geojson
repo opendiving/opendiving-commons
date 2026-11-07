@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.045817,
+      26.206567
+    ]
+  },
+  "properties": {
+    "uuid": "4b520457-2649-535f-9fa9-92815e309830",
+    "name": "Rodeo Site - Miller Lite",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 32.0,
+    "depth_to": 47.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0037"
+        }
+      }
+    }
+  }
+}

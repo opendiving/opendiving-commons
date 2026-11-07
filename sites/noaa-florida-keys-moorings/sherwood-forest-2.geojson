@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.046883,
+      24.708651
+    ]
+  },
+  "properties": {
+    "uuid": "4c240ed9-c723-5efb-a3ce-7913c96ae2b3",
+    "name": "SHERWOOD FOREST 2",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "sherwood-forest-2"
+        }
+      }
+    }
+  }
+}

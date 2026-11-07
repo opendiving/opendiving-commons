@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.510517,
+      29.6737
+    ]
+  },
+  "properties": {
+    "uuid": "16114f06-80b1-5d48-90c1-a4e05113eaa6",
+    "name": "LST Port St. Joe",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 24.4,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "GU0013"
+        }
+      }
+    }
+  }
+}

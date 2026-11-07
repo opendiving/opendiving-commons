@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.021935,
+      24.666666
+    ]
+  },
+  "properties": {
+    "uuid": "9edc79c9-4471-538c-9fe1-24c538205d1a",
+    "name": "Dante’s Inferno",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "dantes-inferno"
+        }
+      }
+    }
+  }
+}

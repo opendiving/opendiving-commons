@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.087,
+      25.695833
+    ]
+  },
+  "properties": {
+    "uuid": "f93597fe-7b96-51ce-a10e-e7819a5cb410",
+    "name": "Belzona One",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 14.6,
+    "depth_to": 20.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0090"
+        }
+      }
+    }
+  }
+}

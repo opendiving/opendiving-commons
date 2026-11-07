@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.083167,
+      25.6995
+    ]
+  },
+  "properties": {
+    "uuid": "abd72345-b140-5b95-afd5-3a379df3efa9",
+    "name": "Etoile De Mer",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 39.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0140"
+        }
+      }
+    }
+  }
+}

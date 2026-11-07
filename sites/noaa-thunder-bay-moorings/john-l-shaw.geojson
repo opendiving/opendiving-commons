@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.149,
+      44.6225
+    ]
+  },
+  "properties": {
+    "uuid": "ecbae857-f4b9-5e1c-b021-435b9b07463b",
+    "name": "John L. Shaw",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 38.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "john-l-shaw"
+        }
+      }
+    }
+  }
+}

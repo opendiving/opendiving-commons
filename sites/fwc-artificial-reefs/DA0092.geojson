@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0901,
+      25.908717
+    ]
+  },
+  "properties": {
+    "uuid": "24f46a76-41a8-5f8e-bb23-727d6eea7a53",
+    "name": "C-One",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 10.7,
+    "depth_to": 20.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0092"
+        }
+      }
+    }
+  }
+}

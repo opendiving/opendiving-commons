@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.07917,
+      24.681667
+    ]
+  },
+  "properties": {
+    "uuid": "0760e5bb-3162-5794-aa31-cdb97fede648",
+    "name": "Bruce’s Bank",
+    "depth_to": 22.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "bruces-bank"
+        }
+      }
+    }
+  }
+}

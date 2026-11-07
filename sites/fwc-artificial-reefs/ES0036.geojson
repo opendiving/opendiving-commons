@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.2222,
+      30.132883
+    ]
+  },
+  "properties": {
+    "uuid": "4cc602a7-4c06-523a-821b-e047d913fed9",
+    "name": "Philip Tugboat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 23.2,
+    "depth_to": 29.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0036"
+        }
+      }
+    }
+  }
+}

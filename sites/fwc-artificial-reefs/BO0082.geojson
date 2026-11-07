@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.078433,
+      26.1686
+    ]
+  },
+  "properties": {
+    "uuid": "57179504-96a5-58be-b35e-0db89aaeaa07",
+    "name": "Site C - Bruce Mueller Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 19.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0082"
+        }
+      }
+    }
+  }
+}

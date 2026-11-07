@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.05333,
+      26.3198
+    ]
+  },
+  "properties": {
+    "uuid": "49167c7b-c655-5b4b-a7fd-65aaf349c231",
+    "name": "MV Miss Lourdies",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 30.2,
+    "depth_to": 42.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0072"
+        }
+      }
+    }
+  }
+}

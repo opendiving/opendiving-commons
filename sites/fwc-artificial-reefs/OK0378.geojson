@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.653205,
+      30.143839
+    ]
+  },
+  "properties": {
+    "uuid": "df585100-00fe-5bad-96d0-bb2d766ae403",
+    "name": "R/V MANTA",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.0,
+    "depth_to": 33.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0378"
+        }
+      }
+    }
+  }
+}

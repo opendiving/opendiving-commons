@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.80183,
+      27.20895
+    ]
+  },
+  "properties": {
+    "uuid": "f956db8c-75c7-50f0-812e-fc740b9cf13b",
+    "name": "Fallen Heroes Reef, M-8",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 16.2,
+    "depth_to": 19.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ST0017"
+        }
+      }
+    }
+  }
+}

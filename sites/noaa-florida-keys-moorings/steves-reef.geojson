@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.0336,
+      24.6525
+    ]
+  },
+  "properties": {
+    "uuid": "46536f8b-b4f1-59a7-babf-bb83dbd8b5f9",
+    "name": "Steve’s Reef",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "steves-reef"
+        }
+      }
+    }
+  }
+}

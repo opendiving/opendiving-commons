@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.291317,
+      27.696133
+    ]
+  },
+  "properties": {
+    "uuid": "7dcbe44e-4704-5d3f-b3c5-b9fe71acead6",
+    "name": "Silver Nail",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 27.1,
+    "depth_to": 30.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PI0418"
+        }
+      }
+    }
+  }
+}

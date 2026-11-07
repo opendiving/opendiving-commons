@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.186117,
+      26.759233
+    ]
+  },
+  "properties": {
+    "uuid": "126bd473-7c12-5b58-bc76-42a23c03c2d5",
+    "name": "Danger Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 1.8,
+    "depth_to": 3.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "CH0005"
+        }
+      }
+    }
+  }
+}

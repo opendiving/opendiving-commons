@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0725,
+      26.125333
+    ]
+  },
+  "properties": {
+    "uuid": "5a6b0670-e055-5ff3-932f-4e4d6970f7a4",
+    "name": "Monomy",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 18.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0003"
+        }
+      }
+    }
+  }
+}

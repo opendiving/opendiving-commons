@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.090617,
+      25.908883
+    ]
+  },
+  "properties": {
+    "uuid": "a47e2cb3-bc4e-58b9-a929-20e7ad80be13",
+    "name": "Carmen",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 13.7,
+    "depth_to": 19.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0132"
+        }
+      }
+    }
+  }
+}

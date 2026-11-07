@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.16967,
+      45.05633
+    ]
+  },
+  "properties": {
+    "uuid": "c44b690b-6ff5-5442-ac03-1583bea25268",
+    "name": "Lucinda Van Valkenburg",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 18.3,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "lucinda-van-valkenburg"
+        }
+      }
+    }
+  }
+}

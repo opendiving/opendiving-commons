@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.010367,
+      26.753183
+    ]
+  },
+  "properties": {
+    "uuid": "25c88974-a9b4-5ac8-800a-cbe18ba04f7f",
+    "name": "Gilbert Sea",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 15.2,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0059"
+        }
+      }
+    }
+  }
+}

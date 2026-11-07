@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.764801,
+      24.472116
+    ]
+  },
+  "properties": {
+    "uuid": "85f4f674-35e4-5c3d-83a3-f834170ca720",
+    "name": "9 Foot Stake",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 5.2,
+    "depth_to": 7.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "9-foot-stake"
+        }
+      }
+    }
+  }
+}

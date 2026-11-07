@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.038833,
+      26.478333
+    ]
+  },
+  "properties": {
+    "uuid": "53cc2a7b-703f-5a02-ae10-77a1f229e755",
+    "name": "Swordfish",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0028"
+        }
+      }
+    }
+  }
+}

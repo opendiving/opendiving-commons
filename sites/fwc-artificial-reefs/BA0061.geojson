@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.0949,
+      30.041533
+    ]
+  },
+  "properties": {
+    "uuid": "427a21b6-e532-56ec-a5cf-b87ce5a79ac5",
+    "name": "Grey Ghost - Blount",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 32.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0061"
+        }
+      }
+    }
+  }
+}

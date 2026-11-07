@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.377,
+      45.0625
+    ]
+  },
+  "properties": {
+    "uuid": "784d5598-1b6c-56ff-a41f-ad5f283cacfd",
+    "name": "Heart Failure",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 5.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "heart-failure"
+        }
+      }
+    }
+  }
+}

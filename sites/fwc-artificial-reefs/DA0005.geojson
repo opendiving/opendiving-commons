@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.082067,
+      25.83597
+    ]
+  },
+  "properties": {
+    "uuid": "3e08d69d-2899-51cd-9de3-cb4a088fcadb",
+    "name": "Pimelious",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 36.6,
+    "depth_to": 41.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0005"
+        }
+      }
+    }
+  }
+}

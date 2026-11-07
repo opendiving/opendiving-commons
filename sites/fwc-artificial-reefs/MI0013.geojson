@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.033833,
+      27.214267
+    ]
+  },
+  "properties": {
+    "uuid": "6e562fac-42b9-5c7d-96ef-9c1407b6a9cc",
+    "name": "Landing Craft-Sirotkin Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 19.5,
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MI0013"
+        }
+      }
+    }
+  }
+}

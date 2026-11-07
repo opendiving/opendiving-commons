@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.296951,
+      25.123417
+    ]
+  },
+  "properties": {
+    "uuid": "bf95de9d-6c59-50ac-9edb-b078ee6a9e99",
+    "name": "Key Largo Dry Rocks",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 3.7,
+    "depth_to": 9.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "key-largo-dry-rocks"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.6237,
+      29.70595
+    ]
+  },
+  "properties": {
+    "uuid": "27c1c589-b60e-5cc8-96e1-d1b55da37d0c",
+    "name": "One More Time",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 7.3,
+    "depth_to": 11.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "FR0017"
+        }
+      }
+    }
+  }
+}

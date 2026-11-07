@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.3401,
+      45.28957
+    ]
+  },
+  "properties": {
+    "uuid": "3ade3495-7e14-5427-9f0a-e3eb0e31affd",
+    "name": "John J. Audobon",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 50.0,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "john-j-audobon"
+        }
+      }
+    }
+  }
+}

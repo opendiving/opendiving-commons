@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.072633,
+      25.6699
+    ]
+  },
+  "properties": {
+    "uuid": "6947bb9d-c10f-50fa-bc42-fba3ff348394",
+    "name": "Miracles Express",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 14.3,
+    "depth_to": 16.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0073"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.831838,
+      30.105756
+    ]
+  },
+  "properties": {
+    "uuid": "81c801cc-6c74-5c51-9296-9e2dcb2c0f5b",
+    "name": "Black Pearl",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 16.5,
+    "depth_to": 22.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0620"
+        }
+      }
+    }
+  }
+}

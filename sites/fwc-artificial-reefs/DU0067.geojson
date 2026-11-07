@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.162833,
+      30.406333
+    ]
+  },
+  "properties": {
+    "uuid": "87e37f75-aee4-54a2-9a88-93c5c8f29903",
+    "name": "NM Site - Fishing Boat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 19.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0067"
+        }
+      }
+    }
+  }
+}

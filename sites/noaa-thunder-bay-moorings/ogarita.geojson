@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.218483,
+      45.1056
+    ]
+  },
+  "properties": {
+    "uuid": "c85c64a7-1973-5333-854a-2603433f968e",
+    "name": "Ogarita",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 9.1,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "ogarita"
+        }
+      }
+    }
+  }
+}

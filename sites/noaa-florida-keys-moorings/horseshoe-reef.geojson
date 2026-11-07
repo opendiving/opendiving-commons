@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.294067,
+      25.139717
+    ]
+  },
+  "properties": {
+    "uuid": "b2ce22b8-2c44-5413-a014-5a0f826dab02",
+    "name": "Horseshoe Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 5.2,
+    "depth_to": 7.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "horseshoe-reef"
+        }
+      }
+    }
+  }
+}

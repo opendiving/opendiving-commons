@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.11988,
+      45.02951
+    ]
+  },
+  "properties": {
+    "uuid": "9efb1f3c-292c-5ee5-aa2a-8f5860b0bf0f",
+    "name": "E. B. Allen",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 30.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "e-b-allen"
+        }
+      }
+    }
+  }
+}

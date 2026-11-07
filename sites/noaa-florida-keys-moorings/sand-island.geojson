@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.367401,
+      25.018484
+    ]
+  },
+  "properties": {
+    "uuid": "c259b3e9-3454-5ba5-8d5f-0ac76b8a8e5a",
+    "name": "Sand Island",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 5.5,
+    "depth_to": 6.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "sand-island"
+        }
+      }
+    }
+  }
+}

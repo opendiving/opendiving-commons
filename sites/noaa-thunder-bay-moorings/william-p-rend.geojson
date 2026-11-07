@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.392,
+      45.0623
+    ]
+  },
+  "properties": {
+    "uuid": "cc15e96f-bec7-5e03-9567-ba56473c46ae",
+    "name": "William P. Rend",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 5.2,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "william-p-rend"
+        }
+      }
+    }
+  }
+}

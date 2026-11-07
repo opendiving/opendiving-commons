@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.008333,
+      26.767
+    ]
+  },
+  "properties": {
+    "uuid": "ccd19c9a-d0bc-5a0c-a4c6-ff338bf695b1",
+    "name": "Eidsvag",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0010"
+        }
+      }
+    }
+  }
+}

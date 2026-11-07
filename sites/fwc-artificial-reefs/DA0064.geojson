@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.075533,
+      25.780067
+    ]
+  },
+  "properties": {
+    "uuid": "828c90e5-7063-50c8-80d0-7c87ce61e417",
+    "name": "African Queen",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 11.9,
+    "depth_to": 13.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0064"
+        }
+      }
+    }
+  }
+}

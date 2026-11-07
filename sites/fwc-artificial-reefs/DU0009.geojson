@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.185933,
+      30.336483
+    ]
+  },
+  "properties": {
+    "uuid": "c5ebfae1-d7df-590d-96ff-bb585a92518a",
+    "name": "PM Site - Banana and Pogey Boats",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 21.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0009"
+        }
+      }
+    }
+  }
+}

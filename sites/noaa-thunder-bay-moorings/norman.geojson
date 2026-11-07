@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.27904,
+      45.31162
+    ]
+  },
+  "properties": {
+    "uuid": "64e5ffae-0280-51b4-815d-372ebdca97f0",
+    "name": "Norman",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 59.4,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "norman"
+        }
+      }
+    }
+  }
+}

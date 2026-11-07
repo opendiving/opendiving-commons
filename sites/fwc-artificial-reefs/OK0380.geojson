@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.437321,
+      30.347139
+    ]
+  },
+  "properties": {
+    "uuid": "24d01645-8298-543f-899f-4b3584d0f352",
+    "name": "RMS CYCLOPS",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 13.7,
+    "depth_to": 21.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0380"
+        }
+      }
+    }
+  }
+}

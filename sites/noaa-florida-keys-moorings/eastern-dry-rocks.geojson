@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.845718,
+      24.459633
+    ]
+  },
+  "properties": {
+    "uuid": "bed27cfd-9bea-5d4f-a4aa-782eb9a7c3bf",
+    "name": "Eastern Dry Rocks",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 1.8,
+    "depth_to": 8.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "eastern-dry-rocks"
+        }
+      }
+    }
+  }
+}

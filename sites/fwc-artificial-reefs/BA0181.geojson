@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.854567,
+      29.968717
+    ]
+  },
+  "properties": {
+    "uuid": "b600ea64-a9f8-5ca9-8059-2214b5cf70ad",
+    "name": "Fami Tug #1",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 24.4,
+    "depth_to": 30.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0181"
+        }
+      }
+    }
+  }
+}

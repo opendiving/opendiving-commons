@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.221,
+      44.9762
+    ]
+  },
+  "properties": {
+    "uuid": "488e959a-c33f-5d0d-844a-366dcd73eb33",
+    "name": "Steel Barge",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 28.0,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "steel-barge"
+        }
+      }
+    }
+  }
+}

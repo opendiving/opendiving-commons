@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.200283,
+      30.18325
+    ]
+  },
+  "properties": {
+    "uuid": "7a4b3160-2b95-5c7c-bbcd-f88f6104735a",
+    "name": "Tug Ocean Wind",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 15.8,
+    "depth_to": 25.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0048"
+        }
+      }
+    }
+  }
+}

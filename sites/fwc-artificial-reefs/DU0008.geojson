@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.833,
+      30.362333
+    ]
+  },
+  "properties": {
+    "uuid": "f3b1e1d7-40cb-51af-8ff0-58d6d06d2602",
+    "name": "BR Site - Ferry",
+    "depth_to": 32.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0008"
+        }
+      }
+    }
+  }
+}

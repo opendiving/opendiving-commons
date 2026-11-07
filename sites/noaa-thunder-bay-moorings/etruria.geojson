@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.47366,
+      45.48302
+    ]
+  },
+  "properties": {
+    "uuid": "3b9f276b-a130-5aef-a746-ac0db3372668",
+    "name": "Etruria",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 96.6,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "etruria"
+        }
+      }
+    }
+  }
+}

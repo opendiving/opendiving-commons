@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.07888,
+      24.660267
+    ]
+  },
+  "properties": {
+    "uuid": "a2da2d52-c99b-5ed7-bde5-543e1fdfebb1",
+    "name": "Gungan",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "gungan"
+        }
+      }
+    }
+  }
+}

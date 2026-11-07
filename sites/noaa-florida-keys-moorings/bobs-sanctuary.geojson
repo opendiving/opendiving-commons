@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.013885,
+      24.685266
+    ]
+  },
+  "properties": {
+    "uuid": "e6fd976e-643b-5f21-854c-eb9ca81ef025",
+    "name": "Bob’s Sanctuary",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "bobs-sanctuary"
+        }
+      }
+    }
+  }
+}

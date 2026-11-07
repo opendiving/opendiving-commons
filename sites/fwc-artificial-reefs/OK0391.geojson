@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.295971,
+      30.050589
+    ]
+  },
+  "properties": {
+    "uuid": "9d1e0890-28bd-5343-9b87-c79a94f4d76a",
+    "name": "DEEP STIM III",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.3,
+    "depth_to": 41.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0391"
+        }
+      }
+    }
+  }
+}

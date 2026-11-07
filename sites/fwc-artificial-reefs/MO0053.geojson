@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.737833,
+      24.464167
+    ]
+  },
+  "properties": {
+    "uuid": "980204aa-7cdc-5e0d-87aa-95c957c3227b",
+    "name": "Joe's Tug",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 12.2,
+    "depth_to": 19.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MO0053"
+        }
+      }
+    }
+  }
+}

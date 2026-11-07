@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.50927,
+      45.53427
+    ]
+  },
+  "properties": {
+    "uuid": "a5bd3e37-a6c4-56a3-b298-6b8afe4677d6",
+    "name": "Choctaw",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 91.4,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "choctaw"
+        }
+      }
+    }
+  }
+}

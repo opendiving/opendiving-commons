@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.182,
+      45.0653
+    ]
+  },
+  "properties": {
+    "uuid": "0f589110-2e3c-5af4-912f-83987449a594",
+    "name": "D. M. Wilson",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 14.6,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "d-m-wilson"
+        }
+      }
+    }
+  }
+}

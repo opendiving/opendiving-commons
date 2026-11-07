@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.326,
+      45.035
+    ]
+  },
+  "properties": {
+    "uuid": "f07d5afb-3d7c-57a1-a083-1a44169f0746",
+    "name": "Haltiner Barge",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 5.2,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "haltiner-barge"
+        }
+      }
+    }
+  }
+}

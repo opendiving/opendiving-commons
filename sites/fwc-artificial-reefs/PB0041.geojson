@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.992333,
+      26.788
+    ]
+  },
+  "properties": {
+    "uuid": "86c65666-f248-5da5-b18f-946cc3d86fd3",
+    "name": "Ande Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 45.7,
+    "depth_to": 54.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0041"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.089083,
+      25.81285
+    ]
+  },
+  "properties": {
+    "uuid": "244aea9d-8289-5cb0-8645-6f3e15bfabe0",
+    "name": "Miss Karlline (Karleen)",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 11.0,
+    "depth_to": 15.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0083"
+        }
+      }
+    }
+  }
+}

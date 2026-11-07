@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.050835,
+      24.686117
+    ]
+  },
+  "properties": {
+    "uuid": "cfd264d8-f3fd-5946-b4fc-b6393a9b1547",
+    "name": "Alex’s Mountains",
+    "depth_to": 22.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "alexs-mountains"
+        }
+      }
+    }
+  }
+}

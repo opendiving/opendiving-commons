@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.421837,
+      24.981684
+    ]
+  },
+  "properties": {
+    "uuid": "4d2f9a34-6976-5364-a909-cda601191b2b",
+    "name": "Snapper Ledge",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 5.8,
+    "depth_to": 7.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "snapper-ledge"
+        }
+      }
+    }
+  }
+}

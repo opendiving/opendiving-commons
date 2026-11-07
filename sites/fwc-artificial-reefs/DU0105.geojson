@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.906086,
+      30.366156
+    ]
+  },
+  "properties": {
+    "uuid": "bba5f8e5-a732-51f8-8e55-e3118836a209",
+    "name": "Jimmy Dales Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.3,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0105"
+        }
+      }
+    }
+  }
+}

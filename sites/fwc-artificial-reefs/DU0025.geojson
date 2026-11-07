@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.959917,
+      30.492283
+    ]
+  },
+  "properties": {
+    "uuid": "7f56ae5e-5611-5e13-b973-12e2957ced6f",
+    "name": "TW Site - Tug",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 26.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0025"
+        }
+      }
+    }
+  }
+}

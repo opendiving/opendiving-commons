@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.217567,
+      30.44395
+    ]
+  },
+  "properties": {
+    "uuid": "660abb0e-4210-5ad9-a993-12fad4bf9a85",
+    "name": "MR Site - Tug",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 19.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0003"
+        }
+      }
+    }
+  }
+}

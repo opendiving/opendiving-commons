@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.002182,
+      24.699266
+    ]
+  },
+  "properties": {
+    "uuid": "9eede38e-19de-5d5c-8d7f-96dfc574e457",
+    "name": "BCR",
+    "depth_to": 22.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "bcr"
+        }
+      }
+    }
+  }
+}

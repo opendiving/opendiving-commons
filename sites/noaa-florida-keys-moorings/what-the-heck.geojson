@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.012787,
+      24.68055
+    ]
+  },
+  "properties": {
+    "uuid": "9529419a-dc3e-52ca-8ea7-89d9040e0a0e",
+    "name": "What the Heck",
+    "depth_to": 23.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "what-the-heck"
+        }
+      }
+    }
+  }
+}

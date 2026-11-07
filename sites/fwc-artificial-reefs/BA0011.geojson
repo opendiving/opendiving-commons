@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.0926,
+      30.04715
+    ]
+  },
+  "properties": {
+    "uuid": "eb46e598-af2c-54ff-8e11-4a32e280a504",
+    "name": "Grey Ghost Ship",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 32.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0011"
+        }
+      }
+    }
+  }
+}

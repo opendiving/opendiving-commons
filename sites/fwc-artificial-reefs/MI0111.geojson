@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.003936,
+      27.207722
+    ]
+  },
+  "properties": {
+    "uuid": "6370c9ff-cbe4-5f7d-8b8a-1361c4f28e84",
+    "name": "Brause Girl Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 38.1,
+    "depth_to": 57.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MI0111"
+        }
+      }
+    }
+  }
+}

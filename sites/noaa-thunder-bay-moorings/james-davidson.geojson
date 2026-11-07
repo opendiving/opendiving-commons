@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.196,
+      45.0312
+    ]
+  },
+  "properties": {
+    "uuid": "a9efd1b0-fbca-5ca0-bd08-b5d32aa36be7",
+    "name": "James Davidson",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 10.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "james-davidson"
+        }
+      }
+    }
+  }
+}

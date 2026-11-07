@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.032784,
+      24.653883
+    ]
+  },
+  "properties": {
+    "uuid": "47646eaa-565b-51fb-8e88-f34bf89655b1",
+    "name": "Bat Caves",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "bat-caves"
+        }
+      }
+    }
+  }
+}

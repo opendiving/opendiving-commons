@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.080617,
+      26.153217
+    ]
+  },
+  "properties": {
+    "uuid": "4c12820d-5b9f-562e-9893-09a685b78ad5",
+    "name": "Robert Edmister",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 14.0,
+    "depth_to": 23.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0051"
+        }
+      }
+    }
+  }
+}
