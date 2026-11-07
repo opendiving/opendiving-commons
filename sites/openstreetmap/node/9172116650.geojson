@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.233785,
+      14.757285
+    ]
+  },
+  "properties": {
+    "uuid": "350fe21f-4c10-53cc-b876-9f9e5e918200",
+    "name": "San Quentin (Sunken Tin)",
+    "location": {
+      "name": "Bataan, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172116650"
+      }
+    ],
+    "depth_to": 16.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172116650"
+        }
+      }
+    }
+  }
+}

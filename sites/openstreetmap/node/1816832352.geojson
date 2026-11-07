@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.416525,
+      54.382914
+    ]
+  },
+  "properties": {
+    "uuid": "5b9216fb-2964-5d09-b3f6-daec9f67d7cb",
+    "name": "Water Nymph",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1816832352"
+      }
+    ],
+    "depth_to": 3.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/1816832352"
+        }
+      }
+    }
+  }
+}

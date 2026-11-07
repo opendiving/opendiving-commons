@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72088,
+      8.73308
+    ]
+  },
+  "properties": {
+    "uuid": "13343055-a788-5f4d-aada-eb9a6adde944",
+    "name": "Hamel Side",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12978817092"
+      }
+    ],
+    "depth_to": 19.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12978817092"
+        }
+      }
+    }
+  }
+}

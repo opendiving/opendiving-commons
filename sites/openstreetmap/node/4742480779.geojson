@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.826342,
+      -38.076861
+    ]
+  },
+  "properties": {
+    "uuid": "61195f11-8d35-531c-aa5c-9d1576c1a50c",
+    "name": "SS City of Launceston",
+    "location": {
+      "name": "Victoria, Australia"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4742480779"
+      }
+    ],
+    "depth_to": 21.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4742480779"
+        }
+      }
+    }
+  }
+}

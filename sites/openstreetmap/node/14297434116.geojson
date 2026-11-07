@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.809817,
+      51.481189
+    ]
+  },
+  "properties": {
+    "uuid": "dedde3cc-1cb0-59cf-a74c-cc7b6947d281",
+    "name": "Galileo",
+    "location": {
+      "name": "Thuringia, Germany"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/14297434116"
+      }
+    ],
+    "depth_to": 7.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/14297434116"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73091,
+      8.80836
+    ]
+  },
+  "properties": {
+    "uuid": "e13b4bbd-58fc-5ec0-9578-59422a18c580",
+    "name": "North Loi Wreck",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042348299"
+      }
+    ],
+    "depth_to": 18.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13042348299"
+        }
+      }
+    }
+  }
+}

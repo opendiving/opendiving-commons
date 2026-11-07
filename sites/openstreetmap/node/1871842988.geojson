@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.488505,
+      58.819456
+    ]
+  },
+  "properties": {
+    "uuid": "5826dea4-4549-5298-b243-f3d92fe0e20d",
+    "name": "Trysfjord",
+    "location": {
+      "name": "Telemark, Norway"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1871842988"
+      }
+    ],
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/1871842988"
+        }
+      }
+    }
+  }
+}

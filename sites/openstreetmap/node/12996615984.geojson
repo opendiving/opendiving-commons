@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72953,
+      8.74063
+    ]
+  },
+  "properties": {
+    "uuid": "4e6ce21e-c9fb-57d1-afc0-2c713168e0c7",
+    "name": "N-Buoy Wreck",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12996615984"
+      }
+    ],
+    "depth_to": 35.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12996615984"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.771389,
+      27.650833
+    ]
+  },
+  "properties": {
+    "uuid": "02c6fbee-9bd4-530a-8f87-61e7792311c2",
+    "name": "Rosalie Moller",
+    "location": {
+      "name": "Red Sea, Egypt"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271196065"
+      }
+    ],
+    "depth_to": 36.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/271196065"
+        }
+      }
+    }
+  }
+}

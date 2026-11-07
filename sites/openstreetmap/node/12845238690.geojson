@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.46996,
+      9.38448
+    ]
+  },
+  "properties": {
+    "uuid": "bff03dc0-c436-588a-8b7c-f7ef73d8ac13",
+    "name": "Zero",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845238690"
+      }
+    ],
+    "depth_to": 13.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845238690"
+        }
+      }
+    }
+  }
+}

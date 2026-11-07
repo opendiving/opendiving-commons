@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71188,
+      8.77528
+    ]
+  },
+  "properties": {
+    "uuid": "a3316256-f690-5b03-aa95-72a5086d082d",
+    "name": "PBM #2",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042348296"
+      }
+    ],
+    "depth_to": 42.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13042348296"
+        }
+      }
+    }
+  }
+}

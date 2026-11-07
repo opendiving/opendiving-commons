@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72446,
+      8.72656
+    ]
+  },
+  "properties": {
+    "uuid": "a6e47c8b-1e05-5e36-8be2-b0b2a819081d",
+    "name": "Britain Inverted",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12978818602"
+      }
+    ],
+    "depth_to": 9.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12978818602"
+        }
+      }
+    }
+  }
+}

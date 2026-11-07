@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.0853,
+      53.471083
+    ]
+  },
+  "properties": {
+    "uuid": "a295070a-89c7-506c-8426-0c32dbc2174d",
+    "name": "INGA",
+    "location": {
+      "name": "Friesland, Netherlands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12508178501"
+      }
+    ],
+    "depth_to": 5.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12508178501"
+        }
+      }
+    }
+  }
+}

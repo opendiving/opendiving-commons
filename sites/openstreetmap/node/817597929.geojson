@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.252705,
+      50.327582
+    ]
+  },
+  "properties": {
+    "uuid": "b0b56075-f7d5-54e8-8772-c42914215322",
+    "name": "HMS Scylla",
+    "location": {
+      "name": "Cornwall, United Kingdom"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/817597929"
+      }
+    ],
+    "depth_to": 24.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/817597929"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72456,
+      8.73181
+    ]
+  },
+  "properties": {
+    "uuid": "154e6a26-31e7-5c2a-91d0-7fd85652835f",
+    "name": "Fluke's Folly #1",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027825"
+      }
+    ],
+    "depth_to": 22.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027825"
+        }
+      }
+    }
+  }
+}

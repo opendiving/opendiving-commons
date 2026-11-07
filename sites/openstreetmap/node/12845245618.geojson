@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71093,
+      8.7405
+    ]
+  },
+  "properties": {
+    "uuid": "cfffb6cf-f08c-533a-b674-68f2d3a845c3",
+    "name": "Choko/Tyoko Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245618"
+      }
+    ],
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245618"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72308,
+      8.72608
+    ]
+  },
+  "properties": {
+    "uuid": "2332e577-3c12-5f80-9eee-5595c07072c3",
+    "name": "LCM/Barge Pair",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981269114"
+      }
+    ],
+    "depth_to": 18.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981269114"
+        }
+      }
+    }
+  }
+}

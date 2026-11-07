@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72058,
+      8.72961
+    ]
+  },
+  "properties": {
+    "uuid": "7291ae93-d4a1-58fd-b526-80ea97e20780",
+    "name": "Phu Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042348295"
+      }
+    ],
+    "depth_to": 15.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13042348295"
+        }
+      }
+    }
+  }
+}

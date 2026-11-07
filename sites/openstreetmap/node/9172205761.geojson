@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.249947,
+      14.774236
+    ]
+  },
+  "properties": {
+    "uuid": "7d3ec436-19db-5d16-9ed6-48713ea91dd2",
+    "name": "Landing Ship Tank (LST-559)",
+    "location": {
+      "name": "Bataan, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172205761"
+      }
+    ],
+    "depth_to": 36.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172205761"
+        }
+      }
+    }
+  }
+}

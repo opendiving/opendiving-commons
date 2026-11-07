@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.656448,
+      59.439669
+    ]
+  },
+  "properties": {
+    "uuid": "24bc862e-6cff-58ad-9883-9c9e6904feb4",
+    "name": "Nordvard",
+    "location": {
+      "name": "Østfold, Norway"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/1117261785"
+      }
+    ],
+    "depth_to": 35.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "way/1117261785"
+        }
+      }
+    }
+  }
+}

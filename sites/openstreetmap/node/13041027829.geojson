@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.7335,
+      8.77766
+    ]
+  },
+  "properties": {
+    "uuid": "041c8bb9-b40d-5647-b3be-b57c70d90e95",
+    "name": "Ebeye Fighter",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13041027829"
+      }
+    ],
+    "depth_to": 41.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13041027829"
+        }
+      }
+    }
+  }
+}

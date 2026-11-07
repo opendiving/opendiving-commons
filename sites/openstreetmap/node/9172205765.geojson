@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.273365,
+      14.776719
+    ]
+  },
+  "properties": {
+    "uuid": "942a056c-1807-58c9-b083-8aa414a79872",
+    "name": "Japanese Patrol Boat",
+    "location": {
+      "name": "Bataan, Philippines"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9172205765"
+      }
+    ],
+    "depth_to": 26.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9172205765"
+        }
+      }
+    }
+  }
+}

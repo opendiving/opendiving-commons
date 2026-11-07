@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.576797,
+      35.83535
+    ]
+  },
+  "properties": {
+    "uuid": "d234d5b5-ba90-5098-aa7f-c1700e64bedb",
+    "name": "Bristol Blenheim Bomber",
+    "location": {
+      "name": "Marsaxlokk, Malta"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11088741742"
+      }
+    ],
+    "depth_to": 42.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/11088741742"
+        }
+      }
+    }
+  }
+}

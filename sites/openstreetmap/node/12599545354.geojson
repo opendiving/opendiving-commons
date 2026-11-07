@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.236835,
+      44.441218
+    ]
+  },
+  "properties": {
+    "uuid": "13fa280f-75dc-581d-a3c0-bc32128c237b",
+    "name": "U.S. La Vallee",
+    "location": {
+      "name": "Vermont, United States of America"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12599545354"
+      }
+    ],
+    "depth_to": 30.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12599545354"
+        }
+      }
+    }
+  }
+}

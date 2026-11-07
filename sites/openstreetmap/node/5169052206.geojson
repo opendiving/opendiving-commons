@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.537021,
+      45.517933
+    ]
+  },
+  "properties": {
+    "uuid": "77b62c0e-fe32-52b5-8167-f5f4a0642596",
+    "name": "Maona Rosa",
+    "location": {
+      "name": "Istria, Croatia"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/5169052206"
+      }
+    ],
+    "depth_to": 22.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/5169052206"
+        }
+      }
+    }
+  }
+}

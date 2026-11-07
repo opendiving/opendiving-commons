@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.267344,
+      41.10927
+    ]
+  },
+  "properties": {
+    "uuid": "b0d40b3b-4032-5d5e-ad2d-2e9e1f41d21c",
+    "name": "Vapor del Miracle",
+    "location": {
+      "name": "Tarragona, Spain"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11648728361"
+      }
+    ],
+    "depth_to": 16.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/11648728361"
+        }
+      }
+    }
+  }
+}

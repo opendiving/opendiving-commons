@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -175.163267,
+      -21.129817
+    ]
+  },
+  "properties": {
+    "uuid": "96ff9fd9-d5e5-575a-8fc6-796f7e03df3a",
+    "name": "Ata",
+    "location": {
+      "name": "Tongatapu, Tonga"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9222907394"
+      }
+    ],
+    "depth_to": 12.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9222907394"
+        }
+      }
+    }
+  }
+}

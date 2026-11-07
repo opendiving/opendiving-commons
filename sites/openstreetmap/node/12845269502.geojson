@@ -1,0 +1,32 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.46316,
+      9.37233
+    ]
+  },
+  "properties": {
+    "uuid": "f92a126a-640f-5496-90a1-58b7228427b3",
+    "name": "Takunan Maru #7",
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845269502"
+      }
+    ],
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845269502"
+        }
+      }
+    }
+  }
+}

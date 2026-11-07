@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71871,
+      8.8298
+    ]
+  },
+  "properties": {
+    "uuid": "deff6651-10f0-5531-9667-0b834dfa7879",
+    "name": "Phantom Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13013079096"
+      }
+    ],
+    "depth_to": 40.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13013079096"
+        }
+      }
+    }
+  }
+}

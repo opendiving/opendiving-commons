@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      134.465797,
+      7.327866
+    ]
+  },
+  "properties": {
+    "uuid": "85c75f34-c0ec-5913-8940-b5ae2ae0d2ac",
+    "name": "Helmet Wreck",
+    "location": {
+      "name": "Koror, Palau"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6457176737"
+      }
+    ],
+    "depth_from": 18.0,
+    "depth_to": 30.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/6457176737"
+        }
+      }
+    }
+  }
+}

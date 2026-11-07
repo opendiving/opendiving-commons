@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.139177,
+      41.8479
+    ]
+  },
+  "properties": {
+    "uuid": "1eaaf2bc-8bc7-540a-9488-4cd89b118898",
+    "name": "Boreas",
+    "location": {
+      "name": "Girona, Spain"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13099227819"
+      }
+    ],
+    "depth_from": 18.0,
+    "depth_to": 32.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13099227819"
+        }
+      }
+    }
+  }
+}

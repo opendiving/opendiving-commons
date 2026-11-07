@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.699233,
+      54.521617
+    ]
+  },
+  "properties": {
+    "uuid": "68212eac-34ee-590c-8cc7-e3125c30213a",
+    "name": "Sturmvogel",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/330610844"
+      }
+    ],
+    "depth_to": 12.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/330610844"
+        }
+      }
+    }
+  }
+}

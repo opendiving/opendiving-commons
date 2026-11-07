@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.784444,
+      54.867778
+    ]
+  },
+  "properties": {
+    "uuid": "0e96a4ee-caea-5a93-8f83-2f614f37d26d",
+    "name": "Wrack Sonderburger Bucht",
+    "location": {
+      "name": "Southern Denmark, Denmark"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/627529009"
+      }
+    ],
+    "depth_to": 21.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/627529009"
+        }
+      }
+    }
+  }
+}

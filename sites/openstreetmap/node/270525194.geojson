@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.587512,
+      50.682957
+    ]
+  },
+  "properties": {
+    "uuid": "066211d9-3145-5a52-85ca-4f3de318a195",
+    "name": "Shirala",
+    "location": {
+      "name": "West Sussex, United Kingdom"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/270525194"
+      }
+    ],
+    "depth_to": 22.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/270525194"
+        }
+      }
+    }
+  }
+}

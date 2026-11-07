@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      176.423184,
+      -37.650198
+    ]
+  },
+  "properties": {
+    "uuid": "079978b9-c47b-530e-a116-7ecf08f00c12",
+    "name": "Taioma",
+    "location": {
+      "name": "Bay of Plenty, New Zealand"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9234532506"
+      }
+    ],
+    "depth_to": 17.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9234532506"
+        }
+      }
+    }
+  }
+}

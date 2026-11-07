@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.207751,
+      36.706702
+    ]
+  },
+  "properties": {
+    "uuid": "c0405859-4f6b-5d62-a03c-4412640e7092",
+    "name": "SS Arna",
+    "location": {
+      "name": "Almería, Spain"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/7398644896"
+      }
+    ],
+    "depth_from": 27.0,
+    "depth_to": 42.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/7398644896"
+        }
+      }
+    }
+  }
+}

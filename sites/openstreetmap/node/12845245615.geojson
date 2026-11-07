@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72911,
+      8.80781
+    ]
+  },
+  "properties": {
+    "uuid": "aed500bc-4fde-5788-9341-53fd0367c8a8",
+    "name": "LCU-22",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12845245615"
+      }
+    ],
+    "depth_to": 36.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12845245615"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -59.642,
+      13.18
+    ]
+  },
+  "properties": {
+    "uuid": "d2734411-14ea-5883-a2ef-a8322b9be400",
+    "name": "SS Stavronikita",
+    "location": {
+      "name": "Saint James, Barbados"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13461568301"
+      }
+    ],
+    "depth_to": 36.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13461568301"
+        }
+      }
+    }
+  }
+}

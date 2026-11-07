@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.578333,
+      54.668333
+    ]
+  },
+  "properties": {
+    "uuid": "d1d54b9a-6daf-5dac-ac82-724b30b6df07",
+    "name": "Zawisza Czarny",
+    "location": {
+      "name": "Pomeranian Voivodeship, Poland"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13974289772"
+      }
+    ],
+    "depth_to": 8.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13974289772"
+        }
+      }
+    }
+  }
+}

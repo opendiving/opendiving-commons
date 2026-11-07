@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.219068,
+      54.607767
+    ]
+  },
+  "properties": {
+    "uuid": "16c70555-b05f-5c16-8c56-eeb3de3ec188",
+    "name": "Jan Heweliusz",
+    "location": {
+      "name": "Mecklenburg-Western Pomerania, Germany"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/663871133"
+      }
+    ],
+    "depth_to": 10.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/663871133"
+        }
+      }
+    }
+  }
+}

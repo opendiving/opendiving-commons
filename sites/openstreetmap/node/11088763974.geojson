@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4682,
+      35.973599
+    ]
+  },
+  "properties": {
+    "uuid": "ec544c6c-918e-5967-b59a-e28ab9759b0c",
+    "name": "Junkers Ju 88 (North)",
+    "location": {
+      "name": "Naxxar, Malta"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/11088763974"
+      }
+    ],
+    "depth_to": 57.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/11088763974"
+        }
+      }
+    }
+  }
+}

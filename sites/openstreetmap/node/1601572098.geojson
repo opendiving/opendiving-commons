@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.706575,
+      60.750825
+    ]
+  },
+  "properties": {
+    "uuid": "7692940a-241d-5389-8439-0cabffed49d8",
+    "name": "MV Server",
+    "location": {
+      "name": "Hordaland, Norway"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/1601572098"
+      }
+    ],
+    "depth_to": 22.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/1601572098"
+        }
+      }
+    }
+  }
+}

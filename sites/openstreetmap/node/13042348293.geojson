@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71685,
+      8.7425
+    ]
+  },
+  "properties": {
+    "uuid": "76643077-d6ea-56c0-be54-e3c34a972a66",
+    "name": "Type-X Barge",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042348293"
+      }
+    ],
+    "depth_to": 36.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13042348293"
+        }
+      }
+    }
+  }
+}

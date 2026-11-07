@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.616667,
+      44.18
+    ]
+  },
+  "properties": {
+    "uuid": "bae17e99-af14-5600-9f90-e69bedbec520",
+    "name": "Insulo de la Rozoj",
+    "location": {
+      "name": "Rimini, Italy"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8236909798"
+      }
+    ],
+    "depth_to": 8.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/8236909798"
+        }
+      }
+    }
+  }
+}

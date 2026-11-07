@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -176.376394,
+      -43.993756
+    ]
+  },
+  "properties": {
+    "uuid": "da042917-fe5b-529a-9ea7-6f66ba6f4a0f",
+    "name": "Sea Fresh 1",
+    "location": {
+      "name": "Chatham Islands, New Zealand"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9220189256"
+      }
+    ],
+    "depth_to": 12.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9220189256"
+        }
+      }
+    }
+  }
+}

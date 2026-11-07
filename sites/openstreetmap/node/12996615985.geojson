@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.56941,
+      8.91591
+    ]
+  },
+  "properties": {
+    "uuid": "55a537dc-8a15-5a81-b58d-af97717d1090",
+    "name": "Mann Island Wreck",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12996615985"
+      }
+    ],
+    "depth_to": 6.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12996615985"
+        }
+      }
+    }
+  }
+}

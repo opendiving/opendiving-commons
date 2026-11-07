@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.69506,
+      8.74433
+    ]
+  },
+  "properties": {
+    "uuid": "c32bf79a-1487-5d0c-8e29-dcde37ef64b3",
+    "name": "Scott's Brage",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590919"
+      }
+    ],
+    "depth_to": 11.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590919"
+        }
+      }
+    }
+  }
+}

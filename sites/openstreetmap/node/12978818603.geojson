@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.7163,
+      8.73413
+    ]
+  },
+  "properties": {
+    "uuid": "afb373c8-4ecf-5fd5-8699-777844bf556d",
+    "name": "Barthle Rubble #1",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12978818603"
+      }
+    ],
+    "depth_to": 25.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12978818603"
+        }
+      }
+    }
+  }
+}

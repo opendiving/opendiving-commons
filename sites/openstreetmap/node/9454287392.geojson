@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.734352,
+      34.976508
+    ]
+  },
+  "properties": {
+    "uuid": "f6137aa8-30b6-56cc-8a4e-50e822df7672",
+    "name": "Elikoptero",
+    "location": {
+      "name": "Dhekelia Cantonment"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9454287392"
+      }
+    ],
+    "depth_to": 8.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9454287392"
+        }
+      }
+    }
+  }
+}

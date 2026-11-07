@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.027072,
+      65.125126
+    ]
+  },
+  "properties": {
+    "uuid": "4fcd248e-8a9e-5992-b9dd-3b8f03005e5c",
+    "name": "Telma",
+    "location": {
+      "name": "Northern Ostrobothnia, Finland"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/3740075175"
+      }
+    ],
+    "depth_to": 19.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/3740075175"
+        }
+      }
+    }
+  }
+}

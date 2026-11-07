@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.166112,
+      46.667436
+    ]
+  },
+  "properties": {
+    "uuid": "16f70cbe-bf10-58e4-ae18-0e7d41f4839b",
+    "name": "SS Gale Staples wreck",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/422953559"
+      }
+    ],
+    "depth_to": 6.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "way/422953559"
+        }
+      }
+    }
+  }
+}

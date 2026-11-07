@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.161162,
+      49.98053
+    ]
+  },
+  "properties": {
+    "uuid": "62836445-352d-53ce-bd45-0e730dc38c92",
+    "name": "Citrine",
+    "location": {
+      "name": "Cornwall, United Kingdom"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/271376145"
+      }
+    ],
+    "depth_to": 23.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/271376145"
+        }
+      }
+    }
+  }
+}

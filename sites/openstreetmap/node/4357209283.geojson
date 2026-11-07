@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.9761,
+      55.4878
+    ]
+  },
+  "properties": {
+    "uuid": "b40ef993-c5c3-5787-8d22-534de3255795",
+    "name": "UC-30",
+    "location": {
+      "name": "Southern Denmark, Denmark"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/4357209283"
+      }
+    ],
+    "depth_to": 17.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/4357209283"
+        }
+      }
+    }
+  }
+}

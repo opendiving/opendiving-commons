@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.119297,
+      42.743733
+    ]
+  },
+  "properties": {
+    "uuid": "04a414c6-34b6-52ad-a593-9bd2575dadf2",
+    "name": "Relitto dell'Elviscot",
+    "location": {
+      "name": "Livorno, Italy"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "way/147289669"
+      }
+    ],
+    "depth_to": 12.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "way/147289669"
+        }
+      }
+    }
+  }
+}

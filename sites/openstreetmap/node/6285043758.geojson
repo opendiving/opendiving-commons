@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.7316,
+      43.45225
+    ]
+  },
+  "properties": {
+    "uuid": "42733a23-ea6c-5407-8e72-1eadc9cf788b",
+    "name": "Mina Mari",
+    "location": {
+      "name": "Biscay, Spain"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/6285043758"
+      }
+    ],
+    "depth_to": 24.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/6285043758"
+        }
+      }
+    }
+  }
+}

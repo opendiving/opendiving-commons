@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.73381,
+      8.75461
+    ]
+  },
+  "properties": {
+    "uuid": "d0a83366-52a1-5b6d-a1cf-2cf95faf3f8a",
+    "name": "Little Bustard LCM",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981269113"
+      }
+    ],
+    "depth_to": 35.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981269113"
+        }
+      }
+    }
+  }
+}

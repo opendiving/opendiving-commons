@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.65781,
+      8.76802
+    ]
+  },
+  "properties": {
+    "uuid": "efc3dfc6-5021-50fa-81e5-d3ebe0fa7664",
+    "name": "Regal Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13013079095"
+      }
+    ],
+    "depth_to": 4.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13013079095"
+        }
+      }
+    }
+  }
+}

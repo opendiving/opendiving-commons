@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72995,
+      8.74291
+    ]
+  },
+  "properties": {
+    "uuid": "dc893b22-cbbc-5af3-b0d8-fdc0a34607c7",
+    "name": "Parker/Fortin Rubble #1",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13042348298"
+      }
+    ],
+    "depth_to": 39.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13042348298"
+        }
+      }
+    }
+  }
+}

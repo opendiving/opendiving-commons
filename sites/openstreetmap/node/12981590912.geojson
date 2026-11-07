@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.72198,
+      8.72583
+    ]
+  },
+  "properties": {
+    "uuid": "53c9c4e1-2dac-5766-9c07-dea402367e59",
+    "name": "DR Maru",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/12981590912"
+      }
+    ],
+    "depth_to": 9.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/12981590912"
+        }
+      }
+    }
+  }
+}

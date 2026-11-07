@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      167.71321,
+      8.73348
+    ]
+  },
+  "properties": {
+    "uuid": "dffd9849-fdc2-5080-ad7c-ba8679309d94",
+    "name": "West Reef LCM #2",
+    "location": {
+      "name": "Ralik Chain, Marshall Islands"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/13013079092"
+      }
+    ],
+    "depth_to": 9.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/13013079092"
+        }
+      }
+    }
+  }
+}

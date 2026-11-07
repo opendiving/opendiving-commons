@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.312113,
+      50.227331
+    ]
+  },
+  "properties": {
+    "uuid": "1138af4b-1c51-5e3d-9b27-2d14d2ce6d31",
+    "name": "Wilhelm",
+    "location": {
+      "name": "Silesian Voivodeship, Poland"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/10944154393"
+      }
+    ],
+    "depth_to": 15.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/10944154393"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.294701,
+      -35.193835
+    ]
+  },
+  "properties": {
+    "uuid": "b790d011-7f95-5364-908e-0712e08747cc",
+    "name": "HMNZS Canterbury",
+    "location": {
+      "name": "Northland, New Zealand"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/8067633991"
+      }
+    ],
+    "depth_from": 14.0,
+    "depth_to": 38.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/8067633991"
+        }
+      }
+    }
+  }
+}

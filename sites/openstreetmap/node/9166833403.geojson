@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.456646,
+      55.035013
+    ]
+  },
+  "properties": {
+    "uuid": "bcc20c2f-1746-520e-a353-dd3b3439c224",
+    "name": "M/F Ærøsund",
+    "location": {
+      "name": "Southern Denmark, Denmark"
+    },
+    "external_ids": [
+      {
+        "registry": "openstreetmap",
+        "identifier": "node/9166833403"
+      }
+    ],
+    "depth_to": 6.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "openstreetmap",
+        "license": "ODbL-1.0",
+        "retrieved": "2026-11-06",
+        "seeded_from": {
+          "registry": "openstreetmap",
+          "identifier": "node/9166833403"
+        }
+      }
+    }
+  }
+}
