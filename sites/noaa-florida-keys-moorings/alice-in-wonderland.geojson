@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.980835,
+      24.724167
+    ]
+  },
+  "properties": {
+    "uuid": "311fab6b-7870-5b88-b55e-d9e7f12842df",
+    "name": "Alice in Wonderland",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "alice-in-wonderland"
+        }
+      }
+    }
+  }
+}

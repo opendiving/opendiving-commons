@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.201,
+      44.9686
+    ]
+  },
+  "properties": {
+    "uuid": "9af61bb3-a9d9-50b2-8c97-5971bb02ba22",
+    "name": "Grecian",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 32.3,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "grecian"
+        }
+      }
+    }
+  }
+}

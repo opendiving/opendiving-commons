@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.589,
+      45.3568
+    ]
+  },
+  "properties": {
+    "uuid": "8c3aed3e-4319-5eb2-ad90-4d0a2369b0e1",
+    "name": "American Union",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 2.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "american-union"
+        }
+      }
+    }
+  }
+}

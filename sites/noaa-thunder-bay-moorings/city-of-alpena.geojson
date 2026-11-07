@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.29,
+      44.7882
+    ]
+  },
+  "properties": {
+    "uuid": "70816bb7-30c2-522e-8ee1-69b3e31bfec5",
+    "name": "City of Alpena",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 2.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "city-of-alpena"
+        }
+      }
+    }
+  }
+}

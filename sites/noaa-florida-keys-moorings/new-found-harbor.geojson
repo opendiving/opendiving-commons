@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.393753,
+      24.615667
+    ]
+  },
+  "properties": {
+    "uuid": "4efffd22-3ddd-59e0-81de-82938883bd85",
+    "name": "New Found Harbor",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "new-found-harbor"
+        }
+      }
+    }
+  }
+}

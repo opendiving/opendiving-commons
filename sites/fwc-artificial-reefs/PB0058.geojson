@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.01025,
+      26.751917
+    ]
+  },
+  "properties": {
+    "uuid": "54f28aa4-61ba-5c9e-aa09-0f73cb928745",
+    "name": "St Jacques",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 15.2,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0058"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.999451,
+      24.69945
+    ]
+  },
+  "properties": {
+    "uuid": "f128e45c-8131-5d15-89a3-fe80e646d5f2",
+    "name": "8 Fathom Rock",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "8-fathom-rock"
+        }
+      }
+    }
+  }
+}

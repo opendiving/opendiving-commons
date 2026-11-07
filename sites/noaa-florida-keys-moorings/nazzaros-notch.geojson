@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.016113,
+      24.680834
+    ]
+  },
+  "properties": {
+    "uuid": "98354fcb-b784-5fe1-a4ba-eedfeea86709",
+    "name": "Nazzaro’s Notch",
+    "depth_to": 21.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "nazzaros-notch"
+        }
+      }
+    }
+  }
+}

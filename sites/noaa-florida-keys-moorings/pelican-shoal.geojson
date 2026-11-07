@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.629501,
+      24.500134
+    ]
+  },
+  "properties": {
+    "uuid": "200bb91f-4781-5725-974b-8d7fcfbf4a08",
+    "name": "Pelican Shoal",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 2.7,
+    "depth_to": 5.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "pelican-shoal"
+        }
+      }
+    }
+  }
+}

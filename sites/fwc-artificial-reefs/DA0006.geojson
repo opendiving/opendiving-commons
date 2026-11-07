@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0529,
+      25.80675
+    ]
+  },
+  "properties": {
+    "uuid": "09703d30-e6fc-5650-93f3-41e7f297f9d7",
+    "name": "Mine Sweeper",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 54.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0006"
+        }
+      }
+    }
+  }
+}

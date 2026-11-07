@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0053,
+      27.224867
+    ]
+  },
+  "properties": {
+    "uuid": "c59a8e00-0115-50af-84b4-1880d8bd5ce0",
+    "name": "Wickstrom Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 42.1,
+    "depth_to": 57.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MI0049"
+        }
+      }
+    }
+  }
+}

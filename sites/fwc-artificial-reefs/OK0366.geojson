@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.573738,
+      30.150789
+    ]
+  },
+  "properties": {
+    "uuid": "10aa1b1f-91d8-56b3-8986-0b03ebdd5613",
+    "name": "USAF Big Dawg",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.0,
+    "depth_to": 31.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0366"
+        }
+      }
+    }
+  }
+}

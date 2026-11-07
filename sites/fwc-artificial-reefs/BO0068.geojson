@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.064933,
+      26.227367
+    ]
+  },
+  "properties": {
+    "uuid": "61f54781-11b6-5bcc-965e-30f8b586e02b",
+    "name": "Jim Torgerson",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 29.0,
+    "depth_to": 36.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0068"
+        }
+      }
+    }
+  }
+}

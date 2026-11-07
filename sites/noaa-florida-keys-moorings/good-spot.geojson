@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.034714,
+      24.654167
+    ]
+  },
+  "properties": {
+    "uuid": "e0acbc36-5f2b-55b3-87d3-7e13d6cc9c9c",
+    "name": "Good Spot",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "good-spot"
+        }
+      }
+    }
+  }
+}

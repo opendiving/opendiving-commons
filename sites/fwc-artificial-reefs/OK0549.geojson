@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.565771,
+      30.070356
+    ]
+  },
+  "properties": {
+    "uuid": "51f4e7a7-4193-5fc9-beaf-421d2834e8be",
+    "name": "USS ZEPHYR (PC 8)",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 33.5,
+    "depth_to": 47.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0549"
+        }
+      }
+    }
+  }
+}

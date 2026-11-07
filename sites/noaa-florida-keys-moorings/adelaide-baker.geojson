@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.894531,
+      24.702967
+    ]
+  },
+  "properties": {
+    "uuid": "ba149512-5439-5e1e-a6cb-6a5cfdc46d30",
+    "name": "Adelaide Baker",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 7.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "adelaide-baker"
+        }
+      }
+    }
+  }
+}

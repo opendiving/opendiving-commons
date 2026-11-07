@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.187362,
+      27.87689
+    ]
+  },
+  "properties": {
+    "uuid": "f8054edf-68b2-5e77-b217-a3be34e8ef80",
+    "name": "Blackthorn",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 15.2,
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PI0020"
+        }
+      }
+    }
+  }
+}

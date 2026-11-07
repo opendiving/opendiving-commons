@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.426,
+      45.0547
+    ]
+  },
+  "properties": {
+    "uuid": "f5e28e07-da0d-51cd-b386-4b34674c7f75",
+    "name": "Harvey Bissell",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 4.3,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "harvey-bissell"
+        }
+      }
+    }
+  }
+}

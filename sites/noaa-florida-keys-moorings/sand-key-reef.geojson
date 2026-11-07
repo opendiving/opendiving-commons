@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.878548,
+      24.451851
+    ]
+  },
+  "properties": {
+    "uuid": "d2c6fe6e-6130-51d5-b7a2-5e2140d23290",
+    "name": "Sand Key Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.6,
+    "depth_to": 8.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "sand-key-reef"
+        }
+      }
+    }
+  }
+}

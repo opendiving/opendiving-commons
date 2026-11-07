@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.833833,
+      29.778667
+    ]
+  },
+  "properties": {
+    "uuid": "b89f7ec0-b457-5c1c-b167-5762beaf1be4",
+    "name": "Steel Dredge Boat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 32.0,
+    "depth_to": 35.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0183"
+        }
+      }
+    }
+  }
+}

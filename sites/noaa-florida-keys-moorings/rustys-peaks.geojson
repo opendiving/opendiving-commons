@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.068047,
+      24.673883
+    ]
+  },
+  "properties": {
+    "uuid": "19ee0f13-187d-5c21-a6ee-7a341fee15b6",
+    "name": "Rusty’s Peaks",
+    "depth_to": 16.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "rustys-peaks"
+        }
+      }
+    }
+  }
+}

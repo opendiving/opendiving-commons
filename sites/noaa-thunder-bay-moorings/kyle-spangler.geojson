@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.43559,
+      45.38359
+    ]
+  },
+  "properties": {
+    "uuid": "361500b3-1b5d-5eb6-811a-0782f042316e",
+    "name": "Kyle Spangler",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 55.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "kyle-spangler"
+        }
+      }
+    }
+  }
+}

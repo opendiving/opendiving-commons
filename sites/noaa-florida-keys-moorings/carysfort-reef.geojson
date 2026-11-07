@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.212616,
+      25.222017
+    ]
+  },
+  "properties": {
+    "uuid": "f2d77821-511f-559f-9acd-b2700a1cc00b",
+    "name": "Carysfort Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 2.7,
+    "depth_to": 10.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "carysfort-reef"
+        }
+      }
+    }
+  }
+}

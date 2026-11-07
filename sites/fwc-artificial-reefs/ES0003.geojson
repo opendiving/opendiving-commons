@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.159567,
+      30.273067
+    ]
+  },
+  "properties": {
+    "uuid": "480798a1-4003-5bc4-8c30-7abc15bb612d",
+    "name": "Joseph Meek",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 29.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0003"
+        }
+      }
+    }
+  }
+}

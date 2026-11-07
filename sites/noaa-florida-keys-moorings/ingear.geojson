@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.067535,
+      24.673849
+    ]
+  },
+  "properties": {
+    "uuid": "ce497fcd-5b8a-57dd-a663-56a1e859abb1",
+    "name": "Ingear",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "ingear"
+        }
+      }
+    }
+  }
+}

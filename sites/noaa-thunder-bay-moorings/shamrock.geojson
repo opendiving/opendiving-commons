@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.433,
+      45.051
+    ]
+  },
+  "properties": {
+    "uuid": "ba37886c-a144-5a1c-819c-839083957dc9",
+    "name": "Shamrock",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 3.4,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "shamrock"
+        }
+      }
+    }
+  }
+}

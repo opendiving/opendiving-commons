@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.092923,
+      26.008305
+    ]
+  },
+  "properties": {
+    "uuid": "35a08e80-a5b9-5671-a12c-3fe82d2050a0",
+    "name": "Angler's Avenue Marine",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.9,
+    "depth_to": 21.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0117"
+        }
+      }
+    }
+  }
+}

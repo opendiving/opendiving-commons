@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.8405,
+      30.364167
+    ]
+  },
+  "properties": {
+    "uuid": "ffddc257-86c7-506e-a622-46a97d40fc33",
+    "name": "BR Site - Tug #2",
+    "depth_to": 31.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0005"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.266,
+      44.9837
+    ]
+  },
+  "properties": {
+    "uuid": "08a9d224-b42b-5382-9f15-dc88bb1ad739",
+    "name": "Montana",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 19.2,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "montana"
+        }
+      }
+    }
+  }
+}

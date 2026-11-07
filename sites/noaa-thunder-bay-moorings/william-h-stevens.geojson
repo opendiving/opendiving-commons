@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.327,
+      44.8962
+    ]
+  },
+  "properties": {
+    "uuid": "ae168d72-5d6a-5acd-95df-e9c65d220a03",
+    "name": "William H. Stevens",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 3.0,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "william-h-stevens"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.06215,
+      26.302017
+    ]
+  },
+  "properties": {
+    "uuid": "92ea4e19-337d-502e-88c6-bfee1e2d8f02",
+    "name": "Ancient Mariner",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 21.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0055"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.175167,
+      30.097733
+    ]
+  },
+  "properties": {
+    "uuid": "42af386f-7610-5ffd-ad40-7ea55e5e9fad",
+    "name": "Will Davis Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 27.4,
+    "depth_to": 30.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0129"
+        }
+      }
+    }
+  }
+}

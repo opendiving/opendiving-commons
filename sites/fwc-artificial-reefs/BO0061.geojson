@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.064483,
+      26.234567
+    ]
+  },
+  "properties": {
+    "uuid": "2533783a-5f8f-5f64-b405-35adabedb169",
+    "name": "Mariner 1",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 32.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0061"
+        }
+      }
+    }
+  }
+}

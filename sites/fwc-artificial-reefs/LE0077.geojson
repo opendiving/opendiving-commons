@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.2841,
+      26.519617
+    ]
+  },
+  "properties": {
+    "uuid": "3c49f470-0b6e-5428-b6de-b6b39d01cdc9",
+    "name": "Wildmans Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 6.1,
+    "depth_to": 11.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "LE0077"
+        }
+      }
+    }
+  }
+}

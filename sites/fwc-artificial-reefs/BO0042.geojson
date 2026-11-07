@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.067117,
+      26.23095
+    ]
+  },
+  "properties": {
+    "uuid": "c37614da-06b4-5c99-9080-709cd423044b",
+    "name": "Alpha, Rodeo Divers Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 23.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0042"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.308105,
+      30.074039
+    ]
+  },
+  "properties": {
+    "uuid": "b695560e-31de-59a2-a91a-f86405025f35",
+    "name": "M/V NEKTON PILOT",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 27.4,
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0547"
+        }
+      }
+    }
+  }
+}

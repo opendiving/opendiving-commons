@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.018003,
+      27.406122
+    ]
+  },
+  "properties": {
+    "uuid": "7320f9af-3034-50a3-ae20-192bb66cf33d",
+    "name": "Blake Charron Foundation Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 34.4,
+    "depth_to": 47.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SL0080"
+        }
+      }
+    }
+  }
+}

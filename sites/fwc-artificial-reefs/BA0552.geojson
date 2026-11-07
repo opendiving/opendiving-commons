@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.962671,
+      29.679956
+    ]
+  },
+  "properties": {
+    "uuid": "18409ffe-3548-57be-826a-71bdaa5849f8",
+    "name": "G. D. Bloomberg Memorial Reef",
+    "depth_from": 33.8,
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0552"
+        }
+      }
+    }
+  }
+}

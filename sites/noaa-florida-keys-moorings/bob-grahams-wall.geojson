@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.101936,
+      24.655001
+    ]
+  },
+  "properties": {
+    "uuid": "c7a75664-9e34-5317-831e-c0b0b824e3a5",
+    "name": "Bob Graham’s Wall",
+    "depth_to": 19.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "bob-grahams-wall"
+        }
+      }
+    }
+  }
+}

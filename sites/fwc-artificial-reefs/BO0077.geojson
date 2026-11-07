@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0611,
+      26.234267
+    ]
+  },
+  "properties": {
+    "uuid": "b212224b-b59a-563e-9694-938587db848a",
+    "name": "Rodeo Site - Boating Magazine",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 47.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0077"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.204169,
+      28.334172
+    ]
+  },
+  "properties": {
+    "uuid": "5d894dc9-8c51-52a1-8b6c-1ae825a5a108",
+    "name": "Sufix I",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 29.0,
+    "depth_to": 33.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BE0020"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.025551,
+      24.679449
+    ]
+  },
+  "properties": {
+    "uuid": "f475d71c-bdc4-5e0b-aee8-35520a3f9997",
+    "name": "Keeney’s Wall",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "keeneys-wall"
+        }
+      }
+    }
+  }
+}

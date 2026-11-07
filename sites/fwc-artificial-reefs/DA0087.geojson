@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0872,
+      25.702767
+    ]
+  },
+  "properties": {
+    "uuid": "849e5823-ba8f-574b-8b77-3f2ebe9e81f4",
+    "name": "Rio Miami",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 11.3,
+    "depth_to": 20.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0087"
+        }
+      }
+    }
+  }
+}

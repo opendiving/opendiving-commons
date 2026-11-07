@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.017784,
+      24.678049
+    ]
+  },
+  "properties": {
+    "uuid": "fe26139e-adbb-59ca-b72d-b594c0ffb689",
+    "name": "Gary’s Grotto",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "garys-grotto"
+        }
+      }
+    }
+  }
+}

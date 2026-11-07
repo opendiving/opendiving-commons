@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.510121,
+      30.242189
+    ]
+  },
+  "properties": {
+    "uuid": "cfaf4b1d-96a2-5303-873b-8d7fe067e6b8",
+    "name": "RMS ATLANTIS",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 13.7,
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0389"
+        }
+      }
+    }
+  }
+}

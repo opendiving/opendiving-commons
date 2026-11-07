@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.328,
+      45.199
+    ]
+  },
+  "properties": {
+    "uuid": "fd96baac-edab-5826-a359-ad268216ada3",
+    "name": "Middle Island Sinkhole",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 24.4,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "middle-island-sinkhole"
+        }
+      }
+    }
+  }
+}

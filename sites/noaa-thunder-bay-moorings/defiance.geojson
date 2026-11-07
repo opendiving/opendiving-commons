@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.27864,
+      45.23448
+    ]
+  },
+  "properties": {
+    "uuid": "2e57df15-9cfa-5de2-93e3-f80a43aaebf2",
+    "name": "Defiance",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 55.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "defiance"
+        }
+      }
+    }
+  }
+}

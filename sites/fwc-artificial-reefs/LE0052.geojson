@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.723583,
+      26.552167
+    ]
+  },
+  "properties": {
+    "uuid": "94d75d18-e76d-5de8-93da-6eb1c0ffbcb2",
+    "name": "Pegasus Tugboat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 14.9,
+    "depth_to": 25.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "LE0052"
+        }
+      }
+    }
+  }
+}

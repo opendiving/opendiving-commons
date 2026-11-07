@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.06345,
+      26.230117
+    ]
+  },
+  "properties": {
+    "uuid": "dbf6970e-17fa-53ef-9a53-c62f5d88c40d",
+    "name": "Lady Luck",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.3,
+    "depth_to": 39.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0114"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.016,
+      26.786333
+    ]
+  },
+  "properties": {
+    "uuid": "fedefaef-9c76-526e-aa8c-bb99fd1a0b34",
+    "name": "Mizpah",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 19.2,
+    "depth_to": 25.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0006"
+        }
+      }
+    }
+  }
+}

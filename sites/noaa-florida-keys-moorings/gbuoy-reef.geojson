@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.931664,
+      24.695833
+    ]
+  },
+  "properties": {
+    "uuid": "2608bbf8-e9d6-5e1b-b26b-ab7ab2d69bfe",
+    "name": "Gbuoy Reef",
+    "depth_to": 16.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "gbuoy-reef"
+        }
+      }
+    }
+  }
+}

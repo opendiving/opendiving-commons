@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.981865,
+      24.623283
+    ]
+  },
+  "properties": {
+    "uuid": "60c5c4c4-02a0-5830-8f85-a28665381bf0",
+    "name": "Amesbury",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 6.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "amesbury"
+        }
+      }
+    }
+  }
+}

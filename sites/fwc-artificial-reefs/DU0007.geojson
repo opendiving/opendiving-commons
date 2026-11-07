@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.182917,
+      30.33055
+    ]
+  },
+  "properties": {
+    "uuid": "98aab85b-af4f-55aa-a6c0-cfefdc9f92e1",
+    "name": "PM Site - South - #1Tug",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 17.4,
+    "depth_to": 22.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0007"
+        }
+      }
+    }
+  }
+}

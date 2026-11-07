@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.679932,
+      24.863234
+    ]
+  },
+  "properties": {
+    "uuid": "1fe0c9cc-5f50-5047-abcb-25e41ccef59e",
+    "name": "The San Pedro",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "the-san-pedro"
+        }
+      }
+    }
+  }
+}

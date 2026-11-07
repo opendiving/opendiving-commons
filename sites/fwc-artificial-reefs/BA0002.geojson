@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.705783,
+      30.1158
+    ]
+  },
+  "properties": {
+    "uuid": "eb1cec36-96d9-508a-8581-3288dd583b1d",
+    "name": "Life Boats (Bay)",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 7.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0002"
+        }
+      }
+    }
+  }
+}

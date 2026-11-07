@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.206734,
+      25.26145
+    ]
+  },
+  "properties": {
+    "uuid": "72429aee-7fb9-51a5-a9ee-96573914fc32",
+    "name": "Carysfort Shoal (in)",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 7.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "carysfort-shoal-in"
+        }
+      }
+    }
+  }
+}

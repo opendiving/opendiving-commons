@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.408717,
+      29.522117
+    ]
+  },
+  "properties": {
+    "uuid": "ab50487e-2d50-5341-89d8-8219524d6167",
+    "name": "Bryson Memorial Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 17.4,
+    "depth_to": 24.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "FR0031"
+        }
+      }
+    }
+  }
+}

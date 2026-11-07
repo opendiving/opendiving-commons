@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.70005,
+      30.01597
+    ]
+  },
+  "properties": {
+    "uuid": "f74a3d60-6dfb-5804-a3e6-dc4913132159",
+    "name": "Red Sea Tugboat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 11.6,
+    "depth_to": 22.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0230"
+        }
+      }
+    }
+  }
+}

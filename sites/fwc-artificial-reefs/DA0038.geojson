@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0894,
+      25.6232
+    ]
+  },
+  "properties": {
+    "uuid": "fed4a824-3a03-5c97-81bb-790dbbffc247",
+    "name": "Moby One",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 26.5,
+    "depth_to": 29.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0038"
+        }
+      }
+    }
+  }
+}

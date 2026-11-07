@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.159167,
+      30.087783
+    ]
+  },
+  "properties": {
+    "uuid": "6c732724-f556-578a-b51e-9e713767f0f3",
+    "name": "Navy Dive Tender YDT-15",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.9,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0082"
+        }
+      }
+    }
+  }
+}

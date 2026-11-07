@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.89517,
+      30.41
+    ]
+  },
+  "properties": {
+    "uuid": "d337c29b-af4c-54c2-8042-f33a0617dc80",
+    "name": "NHL Site -Powerful",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0075"
+        }
+      }
+    }
+  }
+}

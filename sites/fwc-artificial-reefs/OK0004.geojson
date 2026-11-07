@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.6037,
+      30.306267
+    ]
+  },
+  "properties": {
+    "uuid": "99498a0b-0bca-5950-9ad7-e23e596d97df",
+    "name": "Liberty Ship - Thomas Hayward",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.0,
+    "depth_to": 26.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0004"
+        }
+      }
+    }
+  }
+}

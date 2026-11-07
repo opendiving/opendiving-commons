@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.7435,
+      24.473867
+    ]
+  },
+  "properties": {
+    "uuid": "c6236d90-4c7f-5894-9d6a-3365365a6506",
+    "name": "Toppinos Marker 32",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 5.5,
+    "depth_to": 8.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "toppinos-marker-32"
+        }
+      }
+    }
+  }
+}

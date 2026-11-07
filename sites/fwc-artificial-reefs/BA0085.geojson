@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.807733,
+      29.961267
+    ]
+  },
+  "properties": {
+    "uuid": "d691db18-30db-56ca-bdca-95b5838ee4e9",
+    "name": "Chippewa",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 22.6,
+    "depth_to": 31.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0085"
+        }
+      }
+    }
+  }
+}

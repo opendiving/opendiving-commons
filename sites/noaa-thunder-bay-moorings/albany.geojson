@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.45964,
+      45.32212
+    ]
+  },
+  "properties": {
+    "uuid": "74a2c018-eeb6-576d-92c7-4887103c37fd",
+    "name": "Albany",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 1.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "albany"
+        }
+      }
+    }
+  }
+}

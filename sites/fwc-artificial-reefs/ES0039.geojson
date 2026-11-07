@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.236833,
+      30.136833
+    ]
+  },
+  "properties": {
+    "uuid": "e0ac8f3c-fd63-58a6-b20e-e46db87ea205",
+    "name": "Born Again Tugboat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.6,
+    "depth_to": 29.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0039"
+        }
+      }
+    }
+  }
+}

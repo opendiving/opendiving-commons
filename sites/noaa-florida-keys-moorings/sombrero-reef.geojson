@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.110237,
+      24.625601
+    ]
+  },
+  "properties": {
+    "uuid": "87933e65-3e98-5b74-ac36-cd00ca99156a",
+    "name": "Sombrero Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 2.4,
+    "depth_to": 14.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "sombrero-reef"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.157,
+      45.1358
+    ]
+  },
+  "properties": {
+    "uuid": "c8b92e6f-ba9b-5662-96dd-8842cec26898",
+    "name": "Nordmeer",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 12.2,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "nordmeer"
+        }
+      }
+    }
+  }
+}

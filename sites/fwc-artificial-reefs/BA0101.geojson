@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.834883,
+      29.9302
+    ]
+  },
+  "properties": {
+    "uuid": "eaf12ddc-a55a-56ce-8ddf-48c3955e2097",
+    "name": "BJ Putnam Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 27.1,
+    "depth_to": 32.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0101"
+        }
+      }
+    }
+  }
+}

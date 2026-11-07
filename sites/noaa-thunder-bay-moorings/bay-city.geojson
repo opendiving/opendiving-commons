@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.426,
+      45.0561
+    ]
+  },
+  "properties": {
+    "uuid": "3f83e2da-4390-5aae-be1d-b50f4d090a12",
+    "name": "Bay City",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 3.4,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "bay-city"
+        }
+      }
+    }
+  }
+}

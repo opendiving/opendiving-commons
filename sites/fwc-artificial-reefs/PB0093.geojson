@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.015803,
+      26.784788
+    ]
+  },
+  "properties": {
+    "uuid": "75d0782e-a969-588a-b427-9699614f5e8d",
+    "name": "Ana Cecilia",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 17.1,
+    "depth_to": 26.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0093"
+        }
+      }
+    }
+  }
+}

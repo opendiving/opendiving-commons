@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.093183,
+      26.009583
+    ]
+  },
+  "properties": {
+    "uuid": "c0faaf39-3e75-5e80-a8b0-6156016cb2fb",
+    "name": "Captain Dede's",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 22.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0066"
+        }
+      }
+    }
+  }
+}

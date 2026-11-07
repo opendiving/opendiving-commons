@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.038887,
+      24.6775
+    ]
+  },
+  "properties": {
+    "uuid": "4105cf82-c4a8-5e99-9004-dfb195acc47d",
+    "name": "Dragon Fly",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "dragon-fly"
+        }
+      }
+    }
+  }
+}

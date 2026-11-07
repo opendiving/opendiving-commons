@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.004997,
+      24.660267
+    ]
+  },
+  "properties": {
+    "uuid": "5d477605-3445-55b6-96d7-82a4468ad0bc",
+    "name": "George’s Gorge",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "georges-gorge"
+        }
+      }
+    }
+  }
+}

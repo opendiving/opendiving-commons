@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.71328,
+      24.480234
+    ]
+  },
+  "properties": {
+    "uuid": "c81f58f2-8abd-557a-8c27-b60d3453e165",
+    "name": "Western Sambos",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 2.7,
+    "depth_to": 7.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "western-sambos"
+        }
+      }
+    }
+  }
+}

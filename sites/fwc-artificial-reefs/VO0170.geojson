@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.769686,
+      29.193089
+    ]
+  },
+  "properties": {
+    "uuid": "459dc2d9-f807-53f4-991b-5e958eabc199",
+    "name": "Tug Everglades",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 15.2,
+    "depth_to": 22.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "VO0170"
+        }
+      }
+    }
+  }
+}

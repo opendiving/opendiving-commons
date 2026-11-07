@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.989998,
+      24.71805
+    ]
+  },
+  "properties": {
+    "uuid": "9710fe38-c494-5706-a675-586851c37d78",
+    "name": "Little Bank",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "little-bank"
+        }
+      }
+    }
+  }
+}

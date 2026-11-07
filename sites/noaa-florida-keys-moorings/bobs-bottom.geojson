@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.082497,
+      24.6586
+    ]
+  },
+  "properties": {
+    "uuid": "26afac41-c5b9-5be0-b642-b56681004f6c",
+    "name": "Bobs Bottom",
+    "depth_to": 21.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "bobs-bottom"
+        }
+      }
+    }
+  }
+}

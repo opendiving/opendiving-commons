@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.082533,
+      25.699833
+    ]
+  },
+  "properties": {
+    "uuid": "046f2ec1-6ffc-5f53-833f-c94d8eb41578",
+    "name": "Brandywine",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 44.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0142"
+        }
+      }
+    }
+  }
+}

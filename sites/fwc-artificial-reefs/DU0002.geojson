@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.135833,
+      30.431833
+    ]
+  },
+  "properties": {
+    "uuid": "0d1f66cc-a4e5-5cd8-a9c5-70d2738179cc",
+    "name": "BB Site - Wooden Tug",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 16.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0002"
+        }
+      }
+    }
+  }
+}

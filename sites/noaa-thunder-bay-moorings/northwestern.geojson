@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.696717,
+      45.4481
+    ]
+  },
+  "properties": {
+    "uuid": "569f5186-ed45-5e79-9f7c-6bb6b9876af0",
+    "name": "Northwestern",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 39.9,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "northwestern"
+        }
+      }
+    }
+  }
+}

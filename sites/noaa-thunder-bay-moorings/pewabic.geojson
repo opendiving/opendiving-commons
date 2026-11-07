@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.102917,
+      44.96565
+    ]
+  },
+  "properties": {
+    "uuid": "7ccef749-e62f-5256-838b-0cdc1eb01016",
+    "name": "Pewabic",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 51.8,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "pewabic"
+        }
+      }
+    }
+  }
+}

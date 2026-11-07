@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.131667,
+      29.891667
+    ]
+  },
+  "properties": {
+    "uuid": "4431fe4f-c2f6-5450-991e-1e1e211673ec",
+    "name": "Nine Mile Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 19.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SJ0002"
+        }
+      }
+    }
+  }
+}

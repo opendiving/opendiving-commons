@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.965,
+      24.658
+    ]
+  },
+  "properties": {
+    "uuid": "21cff1d2-f74d-5613-bd78-fb3e58bf2ece",
+    "name": "Thunderbolt",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 17.7,
+    "depth_to": 36.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MO0030"
+        }
+      }
+    }
+  }
+}

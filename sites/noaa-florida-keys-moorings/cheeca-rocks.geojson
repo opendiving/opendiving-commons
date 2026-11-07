@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.614754,
+      24.904083
+    ]
+  },
+  "properties": {
+    "uuid": "e941f8ca-6464-52f5-ab7b-005c707683cc",
+    "name": "Cheeca Rocks",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 3.7,
+    "depth_to": 5.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "cheeca-rocks"
+        }
+      }
+    }
+  }
+}

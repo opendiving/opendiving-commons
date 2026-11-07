@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.115167,
+      30.302167
+    ]
+  },
+  "properties": {
+    "uuid": "e1da33f0-270f-5e78-ae80-502a6ca8e1a3",
+    "name": "MG Site - Tug",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 22.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0022"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.029182,
+      24.681484
+    ]
+  },
+  "properties": {
+    "uuid": "10f93289-b715-567f-81eb-0432938bf34e",
+    "name": "Anne’s Reefs",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "annes-reefs"
+        }
+      }
+    }
+  }
+}

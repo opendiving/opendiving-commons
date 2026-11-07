@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.079383,
+      25.8202
+    ]
+  },
+  "properties": {
+    "uuid": "2649b026-5007-5e91-9300-ae5fe91cddbd",
+    "name": "Raychel",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 50.3,
+    "depth_to": 56.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0098"
+        }
+      }
+    }
+  }
+}

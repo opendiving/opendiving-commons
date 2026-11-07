@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.09275,
+      26.009133
+    ]
+  },
+  "properties": {
+    "uuid": "ff5ba030-1466-5dca-b138-7796d6b40b4e",
+    "name": "Donald G Mcallister",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 13.7,
+    "depth_to": 21.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0093"
+        }
+      }
+    }
+  }
+}

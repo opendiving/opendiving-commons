@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.247167,
+      30.174
+    ]
+  },
+  "properties": {
+    "uuid": "adb8cc19-7f70-531d-b930-563f37a9c086",
+    "name": "Bunnie's Web (BW)",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 11.3,
+    "depth_to": 14.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0095"
+        }
+      }
+    }
+  }
+}

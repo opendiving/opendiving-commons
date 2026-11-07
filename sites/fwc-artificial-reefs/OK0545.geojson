@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.661478,
+      30.132356
+    ]
+  },
+  "properties": {
+    "uuid": "1289ab8b-efaf-56fa-acbf-224820868175",
+    "name": "M/V Spirit of Norfolk",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 23.5,
+    "depth_to": 39.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0545"
+        }
+      }
+    }
+  }
+}

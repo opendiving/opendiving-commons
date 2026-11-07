@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.947667,
+      29.846333
+    ]
+  },
+  "properties": {
+    "uuid": "167c90fd-f5aa-5246-a885-acfbcee38507",
+    "name": "Outer Plane Reef-Ship",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 20.1,
+    "depth_to": 23.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SJ0012"
+        }
+      }
+    }
+  }
+}

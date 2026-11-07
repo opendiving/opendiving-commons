@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0873,
+      25.701533
+    ]
+  },
+  "properties": {
+    "uuid": "cb50f510-717d-58b1-b378-bbc8b62a56f9",
+    "name": "Paraiso Ship",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 16.5,
+    "depth_to": 23.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0134"
+        }
+      }
+    }
+  }
+}

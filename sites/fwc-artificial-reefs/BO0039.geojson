@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.070417,
+      26.1645
+    ]
+  },
+  "properties": {
+    "uuid": "bc737f4d-84f1-566e-beb0-1bf541b8bffb",
+    "name": "Atria (Jim) Atria Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 34.1,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0039"
+        }
+      }
+    }
+  }
+}

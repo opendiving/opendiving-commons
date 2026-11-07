@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.081667,
+      30.478167
+    ]
+  },
+  "properties": {
+    "uuid": "39e3c3db-f099-5217-9c2d-1d877cf1c065",
+    "name": "AH Site - Tug Monachan",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0085"
+        }
+      }
+    }
+  }
+}

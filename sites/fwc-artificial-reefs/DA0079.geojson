@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.130217,
+      25.368883
+    ]
+  },
+  "properties": {
+    "uuid": "4ad13af9-62f0-530a-9b55-0690be0d0a89",
+    "name": "Berry Patch",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 38.4,
+    "depth_to": 45.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0079"
+        }
+      }
+    }
+  }
+}

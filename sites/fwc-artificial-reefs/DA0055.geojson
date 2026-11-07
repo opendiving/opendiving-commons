@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.085433,
+      25.8937
+    ]
+  },
+  "properties": {
+    "uuid": "df71fde1-bfcc-532c-b051-b4bdad3c8a3b",
+    "name": "Andro",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 23.8,
+    "depth_to": 31.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0055"
+        }
+      }
+    }
+  }
+}

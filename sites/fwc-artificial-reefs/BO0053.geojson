@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.06355,
+      26.2313
+    ]
+  },
+  "properties": {
+    "uuid": "ef8b6053-29ff-558e-80c3-6f7768227df1",
+    "name": "Rodeo 25",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 37.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0053"
+        }
+      }
+    }
+  }
+}

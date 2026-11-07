@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.233667,
+      30.146
+    ]
+  },
+  "properties": {
+    "uuid": "be50f89b-8239-57e0-bd5e-640e51b8af94",
+    "name": "Pete Tide II Ship",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.9,
+    "depth_to": 32.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "ES0049"
+        }
+      }
+    }
+  }
+}

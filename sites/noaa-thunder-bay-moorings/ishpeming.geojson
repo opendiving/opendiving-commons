@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.277,
+      44.8097
+    ]
+  },
+  "properties": {
+    "uuid": "fc5de27b-3bd0-5516-aa29-d57e8888424b",
+    "name": "Ishpeming",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 3.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "ishpeming"
+        }
+      }
+    }
+  }
+}

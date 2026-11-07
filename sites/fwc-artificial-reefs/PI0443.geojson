@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.001404,
+      28.051205
+    ]
+  },
+  "properties": {
+    "uuid": "50a45e80-396e-59f1-a18a-30a7842aed1b",
+    "name": "Veterans Reef - 40' Steel Hulled Sailboat",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 13.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PI0443"
+        }
+      }
+    }
+  }
+}

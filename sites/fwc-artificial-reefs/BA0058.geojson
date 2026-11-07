@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.708533,
+      30.032383
+    ]
+  },
+  "properties": {
+    "uuid": "b51a1d18-26de-549a-8905-0441b1f96503",
+    "name": "USS Strength",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 12.8,
+    "depth_to": 23.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0058"
+        }
+      }
+    }
+  }
+}

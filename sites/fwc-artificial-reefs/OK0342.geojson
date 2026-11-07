@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.391155,
+      30.126906
+    ]
+  },
+  "properties": {
+    "uuid": "6eb579f1-c597-593d-b498-7ff89821d809",
+    "name": "S/V DYLAN",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 32.6,
+    "depth_to": 36.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0342"
+        }
+      }
+    }
+  }
+}

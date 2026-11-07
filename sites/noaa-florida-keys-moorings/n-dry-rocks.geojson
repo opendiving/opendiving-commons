@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.293549,
+      25.129984
+    ]
+  },
+  "properties": {
+    "uuid": "6ae32732-9abe-5562-bb40-7e3abee68708",
+    "name": "N Dry Rocks",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.0,
+    "depth_to": 7.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "n-dry-rocks"
+        }
+      }
+    }
+  }
+}

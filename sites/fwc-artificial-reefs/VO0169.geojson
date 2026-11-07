@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.768836,
+      29.193172
+    ]
+  },
+  "properties": {
+    "uuid": "3dbcad78-f9c3-51e2-b53b-f78b5202e52e",
+    "name": "Lady Philomena",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 12.2,
+    "depth_to": 22.9,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "VO0169"
+        }
+      }
+    }
+  }
+}

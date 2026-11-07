@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.091,
+      25.621933
+    ]
+  },
+  "properties": {
+    "uuid": "ceef3b6d-f2af-59a6-ab27-cef8baa413eb",
+    "name": "Tarpoon",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.3,
+    "depth_to": 19.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0078"
+        }
+      }
+    }
+  }
+}

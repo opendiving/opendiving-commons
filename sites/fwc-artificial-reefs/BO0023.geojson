@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.075217,
+      26.156167
+    ]
+  },
+  "properties": {
+    "uuid": "43200fe8-4e5c-547a-8b64-8f8bd691f513",
+    "name": "Mercedes",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 29.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0023"
+        }
+      }
+    }
+  }
+}

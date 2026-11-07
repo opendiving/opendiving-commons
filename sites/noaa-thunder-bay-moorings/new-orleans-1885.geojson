@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.217,
+      45.1675
+    ]
+  },
+  "properties": {
+    "uuid": "c7b16c2b-8d59-55ba-b07a-9df933b116b3",
+    "name": "New Orleans (1885)",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 39.6,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "new-orleans-1885"
+        }
+      }
+    }
+  }
+}

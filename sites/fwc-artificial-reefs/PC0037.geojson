@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.95008,
+      28.37167
+    ]
+  },
+  "properties": {
+    "uuid": "a85b029e-1888-5b45-ace3-47669ae7b751",
+    "name": "Pasco Reef #4-Hudson, Addition 1E",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 5.2,
+    "depth_to": 8.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PC0037"
+        }
+      }
+    }
+  }
+}

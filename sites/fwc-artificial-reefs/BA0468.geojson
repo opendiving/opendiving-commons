@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.841454,
+      29.976139
+    ]
+  },
+  "properties": {
+    "uuid": "e535849f-3e66-5c0c-98bb-b9cc7d6cdfc9",
+    "name": "El Dorado",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 18.9,
+    "depth_to": 31.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0468"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.01857,
+      27.4022
+    ]
+  },
+  "properties": {
+    "uuid": "7709766e-927f-5066-a6a8-a875f9611592",
+    "name": "Tug Lesley Lee Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 40.5,
+    "depth_to": 46.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "SL0043"
+        }
+      }
+    }
+  }
+}

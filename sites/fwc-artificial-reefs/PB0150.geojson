@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.016203,
+      26.786505
+    ]
+  },
+  "properties": {
+    "uuid": "1434682f-a315-5668-a689-102c80a5c0a0",
+    "name": "PC-1174",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 20.7,
+    "depth_to": 25.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0150"
+        }
+      }
+    }
+  }
+}

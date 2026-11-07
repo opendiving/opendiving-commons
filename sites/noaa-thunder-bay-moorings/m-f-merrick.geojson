@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.44628,
+      45.47041
+    ]
+  },
+  "properties": {
+    "uuid": "a4ca2a3e-f729-5d57-85f4-91513b5b3333",
+    "name": "M. F. Merrick",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 97.8,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "m-f-merrick"
+        }
+      }
+    }
+  }
+}

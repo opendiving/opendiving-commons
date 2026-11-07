@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.7415,
+      30.157033
+    ]
+  },
+  "properties": {
+    "uuid": "c9350fa8-0e20-566e-af2b-cb684d60ea3a",
+    "name": "Tugboat \"Zuess\"",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 28.0,
+    "depth_to": 32.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0020"
+        }
+      }
+    }
+  }
+}

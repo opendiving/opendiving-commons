@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.307839,
+      30.06155
+    ]
+  },
+  "properties": {
+    "uuid": "2980d300-11a1-5783-90db-d1e06cdd0a59",
+    "name": "M/V Prewitt",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 31.1,
+    "depth_to": 40.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0066"
+        }
+      }
+    }
+  }
+}

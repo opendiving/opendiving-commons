@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.717917,
+      30.146783
+    ]
+  },
+  "properties": {
+    "uuid": "7a345b9f-bca5-53c8-a751-1996649d3162",
+    "name": "Sand Dollar Complex #7-Mohawk Chief",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 29.6,
+    "depth_to": 37.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0095"
+        }
+      }
+    }
+  }
+}

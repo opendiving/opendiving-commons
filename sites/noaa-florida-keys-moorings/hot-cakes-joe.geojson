@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.009834,
+      24.680916
+    ]
+  },
+  "properties": {
+    "uuid": "276d96c1-98dd-5745-9271-f0f6b7cee0e7",
+    "name": "Hot Cakes Joe",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "hot-cakes-joe"
+        }
+      }
+    }
+  }
+}

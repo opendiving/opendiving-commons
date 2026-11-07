@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.379601,
+      24.99515
+    ]
+  },
+  "properties": {
+    "uuid": "cd46e260-66f2-5ede-963b-175e9ac38ac2",
+    "name": "The Bibb",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 32.0,
+    "depth_to": 33.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "the-bibb"
+        }
+      }
+    }
+  }
+}

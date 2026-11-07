@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.070283,
+      25.665067
+    ]
+  },
+  "properties": {
+    "uuid": "dbefbb85-0d5a-586c-999f-e80469dd9853",
+    "name": "South Seas",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 17.7,
+    "depth_to": 22.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0031"
+        }
+      }
+    }
+  }
+}

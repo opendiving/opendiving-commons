@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.933151,
+      24.444
+    ]
+  },
+  "properties": {
+    "uuid": "35f8b6e8-361e-5049-a133-429fb0c73621",
+    "name": "Lost Reef 1",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 3.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "lost-reef-1"
+        }
+      }
+    }
+  }
+}

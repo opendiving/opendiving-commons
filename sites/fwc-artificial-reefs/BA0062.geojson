@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.8128,
+      29.917067
+    ]
+  },
+  "properties": {
+    "uuid": "133d3c9c-4387-5377-94dd-4ccf74977eec",
+    "name": "Raffield's Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 33.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0062"
+        }
+      }
+    }
+  }
+}

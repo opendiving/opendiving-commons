@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.779383,
+      30.082067
+    ]
+  },
+  "properties": {
+    "uuid": "3fc74427-5961-5326-bf64-072134368122",
+    "name": "Chickasaw Tug",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 19.5,
+    "depth_to": 21.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0006"
+        }
+      }
+    }
+  }
+}

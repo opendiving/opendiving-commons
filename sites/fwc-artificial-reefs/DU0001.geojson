@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.138833,
+      30.431167
+    ]
+  },
+  "properties": {
+    "uuid": "e98e1230-e894-53b6-a443-a5392b5b4489",
+    "name": "BB Site - Old Gibbs Drydock",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_to": 16.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0001"
+        }
+      }
+    }
+  }
+}

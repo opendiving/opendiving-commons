@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.493,
+      45.3464
+    ]
+  },
+  "properties": {
+    "uuid": "d66b3f74-5d1c-5c7e-8a73-f96534de9186",
+    "name": "L. M. Mason",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 5.5,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "l-m-mason"
+        }
+      }
+    }
+  }
+}

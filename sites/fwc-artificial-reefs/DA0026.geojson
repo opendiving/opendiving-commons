@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.070817,
+      25.680517
+    ]
+  },
+  "properties": {
+    "uuid": "871955d4-aa66-5e11-9762-eb1e4a25d280",
+    "name": "Arida",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 23.2,
+    "depth_to": 26.8,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0026"
+        }
+      }
+    }
+  }
+}

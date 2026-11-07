@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.894986,
+      30.374889
+    ]
+  },
+  "properties": {
+    "uuid": "168cdb27-478d-571b-9cf3-5de39b8d829e",
+    "name": "Spike Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 22.9,
+    "depth_to": 33.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DU0097"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.01833,
+      26.79333
+    ]
+  },
+  "properties": {
+    "uuid": "59549527-d184-56a6-8b8b-863127543f79",
+    "name": "Danny Mccauley Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 15.5,
+    "depth_to": 23.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "PB0085"
+        }
+      }
+    }
+  }
+}

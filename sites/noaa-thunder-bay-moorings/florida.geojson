@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.2839,
+      45.29639
+    ]
+  },
+  "properties": {
+    "uuid": "cb471dbc-8339-504e-bd64-1b6b83b8f340",
+    "name": "Florida",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 59.1,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "florida"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.72468,
+      26.55125
+    ]
+  },
+  "properties": {
+    "uuid": "af78996c-b27a-52b0-ad64-24bc25182da2",
+    "name": "USS Mohawk CGC V.M.R.",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 10.7,
+    "depth_to": 27.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "LE0120"
+        }
+      }
+    }
+  }
+}

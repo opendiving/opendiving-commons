@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0435,
+      27.186833
+    ]
+  },
+  "properties": {
+    "uuid": "1f4ce0b8-0475-5413-b3f7-adf2c58b1823",
+    "name": "Titan",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 16.8,
+    "depth_to": 24.4,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MI0004"
+        }
+      }
+    }
+  }
+}

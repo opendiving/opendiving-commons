@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.457703,
+      24.955116
+    ]
+  },
+  "properties": {
+    "uuid": "d7703e37-a820-5dad-ba7d-401113903ae8",
+    "name": "Conch Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 4.6,
+    "depth_to": 5.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "conch-reef"
+        }
+      }
+    }
+  }
+}

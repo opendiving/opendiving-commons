@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.612671,
+      30.081006
+    ]
+  },
+  "properties": {
+    "uuid": "6f6ce77e-29db-5380-a9e4-fd9aba45eb5f",
+    "name": "USS SHAMAL (PC 13)",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 34.1,
+    "depth_to": 50.3,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0548"
+        }
+      }
+    }
+  }
+}

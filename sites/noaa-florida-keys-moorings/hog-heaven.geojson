@@ -1,0 +1,26 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.991386,
+      24.677217
+    ]
+  },
+  "properties": {
+    "uuid": "4f3454d2-519a-5da8-b4ce-bccdf789c300",
+    "name": "Hog Heaven",
+    "depth_to": 29.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "hog-heaven"
+        }
+      }
+    }
+  }
+}

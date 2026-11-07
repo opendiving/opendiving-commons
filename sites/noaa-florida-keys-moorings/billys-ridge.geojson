@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.017784,
+      24.680267
+    ]
+  },
+  "properties": {
+    "uuid": "ea36775f-56f6-56fd-9f80-3f6dc70be41c",
+    "name": "Billy’s Ridge",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "billys-ridge"
+        }
+      }
+    }
+  }
+}

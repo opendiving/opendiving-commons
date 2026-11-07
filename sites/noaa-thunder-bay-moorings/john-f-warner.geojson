@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -83.43521,
+      45.05071
+    ]
+  },
+  "properties": {
+    "uuid": "58333c28-d7d9-57e7-90e9-8bf8ed7d4cb3",
+    "name": "John F. Warner",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 2.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "john-f-warner"
+        }
+      }
+    }
+  }
+}

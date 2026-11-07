@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.2188,
+      28.50497
+    ]
+  },
+  "properties": {
+    "uuid": "04f25f18-faec-5927-87af-64a2d9d605b1",
+    "name": "Gallatea",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 32.0,
+    "depth_to": 36.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BE0018"
+        }
+      }
+    }
+  }
+}

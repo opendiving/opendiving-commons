@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.089403,
+      25.813271
+    ]
+  },
+  "properties": {
+    "uuid": "6011a321-53d6-531e-8642-3bc0c5401a51",
+    "name": "Patricia",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 11.6,
+    "depth_to": 16.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "DA0091"
+        }
+      }
+    }
+  }
+}

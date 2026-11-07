@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.923,
+      44.9836
+    ]
+  },
+  "properties": {
+    "uuid": "87df6caa-6252-5454-ae92-fedc052a0021",
+    "name": "Monrovia",
+    "location": {
+      "name": "Michigan, United States of America"
+    },
+    "depth_to": 42.7,
+    "water_type": "fresh",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-thunder-bay-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-thunder-bay-moorings",
+          "identifier": "monrovia"
+        }
+      }
+    }
+  }
+}

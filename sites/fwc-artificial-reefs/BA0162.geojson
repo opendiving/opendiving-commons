@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -85.86525,
+      29.974583
+    ]
+  },
+  "properties": {
+    "uuid": "73f79145-4978-5f0e-8965-16a34b072f94",
+    "name": "Accokeek",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 19.2,
+    "depth_to": 30.5,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BA0162"
+        }
+      }
+    }
+  }
+}

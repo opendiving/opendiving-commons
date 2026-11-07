@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.00432,
+      27.21163
+    ]
+  },
+  "properties": {
+    "uuid": "46622a86-aa20-5a12-b70d-21bf0cb04de7",
+    "name": "Glasrud Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 44.2,
+    "depth_to": 57.0,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MI0084"
+        }
+      }
+    }
+  }
+}

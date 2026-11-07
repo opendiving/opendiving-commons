@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.564955,
+      30.139006
+    ]
+  },
+  "properties": {
+    "uuid": "f6a09d9c-27d4-5ef3-a768-f4f46b168821",
+    "name": "AJs Blackbeard - Flying Eagle",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.3,
+    "depth_to": 34.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0390"
+        }
+      }
+    }
+  }
+}

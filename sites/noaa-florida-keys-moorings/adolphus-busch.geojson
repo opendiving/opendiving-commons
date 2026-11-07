@@ -1,0 +1,28 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -81.461403,
+      24.52985
+    ]
+  },
+  "properties": {
+    "uuid": "4ba3dc28-0131-5ed1-bee4-190cd1eabd49",
+    "name": "Adolphus Busch",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "extensions": {
+      "opendivingcommons": {
+        "source": "noaa-florida-keys-moorings",
+        "license": "LicenseRef-US-Gov-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "noaa-florida-keys-moorings",
+          "identifier": "adolphus-busch"
+        }
+      }
+    }
+  }
+}

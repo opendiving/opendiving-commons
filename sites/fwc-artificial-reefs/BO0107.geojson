@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0917,
+      26.010083
+    ]
+  },
+  "properties": {
+    "uuid": "2a2b2253-39bd-552f-b4f9-e602041cc3cc",
+    "name": "Miss Dania Beach",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 13.4,
+    "depth_to": 21.6,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "BO0107"
+        }
+      }
+    }
+  }
+}

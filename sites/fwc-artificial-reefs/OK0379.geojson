@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.402188,
+      30.127239
+    ]
+  },
+  "properties": {
+    "uuid": "c5dca7b1-fbfa-5d20-8f4f-e55243aea4f0",
+    "name": "R/V DOLPHIN",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 21.6,
+    "depth_to": 37.2,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "OK0379"
+        }
+      }
+    }
+  }
+}

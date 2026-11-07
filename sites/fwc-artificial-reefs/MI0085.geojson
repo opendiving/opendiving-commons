@@ -1,0 +1,30 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.01652,
+      27.2662
+    ]
+  },
+  "properties": {
+    "uuid": "d99cfe92-f351-53f7-832a-f1f26e31511a",
+    "name": "Kyle Conrad Memorial Reef",
+    "location": {
+      "name": "Florida, United States of America"
+    },
+    "depth_from": 36.3,
+    "depth_to": 45.7,
+    "extensions": {
+      "opendivingcommons": {
+        "source": "fwc-artificial-reefs",
+        "license": "LicenseRef-FWC-PD",
+        "retrieved": "2026-11-07",
+        "seeded_from": {
+          "registry": "fwc-artificial-reefs",
+          "identifier": "MI0085"
+        }
+      }
+    }
+  }
+}
