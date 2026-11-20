@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -42.01991,
+      -22.97309
+    ]
+  },
+  "properties": {
+    "uuid": "01a1da4a-d3d1-79f0-9cc4-e512babe6c05",
+    "name": "Arraial do Cabo",
+    "location": {
+      "name": "Praia dos Anjos"
+    },
+    "water_type": "salt",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "contribution",
+        "license": "CC0-1.0"
+      }
+    }
+  }
+}
