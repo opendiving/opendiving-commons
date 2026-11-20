@@ -1,0 +1,27 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -48.38574,
+      -27.60978
+    ]
+  },
+  "properties": {
+    "uuid": "01a1da3b-adeb-7d42-9577-24bebfd390be",
+    "name": "Isla de Xavier",
+    "location": {
+      "name": "Florianopolis"
+    },
+    "other_names": [
+      "Ilha do Xavier"
+    ],
+    "water_type": "salt",
+    "extensions": {
+      "opendivingcommons": {
+        "source": "contribution",
+        "license": "CC0-1.0"
+      }
+    }
+  }
+}
